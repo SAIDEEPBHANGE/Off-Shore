@@ -1,0 +1,57 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build Results
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+
+# Rider / ReSharper
+_ReSharper*/
+*.DotSettings.user
+
+# NuGet Packages
+packages/
+
+# Generated Files
+*.cache
+*.pdb
+*.exe
+*.dll
+*.txt
+
+# Logs
+*.log
+
+# Temp Files
+*.tmp
+*.temp
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Test Results
+TestResults/
+
+# Publish
+publish/
+
+# Generated JSON Outputs
+*.json
+
+# Exceptions
+!appsettings.json
+
+# Visual Studio Code
+.vscode/
+
+# Git
+*.orig
