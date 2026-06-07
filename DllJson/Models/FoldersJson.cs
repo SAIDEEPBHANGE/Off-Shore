@@ -16,7 +16,8 @@ namespace DllJson.Models
                 new FolderJson
                 {
                     JsonFileName = "SmartPlantPID.json",
-                    FolderPath = "D:\\Off-Share\\P&ID Workstation\\bin"
+                    FolderPath = "D:\\Off-Share\\P&ID Workstation\\bin",
+                    OutputPath = "D:\\Github Repository\\Off-Shore\\Dll-Structure\\SmartPlantPID"
                 }
             };
 

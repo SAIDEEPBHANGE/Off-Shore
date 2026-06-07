@@ -6,6 +6,6 @@
 
         public string FolderPath { get; set; }
 
-        public string OutputPath { get; set; } = "D:\\Github Repository\\Off-Shore\\Dll-Structure";
+        public string OutputPath { get; set; }
     }
 }
