@@ -1,0 +1,26 @@
+{
+  "Id": "64149755-e3a9-4ad6-8384-4764d77d8066",
+  "DllName": "INAboutBox.resources",
+  "Version": "9.0.0.1405",
+  "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\Languages\\en-US\\inaboutbox.resources.dll",
+  "Metadata": {
+    "AssemblyName": "INAboutBox.resources",
+    "Culture": null,
+    "PublicKeyToken": null,
+    "RuntimeVersion": "v4.0.30319",
+    "ScanDate": "2026-06-07T12:43:41.7013547Z"
+  },
+  "Dependencies": [
+    {
+      "AssemblyName": "mscorlib",
+      "Version": "4.0.0.0",
+      "IsLocalDll": false,
+      "ReferencedJsonFile": null
+    }
+  ],
+  "Classes": [],
+  "Interfaces": [],
+  "Structs": [],
+  "Enums": [],
+  "Delegates": []
+}

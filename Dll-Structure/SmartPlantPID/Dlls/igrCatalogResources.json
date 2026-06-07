@@ -1,0 +1,26 @@
+{
+  "Id": "0b14b276-eaf3-4d63-a717-f4ffc35c6be0",
+  "DllName": "igrCatalogResources",
+  "Version": "10.0.0.603",
+  "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\Languages\\igrCatalogResources.dll",
+  "Metadata": {
+    "AssemblyName": "igrCatalogResources",
+    "Culture": null,
+    "PublicKeyToken": null,
+    "RuntimeVersion": "v4.0.30319",
+    "ScanDate": "2026-06-07T12:43:41.7013547Z"
+  },
+  "Dependencies": [
+    {
+      "AssemblyName": "mscorlib",
+      "Version": "4.0.0.0",
+      "IsLocalDll": false,
+      "ReferencedJsonFile": null
+    }
+  ],
+  "Classes": [],
+  "Interfaces": [],
+  "Structs": [],
+  "Enums": [],
+  "Delegates": []
+}

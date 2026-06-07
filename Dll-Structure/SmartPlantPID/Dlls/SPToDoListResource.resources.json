@@ -1,0 +1,26 @@
+{
+  "Id": "c7f59da1-87e7-4a59-b000-0e1a3860ca4c",
+  "DllName": "SPToDoListResource.resources",
+  "Version": "9.0.0.1405",
+  "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\Languages\\en-US\\sptodolistresource.resources.dll",
+  "Metadata": {
+    "AssemblyName": "SPToDoListResource.resources",
+    "Culture": null,
+    "PublicKeyToken": null,
+    "RuntimeVersion": "v4.0.30319",
+    "ScanDate": "2026-06-07T12:43:41.7013547Z"
+  },
+  "Dependencies": [
+    {
+      "AssemblyName": "mscorlib",
+      "Version": "4.0.0.0",
+      "IsLocalDll": false,
+      "ReferencedJsonFile": null
+    }
+  ],
+  "Classes": [],
+  "Interfaces": [],
+  "Structs": [],
+  "Enums": [],
+  "Delegates": []
+}

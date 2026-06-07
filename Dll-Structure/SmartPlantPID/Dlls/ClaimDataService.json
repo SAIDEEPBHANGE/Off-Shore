@@ -1,0 +1,48 @@
+{
+  "Id": "510627b5-6211-4fd0-b0ad-4427be79d169",
+  "DllName": "ClaimDataService",
+  "Version": "9.0.0.1405",
+  "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\claimdataservice.dll",
+  "Metadata": {
+    "AssemblyName": "ClaimDataService",
+    "Culture": null,
+    "PublicKeyToken": null,
+    "RuntimeVersion": "v4.0.30319",
+    "ScanDate": "2026-06-07T12:43:41.6671076Z"
+  },
+  "Dependencies": [
+    {
+      "AssemblyName": "mscorlib",
+      "Version": "4.0.0.0",
+      "IsLocalDll": false,
+      "ReferencedJsonFile": null
+    },
+    {
+      "AssemblyName": "ISPClientData3V2",
+      "Version": "10.0.0.603",
+      "IsLocalDll": false,
+      "ReferencedJsonFile": null
+    },
+    {
+      "AssemblyName": "InteropVBA",
+      "Version": "6.0.0.0",
+      "IsLocalDll": false,
+      "ReferencedJsonFile": null
+    }
+  ],
+  "Classes": [],
+  "Interfaces": [
+    {
+      "Name": "ISPClaimDataService",
+      "Namespace": "Ingr.SPPID.ClaimDataService",
+      "FullName": "Ingr.SPPID.ClaimDataService.ISPClaimDataService",
+      "DeclaringType": null,
+      "Methods": [],
+      "Properties": [],
+      "ImplementedInterfaces": []
+    }
+  ],
+  "Structs": [],
+  "Enums": [],
+  "Delegates": []
+}

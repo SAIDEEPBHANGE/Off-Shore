@@ -1,0 +1,60 @@
+{
+  "Id": "586225db-6b4d-4445-84c5-b2f127575777",
+  "DllName": "TheAnalyzerInf",
+  "Version": "9.0.0.1405",
+  "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\theanalyzerinf.dll",
+  "Metadata": {
+    "AssemblyName": "TheAnalyzerInf",
+    "Culture": null,
+    "PublicKeyToken": null,
+    "RuntimeVersion": "v4.0.30319",
+    "ScanDate": "2026-06-07T12:43:41.6876614Z"
+  },
+  "Dependencies": [
+    {
+      "AssemblyName": "mscorlib",
+      "Version": "4.0.0.0",
+      "IsLocalDll": false,
+      "ReferencedJsonFile": null
+    },
+    {
+      "AssemblyName": "RadNetAutomation",
+      "Version": "1.0.0.0",
+      "IsLocalDll": false,
+      "ReferencedJsonFile": null
+    },
+    {
+      "AssemblyName": "InteropIPidObjectManagerInf",
+      "Version": "0.0.0.111",
+      "IsLocalDll": false,
+      "ReferencedJsonFile": null
+    }
+  ],
+  "Classes": [],
+  "Interfaces": [
+    {
+      "Name": "ITheAnalyzer",
+      "Namespace": "Ingr.SPPID.TheAnalyzerInf",
+      "FullName": "Ingr.SPPID.TheAnalyzerInf.ITheAnalyzer",
+      "DeclaringType": null,
+      "Methods": [],
+      "Properties": [],
+      "ImplementedInterfaces": []
+    }
+  ],
+  "Structs": [],
+  "Enums": [
+    {
+      "Name": "AnalyzerUIOptions",
+      "Namespace": "Ingr.SPPID.TheAnalyzerInf",
+      "FullName": "Ingr.SPPID.TheAnalyzerInf.AnalyzerUIOptions",
+      "DeclaringType": null,
+      "Values": [
+        "NoUI",
+        "ErrorOnlyUI",
+        "FullUI"
+      ]
+    }
+  ],
+  "Delegates": []
+}

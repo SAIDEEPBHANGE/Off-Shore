@@ -1,0 +1,26 @@
+{
+  "Id": "6cce035d-8d50-4e0b-b9ce-edca5267908b",
+  "DllName": "Telerik.Windows.Controls.GanttView.Design.4.0",
+  "Version": "2018.2.620.45",
+  "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\telerik.windows.controls.ganttview.design.4.0.dll",
+  "Metadata": {
+    "AssemblyName": "Telerik.Windows.Controls.GanttView.Design.4.0",
+    "Culture": null,
+    "PublicKeyToken": null,
+    "RuntimeVersion": "v4.0.30319",
+    "ScanDate": "2026-06-07T12:43:41.6876614Z"
+  },
+  "Dependencies": [
+    {
+      "AssemblyName": "mscorlib",
+      "Version": "4.0.0.0",
+      "IsLocalDll": false,
+      "ReferencedJsonFile": null
+    }
+  ],
+  "Classes": [],
+  "Interfaces": [],
+  "Structs": [],
+  "Enums": [],
+  "Delegates": []
+}

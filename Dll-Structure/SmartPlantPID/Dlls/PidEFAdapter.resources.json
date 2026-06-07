@@ -1,0 +1,26 @@
+{
+  "Id": "e1b64acc-1226-4a48-93bd-792d77ee451b",
+  "DllName": "PidEFAdapter.resources",
+  "Version": "9.0.0.1405",
+  "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\Languages\\en-US\\pidefadapter.resources.dll",
+  "Metadata": {
+    "AssemblyName": "PidEFAdapter.resources",
+    "Culture": null,
+    "PublicKeyToken": null,
+    "RuntimeVersion": "v4.0.30319",
+    "ScanDate": "2026-06-07T12:43:41.7013547Z"
+  },
+  "Dependencies": [
+    {
+      "AssemblyName": "mscorlib",
+      "Version": "4.0.0.0",
+      "IsLocalDll": false,
+      "ReferencedJsonFile": null
+    }
+  ],
+  "Classes": [],
+  "Interfaces": [],
+  "Structs": [],
+  "Enums": [],
+  "Delegates": []
+}

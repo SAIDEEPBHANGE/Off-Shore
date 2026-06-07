@@ -1,0 +1,26 @@
+{
+  "Id": "c1b4f1f1-743f-4c61-8bd3-cda9f2e61252",
+  "DllName": "LicenseAgentRes",
+  "Version": "1.0.0.0",
+  "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\Languages\\LicenseAgentRes.dll",
+  "Metadata": {
+    "AssemblyName": "LicenseAgentRes",
+    "Culture": null,
+    "PublicKeyToken": null,
+    "RuntimeVersion": "v4.0.30319",
+    "ScanDate": "2026-06-07T12:43:41.7013547Z"
+  },
+  "Dependencies": [
+    {
+      "AssemblyName": "mscorlib",
+      "Version": "4.0.0.0",
+      "IsLocalDll": false,
+      "ReferencedJsonFile": null
+    }
+  ],
+  "Classes": [],
+  "Interfaces": [],
+  "Structs": [],
+  "Enums": [],
+  "Delegates": []
+}

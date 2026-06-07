@@ -1,0 +1,116 @@
+{
+  "Id": "9c216acf-5f2e-4bd2-b5bb-5710e462e7bd",
+  "DllName": "ISPDrawingManagerInf",
+  "Version": "9.0.0.1405",
+  "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\ispdrawingmanagerinf.dll",
+  "Metadata": {
+    "AssemblyName": "ISPDrawingManagerInf",
+    "Culture": null,
+    "PublicKeyToken": null,
+    "RuntimeVersion": "v4.0.30319",
+    "ScanDate": "2026-06-07T12:43:41.6855749Z"
+  },
+  "Dependencies": [
+    {
+      "AssemblyName": "mscorlib",
+      "Version": "4.0.0.0",
+      "IsLocalDll": false,
+      "ReferencedJsonFile": null
+    },
+    {
+      "AssemblyName": "ISPFTPUtilInf",
+      "Version": "9.0.0.1405",
+      "IsLocalDll": false,
+      "ReferencedJsonFile": null
+    },
+    {
+      "AssemblyName": "ISPClientData3V2",
+      "Version": "10.0.0.603",
+      "IsLocalDll": false,
+      "ReferencedJsonFile": null
+    },
+    {
+      "AssemblyName": "ISPArchiveComponents",
+      "Version": "9.0.0.1405",
+      "IsLocalDll": false,
+      "ReferencedJsonFile": null
+    },
+    {
+      "AssemblyName": "ISPPropertyInf",
+      "Version": "10.0.0.603",
+      "IsLocalDll": false,
+      "ReferencedJsonFile": null
+    },
+    {
+      "AssemblyName": "InteropVBA",
+      "Version": "6.0.0.0",
+      "IsLocalDll": false,
+      "ReferencedJsonFile": null
+    }
+  ],
+  "Classes": [],
+  "Interfaces": [
+    {
+      "Name": "ISPDrawing",
+      "Namespace": "Ingr.SPPID.ISPDrawingManagerInf",
+      "FullName": "Ingr.SPPID.ISPDrawingManagerInf.ISPDrawing",
+      "DeclaringType": null,
+      "Methods": [],
+      "Properties": [],
+      "ImplementedInterfaces": []
+    },
+    {
+      "Name": "ISPDrawingGroups",
+      "Namespace": "Ingr.SPPID.ISPDrawingManagerInf",
+      "FullName": "Ingr.SPPID.ISPDrawingManagerInf.ISPDrawingGroups",
+      "DeclaringType": null,
+      "Methods": [],
+      "Properties": [],
+      "ImplementedInterfaces": []
+    },
+    {
+      "Name": "ISPDrawings",
+      "Namespace": "Ingr.SPPID.ISPDrawingManagerInf",
+      "FullName": "Ingr.SPPID.ISPDrawingManagerInf.ISPDrawings",
+      "DeclaringType": null,
+      "Methods": [],
+      "Properties": [],
+      "ImplementedInterfaces": []
+    },
+    {
+      "Name": "ISPDwgMgrApp",
+      "Namespace": "Ingr.SPPID.ISPDrawingManagerInf",
+      "FullName": "Ingr.SPPID.ISPDrawingManagerInf.ISPDwgMgrApp",
+      "DeclaringType": null,
+      "Methods": [],
+      "Properties": [],
+      "ImplementedInterfaces": []
+    }
+  ],
+  "Structs": [],
+  "Enums": [
+    {
+      "Name": "EnumDwgState",
+      "Namespace": "Ingr.SPPID.ISPDrawingManagerInf",
+      "FullName": "Ingr.SPPID.ISPDrawingManagerInf.EnumDwgState",
+      "DeclaringType": null,
+      "Values": [
+        "NewInProject",
+        "CheckedOut",
+        "FetchRW",
+        "FetchR"
+      ]
+    },
+    {
+      "Name": "EnumSourceDB",
+      "Namespace": "Ingr.SPPID.ISPDrawingManagerInf",
+      "FullName": "Ingr.SPPID.ISPDrawingManagerInf.EnumSourceDB",
+      "DeclaringType": null,
+      "Values": [
+        "SourceDB",
+        "TargetDB"
+      ]
+    }
+  ],
+  "Delegates": []
+}

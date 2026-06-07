@@ -1,0 +1,66 @@
+{
+  "Id": "b1134041-647e-4593-9b3c-b9f44a1be24f",
+  "DllName": "Telerik.Windows.Themes.Office2013",
+  "Version": "2018.2.620.45",
+  "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\telerik.windows.themes.office2013.dll",
+  "Metadata": {
+    "AssemblyName": "Telerik.Windows.Themes.Office2013",
+    "Culture": null,
+    "PublicKeyToken": null,
+    "RuntimeVersion": "v4.0.30319",
+    "ScanDate": "2026-06-07T12:43:41.6876614Z"
+  },
+  "Dependencies": [
+    {
+      "AssemblyName": "Telerik.Windows.Controls",
+      "Version": "2018.2.620.45",
+      "IsLocalDll": false,
+      "ReferencedJsonFile": null
+    },
+    {
+      "AssemblyName": "mscorlib",
+      "Version": "4.0.0.0",
+      "IsLocalDll": false,
+      "ReferencedJsonFile": null
+    },
+    {
+      "AssemblyName": "PresentationFramework",
+      "Version": "4.0.0.0",
+      "IsLocalDll": false,
+      "ReferencedJsonFile": null
+    }
+  ],
+  "Classes": [
+    {
+      "Name": "Office2013ThemeExternal",
+      "Namespace": "Telerik.Windows.Controls.External",
+      "FullName": "Telerik.Windows.Controls.External.Office2013ThemeExternal",
+      "BaseType": "Telerik.Windows.Controls.Theme",
+      "IsAbstract": false,
+      "IsSealed": false,
+      "DeclaringType": null,
+      "ImplementedInterfaces": [],
+      "Fields": [],
+      "Methods": [
+        {
+          "Name": ".ctor",
+          "ReturnType": "System.Void",
+          "IsStatic": false,
+          "IsPublic": true,
+          "IsVirtual": false,
+          "IsAbstract": false,
+          "IsConstructor": true,
+          "Parameters": [],
+          "Attributes": []
+        }
+      ],
+      "Properties": [],
+      "Events": [],
+      "Attributes": []
+    }
+  ],
+  "Interfaces": [],
+  "Structs": [],
+  "Enums": [],
+  "Delegates": []
+}

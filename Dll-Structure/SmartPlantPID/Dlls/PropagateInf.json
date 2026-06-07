@@ -1,0 +1,128 @@
+{
+  "Id": "fadcba9e-0116-44a6-bdcf-e5e469beaa8e",
+  "DllName": "PropagateInf",
+  "Version": "9.0.0.1405",
+  "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\propagateinf.dll",
+  "Metadata": {
+    "AssemblyName": "PropagateInf",
+    "Culture": null,
+    "PublicKeyToken": null,
+    "RuntimeVersion": "v4.0.30319",
+    "ScanDate": "2026-06-07T12:43:41.6876614Z"
+  },
+  "Dependencies": [
+    {
+      "AssemblyName": "mscorlib",
+      "Version": "4.0.0.0",
+      "IsLocalDll": false,
+      "ReferencedJsonFile": null
+    },
+    {
+      "AssemblyName": "InteropIPidObjectManagerInf",
+      "Version": "0.0.0.111",
+      "IsLocalDll": false,
+      "ReferencedJsonFile": null
+    },
+    {
+      "AssemblyName": "ISPClientData3V2",
+      "Version": "10.0.0.603",
+      "IsLocalDll": false,
+      "ReferencedJsonFile": null
+    },
+    {
+      "AssemblyName": "RadNetAutomation",
+      "Version": "1.0.0.0",
+      "IsLocalDll": false,
+      "ReferencedJsonFile": null
+    }
+  ],
+  "Classes": [],
+  "Interfaces": [
+    {
+      "Name": "IPropagationScope",
+      "Namespace": "Ingr.SPPID.PropagateInf",
+      "FullName": "Ingr.SPPID.PropagateInf.IPropagationScope",
+      "DeclaringType": null,
+      "Methods": [],
+      "Properties": [],
+      "ImplementedInterfaces": [
+        "System.Collections.IEnumerable"
+      ]
+    },
+    {
+      "Name": "IPropScopeModItem",
+      "Namespace": "Ingr.SPPID.PropagateInf",
+      "FullName": "Ingr.SPPID.PropagateInf.IPropScopeModItem",
+      "DeclaringType": null,
+      "Methods": [],
+      "Properties": [],
+      "ImplementedInterfaces": [
+        "System.Collections.IEnumerable"
+      ]
+    },
+    {
+      "Name": "IPropScopeRepItem",
+      "Namespace": "Ingr.SPPID.PropagateInf",
+      "FullName": "Ingr.SPPID.PropagateInf.IPropScopeRepItem",
+      "DeclaringType": null,
+      "Methods": [],
+      "Properties": [],
+      "ImplementedInterfaces": []
+    },
+    {
+      "Name": "IValueSpec",
+      "Namespace": "Ingr.SPPID.PropagateInf",
+      "FullName": "Ingr.SPPID.PropagateInf.IValueSpec",
+      "DeclaringType": null,
+      "Methods": [],
+      "Properties": [],
+      "ImplementedInterfaces": []
+    },
+    {
+      "Name": "IPropagationEventListener",
+      "Namespace": "Ingr.SPPID.PropagateInf",
+      "FullName": "Ingr.SPPID.PropagateInf.IPropagationEventListener",
+      "DeclaringType": null,
+      "Methods": [],
+      "Properties": [],
+      "ImplementedInterfaces": []
+    },
+    {
+      "Name": "IPropagationScopeEx1",
+      "Namespace": "Ingr.SPPID.PropagateInf",
+      "FullName": "Ingr.SPPID.PropagateInf.IPropagationScopeEx1",
+      "DeclaringType": null,
+      "Methods": [],
+      "Properties": [],
+      "ImplementedInterfaces": []
+    }
+  ],
+  "Structs": [],
+  "Enums": [
+    {
+      "Name": "GeomFlows",
+      "Namespace": "Ingr.SPPID.PropagateInf",
+      "FullName": "Ingr.SPPID.PropagateInf.GeomFlows",
+      "DeclaringType": null,
+      "Values": [
+        "GeomFlow_Undefined",
+        "GeomFlow_Same",
+        "GeomFlow_Opposite"
+      ]
+    },
+    {
+      "Name": "ValueTypes",
+      "Namespace": "Ingr.SPPID.PropagateInf",
+      "FullName": "Ingr.SPPID.PropagateInf.ValueTypes",
+      "DeclaringType": null,
+      "Values": [
+        "ValType_None",
+        "ValType_VariantValue",
+        "ValType_CodelistIndex",
+        "ValType_DoubleUoMValue",
+        "ValType_SourceAttribute"
+      ]
+    }
+  ],
+  "Delegates": []
+}

@@ -1,0 +1,185 @@
+{
+  "Id": "fd556a66-4899-4a53-92c5-8246af83f247",
+  "DllName": "ISPArchiveComponents",
+  "Version": "9.0.0.1405",
+  "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\isparchivecomponents.dll",
+  "Metadata": {
+    "AssemblyName": "ISPArchiveComponents",
+    "Culture": null,
+    "PublicKeyToken": null,
+    "RuntimeVersion": "v4.0.30319",
+    "ScanDate": "2026-06-07T12:43:41.6855749Z"
+  },
+  "Dependencies": [
+    {
+      "AssemblyName": "mscorlib",
+      "Version": "4.0.0.0",
+      "IsLocalDll": false,
+      "ReferencedJsonFile": null
+    },
+    {
+      "AssemblyName": "ISPFTPUtilInf",
+      "Version": "9.0.0.1405",
+      "IsLocalDll": false,
+      "ReferencedJsonFile": null
+    },
+    {
+      "AssemblyName": "ISPClientData3V2",
+      "Version": "10.0.0.603",
+      "IsLocalDll": false,
+      "ReferencedJsonFile": null
+    },
+    {
+      "AssemblyName": "InteropVBA",
+      "Version": "6.0.0.0",
+      "IsLocalDll": false,
+      "ReferencedJsonFile": null
+    }
+  ],
+  "Classes": [],
+  "Interfaces": [
+    {
+      "Name": "ISPArchiveAppData",
+      "Namespace": "Ingr.SPPID.ISPArchiveComponents",
+      "FullName": "Ingr.SPPID.ISPArchiveComponents.ISPArchiveAppData",
+      "DeclaringType": null,
+      "Methods": [],
+      "Properties": [],
+      "ImplementedInterfaces": []
+    },
+    {
+      "Name": "ISPArchiveModuleInfo",
+      "Namespace": "Ingr.SPPID.ISPArchiveComponents",
+      "FullName": "Ingr.SPPID.ISPArchiveComponents.ISPArchiveModuleInfo",
+      "DeclaringType": null,
+      "Methods": [],
+      "Properties": [],
+      "ImplementedInterfaces": []
+    },
+    {
+      "Name": "ISPArchiveModuleInfos",
+      "Namespace": "Ingr.SPPID.ISPArchiveComponents",
+      "FullName": "Ingr.SPPID.ISPArchiveComponents.ISPArchiveModuleInfos",
+      "DeclaringType": null,
+      "Methods": [],
+      "Properties": [],
+      "ImplementedInterfaces": [
+        "System.Collections.IEnumerable"
+      ]
+    },
+    {
+      "Name": "ISPCopyMap",
+      "Namespace": "Ingr.SPPID.ISPArchiveComponents",
+      "FullName": "Ingr.SPPID.ISPArchiveComponents.ISPCopyMap",
+      "DeclaringType": null,
+      "Methods": [],
+      "Properties": [],
+      "ImplementedInterfaces": []
+    },
+    {
+      "Name": "ISPDrawingISPItems",
+      "Namespace": "Ingr.SPPID.ISPArchiveComponents",
+      "FullName": "Ingr.SPPID.ISPArchiveComponents.ISPDrawingISPItems",
+      "DeclaringType": null,
+      "Methods": [],
+      "Properties": [],
+      "ImplementedInterfaces": []
+    },
+    {
+      "Name": "ISPDrawingRevisionInfo",
+      "Namespace": "Ingr.SPPID.ISPArchiveComponents",
+      "FullName": "Ingr.SPPID.ISPArchiveComponents.ISPDrawingRevisionInfo",
+      "DeclaringType": null,
+      "Methods": [],
+      "Properties": [],
+      "ImplementedInterfaces": []
+    },
+    {
+      "Name": "ISPDrawingRevisionInfos",
+      "Namespace": "Ingr.SPPID.ISPArchiveComponents",
+      "FullName": "Ingr.SPPID.ISPArchiveComponents.ISPDrawingRevisionInfos",
+      "DeclaringType": null,
+      "Methods": [],
+      "Properties": [],
+      "ImplementedInterfaces": []
+    },
+    {
+      "Name": "ISPDrawingVersionInfo",
+      "Namespace": "Ingr.SPPID.ISPArchiveComponents",
+      "FullName": "Ingr.SPPID.ISPArchiveComponents.ISPDrawingVersionInfo",
+      "DeclaringType": null,
+      "Methods": [],
+      "Properties": [],
+      "ImplementedInterfaces": []
+    },
+    {
+      "Name": "ISPNameValuePair",
+      "Namespace": "Ingr.SPPID.ISPArchiveComponents",
+      "FullName": "Ingr.SPPID.ISPArchiveComponents.ISPNameValuePair",
+      "DeclaringType": null,
+      "Methods": [],
+      "Properties": [],
+      "ImplementedInterfaces": []
+    },
+    {
+      "Name": "ISPNameValuePairs",
+      "Namespace": "Ingr.SPPID.ISPArchiveComponents",
+      "FullName": "Ingr.SPPID.ISPArchiveComponents.ISPNameValuePairs",
+      "DeclaringType": null,
+      "Methods": [],
+      "Properties": [],
+      "ImplementedInterfaces": []
+    },
+    {
+      "Name": "ISPProcessModule",
+      "Namespace": "Ingr.SPPID.ISPArchiveComponents",
+      "FullName": "Ingr.SPPID.ISPArchiveComponents.ISPProcessModule",
+      "DeclaringType": null,
+      "Methods": [],
+      "Properties": [],
+      "ImplementedInterfaces": []
+    },
+    {
+      "Name": "IStockPileSPItems",
+      "Namespace": "Ingr.SPPID.ISPArchiveComponents",
+      "FullName": "Ingr.SPPID.ISPArchiveComponents.IStockPileSPItems",
+      "DeclaringType": null,
+      "Methods": [],
+      "Properties": [],
+      "ImplementedInterfaces": []
+    }
+  ],
+  "Structs": [],
+  "Enums": [
+    {
+      "Name": "ISPEnumOperation",
+      "Namespace": "Ingr.SPPID.ISPArchiveComponents",
+      "FullName": "Ingr.SPPID.ISPArchiveComponents.ISPEnumOperation",
+      "DeclaringType": null,
+      "Values": [
+        "spOperation_Archive",
+        "spOperation_Retrieve",
+        "spOperation_WSPublish",
+        "spOperation_WSGetLatestVersion",
+        "spOperation_CreateVersion",
+        "spOperation_CheckIN",
+        "spOperation_CheckOUT",
+        "spOperation_GetLatest",
+        "spOperation_GetVersion",
+        "spOperation_None"
+      ]
+    },
+    {
+      "Name": "ISPErrorStatus",
+      "Namespace": "Ingr.SPPID.ISPArchiveComponents",
+      "FullName": "Ingr.SPPID.ISPArchiveComponents.ISPErrorStatus",
+      "DeclaringType": null,
+      "Values": [
+        "esSUCCESS",
+        "esFAILURE",
+        "esNothingToDo"
+      ]
+    }
+  ],
+  "Delegates": []
+}

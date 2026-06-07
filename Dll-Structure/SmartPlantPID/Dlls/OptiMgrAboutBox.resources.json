@@ -1,0 +1,26 @@
+{
+  "Id": "3dad9b11-407e-40e9-8d28-cb1a020f1c9a",
+  "DllName": "OptiMgrAboutBox.resources",
+  "Version": "9.0.0.1405",
+  "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\Languages\\en-US\\optimgraboutbox.resources.dll",
+  "Metadata": {
+    "AssemblyName": "OptiMgrAboutBox.resources",
+    "Culture": null,
+    "PublicKeyToken": null,
+    "RuntimeVersion": "v4.0.30319",
+    "ScanDate": "2026-06-07T12:43:41.7013547Z"
+  },
+  "Dependencies": [
+    {
+      "AssemblyName": "mscorlib",
+      "Version": "4.0.0.0",
+      "IsLocalDll": false,
+      "ReferencedJsonFile": null
+    }
+  ],
+  "Classes": [],
+  "Interfaces": [],
+  "Structs": [],
+  "Enums": [],
+  "Delegates": []
+}

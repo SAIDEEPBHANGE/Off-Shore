@@ -1,0 +1,26 @@
+{
+  "Id": "328235d1-5a9d-46e7-9151-b17cab8e219e",
+  "DllName": "DrawingManagerAbout.resources",
+  "Version": "9.0.0.1405",
+  "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\Languages\\en-US\\drawingmanagerabout.resources.dll",
+  "Metadata": {
+    "AssemblyName": "DrawingManagerAbout.resources",
+    "Culture": null,
+    "PublicKeyToken": null,
+    "RuntimeVersion": "v4.0.30319",
+    "ScanDate": "2026-06-07T12:43:41.7013547Z"
+  },
+  "Dependencies": [
+    {
+      "AssemblyName": "mscorlib",
+      "Version": "4.0.0.0",
+      "IsLocalDll": false,
+      "ReferencedJsonFile": null
+    }
+  ],
+  "Classes": [],
+  "Interfaces": [],
+  "Structs": [],
+  "Enums": [],
+  "Delegates": []
+}

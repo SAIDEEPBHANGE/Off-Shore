@@ -1,0 +1,81 @@
+{
+  "Id": "b43e42c7-2b08-422c-a3cb-aad48c947f1f",
+  "DllName": "TLBConverterHelper",
+  "Version": "10.0.0.337",
+  "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\tlbconverterhelper.dll",
+  "Metadata": {
+    "AssemblyName": "TLBConverterHelper",
+    "Culture": null,
+    "PublicKeyToken": null,
+    "RuntimeVersion": "v4.0.30319",
+    "ScanDate": "2026-06-07T12:43:41.6876614Z"
+  },
+  "Dependencies": [
+    {
+      "AssemblyName": "mscorlib",
+      "Version": "4.0.0.0",
+      "IsLocalDll": false,
+      "ReferencedJsonFile": null
+    }
+  ],
+  "Classes": [
+    {
+      "Name": "ComTypeToConvertAttribute",
+      "Namespace": "TLBConverterHelper",
+      "FullName": "TLBConverterHelper.ComTypeToConvertAttribute",
+      "BaseType": "System.Attribute",
+      "IsAbstract": false,
+      "IsSealed": false,
+      "DeclaringType": null,
+      "ImplementedInterfaces": [],
+      "Fields": [],
+      "Methods": [
+        {
+          "Name": ".ctor",
+          "ReturnType": "System.Void",
+          "IsStatic": false,
+          "IsPublic": true,
+          "IsVirtual": false,
+          "IsAbstract": false,
+          "IsConstructor": true,
+          "Parameters": [],
+          "Attributes": []
+        }
+      ],
+      "Properties": [],
+      "Events": [],
+      "Attributes": []
+    },
+    {
+      "Name": "ComPropertyToConvertAttribute",
+      "Namespace": "TLBConverterHelper",
+      "FullName": "TLBConverterHelper.ComPropertyToConvertAttribute",
+      "BaseType": "System.Attribute",
+      "IsAbstract": false,
+      "IsSealed": false,
+      "DeclaringType": null,
+      "ImplementedInterfaces": [],
+      "Fields": [],
+      "Methods": [
+        {
+          "Name": ".ctor",
+          "ReturnType": "System.Void",
+          "IsStatic": false,
+          "IsPublic": true,
+          "IsVirtual": false,
+          "IsAbstract": false,
+          "IsConstructor": true,
+          "Parameters": [],
+          "Attributes": []
+        }
+      ],
+      "Properties": [],
+      "Events": [],
+      "Attributes": []
+    }
+  ],
+  "Interfaces": [],
+  "Structs": [],
+  "Enums": [],
+  "Delegates": []
+}
