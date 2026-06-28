@@ -1,0 +1,76 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>DLL Explorer</title>
+
+    <!-- Tailwind -->
+    <script src="https://cdn.tailwindcss.com"></script>
+
+    <!-- Cytoscape -->
+    <script src="https://unpkg.com/cytoscape/dist/cytoscape.min.js"></script>
+  </head>
+  <body class="bg-slate-100 h-screen overflow-hidden">
+    <!-- Header -->
+    <header class="bg-slate-900 text-white px-6 py-4 shadow">
+      <h1 class="text-2xl font-bold">DLL Explorer</h1>
+      <p class="text-sm text-slate-300">
+        Assembly Browser • Dependency Viewer • Code Explorer
+      </p>
+    </header>
+
+    <!-- Search -->
+    <div class="bg-white border-b p-3">
+      <input
+        id="searchBox"
+        type="text"
+        placeholder="Search DLL, Class, Method..."
+        class="w-full border rounded-lg px-4 py-2 focus:outline-none focus:ring-2 focus:ring-blue-500"
+      />
+    </div>
+
+    <!-- Main -->
+    <div class="flex h-[calc(100vh-140px)]">
+      <!-- Left Tree -->
+      <div class="w-1/4 bg-white border-r overflow-auto">
+        <div class="p-3 border-b bg-slate-50">
+          <h2 class="font-semibold">DLL Tree</h2>
+        </div>
+
+        <div id="dllTree" class="p-2">
+          <!-- Loaded by JS -->
+
+          <div class="text-slate-400 text-sm">Loading DLLs...</div>
+        </div>
+      </div>
+
+      <!-- Right Details -->
+      <div class="flex-1 flex flex-col">
+        <div class="bg-white border-b p-3">
+          <h2 class="font-semibold">Details</h2>
+        </div>
+
+        <div id="detailsPanel" class="flex-1 overflow-auto p-4 bg-slate-50">
+          <div class="text-slate-500">
+            Select a DLL, Class, Interface, Struct or Method
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Graph Section -->
+    <div class="h-96 border-t bg-white">
+      <div class="p-3 border-b bg-slate-50">
+        <h2 class="font-semibold">Dependency Graph</h2>
+      </div>
+
+      <div id="graph" class="w-full h-[320px]"></div>
+    </div>
+
+    <!-- Scripts -->
+    <script src="js/tree.js"></script>
+    <script src="js/graph.js"></script>
+    <script src="js/app.js"></script>
+  </body>
+</html>
