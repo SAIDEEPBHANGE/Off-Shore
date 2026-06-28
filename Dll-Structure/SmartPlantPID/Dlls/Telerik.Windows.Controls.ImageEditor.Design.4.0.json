@@ -1,0 +1,26 @@
+{
+  "Id": "d6d40f32-604f-4ee0-b106-06f5144cd21d",
+  "DllName": "Telerik.Windows.Controls.ImageEditor.Design.4.0",
+  "Version": "2018.2.620.45",
+  "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\telerik.windows.controls.imageeditor.design.4.0.dll",
+  "Metadata": {
+    "AssemblyName": "Telerik.Windows.Controls.ImageEditor.Design.4.0",
+    "Culture": null,
+    "PublicKeyToken": null,
+    "RuntimeVersion": "v4.0.30319",
+    "ScanDate": "2026-06-28T10:26:43.0387587Z"
+  },
+  "Dependencies": [
+    {
+      "AssemblyName": "mscorlib",
+      "Version": "4.0.0.0",
+      "IsLocalDll": false,
+      "ReferencedJsonFile": null
+    }
+  ],
+  "Classes": [],
+  "Interfaces": [],
+  "Structs": [],
+  "Enums": [],
+  "Delegates": []
+}

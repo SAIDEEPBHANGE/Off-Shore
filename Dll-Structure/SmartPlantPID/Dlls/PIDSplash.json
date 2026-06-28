@@ -1,0 +1,26 @@
+{
+  "Id": "6d4279ec-3c2f-4fb3-8876-e8e17e61d915",
+  "DllName": "PIDSplash",
+  "Version": "9.0.0.1405",
+  "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\Languages\\PIDSplash.dll",
+  "Metadata": {
+    "AssemblyName": "PIDSplash",
+    "Culture": null,
+    "PublicKeyToken": null,
+    "RuntimeVersion": "v4.0.30319",
+    "ScanDate": "2026-06-28T10:26:43.0387587Z"
+  },
+  "Dependencies": [
+    {
+      "AssemblyName": "mscorlib",
+      "Version": "4.0.0.0",
+      "IsLocalDll": false,
+      "ReferencedJsonFile": null
+    }
+  ],
+  "Classes": [],
+  "Interfaces": [],
+  "Structs": [],
+  "Enums": [],
+  "Delegates": []
+}

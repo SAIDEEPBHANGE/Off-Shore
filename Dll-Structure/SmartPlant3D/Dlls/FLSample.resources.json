@@ -1,0 +1,26 @@
+{
+  "Id": "7393ac5a-53fe-4b5e-ab6d-f3caed5e08e4",
+  "DllName": "FLSample.resources",
+  "Version": "1.0.0.0",
+  "FilePath": "D:\\Off-Share\\Smart3D\\3DRefData\\SharedContent\\Bin\\HangersAndSupports\\Symbols\\Release\\en-US\\FLSample.resources.dll",
+  "Metadata": {
+    "AssemblyName": "FLSample.resources",
+    "Culture": null,
+    "PublicKeyToken": null,
+    "RuntimeVersion": "v4.0.30319",
+    "ScanDate": "2026-06-28T11:55:26.5893268Z"
+  },
+  "Dependencies": [
+    {
+      "AssemblyName": "mscorlib",
+      "Version": "4.0.0.0",
+      "IsLocalDll": false,
+      "ReferencedJsonFile": null
+    }
+  ],
+  "Classes": [],
+  "Interfaces": [],
+  "Structs": [],
+  "Enums": [],
+  "Delegates": []
+}

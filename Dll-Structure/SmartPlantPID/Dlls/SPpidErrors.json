@@ -1,0 +1,26 @@
+{
+  "Id": "932e8324-7fe9-45c7-8e61-25a2c4ec73a3",
+  "DllName": "SPpidErrors",
+  "Version": "9.0.0.1405",
+  "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\Languages\\SPpidErrors.dll",
+  "Metadata": {
+    "AssemblyName": "SPpidErrors",
+    "Culture": null,
+    "PublicKeyToken": null,
+    "RuntimeVersion": "v4.0.30319",
+    "ScanDate": "2026-06-28T10:26:43.0387587Z"
+  },
+  "Dependencies": [
+    {
+      "AssemblyName": "mscorlib",
+      "Version": "4.0.0.0",
+      "IsLocalDll": false,
+      "ReferencedJsonFile": null
+    }
+  ],
+  "Classes": [],
+  "Interfaces": [],
+  "Structs": [],
+  "Enums": [],
+  "Delegates": []
+}

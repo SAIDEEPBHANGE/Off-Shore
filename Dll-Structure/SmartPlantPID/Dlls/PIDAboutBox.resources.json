@@ -1,0 +1,26 @@
+{
+  "Id": "cbdc4e5d-18f6-4c0b-bbf9-b26503b94cda",
+  "DllName": "PIDAboutBox.resources",
+  "Version": "9.0.0.1405",
+  "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\Languages\\en-US\\pidaboutbox.resources.dll",
+  "Metadata": {
+    "AssemblyName": "PIDAboutBox.resources",
+    "Culture": null,
+    "PublicKeyToken": null,
+    "RuntimeVersion": "v4.0.30319",
+    "ScanDate": "2026-06-28T10:26:43.0387587Z"
+  },
+  "Dependencies": [
+    {
+      "AssemblyName": "mscorlib",
+      "Version": "4.0.0.0",
+      "IsLocalDll": false,
+      "ReferencedJsonFile": null
+    }
+  ],
+  "Classes": [],
+  "Interfaces": [],
+  "Structs": [],
+  "Enums": [],
+  "Delegates": []
+}

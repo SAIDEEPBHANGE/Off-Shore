@@ -1,0 +1,102 @@
+{
+  "Id": "c8064f29-d489-437b-af74-5e0acbd7a486",
+  "DllName": "ISPPropertyInf",
+  "Version": "10.0.0.603",
+  "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\ISPPropertyInf.dll",
+  "Metadata": {
+    "AssemblyName": "ISPPropertyInf",
+    "Culture": null,
+    "PublicKeyToken": null,
+    "RuntimeVersion": "v4.0.30319",
+    "ScanDate": "2026-06-28T10:26:43.0337582Z"
+  },
+  "Dependencies": [
+    {
+      "AssemblyName": "mscorlib",
+      "Version": "4.0.0.0",
+      "IsLocalDll": false,
+      "ReferencedJsonFile": null
+    },
+    {
+      "AssemblyName": "System",
+      "Version": "4.0.0.0",
+      "IsLocalDll": false,
+      "ReferencedJsonFile": null
+    }
+  ],
+  "Classes": [],
+  "Interfaces": [
+    {
+      "Name": "ISPForeignCalc",
+      "Namespace": "Ingr.SP2D.ISPPropertyInf",
+      "FullName": "Ingr.SP2D.ISPPropertyInf.ISPForeignCalc",
+      "DeclaringType": null,
+      "Methods": [],
+      "Properties": [],
+      "ImplementedInterfaces": []
+    },
+    {
+      "Name": "ISPPropertiedItem",
+      "Namespace": "Ingr.SP2D.ISPPropertyInf",
+      "FullName": "Ingr.SP2D.ISPPropertyInf.ISPPropertiedItem",
+      "DeclaringType": null,
+      "Methods": [],
+      "Properties": [],
+      "ImplementedInterfaces": []
+    },
+    {
+      "Name": "ISPPropertiedItems",
+      "Namespace": "Ingr.SP2D.ISPPropertyInf",
+      "FullName": "Ingr.SP2D.ISPPropertyInf.ISPPropertiedItems",
+      "DeclaringType": null,
+      "Methods": [],
+      "Properties": [],
+      "ImplementedInterfaces": [
+        "System.Collections.IEnumerable"
+      ]
+    },
+    {
+      "Name": "ISPProperties",
+      "Namespace": "Ingr.SP2D.ISPPropertyInf",
+      "FullName": "Ingr.SP2D.ISPPropertyInf.ISPProperties",
+      "DeclaringType": null,
+      "Methods": [],
+      "Properties": [],
+      "ImplementedInterfaces": [
+        "System.Collections.IEnumerable"
+      ]
+    },
+    {
+      "Name": "ISPProperty",
+      "Namespace": "Ingr.SP2D.ISPPropertyInf",
+      "FullName": "Ingr.SP2D.ISPPropertyInf.ISPProperty",
+      "DeclaringType": null,
+      "Methods": [],
+      "Properties": [],
+      "ImplementedInterfaces": []
+    },
+    {
+      "Name": "ISPPropertyListItem",
+      "Namespace": "Ingr.SP2D.ISPPropertyInf",
+      "FullName": "Ingr.SP2D.ISPPropertyInf.ISPPropertyListItem",
+      "DeclaringType": null,
+      "Methods": [],
+      "Properties": [],
+      "ImplementedInterfaces": []
+    },
+    {
+      "Name": "ISPPropertyListItems",
+      "Namespace": "Ingr.SP2D.ISPPropertyInf",
+      "FullName": "Ingr.SP2D.ISPPropertyInf.ISPPropertyListItems",
+      "DeclaringType": null,
+      "Methods": [],
+      "Properties": [],
+      "ImplementedInterfaces": [
+        "System.Collections.IEnumerable"
+      ]
+    }
+  ],
+  "Structs": [],
+  "Enums": [],
+  "Delegates": []
+}

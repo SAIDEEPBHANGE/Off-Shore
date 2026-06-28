@@ -1,0 +1,26 @@
+{
+  "Id": "30ef4a0f-bd47-4f6a-a07f-690a8e7a0361",
+  "DllName": "Generic.resources",
+  "Version": "1.0.0.0",
+  "FilePath": "D:\\Off-Share\\Smart3D\\3DRefData\\SharedContent\\Bin\\HangersAndSupports\\Symbols\\Release\\en-US\\Generic.resources.dll",
+  "Metadata": {
+    "AssemblyName": "Generic.resources",
+    "Culture": null,
+    "PublicKeyToken": null,
+    "RuntimeVersion": "v4.0.30319",
+    "ScanDate": "2026-06-28T11:55:26.5893268Z"
+  },
+  "Dependencies": [
+    {
+      "AssemblyName": "mscorlib",
+      "Version": "4.0.0.0",
+      "IsLocalDll": false,
+      "ReferencedJsonFile": null
+    }
+  ],
+  "Classes": [],
+  "Interfaces": [],
+  "Structs": [],
+  "Enums": [],
+  "Delegates": []
+}

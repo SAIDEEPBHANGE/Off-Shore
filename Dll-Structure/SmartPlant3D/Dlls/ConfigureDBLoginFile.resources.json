@@ -1,0 +1,26 @@
+{
+  "Id": "0fc87934-ef67-4f7f-82ea-aae10a0f5678",
+  "DllName": "ConfigureDBLoginFile.resources",
+  "Version": "1.0.0.0",
+  "FilePath": "D:\\Off-Share\\Smart3D\\ProjectMgmt\\Tools\\bin\\en-US\\ConfigureDBLoginFile.resources.dll",
+  "Metadata": {
+    "AssemblyName": "ConfigureDBLoginFile.resources",
+    "Culture": null,
+    "PublicKeyToken": null,
+    "RuntimeVersion": "v4.0.30319",
+    "ScanDate": "2026-06-28T11:55:26.8289956Z"
+  },
+  "Dependencies": [
+    {
+      "AssemblyName": "mscorlib",
+      "Version": "4.0.0.0",
+      "IsLocalDll": false,
+      "ReferencedJsonFile": null
+    }
+  ],
+  "Classes": [],
+  "Interfaces": [],
+  "Structs": [],
+  "Enums": [],
+  "Delegates": []
+}

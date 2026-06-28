@@ -1,0 +1,26 @@
+{
+  "Id": "57d56e38-7f61-4a3b-9df8-dc8912d2fbfb",
+  "DllName": "igrErrors",
+  "Version": "10.0.0.603",
+  "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\Languages\\igrErrors.dll",
+  "Metadata": {
+    "AssemblyName": "igrErrors",
+    "Culture": null,
+    "PublicKeyToken": null,
+    "RuntimeVersion": "v4.0.30319",
+    "ScanDate": "2026-06-28T10:26:43.0387587Z"
+  },
+  "Dependencies": [
+    {
+      "AssemblyName": "mscorlib",
+      "Version": "4.0.0.0",
+      "IsLocalDll": false,
+      "ReferencedJsonFile": null
+    }
+  ],
+  "Classes": [],
+  "Interfaces": [],
+  "Structs": [],
+  "Enums": [],
+  "Delegates": []
+}

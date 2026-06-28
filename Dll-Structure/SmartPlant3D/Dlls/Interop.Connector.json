@@ -1,0 +1,209 @@
+{
+  "Id": "b8f4fbe1-dbd0-4798-96d0-c9a1f730f083",
+  "DllName": "Interop.Connector",
+  "Version": "1.0.0.0",
+  "FilePath": "D:\\Off-Share\\Smart3D\\Common2D\\Rad2D\\bin64\\Interop.Connector.dll",
+  "Metadata": {
+    "AssemblyName": "Interop.Connector",
+    "Culture": null,
+    "PublicKeyToken": null,
+    "RuntimeVersion": "v4.0.30319",
+    "ScanDate": "2026-06-28T11:55:26.6493798Z"
+  },
+  "Dependencies": [
+    {
+      "AssemblyName": "mscorlib",
+      "Version": "4.0.0.0",
+      "IsLocalDll": false,
+      "ReferencedJsonFile": null
+    }
+  ],
+  "Classes": [
+    {
+      "Name": "ConnectorClassConstants",
+      "Namespace": "Ingr.RAD2D.Interop.Components.Connector",
+      "FullName": "Ingr.RAD2D.Interop.Components.Connector.ConnectorClassConstants",
+      "BaseType": "System.Object",
+      "IsAbstract": true,
+      "IsSealed": true,
+      "DeclaringType": null,
+      "ImplementedInterfaces": [],
+      "Fields": [
+        {
+          "Name": "ConnectorClass",
+          "Type": "System.String",
+          "IsPublic": true,
+          "IsStatic": true,
+          "IsReadonly": false,
+          "Attributes": []
+        },
+        {
+          "Name": "ConnectorInterface",
+          "Type": "System.String",
+          "IsPublic": true,
+          "IsStatic": true,
+          "IsReadonly": false,
+          "Attributes": []
+        },
+        {
+          "Name": "igConnector2d",
+          "Type": "System.Int32",
+          "IsPublic": true,
+          "IsStatic": true,
+          "IsReadonly": false,
+          "Attributes": []
+        }
+      ],
+      "Methods": [],
+      "Properties": [],
+      "Events": [],
+      "Attributes": []
+    },
+    {
+      "Name": "ConnectorClassConstants",
+      "Namespace": "Ingr.RAD2D.Interop.Components.Connector",
+      "FullName": "Ingr.RAD2D.Interop.Components.Connector.ConnectorClassConstants",
+      "BaseType": "System.Object",
+      "IsAbstract": true,
+      "IsSealed": true,
+      "DeclaringType": null,
+      "ImplementedInterfaces": [],
+      "Fields": [
+        {
+          "Name": "ConnectorClass",
+          "Type": "System.String",
+          "IsPublic": true,
+          "IsStatic": true,
+          "IsReadonly": false,
+          "Attributes": []
+        },
+        {
+          "Name": "ConnectorInterface",
+          "Type": "System.String",
+          "IsPublic": true,
+          "IsStatic": true,
+          "IsReadonly": false,
+          "Attributes": []
+        },
+        {
+          "Name": "igConnector2d",
+          "Type": "System.Int32",
+          "IsPublic": true,
+          "IsStatic": true,
+          "IsReadonly": false,
+          "Attributes": []
+        }
+      ],
+      "Methods": [],
+      "Properties": [],
+      "Events": [],
+      "Attributes": []
+    }
+  ],
+  "Interfaces": [
+    {
+      "Name": "Connector",
+      "Namespace": "Ingr.RAD2D.Interop.Components.Connector",
+      "FullName": "Ingr.RAD2D.Interop.Components.Connector.Connector",
+      "DeclaringType": null,
+      "Methods": [],
+      "Properties": [],
+      "ImplementedInterfaces": []
+    },
+    {
+      "Name": "ConnectorFacelet",
+      "Namespace": "Ingr.RAD2D.Interop.Components.Connector",
+      "FullName": "Ingr.RAD2D.Interop.Components.Connector.ConnectorFacelet",
+      "DeclaringType": null,
+      "Methods": [],
+      "Properties": [],
+      "ImplementedInterfaces": []
+    },
+    {
+      "Name": "Connector",
+      "Namespace": "Ingr.RAD2D.Interop.Components.Connector",
+      "FullName": "Ingr.RAD2D.Interop.Components.Connector.Connector",
+      "DeclaringType": null,
+      "Methods": [],
+      "Properties": [],
+      "ImplementedInterfaces": []
+    },
+    {
+      "Name": "ConnectorFacelet",
+      "Namespace": "Ingr.RAD2D.Interop.Components.Connector",
+      "FullName": "Ingr.RAD2D.Interop.Components.Connector.ConnectorFacelet",
+      "DeclaringType": null,
+      "Methods": [],
+      "Properties": [],
+      "ImplementedInterfaces": []
+    }
+  ],
+  "Structs": [],
+  "Enums": [
+    {
+      "Name": "ConnectorEndConstant",
+      "Namespace": "Ingr.RAD2D.Interop.Components.Connector",
+      "FullName": "Ingr.RAD2D.Interop.Components.Connector.ConnectorEndConstant",
+      "DeclaringType": null,
+      "Values": [
+        "igStart",
+        "igEnd"
+      ]
+    },
+    {
+      "Name": "ConnectorVertexStatusConstant",
+      "Namespace": "Ingr.RAD2D.Interop.Components.Connector",
+      "FullName": "Ingr.RAD2D.Interop.Components.Connector.ConnectorVertexStatusConstant",
+      "DeclaringType": null,
+      "Values": [
+        "igConnected",
+        "igComputed",
+        "igFixed"
+      ]
+    },
+    {
+      "Name": "ConnectorMoveConstant",
+      "Namespace": "Ingr.RAD2D.Interop.Components.Connector",
+      "FullName": "Ingr.RAD2D.Interop.Components.Connector.ConnectorMoveConstant",
+      "DeclaringType": null,
+      "Values": [
+        "igNotApplicable",
+        "igFirstSegment",
+        "igSecondSegment"
+      ]
+    },
+    {
+      "Name": "ConnectorEndConstant",
+      "Namespace": "Ingr.RAD2D.Interop.Components.Connector",
+      "FullName": "Ingr.RAD2D.Interop.Components.Connector.ConnectorEndConstant",
+      "DeclaringType": null,
+      "Values": [
+        "igStart",
+        "igEnd"
+      ]
+    },
+    {
+      "Name": "ConnectorVertexStatusConstant",
+      "Namespace": "Ingr.RAD2D.Interop.Components.Connector",
+      "FullName": "Ingr.RAD2D.Interop.Components.Connector.ConnectorVertexStatusConstant",
+      "DeclaringType": null,
+      "Values": [
+        "igConnected",
+        "igComputed",
+        "igFixed"
+      ]
+    },
+    {
+      "Name": "ConnectorMoveConstant",
+      "Namespace": "Ingr.RAD2D.Interop.Components.Connector",
+      "FullName": "Ingr.RAD2D.Interop.Components.Connector.ConnectorMoveConstant",
+      "DeclaringType": null,
+      "Values": [
+        "igNotApplicable",
+        "igFirstSegment",
+        "igSecondSegment"
+      ]
+    }
+  ],
+  "Delegates": []
+}

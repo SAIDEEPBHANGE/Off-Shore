@@ -1,0 +1,26 @@
+{
+  "Id": "a564fc15-fc1e-467e-aa83-5f7483c05782",
+  "DllName": "ProjMgmtCommands.resources",
+  "Version": "1.0.0.0",
+  "FilePath": "D:\\Off-Share\\Smart3D\\Core\\Container\\Bin\\Assemblies\\Release\\en-US\\ProjMgmtCommands.resources.dll",
+  "Metadata": {
+    "AssemblyName": "ProjMgmtCommands.resources",
+    "Culture": null,
+    "PublicKeyToken": null,
+    "RuntimeVersion": "v4.0.30319",
+    "ScanDate": "2026-06-28T11:55:26.7444785Z"
+  },
+  "Dependencies": [
+    {
+      "AssemblyName": "mscorlib",
+      "Version": "4.0.0.0",
+      "IsLocalDll": false,
+      "ReferencedJsonFile": null
+    }
+  ],
+  "Classes": [],
+  "Interfaces": [],
+  "Structs": [],
+  "Enums": [],
+  "Delegates": []
+}

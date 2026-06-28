@@ -1,0 +1,26 @@
+{
+  "Id": "e778c21d-0323-47ec-875f-5278833b732a",
+  "DllName": "SysConfig",
+  "Version": "10.0.0.603",
+  "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\Languages\\SysConfig.dll",
+  "Metadata": {
+    "AssemblyName": "SysConfig",
+    "Culture": null,
+    "PublicKeyToken": null,
+    "RuntimeVersion": "v4.0.30319",
+    "ScanDate": "2026-06-28T10:26:43.0387587Z"
+  },
+  "Dependencies": [
+    {
+      "AssemblyName": "mscorlib",
+      "Version": "4.0.0.0",
+      "IsLocalDll": false,
+      "ReferencedJsonFile": null
+    }
+  ],
+  "Classes": [],
+  "Interfaces": [],
+  "Structs": [],
+  "Enums": [],
+  "Delegates": []
+}
