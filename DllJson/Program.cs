@@ -6,6 +6,7 @@ using DllJson.Models;
 using DllJson.Services;
 using System;
 using System.Collections.Generic;
+using System.Diagnostics;
 using System.IO;
 using System.Linq;
 using System.Text.Json;
@@ -20,8 +21,30 @@ namespace DllJson
 
             Console.WriteLine("Scanning configurations...");
 
+            var run = new AuditRun
+            {
+                RunId = Guid.NewGuid(),
+                StartedAt = DateTime.UtcNow,
+                TargetFramework = ".NET Framework 4.8",
+                Machine = Environment.MachineName,
+                ProcessId = Process.GetCurrentProcess().Id,
+                Config = new AuditConfig
+                {
+                    SolutionPath = Directory.GetCurrentDirectory(),
+                    AuditFolder = "D:\\Github Repository\\Off-Shore\\Backend-Audits",
+                    IncludePatterns = new List<string> { "*.dll" }
+                }
+            };
+
             foreach (var folderConfig in config.Configurations)
             {
+                var folderAudit = new FolderAudit
+                {
+                    FolderName = Path.GetFileName(folderConfig.OutputPath.TrimEnd(Path.DirectorySeparatorChar, Path.AltDirectorySeparatorChar)),
+                    FolderPath = folderConfig.FolderPath,
+                    StartedAt = DateTime.UtcNow
+                };
+
                 try
                 {
                     Directory.CreateDirectory(
@@ -33,6 +56,9 @@ namespace DllJson
                     var scanner = new AssemblyScanner();
 
                     var graph = scanner.Scan(folderConfig);
+
+                    // Update counts
+                    folderAudit.DllCount = graph.Dlls.Count;
 
                     //
                     // Create Dlls folder
@@ -48,23 +74,66 @@ namespace DllJson
                     //
                     foreach (var dll in graph.Dlls)
                     {
-                        var dllFileName =
-                            MakeSafeFileName(dll.DllName) + ".json";
+                        var dllAudit = new DllAudit
+                        {
+                            DllName = dll.DllName,
+                            DllPath = dll.FilePath,
+                            StartedAt = DateTime.UtcNow
+                        };
 
-                        var dllPath = Path.Combine(
-                            dllFolder,
-                            dllFileName);
+                        try
+                        {
+                            var dllFileName =
+                                MakeSafeFileName(dll.DllName) + ".json";
 
-                        var dllJson = JsonSerializer.Serialize(
-                            dll,
-                            new JsonSerializerOptions
+                            var dllPath = Path.Combine(
+                                dllFolder,
+                                dllFileName);
+
+                            var dllJson = JsonSerializer.Serialize(
+                                dll,
+                                new JsonSerializerOptions
+                                {
+                                    WriteIndented = true
+                                });
+
+                            File.WriteAllText(
+                                dllPath,
+                                dllJson);
+
+                            dllAudit.EndedAt = DateTime.UtcNow;
+                            dllAudit.DurationMs = (long)(dllAudit.EndedAt.Value - dllAudit.StartedAt).TotalMilliseconds;
+                            dllAudit.Status = "Processed";
+                            dllAudit.Result = "Success";
+                            // compute processed types from available collections in DllInfo
+                            dllAudit.ProcessedTypesCount = (dll.Classes?.Count ?? 0)
+                                                           + (dll.Interfaces?.Count ?? 0)
+                                                           + (dll.Structs?.Count ?? 0)
+                                                           + (dll.Enums?.Count ?? 0)
+                                                           + (dll.Delegates?.Count ?? 0);
+
+                            folderAudit.Counts.Processed++;
+                        }
+                        catch (Exception exDll)
+                        {
+                            dllAudit.EndedAt = DateTime.UtcNow;
+                            dllAudit.DurationMs = (long)(dllAudit.EndedAt.Value - dllAudit.StartedAt).TotalMilliseconds;
+                            dllAudit.Status = "Failed";
+                            dllAudit.Result = "Exception";
+                            dllAudit.Reason = exDll.Message;
+                            dllAudit.Exception = new ExceptionInfo
                             {
-                                WriteIndented = true
-                            });
+                                Type = exDll.GetType().FullName,
+                                Message = exDll.Message,
+                                StackTrace = exDll.StackTrace
+                            };
 
-                        File.WriteAllText(
-                            dllPath,
-                            dllJson);
+                            folderAudit.Counts.Failed++;
+
+                            Console.WriteLine($"DLL ERROR: {exDll.Message}");
+                        }
+
+                        folderAudit.Dlls.Add(dllAudit);
                     }
 
                     //
@@ -105,6 +174,9 @@ namespace DllJson
                         graphPath,
                         graphJson);
 
+                    folderAudit.EndedAt = DateTime.UtcNow;
+                    folderAudit.DurationMs = (long)(folderAudit.EndedAt.Value - folderAudit.StartedAt).TotalMilliseconds;
+
                     Console.WriteLine(
                         $"Master Graph Saved: {graphPath}");
 
@@ -119,10 +191,34 @@ namespace DllJson
                 }
                 catch (Exception ex)
                 {
+                    folderAudit.EndedAt = DateTime.UtcNow;
+                    folderAudit.DurationMs = (long)(folderAudit.EndedAt.Value - folderAudit.StartedAt).TotalMilliseconds;
+
+                    folderAudit.Counts.Failed = folderAudit.DllCount; // mark all as failed for this folder
+
                     Console.WriteLine(
                         $"ERROR: {ex.Message}");
+
+                    folderAudit.Warnings.Add(ex.Message);
+                }
+                finally
+                {
+                    run.Folders.Add(folderAudit);
                 }
             }
+
+            run.EndedAt = DateTime.UtcNow;
+            run.TotalDurationMs = (long)(run.EndedAt.Value - run.StartedAt).TotalMilliseconds;
+            run.Summary.FoldersScanned = run.Folders.Count;
+            run.Summary.TotalDlls = run.Folders.Sum(f => f.DllCount);
+            run.Summary.Processed = run.Folders.Sum(f => f.Counts.Processed);
+            run.Summary.Failed = run.Folders.Sum(f => f.Counts.Failed);
+            run.Summary.PartiallyProcessed = run.Folders.Sum(f => f.Counts.PartiallyProcessed);
+            run.Summary.Skipped = run.Folders.Sum(f => f.Counts.Skipped);
+
+            var auditFolder = run.Config.AuditFolder;
+            var writer = new AuditWriter(run, auditFolder);
+            writer.Write();
 
             Console.WriteLine("ALL DONE");
         }
