@@ -31,7 +31,7 @@ namespace DllJson
                 Config = new AuditConfig
                 {
                     SolutionPath = Directory.GetCurrentDirectory(),
-                    AuditFolder = "D:\\Github Repository\\Off-Shore\\Backend-Audits",
+                    AuditFolder = "D:\\Github Repository\\Off-Shore\\Backend-Audits\\data",
                     IncludePatterns = new List<string> { "*.dll" }
                 }
             };
@@ -55,10 +55,12 @@ namespace DllJson
 
                     var scanner = new AssemblyScanner();
 
-                    var graph = scanner.Scan(folderConfig);
+                    var scanResult = scanner.Scan(folderConfig);
+
+                    var graph = scanResult.Graph;
 
                     // Update counts
-                    folderAudit.DllCount = graph.Dlls.Count;
+                    folderAudit.DllCount = graph.Dlls.Count + (scanResult.Skipped?.Count ?? 0);
 
                     //
                     // Create Dlls folder
@@ -134,6 +136,29 @@ namespace DllJson
                         }
 
                         folderAudit.Dlls.Add(dllAudit);
+                    }
+
+                    // record skipped/failed assemblies from scanner
+                    if (scanResult.Skipped != null && scanResult.Skipped.Count > 0)
+                    {
+                        foreach (var skip in scanResult.Skipped)
+                        {
+                            var dllAudit = new DllAudit
+                            {
+                                DllName = Path.GetFileName(skip.FilePath),
+                                DllPath = skip.FilePath,
+                                StartedAt = DateTime.UtcNow,
+                                EndedAt = DateTime.UtcNow,
+                                DurationMs = 0,
+                                Status = "Failed",
+                                Result = skip.Reason,
+                                Reason = skip.Reason,
+                                Exception = skip.Exception
+                            };
+
+                            folderAudit.Dlls.Add(dllAudit);
+                            folderAudit.Counts.Failed++;
+                        }
                     }
 
                     //

@@ -44,6 +44,35 @@ namespace DllJson.Services
             File.WriteAllText(tempPath, json);
             if (File.Exists(finalPath)) File.Delete(finalPath);
             File.Move(tempPath, finalPath);
+
+            // Update API index: api/latest-audit.json
+            try
+            {
+                var apiFolder = Path.Combine(_auditFolder, "api");
+                if (!Directory.Exists(apiFolder)) Directory.CreateDirectory(apiFolder);
+
+                var latestPath = Path.Combine(apiFolder, "latest-audit.json");
+
+                // Friendly display name: use UTC started time and short run id
+                var displayName = $"{_run.StartedAt.ToString("yyyy-MM-dd HH:mm:ss") } (Run { _run.RunId.ToString().Substring(0, 8) })";
+
+                var entry = new[]
+                {
+                    new {
+                        FileName = fileName,
+                        DisplayName = displayName
+                    }
+                };
+
+                var indexJson = JsonSerializer.Serialize(entry, opts);
+
+                // overwrite
+                File.WriteAllText(latestPath, indexJson);
+            }
+            catch
+            {
+                // do not throw on index update failure
+            }
         }
     }
 }

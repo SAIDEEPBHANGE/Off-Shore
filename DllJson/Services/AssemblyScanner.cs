@@ -1,9 +1,11 @@
 ﻿using DllJson.Models;
 using Mono.Cecil;
 using System;
+using System.Collections.Concurrent;
 using System.Collections.Generic;
 using System.IO;
 using System.Reflection;
+using System.Threading.Tasks;
 
 namespace DllJson.Services
 {
@@ -18,13 +20,15 @@ namespace DllJson.Services
             _referenceBuilder = new ReferenceBuilder();
         }
 
-        public AssemblyGraph Scan(FolderJson config)
+        public ScanResult Scan(FolderJson config)
         {
             var graph = new AssemblyGraph();
 
             Console.WriteLine($"Scanning: {config.FolderPath}");
 
-            var assemblies = LoadAssemblies(config.FolderPath);
+            var loadResult = LoadAssemblies(config.FolderPath);
+
+            var assemblies = loadResult.Loaded;
 
             var dllLookup =
                 new Dictionary<string, DllInfo>(
@@ -72,15 +76,18 @@ namespace DllJson.Services
                 assemblies,
                 dllLookup);
 
-            return graph;
+            return new ScanResult
+            {
+                Graph = graph,
+                Skipped = loadResult.Skipped
+            };
         }
 
-        private Dictionary<string, AssemblyDefinition> LoadAssemblies(
+        private LoadResult LoadAssemblies(
             string rootFolder)
         {
-            var result =
-                new Dictionary<string, AssemblyDefinition>(
-                    StringComparer.OrdinalIgnoreCase);
+            var loaded = new ConcurrentDictionary<string, AssemblyDefinition>(StringComparer.OrdinalIgnoreCase);
+            var skipped = new ConcurrentBag<SkippedAssemblyInfo>();
 
             var dllFiles = Directory.GetFiles(
                 rootFolder,
@@ -89,25 +96,47 @@ namespace DllJson.Services
 
             Console.WriteLine($"DLLs Found: {dllFiles.Length}");
 
-            foreach (var file in dllFiles)
-            {
-                if (!IsDotNetAssembly(file))
-                    continue;
+            var maxDegree = Math.Max(1, Environment.ProcessorCount - 1);
 
+            Parallel.ForEach(dllFiles, new ParallelOptions { MaxDegreeOfParallelism = maxDegree }, file =>
+            {
                 try
                 {
-                    var assembly =
-                        AssemblyDefinition.ReadAssembly(file);
+                    if (!IsDotNetAssembly(file))
+                    {
+                        skipped.Add(new SkippedAssemblyInfo
+                        {
+                            FilePath = file,
+                            Reason = "Not a .NET assembly"
+                        });
+                        return;
+                    }
 
-                    result[file] = assembly;
+                    var assembly = AssemblyDefinition.ReadAssembly(file);
+                    loaded[file] = assembly;
                 }
-                catch
+                catch (Exception ex)
                 {
-                    // Ignore invalid DLL
+                    // record skipped/failed assemblies with reason
+                    skipped.Add(new SkippedAssemblyInfo
+                    {
+                        FilePath = file,
+                        Reason = ex.Message,
+                        Exception = new DllJson.Models.ExceptionInfo
+                        {
+                            Type = ex.GetType().FullName,
+                            Message = ex.Message,
+                            StackTrace = ex.StackTrace
+                        }
+                    });
                 }
-            }
+            });
 
-            return result;
+            return new LoadResult
+            {
+                Loaded = new Dictionary<string, AssemblyDefinition>(loaded, StringComparer.OrdinalIgnoreCase),
+                Skipped = new List<SkippedAssemblyInfo>(skipped)
+            };
         }
 
         private DllInfo CreateDllInfo(
@@ -144,6 +173,7 @@ namespace DllJson.Services
         {
             try
             {
+                // Quick check - will throw for native or invalid PE files
                 AssemblyName.GetAssemblyName(file);
                 return true;
             }
@@ -152,5 +182,24 @@ namespace DllJson.Services
                 return false;
             }
         }
+    }
+
+    public class LoadResult
+    {
+        public Dictionary<string, AssemblyDefinition> Loaded { get; set; } = new Dictionary<string, AssemblyDefinition>(StringComparer.OrdinalIgnoreCase);
+        public List<SkippedAssemblyInfo> Skipped { get; set; } = new List<SkippedAssemblyInfo>();
+    }
+
+    public class SkippedAssemblyInfo
+    {
+        public string FilePath { get; set; }
+        public string Reason { get; set; }
+        public DllJson.Models.ExceptionInfo Exception { get; set; }
+    }
+
+    public class ScanResult
+    {
+        public AssemblyGraph Graph { get; set; }
+        public List<SkippedAssemblyInfo> Skipped { get; set; } = new List<SkippedAssemblyInfo>();
     }
 }
