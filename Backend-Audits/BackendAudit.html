@@ -1,0 +1,169 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>.NET Audit Dashboard</title>
+    <!-- Tailwind CSS CDN -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    <!-- Lucide Icons -->
+    <script src="https://unpkg.com/lucide@latest"></script>
+  </head>
+  <body class="bg-slate-900 text-slate-100 font-sans min-h-screen">
+    <!-- Header -->
+    <header
+      class="border-b border-slate-800 bg-slate-900/50 backdrop-blur sticky top-0 z-10 px-6 py-4"
+    >
+      <div
+        class="max-w-7xl mx-auto flex flex-col sm:flex-row justify-between items-start sm:items-center gap-4"
+      >
+        <div>
+          <h1
+            class="text-2xl font-bold tracking-tight text-white flex items-center gap-2"
+          >
+            <i data-lucide="shield-check" class="text-indigo-400 w-7 h-7"></i>
+            Backend Audit Dashboard
+          </h1>
+          <p class="text-sm text-slate-400 mt-1 flex items-center gap-2">
+            <span
+              >Target Framework:
+              <strong id="target-framework" class="text-slate-200"
+                >...</strong
+              ></span
+            >
+            <span class="text-slate-600">|</span>
+            <span
+              >Machine:
+              <strong id="machine-name" class="text-slate-200"
+                >...</strong
+              ></span
+            >
+          </p>
+        </div>
+        <div
+          class="text-left sm:text-right bg-slate-800/50 border border-slate-700/50 rounded-lg p-3 text-xs"
+        >
+          <div class="text-slate-400">
+            Audit Run:
+            <span id="current-display-name" class="font-medium text-indigo-300"
+              >...</span
+            >
+          </div>
+          <div class="text-slate-400 mt-1">
+            Run ID:
+            <span id="run-id" class="font-mono text-slate-300">...</span>
+          </div>
+        </div>
+      </div>
+    </header>
+
+    <main class="max-w-7xl mx-auto px-6 py-8 space-y-8">
+      <!-- Summary Cards -->
+      <section>
+        <h2
+          class="text-xs font-semibold uppercase tracking-wider text-slate-400 mb-4"
+        >
+          Run Summary
+        </h2>
+        <div class="grid grid-cols-2 md:grid-cols-5 gap-4">
+          <div class="bg-slate-800/40 border border-slate-800 rounded-xl p-4">
+            <div class="text-slate-400 text-sm flex items-center gap-2">
+              <i data-lucide="folder" class="w-4 h-4 text-blue-400"></i> Folders
+            </div>
+            <div class="text-2xl font-bold mt-2" id="stat-folders">0</div>
+          </div>
+
+          <div class="bg-slate-800/40 border border-slate-800 rounded-xl p-4">
+            <div class="text-slate-400 text-sm flex items-center gap-2">
+              <i data-lucide="binary" class="w-4 h-4 text-purple-400"></i> Total
+              DLLs
+            </div>
+            <div class="text-2xl font-bold mt-2" id="stat-total">0</div>
+          </div>
+
+          <div
+            class="bg-slate-800/40 border border-slate-700/50 rounded-xl p-4 bg-gradient-to-br from-slate-800/40 to-emerald-950/20"
+          >
+            <div class="text-emerald-400 text-sm flex items-center gap-2">
+              <i data-lucide="check-circle-2" class="w-4 h-4"></i> Processed
+            </div>
+            <div
+              class="text-2xl font-bold mt-2 text-emerald-400"
+              id="stat-processed"
+            >
+              0
+            </div>
+          </div>
+
+          <div
+            class="bg-slate-800/40 border border-slate-700/50 rounded-xl p-4 bg-gradient-to-br from-slate-800/40 to-rose-950/20"
+          >
+            <div class="text-rose-400 text-sm flex items-center gap-2">
+              <i data-lucide="x-circle" class="w-4 h-4"></i> Failed
+            </div>
+            <div class="text-2xl font-bold mt-2 text-rose-400" id="stat-failed">
+              0
+            </div>
+          </div>
+
+          <div
+            class="bg-slate-800/40 border border-slate-800 rounded-xl p-4 col-span-2 md:col-span-1"
+          >
+            <div class="text-slate-400 text-sm flex items-center gap-2">
+              <i data-lucide="timer" class="w-4 h-4 text-amber-400"></i>
+              Duration
+            </div>
+            <div class="text-2xl font-bold mt-2" id="stat-duration">0 ms</div>
+          </div>
+        </div>
+      </section>
+
+      <!-- Configuration Details -->
+      <section class="bg-slate-800/30 border border-slate-800 rounded-xl p-5">
+        <h3
+          class="text-sm font-semibold text-slate-300 mb-3 flex items-center gap-2"
+        >
+          <i data-lucide="settings" class="w-4 h-4 text-slate-400"></i>
+          Configuration Context
+        </h3>
+        <div class="grid md:grid-cols-2 gap-4 text-sm">
+          <div>
+            <span class="text-slate-500 block text-xs uppercase tracking-wider"
+              >Solution Directory</span
+            >
+            <span
+              class="font-mono text-slate-300 break-all"
+              id="config-sol-path"
+              >...</span
+            >
+          </div>
+          <div>
+            <span class="text-slate-500 block text-xs uppercase tracking-wider"
+              >Audit Output Folder</span
+            >
+            <span
+              class="font-mono text-slate-300 break-all"
+              id="config-audit-path"
+              >...</span
+            >
+          </div>
+        </div>
+      </section>
+
+      <!-- Folder Scans Breakdown -->
+      <section class="space-y-6">
+        <h2
+          class="text-xs font-semibold uppercase tracking-wider text-slate-400"
+        >
+          Target Scans Breakdown
+        </h2>
+        <div id="folders-container" class="space-y-8">
+          <div class="text-center py-12 text-slate-500">
+            Loading audit logs...
+          </div>
+        </div>
+      </section>
+    </main>
+    <script src="./app.js"></script>
+  </body>
+</html>
