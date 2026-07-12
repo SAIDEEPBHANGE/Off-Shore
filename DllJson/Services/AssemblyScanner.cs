@@ -107,7 +107,8 @@ namespace DllJson.Services
                         skipped.Add(new SkippedAssemblyInfo
                         {
                             FilePath = file,
-                            Reason = "Not a .NET assembly"
+                            Reason = "Not a .NET assembly",
+                            SkipCategory = "Native"
                         });
                         return;
                     }
@@ -115,13 +116,28 @@ namespace DllJson.Services
                     var assembly = AssemblyDefinition.ReadAssembly(file);
                     loaded[file] = assembly;
                 }
-                catch (Exception ex)
+                catch (BadImageFormatException ex)
                 {
-                    // record skipped/failed assemblies with reason
                     skipped.Add(new SkippedAssemblyInfo
                     {
                         FilePath = file,
                         Reason = ex.Message,
+                        SkipCategory = "Corrupted",
+                        Exception = new DllJson.Models.ExceptionInfo
+                        {
+                            Type = ex.GetType().FullName,
+                            Message = ex.Message,
+                            StackTrace = ex.StackTrace
+                        }
+                    });
+                }
+                catch (Exception ex)
+                {
+                    skipped.Add(new SkippedAssemblyInfo
+                    {
+                        FilePath = file,
+                        Reason = ex.Message,
+                        SkipCategory = "Exception",
                         Exception = new DllJson.Models.ExceptionInfo
                         {
                             Type = ex.GetType().FullName,
@@ -194,6 +210,7 @@ namespace DllJson.Services
     {
         public string FilePath { get; set; }
         public string Reason { get; set; }
+        public string SkipCategory { get; set; }
         public DllJson.Models.ExceptionInfo Exception { get; set; }
     }
 

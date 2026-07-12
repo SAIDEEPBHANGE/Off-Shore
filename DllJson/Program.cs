@@ -6,10 +6,10 @@ using DllJson.Models;
 using DllJson.Services;
 using System;
 using System.Collections.Generic;
-using System.Diagnostics;
 using System.IO;
 using System.Linq;
 using System.Text.Json;
+using System.Diagnostics;
 
 namespace DllJson
 {
@@ -31,7 +31,7 @@ namespace DllJson
                 Config = new AuditConfig
                 {
                     SolutionPath = Directory.GetCurrentDirectory(),
-                    AuditFolder = "D:\\Github Repository\\Off-Shore\\Backend-Audits\\data",
+                    AuditFolder = "D:\\Github Repository\\Off-Shore\\Backend-Audits",
                     IncludePatterns = new List<string> { "*.dll" }
                 }
             };
@@ -59,7 +59,7 @@ namespace DllJson
 
                     var graph = scanResult.Graph;
 
-                    // Update counts
+                    // Update counts - include only processed, not skipped/native
                     folderAudit.DllCount = graph.Dlls.Count + (scanResult.Skipped?.Count ?? 0);
 
                     //
@@ -143,6 +143,10 @@ namespace DllJson
                     {
                         foreach (var skip in scanResult.Skipped)
                         {
+                            // Skip native DLLs from audit - only record other failures
+                            if (skip.SkipCategory == "Native")
+                                continue;
+
                             var dllAudit = new DllAudit
                             {
                                 DllName = Path.GetFileName(skip.FilePath),
@@ -151,7 +155,7 @@ namespace DllJson
                                 EndedAt = DateTime.UtcNow,
                                 DurationMs = 0,
                                 Status = "Failed",
-                                Result = skip.Reason,
+                                Result = skip.SkipCategory,
                                 Reason = skip.Reason,
                                 Exception = skip.Exception
                             };
