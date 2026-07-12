@@ -1,5 +1,5 @@
 {
-  "Id": "4f0fe50a-6dbc-4944-8619-b3faa73f0db3",
+  "Id": "b10605ca-3f20-4b4d-9811-f620fad6c640",
   "DllName": "DSMEditProvider",
   "Version": "2.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\DrawingsIsometric\\Alias\\ICP\\Modules\\DSMEditProvider.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T11:28:22.2647088Z"
+    "ScanDate": "2026-07-12T10:58:13.4879509Z"
   },
   "Dependencies": [
     {

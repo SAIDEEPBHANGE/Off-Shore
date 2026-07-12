@@ -1,5 +1,5 @@
 {
-  "Id": "075fec79-1551-42f6-b8f6-d4f15b0d57fa",
+  "Id": "a4f1a740-acd6-4ae3-8456-c5ca38fd984d",
   "DllName": "MarineStructuresCustomCommand",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\ShipStructure\\Client\\Bin\\MarineStructuresCustomCommand.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T11:28:22.2740348Z"
+    "ScanDate": "2026-07-12T10:58:13.4989648Z"
   },
   "Dependencies": [
     {

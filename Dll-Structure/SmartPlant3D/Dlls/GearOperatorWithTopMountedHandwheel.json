@@ -1,5 +1,5 @@
 {
-  "Id": "5e9dbfbf-4a01-4be5-ad5d-11fd119d58ca",
+  "Id": "d5dc2ba2-f667-4928-a7ca-25238c56223b",
   "DllName": "GearOperatorWithTopMountedHandwheel",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\3DRefData\\SharedContent\\Bin\\Piping\\DotNetSymbols\\Release\\GearOperatorWithTopMountedHandwheel.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T11:28:22.234949Z"
+    "ScanDate": "2026-07-12T10:58:13.4533491Z"
   },
   "Dependencies": [
     {

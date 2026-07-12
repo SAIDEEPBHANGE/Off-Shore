@@ -1,5 +1,5 @@
 {
-  "Id": "87d52979-f5b9-4c81-bb4e-ae7f214f9e6d",
+  "Id": "e39d6399-7de8-4b67-846c-12f6410fa4f0",
   "DllName": "StructureSymbolDefinition.resources",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\Core\\Container\\Bin\\Assemblies\\Release\\en-US\\StructureSymbolDefinition.resources.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T11:28:22.2750345Z"
+    "ScanDate": "2026-07-12T10:58:13.4999579Z"
   },
   "Dependencies": [
     {

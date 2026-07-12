@@ -1,5 +1,5 @@
 {
-  "Id": "2cf33819-d09c-491c-ab93-924f6fca2eef",
+  "Id": "411b77a5-80ff-49c1-b2d6-22487a750365",
   "DllName": "BoardAssignmentCommand.resources",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\Core\\Container\\Bin\\Assemblies\\Release\\en-US\\BoardAssignmentCommand.resources.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T11:28:22.2730497Z"
+    "ScanDate": "2026-07-12T10:58:13.4979574Z"
   },
   "Dependencies": [
     {

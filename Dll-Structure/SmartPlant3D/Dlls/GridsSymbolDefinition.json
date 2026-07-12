@@ -1,5 +1,5 @@
 {
-  "Id": "584c63fe-13ca-4389-9455-4132ec41a655",
+  "Id": "3df3dd71-0380-4ce5-9f18-a8f27cb672c1",
   "DllName": "GridsSymbolDefinition",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\Core\\Container\\Bin\\Assemblies\\Release\\GridsSymbolDefinition.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T11:28:22.2690202Z"
+    "ScanDate": "2026-07-12T10:58:13.4922621Z"
   },
   "Dependencies": [
     {

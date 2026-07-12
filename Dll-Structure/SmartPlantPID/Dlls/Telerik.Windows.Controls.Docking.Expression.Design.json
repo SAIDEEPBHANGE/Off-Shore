@@ -1,5 +1,5 @@
 {
-  "Id": "8f8b05d3-fdb8-4608-b55c-6bcb09ba1a69",
+  "Id": "1d91e0e3-6da5-4abc-81cf-8f7f4e58f3bd",
   "DllName": "Telerik.Windows.Controls.Docking.Expression.Design",
   "Version": "2018.2.620.45",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\telerik.windows.controls.docking.expression.design.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T10:48:24.5103255Z"
+    "ScanDate": "2026-07-12T10:25:42.9231193Z"
   },
   "Dependencies": [
     {

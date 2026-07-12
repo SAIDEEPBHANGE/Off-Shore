@@ -1,5 +1,5 @@
 {
-  "Id": "650862b4-fd53-40d3-8b04-c8b001f6235f",
+  "Id": "23db4480-0267-42c0-aa28-7c7926cff797",
   "DllName": "CopySimHiliter",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\CopyByFamily\\Assemblies\\Release\\CopySimHiliter.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T11:28:22.2740348Z"
+    "ScanDate": "2026-07-12T10:58:13.4989648Z"
   },
   "Dependencies": [
     {

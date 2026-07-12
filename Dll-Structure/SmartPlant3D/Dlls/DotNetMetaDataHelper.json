@@ -1,5 +1,5 @@
 {
-  "Id": "81234107-917e-435e-99ab-f2f1e4606cde",
+  "Id": "7fd5426c-61e6-4360-8e88-6fedb177c72b",
   "DllName": "DotNetMetaDataHelper",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\RefData\\Middle\\Bin\\DotNetMetaDataHelper.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T11:28:22.2617095Z"
+    "ScanDate": "2026-07-12T10:58:13.4819534Z"
   },
   "Dependencies": [
     {

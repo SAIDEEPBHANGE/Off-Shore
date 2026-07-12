@@ -1,5 +1,5 @@
 {
-  "Id": "2e58a609-f9e3-4c2f-8cbc-f1db59760042",
+  "Id": "1760deb3-ddab-4121-acdc-e396fc208916",
   "DllName": "ICSharpCode.SharpZipLib",
   "Version": "0.86.0.518",
   "FilePath": "D:\\Off-Share\\Smart3D\\Documentation\\HelpApp\\ICSharpCode.SharpZipLib.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v2.0.50727",
-    "ScanDate": "2026-07-11T11:28:22.2730497Z"
+    "ScanDate": "2026-07-12T10:58:13.4979574Z"
   },
   "Dependencies": [
     {

@@ -1,5 +1,5 @@
 {
-  "Id": "fffbbb25-8422-49ea-8afd-389cfb16ce7f",
+  "Id": "41c33df5-1763-4d67-86ce-88b045a23181",
   "DllName": "Telerik.Pivot.DataProviders.Adomd",
   "Version": "2018.2.620.45",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\telerik.pivot.dataproviders.adomd.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T10:48:24.5143269Z"
+    "ScanDate": "2026-07-12T10:25:42.9231193Z"
   },
   "Dependencies": [
     {

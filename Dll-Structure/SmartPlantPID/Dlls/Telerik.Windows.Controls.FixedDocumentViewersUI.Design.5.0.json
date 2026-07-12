@@ -1,5 +1,5 @@
 {
-  "Id": "f485106e-a3cc-4671-bb25-082f52529f87",
+  "Id": "d62ea034-a1e3-49ee-8a07-6634a19f71be",
   "DllName": "Telerik.Windows.Controls.FixedDocumentViewersUI.Design.5.0",
   "Version": "2018.2.620.45",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\telerik.windows.controls.fixeddocumentviewersui.design.5.0.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T10:48:24.5183186Z"
+    "ScanDate": "2026-07-12T10:25:42.9231193Z"
   },
   "Dependencies": [
     {

@@ -1,5 +1,5 @@
 {
-  "Id": "b5ac41ec-ea25-4821-88b1-76adb66d0f75",
+  "Id": "aae6caea-0d0a-4b49-8ea8-ec1e4535dab6",
   "DllName": "StructuralAnalysisCommand",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\StructuralAnalysis\\Client\\Bin\\StructuralAnalysisCommand.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T11:28:22.2680391Z"
+    "ScanDate": "2026-07-12T10:58:13.491253Z"
   },
   "Dependencies": [
     {

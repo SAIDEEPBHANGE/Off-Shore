@@ -1,5 +1,5 @@
 {
-  "Id": "1e75e264-7d1e-47e0-ac2d-d04a9bbbc808",
+  "Id": "e50dde63-2e72-489b-9e09-6c21d93fb115",
   "DllName": "Telerik.Windows.Documents.FormatProviders.Rtf",
   "Version": "2018.2.620.45",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\telerik.windows.documents.formatproviders.rtf.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T10:48:24.5133273Z"
+    "ScanDate": "2026-07-12T10:25:42.9231193Z"
   },
   "Dependencies": [
     {

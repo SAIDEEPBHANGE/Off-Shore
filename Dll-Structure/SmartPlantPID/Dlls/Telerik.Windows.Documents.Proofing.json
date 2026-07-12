@@ -1,5 +1,5 @@
 {
-  "Id": "00782afc-4fa7-4a0f-80d9-7dfd2830b4dd",
+  "Id": "1152c0f3-a0ed-4873-bd8e-6a45be2933df",
   "DllName": "Telerik.Windows.Documents.Proofing",
   "Version": "2018.2.620.45",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\telerik.windows.documents.proofing.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T10:48:24.5133273Z"
+    "ScanDate": "2026-07-12T10:25:42.9231193Z"
   },
   "Dependencies": [
     {

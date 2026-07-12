@@ -1,5 +1,5 @@
 {
-  "Id": "6eab2512-877f-4b83-a1aa-b1efe7c05da8",
+  "Id": "bfd65d34-8f03-4d57-9e1a-8e57b65a8d6c",
   "DllName": "SPUpdateDwgComps",
   "Version": "9.0.0.1405",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\spupdatedwgcomps.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T10:48:24.5123232Z"
+    "ScanDate": "2026-07-12T10:25:42.9231193Z"
   },
   "Dependencies": [
     {

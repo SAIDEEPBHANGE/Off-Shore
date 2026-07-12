@@ -1,5 +1,5 @@
 {
-  "Id": "ea1c1078-381f-4c5e-99f5-6e5a375363f1",
+  "Id": "8e12767e-b1ed-4f05-926f-a9223cd857a5",
   "DllName": "Microsoft.SqlServer.ConnectionInfo",
   "Version": "14.100.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\Core\\Container\\Bin\\Assemblies\\Release\\SMO\\14.1\\Microsoft.SqlServer.ConnectionInfo.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v2.0.50727",
-    "ScanDate": "2026-07-11T11:28:22.2750345Z"
+    "ScanDate": "2026-07-12T10:58:13.4999579Z"
   },
   "Dependencies": [
     {

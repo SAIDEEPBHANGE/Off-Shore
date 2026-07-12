@@ -1,5 +1,5 @@
 {
-  "Id": "370b6fe7-519b-4168-9c52-dac5040d76aa",
+  "Id": "c439e898-b428-4b44-ae17-2eb3ce5d9fab",
   "DllName": "PlanningReports",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\3DRefData\\SharedContent\\Bin\\Planning\\Rules\\Release\\PlanningReports.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T11:28:22.2690202Z"
+    "ScanDate": "2026-07-12T10:58:13.4922621Z"
   },
   "Dependencies": [
     {

@@ -1,5 +1,5 @@
 {
-  "Id": "5ab8a252-4600-40cf-aa94-2829ac750682",
+  "Id": "e4595c97-d7b3-455c-a7ce-495d2975b648",
   "DllName": "ManufacturingSymbolDefinition",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\Core\\Container\\Bin\\Assemblies\\Release\\ManufacturingSymbolDefinition.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T11:28:22.2637085Z"
+    "ScanDate": "2026-07-12T10:58:13.4859517Z"
   },
   "Dependencies": [
     {

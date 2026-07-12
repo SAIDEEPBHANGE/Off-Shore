@@ -1,5 +1,5 @@
 {
-  "Id": "b6d0aaeb-2285-49b0-bf92-f872f1394f2a",
+  "Id": "e8c763a5-e0f9-4351-94d7-5c01931d6607",
   "DllName": "EQDumpster",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\3DRefData\\SharedContent\\Bin\\Equipment\\DotNetSymbols\\Release\\EQDumpster.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T11:28:22.2700339Z"
+    "ScanDate": "2026-07-12T10:58:13.4945578Z"
   },
   "Dependencies": [
     {

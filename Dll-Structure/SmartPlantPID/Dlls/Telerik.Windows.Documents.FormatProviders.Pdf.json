@@ -1,5 +1,5 @@
 {
-  "Id": "b27ca48f-70e4-4187-ae9f-289c06f32bd6",
+  "Id": "acebfbc5-1aeb-436c-8cd2-eb8ff4a6cd4f",
   "DllName": "Telerik.Windows.Documents.FormatProviders.Pdf",
   "Version": "2018.2.620.45",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\telerik.windows.documents.formatproviders.pdf.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T10:48:24.5193118Z"
+    "ScanDate": "2026-07-12T10:25:42.9231193Z"
   },
   "Dependencies": [
     {

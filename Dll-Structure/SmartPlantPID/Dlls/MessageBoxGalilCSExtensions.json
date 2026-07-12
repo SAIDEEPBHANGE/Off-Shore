@@ -1,5 +1,5 @@
 {
-  "Id": "d07b318b-3a11-4a40-97f2-2219e163f184",
+  "Id": "d198b83f-5149-410f-97d2-adf3aa2fa557",
   "DllName": "MessageBoxGalilCSExtensions",
   "Version": "10.0.0.603",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\messageboxgalilcsextensions.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T10:48:24.5113244Z"
+    "ScanDate": "2026-07-12T10:25:42.9231193Z"
   },
   "Dependencies": [
     {

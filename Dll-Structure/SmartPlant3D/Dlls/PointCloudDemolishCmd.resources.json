@@ -1,5 +1,5 @@
 {
-  "Id": "e92cfafa-c29f-4a35-960f-783146a5249b",
+  "Id": "82c6afff-818e-46f4-a652-cf8f281d54c7",
   "DllName": "PointCloudDemolishCmd.resources",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\Core\\Container\\Bin\\Assemblies\\Release\\en-US\\PointCloudDemolishCmd.resources.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T11:28:22.2329497Z"
+    "ScanDate": "2026-07-12T10:58:13.4511678Z"
   },
   "Dependencies": [
     {

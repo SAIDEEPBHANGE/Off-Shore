@@ -1,5 +1,5 @@
 {
-  "Id": "8efc6ed6-da2c-4a77-bea6-5a1811d366a7",
+  "Id": "9fdb4c10-5de1-436a-acad-3b0e8a50227e",
   "DllName": "ProjMgmtCommands.resources",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\Core\\Container\\Bin\\Assemblies\\Release\\en-US\\ProjMgmtCommands.resources.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T11:28:22.2319505Z"
+    "ScanDate": "2026-07-12T10:58:13.4501196Z"
   },
   "Dependencies": [
     {

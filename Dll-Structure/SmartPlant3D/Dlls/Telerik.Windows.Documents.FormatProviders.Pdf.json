@@ -1,5 +1,5 @@
 {
-  "Id": "2fabd3b2-51cd-4d26-aa12-091d3b0de13f",
+  "Id": "82061428-ee1f-46aa-b75b-d6e002a711f6",
   "DllName": "Telerik.Windows.Documents.FormatProviders.Pdf",
   "Version": "2018.1.220.45",
   "FilePath": "D:\\Off-Share\\Smart3D\\Core\\Container\\Bin\\SxS\\Telerik\\Telerik.Windows.Documents.FormatProviders.Pdf.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T11:28:22.2607088Z"
+    "ScanDate": "2026-07-12T10:58:13.4799526Z"
   },
   "Dependencies": [
     {

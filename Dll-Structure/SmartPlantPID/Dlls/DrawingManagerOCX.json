@@ -1,5 +1,5 @@
 {
-  "Id": "f123aaf6-ba5c-4562-9096-80ae7cb66902",
+  "Id": "a34d6149-7315-4789-88ff-d1a331728d81",
   "DllName": "DrawingManagerOCX",
   "Version": "9.0.0.1405",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\drawingmanagerocx.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T10:48:24.5113244Z"
+    "ScanDate": "2026-07-12T10:25:42.9231193Z"
   },
   "Dependencies": [
     {

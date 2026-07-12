@@ -1,5 +1,5 @@
 {
-  "Id": "bc16cfda-2bc9-42e2-9aaf-960901324362",
+  "Id": "c6e05936-cfa4-46fc-a227-eae37656b633",
   "DllName": "Microsoft.SqlServer.Management.XEventDbScoped",
   "Version": "14.100.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\Core\\Container\\Bin\\Assemblies\\Release\\SMO\\14.1\\Microsoft.SqlServer.Management.XEventDbScoped.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v2.0.50727",
-    "ScanDate": "2026-07-11T11:28:22.2409488Z"
+    "ScanDate": "2026-07-12T10:58:13.4661323Z"
   },
   "Dependencies": [
     {

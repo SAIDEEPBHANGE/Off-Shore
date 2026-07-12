@@ -1,5 +1,5 @@
 {
-  "Id": "d747ba11-1915-43ec-b5b3-c02aabcf960e",
+  "Id": "9f74eea2-ef94-42c7-b39c-a2ac4783583e",
   "DllName": "HSurfaceMountRectangularRegister",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\3DRefData\\SharedContent\\Bin\\Ducting\\DotNetSymbols\\Release\\HSurfaceMountRectangularRegister.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T11:28:22.2577098Z"
+    "ScanDate": "2026-07-12T10:58:13.4756454Z"
   },
   "Dependencies": [
     {

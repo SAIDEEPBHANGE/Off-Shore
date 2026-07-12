@@ -1,5 +1,5 @@
 {
-  "Id": "5f0cf3dd-bdd4-4c1e-96e4-a8ce886c9bee",
+  "Id": "7f87a34c-4e57-408b-9e5f-66ab6cd43a76",
   "DllName": "igrClientDa420",
   "Version": "10.0.0.603",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\igrClientDa420.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T10:48:24.5123232Z"
+    "ScanDate": "2026-07-12T10:25:42.9231193Z"
   },
   "Dependencies": [
     {

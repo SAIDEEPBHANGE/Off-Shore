@@ -1,5 +1,5 @@
 {
-  "Id": "33c3435a-a9cf-43a2-8d31-34531d3a42f9",
+  "Id": "de87a999-fc3e-41c8-880a-da4f96090448",
   "DllName": "ManufacturingProfileProcessRule",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\3DRefData\\SharedContent\\Bin\\StructManufacturing\\Rules\\Release\\ManufacturingProfileProcessRule.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T11:28:22.2690202Z"
+    "ScanDate": "2026-07-12T10:58:13.493239Z"
   },
   "Dependencies": [
     {

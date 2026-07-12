@@ -1,5 +1,5 @@
 {
-  "Id": "d8d7d09a-b708-4934-ab76-c158ffb47c2f",
+  "Id": "6566db60-3e12-4bd5-9541-42b14efc1fc6",
   "DllName": "GCAdvancedMacroHelper",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\CommonStruct\\Symbols\\Bin\\GCAdvancedMacroHelper.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T11:28:22.2449482Z"
+    "ScanDate": "2026-07-12T10:58:13.4703504Z"
   },
   "Dependencies": [
     {

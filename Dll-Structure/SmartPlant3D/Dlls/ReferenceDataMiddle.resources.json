@@ -1,5 +1,5 @@
 {
-  "Id": "105e542b-54c3-4b4c-b482-71700d3eeee6",
+  "Id": "b1f62ec5-d6e0-4e7c-88a2-446d0ca2923f",
   "DllName": "ReferenceDataMiddle.resources",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\Core\\Container\\Bin\\Assemblies\\Release\\en-US\\ReferenceDataMiddle.resources.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T11:28:22.2329497Z"
+    "ScanDate": "2026-07-12T10:58:13.4511678Z"
   },
   "Dependencies": [
     {

@@ -1,5 +1,5 @@
 {
-  "Id": "5fb6c8a9-fb3a-4e56-960b-b807700bb38c",
+  "Id": "07660433-8a7e-42b3-8a12-4a7b95456311",
   "DllName": "ScheduleUIResource",
   "Version": "10.0.0.603",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\Languages\\ScheduleUIResource.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T10:48:24.5133273Z"
+    "ScanDate": "2026-07-12T10:25:42.9231193Z"
   },
   "Dependencies": [
     {

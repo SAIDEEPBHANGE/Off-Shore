@@ -1,5 +1,5 @@
 {
-  "Id": "554d6cf6-670e-4faa-8e41-be6f4442bfba",
+  "Id": "da09471a-9cdd-4ed8-a0a3-f871e39d9d82",
   "DllName": "FindReplaceCmd",
   "Version": "9.0.0.1405",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\findreplacecmd.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T10:48:24.5103255Z"
+    "ScanDate": "2026-07-12T10:25:42.9231193Z"
   },
   "Dependencies": [
     {

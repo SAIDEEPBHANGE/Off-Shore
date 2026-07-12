@@ -1,5 +1,5 @@
 {
-  "Id": "60e72e25-e979-4edc-91f8-f0f2e0c688f7",
+  "Id": "29a82abc-77f2-4b55-8594-b026e27626e8",
   "DllName": "Telerik.Windows.Controls.DataServices.Design.5.0",
   "Version": "2018.2.620.45",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\telerik.windows.controls.dataservices.design.5.0.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T10:48:24.5103255Z"
+    "ScanDate": "2026-07-12T10:25:42.9231193Z"
   },
   "Dependencies": [
     {

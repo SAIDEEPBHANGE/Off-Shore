@@ -1,5 +1,5 @@
 {
-  "Id": "36b9e641-ade1-498f-99bd-afdf8b188c52",
+  "Id": "098c1eb4-edbf-4bd8-bfb6-121b0e737ea9",
   "DllName": "Microsoft.Practices.Prism.MefExtensions",
   "Version": "4.1.0.0",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\microsoft.practices.prism.mefextensions.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T10:48:24.5193118Z"
+    "ScanDate": "2026-07-12T10:25:42.9231193Z"
   },
   "Dependencies": [
     {

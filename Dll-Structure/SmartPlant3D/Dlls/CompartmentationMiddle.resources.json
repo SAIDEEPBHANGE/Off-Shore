@@ -1,5 +1,5 @@
 {
-  "Id": "fcae7642-a9cb-4eb4-90fc-79d8ff10c046",
+  "Id": "35c7f02f-6e32-44be-9d82-978f76e750f3",
   "DllName": "CompartmentationMiddle.resources",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\Core\\Container\\Bin\\Assemblies\\Release\\en-US\\CompartmentationMiddle.resources.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T11:28:22.234949Z"
+    "ScanDate": "2026-07-12T10:58:13.4533491Z"
   },
   "Dependencies": [
     {

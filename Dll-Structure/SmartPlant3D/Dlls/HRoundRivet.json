@@ -1,5 +1,5 @@
 {
-  "Id": "ccd5f000-30d7-46ee-93f2-36159f019f3a",
+  "Id": "6aacdb16-3b0a-4b28-9b0d-d3e44daf2973",
   "DllName": "HRoundRivet",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\3DRefData\\SharedContent\\Bin\\Ducting\\DotNetSymbols\\Release\\HRoundRivet.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T11:28:22.2740348Z"
+    "ScanDate": "2026-07-12T10:58:13.4989648Z"
   },
   "Dependencies": [
     {

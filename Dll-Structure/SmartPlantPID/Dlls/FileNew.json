@@ -1,5 +1,5 @@
 {
-  "Id": "18a9d283-23d4-4b64-a3c2-b68ff076490e",
+  "Id": "9cfa9b7e-bb48-405b-822a-2ea2faf0ea0f",
   "DllName": "FileNew",
   "Version": "9.0.0.1405",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\filenew.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T10:48:24.5203237Z"
+    "ScanDate": "2026-07-12T10:25:42.9231193Z"
   },
   "Dependencies": [
     {

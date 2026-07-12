@@ -1,5 +1,5 @@
 {
-  "Id": "06867e18-9a41-48a3-b500-779ec02118c1",
+  "Id": "cac11216-9165-4885-b139-c96bce2a7aa0",
   "DllName": "Microsoft.SqlServer.SqlWmiManagement",
   "Version": "14.100.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\Core\\Container\\Bin\\Assemblies\\Release\\SMO\\14.1\\Microsoft.SqlServer.SqlWmiManagement.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v2.0.50727",
-    "ScanDate": "2026-07-11T11:28:22.2700339Z"
+    "ScanDate": "2026-07-12T10:58:13.493239Z"
   },
   "Dependencies": [
     {

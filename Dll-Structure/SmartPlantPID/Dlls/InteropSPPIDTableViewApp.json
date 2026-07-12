@@ -1,5 +1,5 @@
 {
-  "Id": "5359a68c-4a5f-4531-9b5a-026aad67bfff",
+  "Id": "18487b89-fd32-4ffe-ba0e-1baa74ed2335",
   "DllName": "InteropSPPIDTableViewApp",
   "Version": "1.2.0.0",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\interopsppidtableviewapp.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T10:48:24.5103255Z"
+    "ScanDate": "2026-07-12T10:25:42.9231193Z"
   },
   "Dependencies": [
     {

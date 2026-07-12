@@ -1,5 +1,5 @@
 {
-  "Id": "1a6c7658-30ab-44a2-81fd-d9567c6da05b",
+  "Id": "aff955de-f38f-4eb9-99a9-57679d5625e8",
   "DllName": "PidEFAdapter.resources",
   "Version": "9.0.0.1405",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\Languages\\en-US\\pidefadapter.resources.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T10:48:24.5193118Z"
+    "ScanDate": "2026-07-12T10:25:42.9231193Z"
   },
   "Dependencies": [
     {

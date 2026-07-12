@@ -1,5 +1,5 @@
 {
-  "Id": "0412e73d-1891-4a6f-9bee-6b28957d67cb",
+  "Id": "e3a9cca3-3bb5-4ee4-9eea-9e028faf651e",
   "DllName": "igrSPDDBroker412",
   "Version": "10.0.0.603",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\igrSPDDBroker412.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T10:48:24.5193118Z"
+    "ScanDate": "2026-07-12T10:25:42.9231193Z"
   },
   "Dependencies": [
     {

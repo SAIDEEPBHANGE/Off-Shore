@@ -1,5 +1,5 @@
 {
-  "Id": "b1b05eb5-78f6-41b2-bc47-eb0e87e95f2f",
+  "Id": "cda5a827-8ff3-4a4b-b623-9c1de9dcb7fe",
   "DllName": "AreaBreakCmd",
   "Version": "9.0.0.1405",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\areabreakcmd.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T10:48:24.5113244Z"
+    "ScanDate": "2026-07-12T10:25:42.9231193Z"
   },
   "Dependencies": [
     {

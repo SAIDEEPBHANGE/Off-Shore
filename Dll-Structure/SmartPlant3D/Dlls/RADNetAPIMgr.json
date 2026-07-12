@@ -1,5 +1,5 @@
 {
-  "Id": "f00df9df-27fa-4740-91ae-f0032d8d7c02",
+  "Id": "703044ae-1513-41e1-9985-dae3aa3d9429",
   "DllName": "RADNetAPIMgr",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\Common2D\\Rad2D\\bin\\radnetapimgr.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T11:28:22.2506553Z"
+    "ScanDate": "2026-07-12T10:58:13.4746454Z"
   },
   "Dependencies": [
     {

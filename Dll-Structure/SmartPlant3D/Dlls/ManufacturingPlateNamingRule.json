@@ -1,5 +1,5 @@
 {
-  "Id": "9afe373c-1119-4280-b3b9-8d85d1fa7aec",
+  "Id": "87f73d4a-5380-43d9-99d9-44c19e40c1dc",
   "DllName": "ManufacturingPlateNamingRule",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\3DRefData\\SharedContent\\Bin\\StructManufacturing\\Rules\\Release\\ManufacturingPlateNamingRule.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T11:28:22.2496605Z"
+    "ScanDate": "2026-07-12T10:58:13.4736542Z"
   },
   "Dependencies": [
     {

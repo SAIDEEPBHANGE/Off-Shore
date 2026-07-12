@@ -1,5 +1,5 @@
 {
-  "Id": "e2c9b062-2c65-4fd6-a499-efa74156f456",
+  "Id": "e79bb9ff-bd61-4982-ac7a-201b1471dfab",
   "DllName": "SHTransitionElement",
   "Version": "1.0.0.1",
   "FilePath": "D:\\Off-Share\\Smart3D\\3DRefData\\SharedContent\\Bin\\Shapes\\DotNetSymbols\\Release\\SHTransitionElement.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T11:28:22.2607088Z"
+    "ScanDate": "2026-07-12T10:58:13.4799526Z"
   },
   "Dependencies": [
     {

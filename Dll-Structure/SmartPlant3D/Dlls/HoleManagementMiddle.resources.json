@@ -1,5 +1,5 @@
 {
-  "Id": "64942cae-d0ab-4cec-a596-e3763f914426",
+  "Id": "04f0b17a-ae9b-4e1d-9295-ec807e145b64",
   "DllName": "HoleManagementMiddle.resources",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\Core\\Container\\Bin\\Assemblies\\Release\\en-US\\HoleManagementMiddle.resources.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T11:28:22.2449482Z"
+    "ScanDate": "2026-07-12T10:58:13.4703504Z"
   },
   "Dependencies": [
     {

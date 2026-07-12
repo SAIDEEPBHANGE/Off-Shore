@@ -1,5 +1,5 @@
 {
-  "Id": "1e222f8a-7eaa-4431-a803-03086953a8cd",
+  "Id": "38df2d5c-263b-44f2-8dcf-c3a9d941c660",
   "DllName": "igrCEFindDialog412",
   "Version": "10.0.0.603",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\igrCEFindDialog412.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T10:48:24.5103255Z"
+    "ScanDate": "2026-07-12T10:25:42.9231193Z"
   },
   "Dependencies": [
     {

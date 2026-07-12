@@ -1,5 +1,5 @@
 {
-  "Id": "0bb6ffc8-cf8a-400b-8c1a-2a4a56772c33",
+  "Id": "55ba4e77-392a-422e-9c9a-216c8a4a67c8",
   "DllName": "BoardAssignmentStandAlone.resources",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\Core\\Container\\Bin\\Assemblies\\Release\\en-US\\BoardAssignmentStandAlone.resources.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T11:28:22.2660584Z"
+    "ScanDate": "2026-07-12T10:58:13.4879509Z"
   },
   "Dependencies": [
     {

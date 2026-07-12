@@ -1,5 +1,5 @@
 {
-  "Id": "5580f6e4-bd0b-4753-9e3f-16d03ff1df57",
+  "Id": "fdf2093b-9980-4ae4-9868-7c5136eae901",
   "DllName": "Telerik.Windows.Documents.VisualStudio.Design.5.0",
   "Version": "2018.2.620.45",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\telerik.windows.documents.visualstudio.design.5.0.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T10:48:24.5143269Z"
+    "ScanDate": "2026-07-12T10:25:42.9231193Z"
   },
   "Dependencies": [
     {

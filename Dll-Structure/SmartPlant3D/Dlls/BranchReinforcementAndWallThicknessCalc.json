@@ -1,5 +1,5 @@
 {
-  "Id": "c8e072ef-7ff9-4356-a187-bec83b51f15d",
+  "Id": "dea87ed0-66ac-4216-bfd2-dec9f3ff20b3",
   "DllName": "BranchReinforcementAndWallThicknessCalc",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\Core\\Container\\Bin\\Assemblies\\Release\\BranchReinforcementAndWallThicknessCalc.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T11:28:22.2690202Z"
+    "ScanDate": "2026-07-12T10:58:13.4922621Z"
   },
   "Dependencies": [
     {

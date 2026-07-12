@@ -1,5 +1,5 @@
 {
-  "Id": "53afcf3c-1eaf-426f-8918-09c27af30d1f",
+  "Id": "320c8e85-c842-4518-b6f5-2719a2da7ee4",
   "DllName": "LeverOperator",
   "Version": "1.0.0.1",
   "FilePath": "D:\\Off-Share\\Smart3D\\3DRefData\\SharedContent\\Bin\\Piping\\DotNetSymbols\\Release\\LeverOperator.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T11:28:22.2700339Z"
+    "ScanDate": "2026-07-12T10:58:13.4945578Z"
   },
   "Dependencies": [
     {

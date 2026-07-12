@@ -1,5 +1,5 @@
 {
-  "Id": "e509881b-14a5-45a6-9f26-0556a834a417",
+  "Id": "28c151c0-359a-4cf2-806b-42f3482d1afc",
   "DllName": "DwrgMgrComUI",
   "Version": "9.0.0.1405",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\dwrgmgrcomui.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T10:48:24.5153254Z"
+    "ScanDate": "2026-07-12T10:25:42.9231193Z"
   },
   "Dependencies": [
     {

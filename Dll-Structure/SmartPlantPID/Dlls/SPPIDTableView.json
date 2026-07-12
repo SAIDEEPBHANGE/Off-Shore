@@ -1,5 +1,5 @@
 {
-  "Id": "cf404e26-5353-42bc-9890-454bdee73ee4",
+  "Id": "1fb1cbc6-4ceb-4f6e-958a-f1fb41424a73",
   "DllName": "SPPIDTableView",
   "Version": "9.0.0.1405",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\sppidtableview.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T10:48:24.5183186Z"
+    "ScanDate": "2026-07-12T10:25:42.9231193Z"
   },
   "Dependencies": [
     {

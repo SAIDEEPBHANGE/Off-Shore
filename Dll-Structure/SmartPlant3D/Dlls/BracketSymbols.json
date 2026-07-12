@@ -1,5 +1,5 @@
 {
-  "Id": "25c46770-25b1-4dd2-8f0b-286e9a0040f9",
+  "Id": "ad524b05-254a-48d1-b6bf-1dd122f47d05",
   "DllName": "BracketSymbols",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\3DRefData\\SharedContent\\Bin\\HangersAndSupports\\Symbols\\Release\\BracketSymbols.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T11:28:22.2740348Z"
+    "ScanDate": "2026-07-12T10:58:13.4989648Z"
   },
   "Dependencies": [
     {

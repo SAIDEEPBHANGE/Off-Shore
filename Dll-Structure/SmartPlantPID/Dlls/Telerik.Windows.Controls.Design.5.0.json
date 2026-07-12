@@ -1,5 +1,5 @@
 {
-  "Id": "775ad28c-36fb-4cbf-a27d-0036c2dfab88",
+  "Id": "d0b0565f-fe86-450f-8185-1746c854136b",
   "DllName": "Telerik.Windows.Controls.Design.5.0",
   "Version": "2018.2.620.45",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\telerik.windows.controls.design.5.0.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T10:48:24.5193118Z"
+    "ScanDate": "2026-07-12T10:25:42.9231193Z"
   },
   "Dependencies": [
     {

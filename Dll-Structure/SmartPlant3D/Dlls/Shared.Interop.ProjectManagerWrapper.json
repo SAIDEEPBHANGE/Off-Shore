@@ -1,5 +1,5 @@
 {
-  "Id": "7e7d35c8-9425-46e1-98a8-f4d703f0a462",
+  "Id": "ef60e7b3-0e48-4966-8732-8bd3c9765896",
   "DllName": "Shared.Interop.ProjectManagerWrapper",
   "Version": "7.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\Core\\Container\\Bin\\Assemblies\\Release\\Shared.Interop.ProjectManagerWrapper.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T11:28:22.2607088Z"
+    "ScanDate": "2026-07-12T10:58:13.4809535Z"
   },
   "Dependencies": [
     {

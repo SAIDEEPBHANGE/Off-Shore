@@ -1,5 +1,5 @@
 {
-  "Id": "1a7335ec-8d18-40af-b8c9-29a60b50b8d2",
+  "Id": "ad37fef9-32ef-437e-b6b3-1c5f5dc20fc5",
   "DllName": "HRectangularRegisterwithRectangularNeck",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\3DRefData\\SharedContent\\Bin\\Ducting\\DotNetSymbols\\Release\\HRectangularRegisterwithRectangularNeck.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T11:28:22.2429482Z"
+    "ScanDate": "2026-07-12T10:58:13.4683583Z"
   },
   "Dependencies": [
     {

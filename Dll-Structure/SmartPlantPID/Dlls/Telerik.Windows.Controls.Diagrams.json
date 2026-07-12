@@ -1,5 +1,5 @@
 {
-  "Id": "c7bead85-ece1-4a74-bf02-d3356e4f7520",
+  "Id": "5bcc3636-caa2-469a-bc96-a9e3c2ad4531",
   "DllName": "Telerik.Windows.Controls.Diagrams",
   "Version": "2018.2.620.45",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\telerik.windows.controls.diagrams.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T10:48:24.5153254Z"
+    "ScanDate": "2026-07-12T10:25:42.9231193Z"
   },
   "Dependencies": [
     {

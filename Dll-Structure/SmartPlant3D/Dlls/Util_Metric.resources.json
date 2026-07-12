@@ -1,5 +1,5 @@
 {
-  "Id": "c40e3002-d78a-43c4-9e2c-a95e3c527cbf",
+  "Id": "e2eb50a1-77fe-4598-9e28-9d3c1a312646",
   "DllName": "Util_Metric.resources",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\3DRefData\\SharedContent\\Bin\\HangersAndSupports\\Symbols\\Release\\en-US\\Util_Metric.resources.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T11:28:22.2379481Z"
+    "ScanDate": "2026-07-12T10:58:13.4589872Z"
   },
   "Dependencies": [
     {

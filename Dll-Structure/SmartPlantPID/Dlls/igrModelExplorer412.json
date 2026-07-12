@@ -1,5 +1,5 @@
 {
-  "Id": "56ebdf53-d2da-4383-bdbc-6306d92c018c",
+  "Id": "631b21bb-f03b-41ae-b82e-5c860ae7fbe1",
   "DllName": "igrModelExplorer412",
   "Version": "10.0.0.603",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\igrmodelexplorer412.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T10:48:24.5153254Z"
+    "ScanDate": "2026-07-12T10:25:42.9231193Z"
   },
   "Dependencies": [
     {

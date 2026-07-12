@@ -1,5 +1,5 @@
 {
-  "Id": "8a27d250-6a13-4b0d-96fb-739b7617fa90",
+  "Id": "c17bdfa0-0e1a-436a-93e1-197c9be104d6",
   "DllName": "InteropXMLComp",
   "Version": "0.0.0.111",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\interopxmlcomp.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v2.0.50727",
-    "ScanDate": "2026-07-11T10:48:24.5143269Z"
+    "ScanDate": "2026-07-12T10:25:42.9231193Z"
   },
   "Dependencies": [
     {

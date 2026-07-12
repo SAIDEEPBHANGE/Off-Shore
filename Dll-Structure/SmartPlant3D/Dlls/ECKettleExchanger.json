@@ -1,5 +1,5 @@
 {
-  "Id": "794cc806-9d91-4ed0-817a-c530bb47fb2a",
+  "Id": "a9b34d84-9a6d-408d-a3ae-de61b253e627",
   "DllName": "ECKettleExchanger",
   "Version": "1.0.0.1",
   "FilePath": "D:\\Off-Share\\Smart3D\\3DRefData\\SharedContent\\Bin\\EquipmentComponents\\DotNetSymbols\\Release\\ECKettleExchanger.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T11:28:22.234949Z"
+    "ScanDate": "2026-07-12T10:58:13.4544245Z"
   },
   "Dependencies": [
     {

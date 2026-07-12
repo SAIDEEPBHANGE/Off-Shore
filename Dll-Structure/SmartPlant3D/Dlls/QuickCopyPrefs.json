@@ -1,5 +1,5 @@
 {
-  "Id": "b1811a15-e98d-49df-8c3f-74baece841c0",
+  "Id": "ac7305de-782a-4799-a4a1-e4a6f1d9f5ff",
   "DllName": "QuickCopyPrefs",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\CommonShip\\Client\\Bin\\QuickCopyPrefs.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T11:28:22.2627089Z"
+    "ScanDate": "2026-07-12T10:58:13.4849526Z"
   },
   "Dependencies": [
     {

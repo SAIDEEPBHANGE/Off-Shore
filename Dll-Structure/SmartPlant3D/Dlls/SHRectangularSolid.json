@@ -1,5 +1,5 @@
 {
-  "Id": "f0ce066b-b9f8-4395-b2c0-87d9265d4299",
+  "Id": "35c5c8a2-bf41-4a4d-99cf-8687008eac8e",
   "DllName": "SHRectangularSolid",
   "Version": "1.0.0.2",
   "FilePath": "D:\\Off-Share\\Smart3D\\3DRefData\\SharedContent\\Bin\\Shapes\\DotNetSymbols\\Release\\SHRectangularSolid.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T11:28:22.234949Z"
+    "ScanDate": "2026-07-12T10:58:13.4533491Z"
   },
   "Dependencies": [
     {

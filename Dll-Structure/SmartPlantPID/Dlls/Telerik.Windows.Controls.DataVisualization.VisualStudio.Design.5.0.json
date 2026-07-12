@@ -1,5 +1,5 @@
 {
-  "Id": "45c59b8d-4adf-477f-9dfc-a49f540974d2",
+  "Id": "a95d294c-28ce-4946-aebf-1400e8d153c6",
   "DllName": "Telerik.Windows.Controls.DataVisualization.VisualStudio.Design.5.0",
   "Version": "2018.2.620.45",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\telerik.windows.controls.datavisualization.visualstudio.design.5.0.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T10:48:24.5113244Z"
+    "ScanDate": "2026-07-12T10:25:42.9231193Z"
   },
   "Dependencies": [
     {

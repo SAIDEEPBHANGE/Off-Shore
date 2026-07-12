@@ -1,5 +1,5 @@
 {
-  "Id": "e9688a72-48c5-4957-a973-ed283557fb67",
+  "Id": "92fba6d3-3522-4f2e-8253-f2dca10fe1f6",
   "DllName": "OpenSite.resources",
   "Version": "10.0.0.603",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\Languages\\en-US\\opensite.resources.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T10:48:24.5103255Z"
+    "ScanDate": "2026-07-12T10:25:42.9231193Z"
   },
   "Dependencies": [
     {

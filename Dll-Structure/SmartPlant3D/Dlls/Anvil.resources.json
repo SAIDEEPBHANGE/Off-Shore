@@ -1,5 +1,5 @@
 {
-  "Id": "ce272817-e3b5-4ab7-9f78-21fd5d27e8cc",
+  "Id": "fb759c5b-08b4-4106-9ddd-29b4251b739a",
   "DllName": "Anvil.resources",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\3DRefData\\SharedContent\\Bin\\HangersAndSupports\\Symbols\\Release\\en-US\\Anvil.resources.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T11:28:22.2627089Z"
+    "ScanDate": "2026-07-12T10:58:13.4839536Z"
   },
   "Dependencies": [
     {

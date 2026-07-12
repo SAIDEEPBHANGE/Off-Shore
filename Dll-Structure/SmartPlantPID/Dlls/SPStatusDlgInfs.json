@@ -1,5 +1,5 @@
 {
-  "Id": "11b9b8ab-3cd9-42b3-b922-0d64d8adcd97",
+  "Id": "1b2a2c20-a1f1-4897-8eaf-06259b5ceda6",
   "DllName": "SPStatusDlgInfs",
   "Version": "9.0.0.1405",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\spstatusdlginfs.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T10:48:24.5113244Z"
+    "ScanDate": "2026-07-12T10:25:42.9231193Z"
   },
   "Dependencies": [
     {

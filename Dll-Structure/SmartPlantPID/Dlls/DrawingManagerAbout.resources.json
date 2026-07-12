@@ -1,5 +1,5 @@
 {
-  "Id": "add20212-8b42-4030-9a31-dc50c574f730",
+  "Id": "c858c7b0-3323-4170-a8da-efa5ff673eb8",
   "DllName": "DrawingManagerAbout.resources",
   "Version": "9.0.0.1405",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\Languages\\en-US\\drawingmanagerabout.resources.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T10:48:24.5153254Z"
+    "ScanDate": "2026-07-12T10:25:42.9231193Z"
   },
   "Dependencies": [
     {

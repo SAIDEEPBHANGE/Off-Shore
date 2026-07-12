@@ -1,5 +1,5 @@
 {
-  "Id": "7d015251-a8a5-4d9d-adad-a5f133bd7695",
+  "Id": "930965f7-9d95-453b-baf0-5985204b9f0b",
   "DllName": "LMForeignCalc",
   "Version": "9.0.0.1405",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\lmforeigncalc.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T10:48:24.5103255Z"
+    "ScanDate": "2026-07-12T10:25:42.9231193Z"
   },
   "Dependencies": [
     {

@@ -1,5 +1,5 @@
 {
-  "Id": "e6e030d0-107e-4955-8432-ba697dda525d",
+  "Id": "50097ccf-a176-4219-ac52-145b375a1689",
   "DllName": "ConduitTee",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\3DRefData\\SharedContent\\Bin\\Electrical\\DotNetSymbols\\Release\\ConduitTee.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T11:28:22.2597092Z"
+    "ScanDate": "2026-07-12T10:58:13.4789309Z"
   },
   "Dependencies": [
     {

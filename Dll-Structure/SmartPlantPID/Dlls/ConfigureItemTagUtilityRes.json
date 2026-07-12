@@ -1,5 +1,5 @@
 {
-  "Id": "66b8cc66-3c55-4ae3-b2ac-a3be98b13b25",
+  "Id": "a61fcca6-68ea-46c4-9f0d-1bd5615e9724",
   "DllName": "ConfigureItemTagUtilityRes",
   "Version": "9.0.0.1405",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\Languages\\ConfigureItemTagUtilityRes.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T10:48:24.5153254Z"
+    "ScanDate": "2026-07-12T10:25:42.9231193Z"
   },
   "Dependencies": [
     {

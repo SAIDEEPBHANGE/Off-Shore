@@ -1,5 +1,5 @@
 {
-  "Id": "1f9a2ecb-40aa-464c-9956-035a9ed04722",
+  "Id": "29c3b660-5e8a-4569-995a-61dd45d4fd2c",
   "DllName": "GCGenericAssemblyHelper",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\ShipStructure\\Middle\\Bin\\GCGenericAssemblyHelper.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T11:28:22.2680391Z"
+    "ScanDate": "2026-07-12T10:58:13.4922621Z"
   },
   "Dependencies": [
     {

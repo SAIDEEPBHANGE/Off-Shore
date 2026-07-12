@@ -1,5 +1,5 @@
 {
-  "Id": "878c364d-db29-40b1-b4d6-389779a95dcd",
+  "Id": "e2daf8d8-d840-48d8-8bce-fb7aec260d69",
   "DllName": "Microsoft.SqlServer.WmiEnum",
   "Version": "14.100.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\Core\\Container\\Bin\\Assemblies\\Release\\SMO\\14.1\\Microsoft.SqlServer.WmiEnum.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v2.0.50727",
-    "ScanDate": "2026-07-11T11:28:22.2439479Z"
+    "ScanDate": "2026-07-12T10:58:13.4693494Z"
   },
   "Dependencies": [
     {

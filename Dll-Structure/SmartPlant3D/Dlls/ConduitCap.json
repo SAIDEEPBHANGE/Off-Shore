@@ -1,5 +1,5 @@
 {
-  "Id": "6f92072e-acaf-4918-a1b6-59d7d5d349d1",
+  "Id": "c6f0f092-f7fb-49e6-bdb8-9969f2eb9435",
   "DllName": "ConduitCap",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\3DRefData\\SharedContent\\Bin\\Electrical\\DotNetSymbols\\Release\\ConduitCap.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T11:28:22.2647088Z"
+    "ScanDate": "2026-07-12T10:58:13.4879509Z"
   },
   "Dependencies": [
     {

@@ -1,5 +1,5 @@
 {
-  "Id": "7b7ce491-9f30-4576-b42a-4635dbe4a8eb",
+  "Id": "1fdfe6c3-0a08-460c-87d9-630bad183ced",
   "DllName": "InteropCompIntfcProp",
   "Version": "0.0.0.111",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\interopcompintfcprop.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v2.0.50727",
-    "ScanDate": "2026-07-11T10:48:24.5193118Z"
+    "ScanDate": "2026-07-12T10:25:42.9231193Z"
   },
   "Dependencies": [
     {

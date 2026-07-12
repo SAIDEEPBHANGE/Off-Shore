@@ -1,5 +1,5 @@
 {
-  "Id": "e95eb228-9a16-4c3d-b010-c577522e6c95",
+  "Id": "32733d1f-6d1e-43a1-ab98-f7f8d28a0609",
   "DllName": "ManufacturingAnnotationControlRule",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\3DRefData\\SharedContent\\Bin\\StructManufacturing\\Rules\\Release\\ManufacturingAnnotationControlRule.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T11:28:22.2506553Z"
+    "ScanDate": "2026-07-12T10:58:13.4756454Z"
   },
   "Dependencies": [
     {

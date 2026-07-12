@@ -1,5 +1,5 @@
 {
-  "Id": "a15529f2-9b82-48ef-b462-af6cab3d9dd1",
+  "Id": "4a0e2018-da32-46bf-82da-b07a24033f2e",
   "DllName": "BoundOperators",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\CommonStruct\\Symbols\\Bin\\BoundOperators.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T11:28:22.2359492Z"
+    "ScanDate": "2026-07-12T10:58:13.4544245Z"
   },
   "Dependencies": [
     {

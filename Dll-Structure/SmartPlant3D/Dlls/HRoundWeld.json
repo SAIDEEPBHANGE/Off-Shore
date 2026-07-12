@@ -1,5 +1,5 @@
 {
-  "Id": "3edeea78-4896-42ac-8482-6e364e13edfb",
+  "Id": "784d1254-9e9a-47c2-a6d6-7c15fd6978a3",
   "DllName": "HRoundWeld",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\3DRefData\\SharedContent\\Bin\\Ducting\\DotNetSymbols\\Release\\HRoundWeld.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T11:28:22.2637085Z"
+    "ScanDate": "2026-07-12T10:58:13.4859517Z"
   },
   "Dependencies": [
     {

@@ -1,5 +1,5 @@
 {
-  "Id": "60f0339c-654b-4eee-a212-82289027cbcf",
+  "Id": "69c8ae7d-569b-4531-af55-26492b83c2b8",
   "DllName": "RadNet.GalilCSExtensions",
   "Version": "10.0.0.603",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\radnet.galilcsextensions.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T10:48:24.5143269Z"
+    "ScanDate": "2026-07-12T10:25:42.9231193Z"
   },
   "Dependencies": [
     {

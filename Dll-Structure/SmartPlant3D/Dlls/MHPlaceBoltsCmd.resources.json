@@ -1,5 +1,5 @@
 {
-  "Id": "44543477-48e1-4429-ad86-e2b56e5e307e",
+  "Id": "2bfd4bc7-b800-4553-9cc9-d8a9c18e3330",
   "DllName": "MHPlaceBoltsCmd.resources",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\Core\\Container\\Bin\\Assemblies\\Release\\en-US\\MHPlaceBoltsCmd.resources.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T11:28:22.2339491Z"
+    "ScanDate": "2026-07-12T10:58:13.4521797Z"
   },
   "Dependencies": [
     {

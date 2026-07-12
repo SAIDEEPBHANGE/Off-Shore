@@ -1,5 +1,5 @@
 {
-  "Id": "0897f05f-fc61-4b07-ade1-a8d8fa6c6fd2",
+  "Id": "73b6853b-995a-4586-b798-37c3df6f1ae3",
   "DllName": "EFContinuousPubService.COMVisibleUtilities",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\Core\\Middle\\bin\\EFContinuousPubService.COMVisibleUtilities.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T11:28:22.2409488Z"
+    "ScanDate": "2026-07-12T10:58:13.4661323Z"
   },
   "Dependencies": [
     {

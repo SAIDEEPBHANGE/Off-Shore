@@ -1,5 +1,5 @@
 {
-  "Id": "f35b83a3-b38e-4bb1-b649-e8f4e2fe25c4",
+  "Id": "60824337-8413-450e-bfd5-880bb2337088",
   "DllName": "DetailingCommonMethods",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\3DRefData\\SharedContent\\Bin\\StructDetail\\CustomAssemblies\\Release\\DetailingCommonMethods.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T11:28:22.2647088Z"
+    "ScanDate": "2026-07-12T10:58:13.4879509Z"
   },
   "Dependencies": [
     {

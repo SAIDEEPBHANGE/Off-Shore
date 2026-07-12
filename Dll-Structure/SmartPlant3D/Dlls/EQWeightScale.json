@@ -1,5 +1,5 @@
 {
-  "Id": "0299ad3d-6d73-4e5d-8a5e-be6d9b8d4e0e",
+  "Id": "652c9085-89a7-4a4e-aba0-6aa7c72868b3",
   "DllName": "EQWeightScale",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\3DRefData\\SharedContent\\Bin\\Equipment\\DotNetSymbols\\Release\\EQWeightScale.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T11:28:22.2506553Z"
+    "ScanDate": "2026-07-12T10:58:13.4746454Z"
   },
   "Dependencies": [
     {

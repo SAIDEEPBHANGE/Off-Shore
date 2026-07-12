@@ -1,5 +1,5 @@
 {
-  "Id": "59f0bc3b-7f01-4551-a082-a351b546f7f6",
+  "Id": "51dda1ad-f394-441c-801e-ae79e3508e8e",
   "DllName": "CmdVisibletPoints",
   "Version": "9.0.0.1405",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\cmdvisibletpoints.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T10:48:24.5093279Z"
+    "ScanDate": "2026-07-12T10:25:42.9231193Z"
   },
   "Dependencies": [
     {

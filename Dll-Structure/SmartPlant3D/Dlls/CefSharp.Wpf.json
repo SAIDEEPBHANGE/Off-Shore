@@ -1,5 +1,5 @@
 {
-  "Id": "7fc81a5f-7e52-4220-8e7a-f1003ed6717b",
+  "Id": "8d130506-63a6-452d-9a66-436489c8fa0f",
   "DllName": "CefSharp.Wpf",
   "Version": "53.0.1.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\Core\\Container\\Bin\\SxS\\Intergraph\\CefSharp\\x64\\CefSharp.Wpf.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T11:28:22.2647088Z"
+    "ScanDate": "2026-07-12T10:58:13.4879509Z"
   },
   "Dependencies": [
     {

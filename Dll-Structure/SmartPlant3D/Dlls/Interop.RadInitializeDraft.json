@@ -1,5 +1,5 @@
 {
-  "Id": "f2893e52-fb84-45ab-941f-11febc92389f",
+  "Id": "54631216-29a6-4e21-aac2-b5034ecdf4a9",
   "DllName": "Interop.RadInitializeDraft",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\Common2D\\Rad2D\\bin64\\Interop.RadInitializeDraft.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T11:28:22.2700339Z"
+    "ScanDate": "2026-07-12T10:58:13.493239Z"
   },
   "Dependencies": [
     {

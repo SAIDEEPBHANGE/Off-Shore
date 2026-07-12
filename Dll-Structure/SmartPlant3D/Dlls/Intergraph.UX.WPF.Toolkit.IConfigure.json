@@ -1,5 +1,5 @@
 {
-  "Id": "6722f5d5-21ee-4bb9-935a-bcc4af236eb9",
+  "Id": "c9c55478-7d3d-4f89-8fe3-651590f4e9dc",
   "DllName": "Intergraph.UX.WPF.Toolkit.IConfigure",
   "Version": "3.4.2.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\Core\\Container\\Bin\\SxS\\Intergraph\\Intergraph.UX.WPF.Toolkit.IConfigure.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T11:28:22.2449482Z"
+    "ScanDate": "2026-07-12T10:58:13.4703504Z"
   },
   "Dependencies": [
     {

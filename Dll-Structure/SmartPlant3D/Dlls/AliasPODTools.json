@@ -1,5 +1,5 @@
 {
-  "Id": "c8ac7f5d-e2da-4a9b-aefe-03d9439630c1",
+  "Id": "e0ce87e3-0e71-442f-ac58-a2dd5dd7eced",
   "DllName": "AliasPODTools",
   "Version": "4.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\DrawingsIsometric\\Alias\\Core Components\\AliasPODTools.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T11:28:22.2419484Z"
+    "ScanDate": "2026-07-12T10:58:13.4683583Z"
   },
   "Dependencies": [
     {

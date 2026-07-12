@@ -1,5 +1,5 @@
 {
-  "Id": "74efe550-41d4-4d72-80b6-901679606ff0",
+  "Id": "cdc7dfe7-0f37-4e92-8ffe-5c7b123deeee",
   "DllName": "DrawingManagerAddIn",
   "Version": "9.0.0.1405",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\drawingmanageraddin.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T10:48:24.5193118Z"
+    "ScanDate": "2026-07-12T10:25:42.9231193Z"
   },
   "Dependencies": [
     {

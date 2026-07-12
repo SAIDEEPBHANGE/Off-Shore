@@ -1,5 +1,5 @@
 {
-  "Id": "b3b78deb-fb32-443c-9015-c3f9de7ce870",
+  "Id": "951fa792-ca6c-438c-a9f6-038532ee22b6",
   "DllName": "Interop.RADRedir",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\Common2D\\Rad2D\\bin64\\Interop.RADRedir.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T11:28:22.2750345Z"
+    "ScanDate": "2026-07-12T10:58:13.4999579Z"
   },
   "Dependencies": [
     {

@@ -1,5 +1,5 @@
 {
-  "Id": "4da288af-3305-47ca-ac15-db821fbd4829",
+  "Id": "0d950da9-ab95-43d7-9f81-4f6e1e374eb2",
   "DllName": "CopySimModelManagement",
   "Version": "1.0.2.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\CopyByFamily\\Assemblies\\Release\\CopySimModelManagement.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T11:28:22.2516532Z"
+    "ScanDate": "2026-07-12T10:58:13.4756454Z"
   },
   "Dependencies": [
     {

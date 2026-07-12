@@ -1,5 +1,5 @@
 {
-  "Id": "4df4149f-cd4e-4386-8ba8-2a7084e2d86f",
+  "Id": "71f6fa48-b418-4d69-acbc-1a6fa9a9a895",
   "DllName": "CopySimInterOp",
   "Version": "2.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\CopyByFamily\\Assemblies\\Release\\CopySimInterOp.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T11:28:22.2730497Z"
+    "ScanDate": "2026-07-12T10:58:13.4979574Z"
   },
   "Dependencies": [
     {

@@ -1,5 +1,5 @@
 {
-  "Id": "202767d6-3aa9-49d9-bdfb-ceba2d65b22b",
+  "Id": "20279aa6-8449-4a60-ae06-f732fcc5ddea",
   "DllName": "CivilEnvManager.resources",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\Civil\\Environment\\Bin\\Release\\en-US\\CivilEnvManager.resources.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T11:28:22.2730497Z"
+    "ScanDate": "2026-07-12T10:58:13.4979574Z"
   },
   "Dependencies": [
     {

@@ -1,5 +1,5 @@
 {
-  "Id": "4a8b14e7-f1eb-4e89-a666-c64bbfdabcb8",
+  "Id": "637084fb-927e-4717-bb95-0d7579906c9f",
   "DllName": "RadNetFileOpen",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\Common2D\\Rad2D\\bin\\RadNetFileOpen.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T11:28:22.2496605Z"
+    "ScanDate": "2026-07-12T10:58:13.4736542Z"
   },
   "Dependencies": [
     {

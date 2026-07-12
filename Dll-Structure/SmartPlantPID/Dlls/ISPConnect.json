@@ -1,5 +1,5 @@
 {
-  "Id": "31f5ba82-7e1c-42a0-8e81-2a3ee4f33457",
+  "Id": "7ebfe9a5-299f-41bd-a4de-36d89ab16f07",
   "DllName": "ISPConnect",
   "Version": "10.0.0.603",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\ispconnect.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T10:48:24.5153254Z"
+    "ScanDate": "2026-07-12T10:25:42.9231193Z"
   },
   "Dependencies": [
     {

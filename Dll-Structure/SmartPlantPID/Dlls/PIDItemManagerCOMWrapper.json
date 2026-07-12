@@ -1,5 +1,5 @@
 {
-  "Id": "c3836db7-92d3-477d-b79c-e7763f149482",
+  "Id": "7ffcff9e-a90e-4cdf-9d27-cb37467706f4",
   "DllName": "PIDItemManagerCOMWrapper",
   "Version": "9.0.0.1405",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\piditemmanagercomwrapper.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T10:48:24.5133273Z"
+    "ScanDate": "2026-07-12T10:25:42.9231193Z"
   },
   "Dependencies": [
     {

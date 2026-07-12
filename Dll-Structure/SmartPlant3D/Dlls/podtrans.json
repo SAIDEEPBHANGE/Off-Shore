@@ -1,5 +1,5 @@
 {
-  "Id": "f59ffbec-b4bb-4aaf-a577-c7095e9a96a0",
+  "Id": "a8decd6e-1d3e-4b53-b37f-afd2f7102954",
   "DllName": "podtrans",
   "Version": "0.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\DrawingsIsometric\\Alias\\Personal Isogen\\podtrans.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T11:28:22.2597092Z"
+    "ScanDate": "2026-07-12T10:58:13.4776459Z"
   },
   "Dependencies": [
     {

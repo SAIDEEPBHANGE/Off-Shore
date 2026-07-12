@@ -1,5 +1,5 @@
 {
-  "Id": "269886b2-b2a1-4464-ae37-732b016d31bd",
+  "Id": "f669a62c-821e-4870-875c-fe9958e0a161",
   "DllName": "HAirFilterHumidifier",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\3DRefData\\SharedContent\\Bin\\Ducting\\DotNetSymbols\\Release\\HAirFilterHumidifier.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T11:28:22.2439479Z"
+    "ScanDate": "2026-07-12T10:58:13.4693494Z"
   },
   "Dependencies": [
     {

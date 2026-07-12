@@ -1,5 +1,5 @@
 {
-  "Id": "135e6c32-022f-465d-aeeb-72cc7f7c3091",
+  "Id": "ff13a991-81cd-4fe6-8999-3b6a79e0a43a",
   "DllName": "HybridProxy",
   "Version": "9.0.0.1405",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\HybridProxy.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T10:48:24.5193118Z"
+    "ScanDate": "2026-07-12T10:25:42.9231193Z"
   },
   "Dependencies": [
     {

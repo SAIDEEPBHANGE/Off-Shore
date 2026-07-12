@@ -1,5 +1,5 @@
 {
-  "Id": "c4581d79-53d0-4def-b3b2-499ed8bb777b",
+  "Id": "25518f2a-135e-44b6-b649-adee517eb5d8",
   "DllName": "PidEFAdapter",
   "Version": "9.0.0.1405",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\Languages\\PidEFAdapter.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T10:48:24.5133273Z"
+    "ScanDate": "2026-07-12T10:25:42.9231193Z"
   },
   "Dependencies": [
     {

@@ -1,5 +1,5 @@
 {
-  "Id": "1f8b522c-41a9-425e-86fe-ca1dd870508c",
+  "Id": "04b4ba27-eace-4a0e-9aef-42aff9df6429",
   "DllName": "Ingr.Schematics.Graphics.IGraphicsCore",
   "Version": "2.2.0.139",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\Ingr.Schematics.Graphics.IGraphicsCore.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T10:48:24.5153254Z"
+    "ScanDate": "2026-07-12T10:25:42.9231193Z"
   },
   "Dependencies": [
     {

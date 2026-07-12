@@ -1,5 +1,5 @@
 {
-  "Id": "c64eedec-cf25-4b55-8f0a-01e44d31897c",
+  "Id": "f0640ac1-6c88-4ac4-81f1-448a9dd98be8",
   "DllName": "Telerik.Windows.Controls.Navigation.VisualStudio.Design.4.0",
   "Version": "2018.2.620.45",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\telerik.windows.controls.navigation.visualstudio.design.4.0.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T10:48:24.5113244Z"
+    "ScanDate": "2026-07-12T10:25:42.9231193Z"
   },
   "Dependencies": [
     {

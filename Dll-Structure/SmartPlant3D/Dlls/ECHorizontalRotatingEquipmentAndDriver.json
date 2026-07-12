@@ -1,5 +1,5 @@
 {
-  "Id": "fe96e66a-cab2-4c9e-858d-98cc63aa4d60",
+  "Id": "3ecfaf03-07db-46e7-b2a5-50f42517a37b",
   "DllName": "ECHorizontalRotatingEquipmentAndDriver",
   "Version": "1.0.0.1",
   "FilePath": "D:\\Off-Share\\Smart3D\\3DRefData\\SharedContent\\Bin\\EquipmentComponents\\DotNetSymbols\\Release\\ECHorizontalRotatingEquipmentAndDriver.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T11:28:22.2617095Z"
+    "ScanDate": "2026-07-12T10:58:13.4819534Z"
   },
   "Dependencies": [
     {

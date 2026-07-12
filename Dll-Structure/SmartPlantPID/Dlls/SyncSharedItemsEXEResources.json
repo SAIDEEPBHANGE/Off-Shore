@@ -1,5 +1,5 @@
 {
-  "Id": "e1bde085-0c9e-402f-ba78-bff319171501",
+  "Id": "000cb346-5f97-4e00-8107-8ff6e6578d1e",
   "DllName": "SyncSharedItemsEXEResources",
   "Version": "9.0.0.1405",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\Languages\\SyncSharedItemsEXEResources.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T10:48:24.5153254Z"
+    "ScanDate": "2026-07-12T10:25:42.9231193Z"
   },
   "Dependencies": [
     {

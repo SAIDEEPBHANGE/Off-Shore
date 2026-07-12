@@ -1,5 +1,5 @@
 {
-  "Id": "80f5a02b-f114-417b-8e3a-44ea68c1234d",
+  "Id": "2784d930-13ee-482e-b826-cbcc47641071",
   "DllName": "Telerik.Windows.Controls.ScheduleView.VisualStudio.Design.4.0",
   "Version": "2018.2.620.45",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\telerik.windows.controls.scheduleview.visualstudio.design.4.0.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T10:48:24.5103255Z"
+    "ScanDate": "2026-07-12T10:25:42.9231193Z"
   },
   "Dependencies": [
     {

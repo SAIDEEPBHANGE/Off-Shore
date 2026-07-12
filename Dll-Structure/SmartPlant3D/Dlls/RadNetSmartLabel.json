@@ -1,5 +1,5 @@
 {
-  "Id": "11f35d03-d041-49a5-b45d-2aa4a15fdc54",
+  "Id": "60a04706-b69e-4024-a7fb-b6e78777840f",
   "DllName": "RadNetSmartLabel",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\Common2D\\Rad2D\\bin\\RadNetSmartLabel.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T11:28:22.2597092Z"
+    "ScanDate": "2026-07-12T10:58:13.4789309Z"
   },
   "Dependencies": [
     {

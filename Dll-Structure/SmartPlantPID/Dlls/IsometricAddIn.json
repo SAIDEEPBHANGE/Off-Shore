@@ -1,5 +1,5 @@
 {
-  "Id": "a369fd20-bb9b-4835-8ecd-f218a7516439",
+  "Id": "cf7b5cbd-0051-4919-a0ad-eb6dfb8abb98",
   "DllName": "IsometricAddIn",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\IsometricAddIn.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T10:48:24.5153254Z"
+    "ScanDate": "2026-07-12T10:25:42.9231193Z"
   },
   "Dependencies": [
     {

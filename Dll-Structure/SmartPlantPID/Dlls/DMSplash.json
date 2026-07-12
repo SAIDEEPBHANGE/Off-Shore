@@ -1,5 +1,5 @@
 {
-  "Id": "11dc17a0-c7f9-428c-8c94-fce1b372cf04",
+  "Id": "5a3bf57e-44a3-4c73-b89e-c1f65675234e",
   "DllName": "DMSplash",
   "Version": "9.0.0.1405",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\Languages\\DMSplash.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T10:48:24.5183186Z"
+    "ScanDate": "2026-07-12T10:25:42.9231193Z"
   },
   "Dependencies": [
     {

@@ -1,5 +1,5 @@
 {
-  "Id": "79466c36-caa7-4fd2-beff-91242b1d7596",
+  "Id": "e1780879-e509-40f7-b479-69bd6fead110",
   "DllName": "MarineSymbolDefinition.resources",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\Core\\Container\\Bin\\Assemblies\\Release\\en-US\\MarineSymbolDefinition.resources.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T11:28:22.2462584Z"
+    "ScanDate": "2026-07-12T10:58:13.4703504Z"
   },
   "Dependencies": [
     {

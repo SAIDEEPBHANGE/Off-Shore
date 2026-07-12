@@ -1,5 +1,5 @@
 {
-  "Id": "75229933-8678-4f57-95ae-86b591d51d6d",
+  "Id": "3219e7e7-e218-468f-9a4c-f7e05bd947d0",
   "DllName": "Spi.Core.Common",
   "Version": "13.0.0.28",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\spi.core.common.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T10:48:24.5153254Z"
+    "ScanDate": "2026-07-12T10:25:42.9231193Z"
   },
   "Dependencies": [
     {

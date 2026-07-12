@@ -1,5 +1,5 @@
 {
-  "Id": "60704bff-f072-4497-9290-a13981b777ac",
+  "Id": "378ccef9-2f25-489a-b219-b3ce091e2c00",
   "DllName": "SP3DPDMSDatalImportCmds.resources",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\Core\\Container\\Bin\\Assemblies\\Release\\en-US\\SP3DPDMSDatalImportCmds.resources.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T11:28:22.2439479Z"
+    "ScanDate": "2026-07-12T10:58:13.4693494Z"
   },
   "Dependencies": [
     {

@@ -1,5 +1,5 @@
 {
-  "Id": "6d714c9d-5ca2-4b89-b446-c0c7de57d17c",
+  "Id": "0b39f447-bce6-4fdd-aca1-7e2c4672d1e7",
   "DllName": "ConfigureSP3DBatchQueue.resources",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\ProjectMgmt\\Tools\\bin\\en-US\\ConfigureSP3DBatchQueue.resources.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T11:28:22.2472804Z"
+    "ScanDate": "2026-07-12T10:58:13.4723486Z"
   },
   "Dependencies": [
     {

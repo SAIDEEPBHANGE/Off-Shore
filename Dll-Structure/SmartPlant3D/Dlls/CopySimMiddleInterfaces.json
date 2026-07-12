@@ -1,5 +1,5 @@
 {
-  "Id": "eefa94d8-2bea-441f-92a6-95e1866ab1c9",
+  "Id": "5646ab8c-df1c-4037-be55-058170f49af5",
   "DllName": "CopySimMiddleInterfaces",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\CopyByFamily\\Assemblies\\Release\\CopySimMiddleInterfaces.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T11:28:22.2319505Z"
+    "ScanDate": "2026-07-12T10:58:13.4501196Z"
   },
   "Dependencies": [
     {

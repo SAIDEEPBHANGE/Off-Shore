@@ -1,5 +1,5 @@
 {
-  "Id": "bf9764d4-1738-41ba-8a0c-fb621f20758b",
+  "Id": "55da07f9-81f7-4f04-809e-591486d829d9",
   "DllName": "TransformCmd",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\GeometryAnalysisAndRepair\\Assemblies\\Bin\\TransformCmd.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T11:28:22.2359492Z"
+    "ScanDate": "2026-07-12T10:58:13.4557083Z"
   },
   "Dependencies": [
     {

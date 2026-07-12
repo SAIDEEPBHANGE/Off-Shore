@@ -1,5 +1,5 @@
 {
-  "Id": "fd307506-a2ab-4858-a3e9-393c0b5df673",
+  "Id": "f47c7106-125b-4443-85b7-23990a520eec",
   "DllName": "DrawingSetupTool",
   "Version": "3.1.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\DrawingsIsometric\\Alias\\Drawing Setup Tool\\DrawingSetupTool.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T11:28:22.2690202Z"
+    "ScanDate": "2026-07-12T10:58:13.4922621Z"
   },
   "Dependencies": [
     {

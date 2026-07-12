@@ -1,5 +1,5 @@
 {
-  "Id": "63ca70a0-aed4-41a4-95d9-9ae82431045f",
+  "Id": "60ada59d-c764-4b25-919a-460539e958bb",
   "DllName": "HybridGraphics",
   "Version": "9.0.0.1405",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\HybridGraphics.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T10:48:24.5093279Z"
+    "ScanDate": "2026-07-12T10:25:42.9231193Z"
   },
   "Dependencies": [
     {

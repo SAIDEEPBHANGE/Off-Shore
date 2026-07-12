@@ -1,5 +1,5 @@
 {
-  "Id": "69d63cc5-f0b1-46ca-845f-36b7dde5ca0c",
+  "Id": "54703ea2-f255-444a-a5c2-8403378550b8",
   "DllName": "RADNetSessionManager",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\Common2D\\Rad2D\\bin\\RadNetSessionManager.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T11:28:22.2577098Z"
+    "ScanDate": "2026-07-12T10:58:13.4756454Z"
   },
   "Dependencies": [
     {

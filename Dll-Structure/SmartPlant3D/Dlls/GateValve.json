@@ -1,5 +1,5 @@
 {
-  "Id": "9e8a4a73-2275-4a4b-a731-4b820154a9cf",
+  "Id": "33899e0e-107e-441e-b3da-266cabd23aed",
   "DllName": "GateValve",
   "Version": "1.0.0.2",
   "FilePath": "D:\\Off-Share\\Smart3D\\3DRefData\\SharedContent\\Bin\\Piping\\DotNetSymbols\\Release\\GateValve.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T11:28:22.2472804Z"
+    "ScanDate": "2026-07-12T10:58:13.4723486Z"
   },
   "Dependencies": [
     {

@@ -1,5 +1,5 @@
 {
-  "Id": "a1596e18-7b42-49fa-a098-afc573ff2b59",
+  "Id": "44fe2db9-2e88-4749-b314-a518b469be8a",
   "DllName": "Telerik.Windows.Controls.DataVisualization.Design.5.0",
   "Version": "2018.2.620.45",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\telerik.windows.controls.datavisualization.design.5.0.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T10:48:24.5133273Z"
+    "ScanDate": "2026-07-12T10:25:42.9231193Z"
   },
   "Dependencies": [
     {

@@ -1,5 +1,5 @@
 {
-  "Id": "f2ef8840-70a8-42e0-9788-8d2daf7f87bf",
+  "Id": "3487bac4-4abb-49ff-b4d5-290e62e97326",
   "DllName": "HtmlHelpNET",
   "Version": "10.0.0.603",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\htmlhelpnet.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T10:48:24.5103255Z"
+    "ScanDate": "2026-07-12T10:25:42.9231193Z"
   },
   "Dependencies": [
     {

@@ -1,5 +1,5 @@
 {
-  "Id": "ba033db5-c3a8-4d3c-bc91-5792bdc0da07",
+  "Id": "d2fa28fe-4eb8-4693-be8c-25615bdc9b1f",
   "DllName": "PlanningSymbolDefinition",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\Core\\Container\\Bin\\Assemblies\\Release\\PlanningSymbolDefinition.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T11:28:22.2607088Z"
+    "ScanDate": "2026-07-12T10:58:13.4809535Z"
   },
   "Dependencies": [
     {

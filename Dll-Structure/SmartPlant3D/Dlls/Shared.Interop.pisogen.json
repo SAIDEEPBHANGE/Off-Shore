@@ -1,5 +1,5 @@
 {
-  "Id": "f80beca9-4955-4284-a1d5-77478d597d66",
+  "Id": "2cf2a6ec-f923-4795-b095-de1aec120b99",
   "DllName": "Shared.Interop.pisogen",
   "Version": "10.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\DrawingsIsometric\\Alias\\Personal Isogen\\Shared.Interop.pisogen.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T11:28:22.2660584Z"
+    "ScanDate": "2026-07-12T10:58:13.4889512Z"
   },
   "Dependencies": [
     {

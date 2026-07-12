@@ -1,5 +1,5 @@
 {
-  "Id": "a2eef13e-00f7-4fc2-a529-8775e15f5bd1",
+  "Id": "fd83bdf2-2c4b-4d61-9b28-7f3d71120168",
   "DllName": "ManufacturingMacroTube",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\3DRefData\\SharedContent\\Bin\\StructManufacturing\\Rules\\Release\\ManufacturingMacroTube.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T11:28:22.2409488Z"
+    "ScanDate": "2026-07-12T10:58:13.4661323Z"
   },
   "Dependencies": [
     {

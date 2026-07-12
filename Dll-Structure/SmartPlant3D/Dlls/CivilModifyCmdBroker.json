@@ -1,5 +1,5 @@
 {
-  "Id": "1c98638d-ca50-4d7b-954e-34bfa1fd7356",
+  "Id": "017b88f7-a166-4252-90f6-068c357437eb",
   "DllName": "CivilModifyCmdBroker",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\Civil\\Client\\Bin\\Release\\CivilModifyCmdBroker.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T11:28:22.2750345Z"
+    "ScanDate": "2026-07-12T10:58:13.4999579Z"
   },
   "Dependencies": [
     {

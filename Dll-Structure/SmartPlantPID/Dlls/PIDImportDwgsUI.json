@@ -1,5 +1,5 @@
 {
-  "Id": "785205eb-376b-44de-a30e-3b5b50dedfa0",
+  "Id": "e9fb67b3-8b4e-4dd3-b9b6-f4b6716ecd60",
   "DllName": "PIDImportDwgsUI",
   "Version": "9.0.0.1405",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\pidimportdwgsui.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T10:48:24.5143269Z"
+    "ScanDate": "2026-07-12T10:25:42.9231193Z"
   },
   "Dependencies": [
     {

@@ -1,5 +1,5 @@
 {
-  "Id": "0edbbf98-3228-466a-baa2-23421e46edeb",
+  "Id": "c4cf7620-3877-4cae-9937-52736229e158",
   "DllName": "MHBeltPathWithCS",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\MaterialsHandling\\Symbols\\Bin\\MHBeltPathWithCS.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T11:28:22.2700339Z"
+    "ScanDate": "2026-07-12T10:58:13.493239Z"
   },
   "Dependencies": [
     {

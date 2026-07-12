@@ -1,5 +1,5 @@
 {
-  "Id": "19a84fe8-4ac9-427a-ad7f-cdff1a100918",
+  "Id": "1d2a1277-a67f-4b57-a367-e61eb60e95ed",
   "DllName": "Xceed.Compression.v5.7",
   "Version": "5.7.15103.11190",
   "FilePath": "D:\\Off-Share\\Smart3D\\Core\\Container\\Bin\\Assemblies\\Release\\Xceed.Compression.v5.7.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T11:28:22.2472804Z"
+    "ScanDate": "2026-07-12T10:58:13.4723486Z"
   },
   "Dependencies": [
     {

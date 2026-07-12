@@ -1,5 +1,5 @@
 {
-  "Id": "3cc91998-2a7a-4ee7-b367-829053fecc7b",
+  "Id": "9e1bcfd2-efa3-461f-a42f-8d82d4056390",
   "DllName": "ECParametricSaddleSupport",
   "Version": "1.0.0.3",
   "FilePath": "D:\\Off-Share\\Smart3D\\3DRefData\\SharedContent\\Bin\\EquipmentComponents\\DotNetSymbols\\Release\\ECParametricSaddleSupport.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T11:28:22.2472804Z"
+    "ScanDate": "2026-07-12T10:58:13.4723486Z"
   },
   "Dependencies": [
     {

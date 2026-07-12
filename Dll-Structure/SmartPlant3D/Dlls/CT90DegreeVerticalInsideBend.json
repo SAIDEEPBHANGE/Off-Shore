@@ -1,5 +1,5 @@
 {
-  "Id": "d613bc84-2b55-46e1-a7aa-1c0954cee866",
+  "Id": "6d6a706a-edfe-4c19-b04f-98466d40c827",
   "DllName": "CT90DegreeVerticalInsideBend",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\3DRefData\\SharedContent\\Bin\\Electrical\\DotNetSymbols\\Release\\CT90DegreeVerticalInsideBend.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T11:28:22.2419484Z"
+    "ScanDate": "2026-07-12T10:58:13.4683583Z"
   },
   "Dependencies": [
     {

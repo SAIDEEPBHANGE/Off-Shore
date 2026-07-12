@@ -1,5 +1,5 @@
 {
-  "Id": "5a60b2e8-ebcd-40b8-8230-ea3bd976149a",
+  "Id": "3cd122c7-8620-4a98-a9b0-5a92761c38e0",
   "DllName": "OffsetRules",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\3DRefData\\SharedContent\\Bin\\ShipStructure\\Rules\\Release\\OffsetRules.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T11:28:22.2409488Z"
+    "ScanDate": "2026-07-12T10:58:13.4661323Z"
   },
   "Dependencies": [
     {

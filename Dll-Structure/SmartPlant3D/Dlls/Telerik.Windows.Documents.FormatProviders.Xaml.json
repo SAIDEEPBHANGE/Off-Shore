@@ -1,5 +1,5 @@
 {
-  "Id": "3f09a3f4-6db5-4f4b-80bb-b2d3819cf84f",
+  "Id": "6c55687a-74ec-4ae2-b6f7-20f8e0e4ce4f",
   "DllName": "Telerik.Windows.Documents.FormatProviders.Xaml",
   "Version": "2017.3.1018.45",
   "FilePath": "D:\\Off-Share\\Smart3D\\Documentation\\HelpApp\\Telerik.Windows.Documents.FormatProviders.Xaml.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T11:28:22.2587099Z"
+    "ScanDate": "2026-07-12T10:58:13.4766458Z"
   },
   "Dependencies": [
     {

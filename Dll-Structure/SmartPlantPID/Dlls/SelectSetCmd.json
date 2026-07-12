@@ -1,5 +1,5 @@
 {
-  "Id": "2cb2715d-679c-46b9-b90d-0e05a049ac66",
+  "Id": "b454190c-80a1-4fe0-aa52-d1086f77f7d3",
   "DllName": "SelectSetCmd",
   "Version": "9.0.0.1405",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\selectsetcmd.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T10:48:24.5143269Z"
+    "ScanDate": "2026-07-12T10:25:42.9231193Z"
   },
   "Dependencies": [
     {

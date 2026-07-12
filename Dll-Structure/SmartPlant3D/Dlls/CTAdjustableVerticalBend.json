@@ -1,5 +1,5 @@
 {
-  "Id": "acfbc6c4-94b7-4c5c-9464-70de4e30af07",
+  "Id": "d1575d08-a2c7-4ecd-b7c3-1ed2aaa101e1",
   "DllName": "CTAdjustableVerticalBend",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\3DRefData\\SharedContent\\Bin\\Electrical\\DotNetSymbols\\Release\\CTAdjustableVerticalBend.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T11:28:22.2690202Z"
+    "ScanDate": "2026-07-12T10:58:13.4922621Z"
   },
   "Dependencies": [
     {

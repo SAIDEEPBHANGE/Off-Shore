@@ -1,5 +1,5 @@
 {
-  "Id": "77d27eb1-77f0-4f4c-931f-0f6be2abf296",
+  "Id": "7eddeacc-7f00-473f-9c7d-38fa5322fe26",
   "DllName": "Microsoft.Practices.Prism.SharedInterfaces",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\Core\\Container\\Bin\\SxS\\Microsoft\\Microsoft.Practices.Prism.SharedInterfaces.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T11:28:22.2617095Z"
+    "ScanDate": "2026-07-12T10:58:13.4829535Z"
   },
   "Dependencies": [
     {

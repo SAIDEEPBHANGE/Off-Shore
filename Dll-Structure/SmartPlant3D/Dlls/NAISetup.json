@@ -1,5 +1,5 @@
 {
-  "Id": "1b4a5aa8-0339-4865-85f9-aba04f38841c",
+  "Id": "1ef6be78-812d-421b-bbb1-b8b975de176d",
   "DllName": "NAISetup",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\GeometryAnalysisAndRepair\\Assemblies\\Bin\\NAISetup.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T11:28:22.2329497Z"
+    "ScanDate": "2026-07-12T10:58:13.4521797Z"
   },
   "Dependencies": [
     {

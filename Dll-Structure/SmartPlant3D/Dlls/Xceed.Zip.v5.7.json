@@ -1,5 +1,5 @@
 {
-  "Id": "2462acea-9e83-45cb-a3bb-f464650102cb",
+  "Id": "645abd43-4dc6-4d29-a24c-638edd9422fc",
   "DllName": "Xceed.Zip.v5.7",
   "Version": "5.7.15103.11190",
   "FilePath": "D:\\Off-Share\\Smart3D\\Core\\Container\\Bin\\Assemblies\\Release\\Xceed.Zip.v5.7.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T11:28:22.2637085Z"
+    "ScanDate": "2026-07-12T10:58:13.4859517Z"
   },
   "Dependencies": [
     {

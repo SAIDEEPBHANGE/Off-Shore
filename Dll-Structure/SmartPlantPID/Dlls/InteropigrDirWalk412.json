@@ -1,5 +1,5 @@
 {
-  "Id": "8a66c605-c47e-43ba-872a-ae3218d7462e",
+  "Id": "a7b9ea58-5e0f-4f5b-bd3a-4efc66e9226c",
   "DllName": "InteropigrDirWalk412",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\InteropigrDirWalk412.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v2.0.50727",
-    "ScanDate": "2026-07-11T10:48:24.5133273Z"
+    "ScanDate": "2026-07-12T10:25:42.9231193Z"
   },
   "Dependencies": [
     {

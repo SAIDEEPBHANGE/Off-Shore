@@ -1,5 +1,5 @@
 {
-  "Id": "f9d1ff7b-3771-4c23-892e-652e9abf714f",
+  "Id": "b96ccb9c-b234-41a0-98f7-848c1e046607",
   "DllName": "Features",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\3DRefData\\SharedContent\\Bin\\SmartPlantStructure\\CustomAssemblies\\Release\\Features.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T11:28:22.2647088Z"
+    "ScanDate": "2026-07-12T10:58:13.4869515Z"
   },
   "Dependencies": [
     {

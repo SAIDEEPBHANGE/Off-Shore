@@ -1,5 +1,5 @@
 {
-  "Id": "24d2e8a6-261c-4e19-a9b6-8086ea50f890",
+  "Id": "1a9327a3-71dd-4d4f-ad29-28c0e901c3bd",
   "DllName": "GridsMiddle.resources",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\Core\\Container\\Bin\\Assemblies\\Release\\en-US\\GridsMiddle.resources.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T11:28:22.2670284Z"
+    "ScanDate": "2026-07-12T10:58:13.4889512Z"
   },
   "Dependencies": [
     {

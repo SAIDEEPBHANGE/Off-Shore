@@ -1,5 +1,5 @@
 {
-  "Id": "92e80d4d-7ecf-4039-934d-e8a02fc5c408",
+  "Id": "bcefb227-e471-4171-9b46-d534314d61be",
   "DllName": "Telerik.Windows.Controls.VisualStudio.Design",
   "Version": "2018.2.620.45",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\telerik.windows.controls.visualstudio.design.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T10:48:24.5082598Z"
+    "ScanDate": "2026-07-12T10:25:42.9231193Z"
   },
   "Dependencies": [
     {

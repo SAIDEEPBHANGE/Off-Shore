@@ -1,5 +1,5 @@
 {
-  "Id": "2cfcfc90-4fcf-46c3-bea6-84ae9673a3e1",
+  "Id": "6edeeca1-2841-4a17-948d-2b1fab454e57",
   "DllName": "Halfen_Assy",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\3DRefData\\SharedContent\\Bin\\HangersAndSupports\\Rules\\Release\\Halfen_Assy.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T11:28:22.2439479Z"
+    "ScanDate": "2026-07-12T10:58:13.4703504Z"
   },
   "Dependencies": [
     {

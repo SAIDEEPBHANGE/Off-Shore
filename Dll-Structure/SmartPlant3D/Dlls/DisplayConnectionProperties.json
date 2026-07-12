@@ -1,5 +1,5 @@
 {
-  "Id": "3ce5678f-ac43-4e7e-99ed-1a9f1935afb5",
+  "Id": "840b2e4c-dee4-4d47-8cbb-c2bbc7cf08ca",
   "DllName": "DisplayConnectionProperties",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\Core\\Container\\Bin\\Assemblies\\Release\\DisplayConnectionProperties.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T11:28:22.2730497Z"
+    "ScanDate": "2026-07-12T10:58:13.4979574Z"
   },
   "Dependencies": [
     {

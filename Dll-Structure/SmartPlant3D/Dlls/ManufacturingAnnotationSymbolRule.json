@@ -1,5 +1,5 @@
 {
-  "Id": "65850646-ea28-46b1-92af-e592ed6ce0ce",
+  "Id": "ea61d0fb-82c9-4bb3-90d8-269005c58cd6",
   "DllName": "ManufacturingAnnotationSymbolRule",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\3DRefData\\SharedContent\\Bin\\StructManufacturing\\Rules\\Release\\ManufacturingAnnotationSymbolRule.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T11:28:22.230944Z"
+    "ScanDate": "2026-07-12T10:58:13.449121Z"
   },
   "Dependencies": [
     {

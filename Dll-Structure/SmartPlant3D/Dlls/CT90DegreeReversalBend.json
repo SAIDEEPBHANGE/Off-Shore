@@ -1,5 +1,5 @@
 {
-  "Id": "0be7a0db-1ceb-4fa5-ac8c-9abb8fd4932d",
+  "Id": "bfdd8fc8-0112-4b3a-8b51-52b95434f74f",
   "DllName": "CT90DegreeReversalBend",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\3DRefData\\SharedContent\\Bin\\Electrical\\DotNetSymbols\\Release\\CT90DegreeReversalBend.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T11:28:22.2587099Z"
+    "ScanDate": "2026-07-12T10:58:13.4766458Z"
   },
   "Dependencies": [
     {

@@ -1,5 +1,5 @@
 {
-  "Id": "bbdc0fa1-8cca-4851-930f-c98dce37a71d",
+  "Id": "b1ce04b0-4a78-470d-93fb-24b11c67e9f0",
   "DllName": "ShowCentroidForGetPointCmd.resources",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\Core\\Container\\Bin\\Assemblies\\Release\\en-US\\ShowCentroidForGetPointCmd.resources.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T11:28:22.2369485Z"
+    "ScanDate": "2026-07-12T10:58:13.4569868Z"
   },
   "Dependencies": [
     {

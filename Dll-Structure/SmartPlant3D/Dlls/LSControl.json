@@ -1,5 +1,5 @@
 {
-  "Id": "91854b5d-b32c-46da-922f-c7c6c7a1401e",
+  "Id": "11d4444d-cf92-4ed7-aacf-f029d5a671b5",
   "DllName": "LSControl",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\Common2D\\Rad2D\\bin\\LSControl.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T11:28:22.276034Z"
+    "ScanDate": "2026-07-12T10:58:13.5009655Z"
   },
   "Dependencies": [
     {

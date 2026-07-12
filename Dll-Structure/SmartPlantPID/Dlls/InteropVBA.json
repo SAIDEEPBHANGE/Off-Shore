@@ -1,5 +1,5 @@
 {
-  "Id": "a0499ec3-24af-458c-bbd6-3262598be1b4",
+  "Id": "8cd74ee8-1496-4e42-bc6c-1e26efeafc9d",
   "DllName": "InteropVBA",
   "Version": "6.0.0.0",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\InteropVBA.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v2.0.50727",
-    "ScanDate": "2026-07-11T10:48:24.5041951Z"
+    "ScanDate": "2026-07-12T10:25:42.9174861Z"
   },
   "Dependencies": [
     {

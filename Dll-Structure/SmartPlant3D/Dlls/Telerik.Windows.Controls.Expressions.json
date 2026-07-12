@@ -1,5 +1,5 @@
 {
-  "Id": "6f66404f-355e-4ee7-9b37-6fc5e42834c9",
+  "Id": "23796e25-5d6c-4f80-96b5-9d3e97749d0b",
   "DllName": "Telerik.Windows.Controls.Expressions",
   "Version": "2017.3.1018.45",
   "FilePath": "D:\\Off-Share\\Smart3D\\Documentation\\HelpApp\\Telerik.Windows.Controls.Expressions.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T11:28:22.2439479Z"
+    "ScanDate": "2026-07-12T10:58:13.4693494Z"
   },
   "Dependencies": [
     {

@@ -1,5 +1,5 @@
 {
-  "Id": "b128ab22-b528-45fd-99d7-cd5603998bdb",
+  "Id": "8729d613-2a4f-4916-9de3-817dc83aeb2b",
   "DllName": "ManufacturingMiddle.resources",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\Core\\Container\\Bin\\Assemblies\\Release\\en-US\\ManufacturingMiddle.resources.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T11:28:22.2730497Z"
+    "ScanDate": "2026-07-12T10:58:13.4979574Z"
   },
   "Dependencies": [
     {

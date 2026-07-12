@@ -1,5 +1,5 @@
 {
-  "Id": "9181d667-73fa-4450-9406-e73ff6604647",
+  "Id": "5db51311-45bf-484b-8b22-c30b1d4d3708",
   "DllName": "SM3DServices",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\CopyByFamily\\Assemblies\\Release\\SM3DServices.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T11:28:22.2409488Z"
+    "ScanDate": "2026-07-12T10:58:13.4661323Z"
   },
   "Dependencies": [
     {

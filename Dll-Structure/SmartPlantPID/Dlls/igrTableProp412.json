@@ -1,5 +1,5 @@
 {
-  "Id": "fa66e3eb-e4e7-499a-8627-e9f572209068",
+  "Id": "1fa96503-139e-4c77-9a96-adec6734b86b",
   "DllName": "igrTableProp412",
   "Version": "10.0.0.603",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\igrTableProp412.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T10:48:24.5113244Z"
+    "ScanDate": "2026-07-12T10:25:42.9231193Z"
   },
   "Dependencies": [
     {

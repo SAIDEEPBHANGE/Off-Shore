@@ -1,5 +1,5 @@
 {
-  "Id": "99149dbe-6703-420b-af0b-298d93ba5f45",
+  "Id": "7885d4ec-9de7-4eea-9923-2b31e1c09188",
   "DllName": "CTTrueWye",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\3DRefData\\SharedContent\\Bin\\Electrical\\DotNetSymbols\\Release\\CTTrueWye.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T11:28:22.2680391Z"
+    "ScanDate": "2026-07-12T10:58:13.4922621Z"
   },
   "Dependencies": [
     {

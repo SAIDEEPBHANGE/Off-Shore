@@ -1,5 +1,5 @@
 {
-  "Id": "a742f669-bfa5-4ecc-98c3-3465b7bdfff6",
+  "Id": "5f866d31-6202-4411-ae85-8b859a079b39",
   "DllName": "FootingCustomAssemblies",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\3DRefData\\SharedContent\\Bin\\SmartPlantStructure\\Symbols\\Release\\FootingCustomAssemblies.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T11:28:22.2319505Z"
+    "ScanDate": "2026-07-12T10:58:13.4501196Z"
   },
   "Dependencies": [
     {

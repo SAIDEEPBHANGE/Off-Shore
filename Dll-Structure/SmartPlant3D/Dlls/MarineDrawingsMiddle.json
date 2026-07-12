@@ -1,5 +1,5 @@
 {
-  "Id": "3ff52b84-005c-480d-b83d-5b0643fc09ca",
+  "Id": "187442a1-882c-47d4-b768-d18dea351aa9",
   "DllName": "MarineDrawingsMiddle",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\Core\\Container\\Bin\\Assemblies\\Release\\MarineDrawingsMiddle.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T11:28:22.2720279Z"
+    "ScanDate": "2026-07-12T10:58:13.4966117Z"
   },
   "Dependencies": [
     {

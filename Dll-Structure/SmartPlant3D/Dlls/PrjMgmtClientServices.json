@@ -1,5 +1,5 @@
 {
-  "Id": "4ded2666-bd5b-4cef-9d9d-e5ec0de262a6",
+  "Id": "3926e298-3b3f-4bfe-adeb-323ab0f87ac3",
   "DllName": "PrjMgmtClientServices",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\Core\\Container\\Bin\\Assemblies\\Release\\PrjMgmtClientServices.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T11:28:22.2439479Z"
+    "ScanDate": "2026-07-12T10:58:13.4693494Z"
   },
   "Dependencies": [
     {

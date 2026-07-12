@@ -1,5 +1,5 @@
 {
-  "Id": "94da4844-8b9b-4066-95f7-421613b98b7e",
+  "Id": "fb87a43f-44ed-4745-aa76-1a133204f3a9",
   "DllName": "Telerik.Windows.Controls.VirtualGrid",
   "Version": "2018.2.620.45",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\Telerik.Windows.Controls.VirtualGrid.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T10:48:24.5082598Z"
+    "ScanDate": "2026-07-12T10:25:42.9218473Z"
   },
   "Dependencies": [
     {

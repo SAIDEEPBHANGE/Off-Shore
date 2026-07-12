@@ -1,5 +1,5 @@
 {
-  "Id": "39573cc1-02ba-45cc-bdac-0d2ce3f11347",
+  "Id": "acae0f0d-0372-4396-bf61-0c68c61d1026",
   "DllName": "ISPReadOnlyTable",
   "Version": "10.0.0.603",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\ISPReadOnlyTable.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T10:48:24.5153254Z"
+    "ScanDate": "2026-07-12T10:25:42.9231193Z"
   },
   "Dependencies": [
     {

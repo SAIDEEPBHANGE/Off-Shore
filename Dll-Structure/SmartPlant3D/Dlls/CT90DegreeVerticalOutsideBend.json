@@ -1,5 +1,5 @@
 {
-  "Id": "4d48a1c9-aa35-48f6-8039-d5e0536f2766",
+  "Id": "d122fbdf-90e9-4e70-9d2f-eadb58510741",
   "DllName": "CT90DegreeVerticalOutsideBend",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\3DRefData\\SharedContent\\Bin\\Electrical\\DotNetSymbols\\Release\\CT90DegreeVerticalOutsideBend.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T11:28:22.2730497Z"
+    "ScanDate": "2026-07-12T10:58:13.4979574Z"
   },
   "Dependencies": [
     {

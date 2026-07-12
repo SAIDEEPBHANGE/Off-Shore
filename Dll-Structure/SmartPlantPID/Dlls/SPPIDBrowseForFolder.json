@@ -1,5 +1,5 @@
 {
-  "Id": "5ff04fb2-52df-4ba5-890a-9569c90670ce",
+  "Id": "da46e8ab-82d7-4ec8-8857-0f5e61c831b1",
   "DllName": "SPPIDBrowseForFolder",
   "Version": "9.0.0.1405",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\sppidbrowseforfolder.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T10:48:24.5082598Z"
+    "ScanDate": "2026-07-12T10:25:42.9231193Z"
   },
   "Dependencies": [
     {

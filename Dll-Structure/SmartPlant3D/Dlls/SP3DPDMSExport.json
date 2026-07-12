@@ -1,5 +1,5 @@
 {
-  "Id": "bfd96235-a966-4a78-aa67-fca298b7d5c6",
+  "Id": "80d78b18-f970-435d-a088-ac39d6a5de8f",
   "DllName": "SP3DPDMSExport",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\Core\\Container\\Bin\\Assemblies\\Release\\SP3DPDMSExport.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T11:28:22.2496605Z"
+    "ScanDate": "2026-07-12T10:58:13.4736542Z"
   },
   "Dependencies": [
     {

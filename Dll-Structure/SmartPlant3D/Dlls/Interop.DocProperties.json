@@ -1,5 +1,5 @@
 {
-  "Id": "cc3c24a5-7a70-432f-a8d1-e08f4c7d403b",
+  "Id": "0f09dfe5-fc57-4d5c-b1bb-2e2eb933c8c9",
   "DllName": "Interop.DocProperties",
   "Version": "2.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\Common2D\\Rad2D\\bin64\\Interop.DocProperties.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T11:28:22.2740348Z"
+    "ScanDate": "2026-07-12T10:58:13.4989648Z"
   },
   "Dependencies": [
     {

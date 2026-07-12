@@ -1,5 +1,5 @@
 {
-  "Id": "1de95adc-c3bd-42ae-aa7b-77316a7fd4a0",
+  "Id": "8ad8e402-c17f-4261-afac-955ea1864968",
   "DllName": "CommonSymbolFunctions",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\3DRefData\\SharedContent\\Custom Symbols\\CommonSymbolFunctions.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T11:28:22.230944Z"
+    "ScanDate": "2026-07-12T10:58:13.4501196Z"
   },
   "Dependencies": [
     {

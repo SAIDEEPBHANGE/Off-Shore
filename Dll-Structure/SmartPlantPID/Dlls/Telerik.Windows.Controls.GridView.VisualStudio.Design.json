@@ -1,5 +1,5 @@
 {
-  "Id": "b9150791-4db6-4ff0-a1f1-9259d0fdd770",
+  "Id": "7aed656b-1b69-4e60-9173-0b672808cda1",
   "DllName": "Telerik.Windows.Controls.GridView.VisualStudio.Design",
   "Version": "2018.2.620.45",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\telerik.windows.controls.gridview.visualstudio.design.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T10:48:24.5113244Z"
+    "ScanDate": "2026-07-12T10:25:42.9231193Z"
   },
   "Dependencies": [
     {

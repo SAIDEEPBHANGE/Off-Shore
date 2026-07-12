@@ -1,5 +1,5 @@
 {
-  "Id": "5ab2942f-54b1-4163-a119-c18b21767074",
+  "Id": "05961ffd-8167-484f-8fc6-53dcecd4aeac",
   "DllName": "SPDispalySetFiltering",
   "Version": "9.0.0.1405",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\spdispalysetfiltering.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T10:48:24.5133273Z"
+    "ScanDate": "2026-07-12T10:25:42.9231193Z"
   },
   "Dependencies": [
     {

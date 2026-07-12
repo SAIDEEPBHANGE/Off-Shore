@@ -1,5 +1,5 @@
 {
-  "Id": "dfdfae97-5c46-43ae-8141-d49ce50a77a5",
+  "Id": "142bd8e4-39e7-4ede-a798-27b8bdb47ab8",
   "DllName": "SmartPlantStructureMiddle.resources",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\Core\\Container\\Bin\\Assemblies\\Release\\en-US\\SmartPlantStructureMiddle.resources.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T11:28:22.276034Z"
+    "ScanDate": "2026-07-12T10:58:13.5009655Z"
   },
   "Dependencies": [
     {

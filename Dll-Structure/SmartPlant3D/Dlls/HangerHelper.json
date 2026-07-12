@@ -1,5 +1,5 @@
 {
-  "Id": "9fc22fb0-6b60-4edb-8c8f-0c7ba08774f6",
+  "Id": "3dab4751-b478-4f23-a984-12bd1f101cdb",
   "DllName": "HangerHelper",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\3DRefData\\SharedContent\\Bin\\HangersAndSupports\\Symbols\\Release\\HangerHelper.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T11:28:22.2660584Z"
+    "ScanDate": "2026-07-12T10:58:13.4889512Z"
   },
   "Dependencies": [
     {

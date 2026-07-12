@@ -1,5 +1,5 @@
 {
-  "Id": "e764c653-3a26-4083-b7a9-3916020a6443",
+  "Id": "94e7b104-417d-44af-a37f-fa442901c64c",
   "DllName": "Interop.LicenseCheckOutHelper",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\Interop.LicenseCheckOutHelper.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T10:48:24.5113244Z"
+    "ScanDate": "2026-07-12T10:25:42.9231193Z"
   },
   "Dependencies": [
     {

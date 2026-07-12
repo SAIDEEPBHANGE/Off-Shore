@@ -1,5 +1,5 @@
 {
-  "Id": "3cc2f11c-a047-4415-8152-88b0b0894206",
+  "Id": "3c56376f-7b38-444a-8540-084cce6394d8",
   "DllName": "Xceed.Zip.v6.3",
   "Version": "6.3.17281.13580",
   "FilePath": "D:\\Off-Share\\Smart3D\\Common2D\\Rad2D\\bin64\\Xceed.Zip.v6.3.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T11:28:22.276034Z"
+    "ScanDate": "2026-07-12T10:58:13.5009655Z"
   },
   "Dependencies": [
     {

@@ -1,5 +1,5 @@
 {
-  "Id": "39af0d9e-c45e-46db-874f-d2143978bb68",
+  "Id": "ef85d436-1f9e-433e-b535-3075a20c219e",
   "DllName": "ManufacturingTemplateSetSymbolRule",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\3DRefData\\SharedContent\\Bin\\StructManufacturing\\Rules\\Release\\ManufacturingTemplateSetSymbolRule.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T11:28:22.2690202Z"
+    "ScanDate": "2026-07-12T10:58:13.493239Z"
   },
   "Dependencies": [
     {

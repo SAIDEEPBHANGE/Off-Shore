@@ -1,5 +1,5 @@
 {
-  "Id": "ec001683-c832-4e49-b467-8e0cf69f7196",
+  "Id": "30571a6c-9a22-4910-8a25-944a7011a3f6",
   "DllName": "igrSoftButtons412",
   "Version": "10.0.0.603",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\igrSoftButtons412.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T10:48:24.5183186Z"
+    "ScanDate": "2026-07-12T10:25:42.9231193Z"
   },
   "Dependencies": [
     {

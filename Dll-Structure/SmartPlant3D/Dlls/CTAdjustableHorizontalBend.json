@@ -1,5 +1,5 @@
 {
-  "Id": "2299dbbe-3eba-450c-a274-c2d436c6c05e",
+  "Id": "3b7e854d-9f2f-4148-8173-7f20c0210e20",
   "DllName": "CTAdjustableHorizontalBend",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\3DRefData\\SharedContent\\Bin\\Electrical\\DotNetSymbols\\Release\\CTAdjustableHorizontalBend.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T11:28:22.2339491Z"
+    "ScanDate": "2026-07-12T10:58:13.4533491Z"
   },
   "Dependencies": [
     {

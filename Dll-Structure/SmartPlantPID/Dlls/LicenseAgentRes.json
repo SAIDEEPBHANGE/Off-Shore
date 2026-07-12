@@ -1,5 +1,5 @@
 {
-  "Id": "fb4e6175-d7fd-44dd-8dca-14eb16ce2f47",
+  "Id": "36dd6e1e-5538-4b3e-a4aa-4638746312b5",
   "DllName": "LicenseAgentRes",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\Languages\\LicenseAgentRes.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T10:48:24.5103255Z"
+    "ScanDate": "2026-07-12T10:25:42.9231193Z"
   },
   "Dependencies": [
     {

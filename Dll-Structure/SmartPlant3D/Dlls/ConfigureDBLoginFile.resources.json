@@ -1,5 +1,5 @@
 {
-  "Id": "a1a75db8-0647-4b48-90f4-4636c301d391",
+  "Id": "19be14f1-10a1-4b78-b6f9-2ab83701b4e3",
   "DllName": "ConfigureDBLoginFile.resources",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\ProjectMgmt\\Tools\\bin\\en-US\\ConfigureDBLoginFile.resources.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T11:28:22.2617095Z"
+    "ScanDate": "2026-07-12T10:58:13.4829535Z"
   },
   "Dependencies": [
     {

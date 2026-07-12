@@ -1,5 +1,5 @@
 {
-  "Id": "dd57bd7d-da5b-4933-8080-f224f39b7b97",
+  "Id": "faaef95c-f981-4404-ad93-930210f4d070",
   "DllName": "SpectacleBlind",
   "Version": "1.0.0.2",
   "FilePath": "D:\\Off-Share\\Smart3D\\3DRefData\\SharedContent\\Bin\\Piping\\DotNetSymbols\\Release\\SpectacleBlind.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T11:28:22.2730497Z"
+    "ScanDate": "2026-07-12T10:58:13.4979574Z"
   },
   "Dependencies": [
     {

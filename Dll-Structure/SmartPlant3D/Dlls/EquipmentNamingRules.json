@@ -1,5 +1,5 @@
 {
-  "Id": "705b070d-7020-4bfb-93c7-7c2ca8d9a4bf",
+  "Id": "0e681f40-75f3-4773-9e14-b6d05871ddd0",
   "DllName": "EquipmentNamingRules",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\3DRefData\\SharedContent\\Bin\\Equipment\\Rules\\Release\\EquipmentNamingRules.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T11:28:22.2329497Z"
+    "ScanDate": "2026-07-12T10:58:13.4521797Z"
   },
   "Dependencies": [
     {

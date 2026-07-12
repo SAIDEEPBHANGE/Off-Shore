@@ -1,5 +1,5 @@
 {
-  "Id": "a63d76d6-5600-4c49-b7e4-208ec202e272",
+  "Id": "454a3a9e-d7d1-417d-b989-8791b0dd0320",
   "DllName": "PIDOptionHelper",
   "Version": "9.0.0.1405",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\pidoptionhelper.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T10:48:24.5113244Z"
+    "ScanDate": "2026-07-12T10:25:42.9231193Z"
   },
   "Dependencies": [
     {

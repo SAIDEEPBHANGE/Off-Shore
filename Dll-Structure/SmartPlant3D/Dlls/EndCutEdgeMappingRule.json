@@ -1,5 +1,5 @@
 {
-  "Id": "7c56dd97-f8b6-493d-ba1e-7c738fd3ee38",
+  "Id": "c073c170-09e5-4a6b-8cc4-eb2804935352",
   "DllName": "EndCutEdgeMappingRule",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\3DRefData\\SharedContent\\Bin\\StructDetail\\Rules\\Release\\EndCutEdgeMappingRule.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T11:28:22.234949Z"
+    "ScanDate": "2026-07-12T10:58:13.4533491Z"
   },
   "Dependencies": [
     {

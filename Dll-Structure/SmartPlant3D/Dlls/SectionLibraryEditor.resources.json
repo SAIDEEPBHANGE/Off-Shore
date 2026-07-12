@@ -1,5 +1,5 @@
 {
-  "Id": "eb24c378-c575-4d45-b088-b5d3230187e0",
+  "Id": "11287fc0-a650-4417-86f8-f2234dfc049d",
   "DllName": "SectionLibraryEditor.resources",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\Core\\Container\\Bin\\Assemblies\\Release\\en-US\\SectionLibraryEditor.resources.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T11:28:22.2730497Z"
+    "ScanDate": "2026-07-12T10:58:13.4979574Z"
   },
   "Dependencies": [
     {

@@ -1,5 +1,5 @@
 {
-  "Id": "8ff14043-50d6-4b11-bf35-4db552c696cc",
+  "Id": "5b39854a-3ea3-43fb-b432-3cb16380bffc",
   "DllName": "scanInvalid2DGeometry",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\Core\\Container\\Bin\\Assemblies\\Release\\scanInvalid2DGeometry.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T11:28:22.2647088Z"
+    "ScanDate": "2026-07-12T10:58:13.4879509Z"
   },
   "Dependencies": [
     {

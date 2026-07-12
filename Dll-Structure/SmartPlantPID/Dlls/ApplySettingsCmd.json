@@ -1,5 +1,5 @@
 {
-  "Id": "2c558466-f937-4d62-a021-78796d4c7960",
+  "Id": "b13b1971-fcc7-4347-a011-151d0341d8be",
   "DllName": "ApplySettingsCmd",
   "Version": "9.0.0.1405",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\applysettingscmd.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T10:48:24.5082598Z"
+    "ScanDate": "2026-07-12T10:25:42.9231193Z"
   },
   "Dependencies": [
     {

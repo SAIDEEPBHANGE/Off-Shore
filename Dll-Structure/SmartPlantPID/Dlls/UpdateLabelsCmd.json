@@ -1,5 +1,5 @@
 {
-  "Id": "cdd9afa2-fb8e-44eb-8c07-47ffd42403b0",
+  "Id": "8146fd31-5595-4df3-8063-c7e416063bf5",
   "DllName": "UpdateLabelsCmd",
   "Version": "9.0.0.1405",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\updatelabelscmd.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T10:48:24.5103255Z"
+    "ScanDate": "2026-07-12T10:25:42.9231193Z"
   },
   "Dependencies": [
     {

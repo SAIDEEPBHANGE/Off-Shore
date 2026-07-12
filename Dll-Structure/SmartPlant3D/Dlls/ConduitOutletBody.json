@@ -1,5 +1,5 @@
 {
-  "Id": "e2981892-9fbb-49b8-a097-2c68c889d209",
+  "Id": "5e0e97c1-743f-423c-b346-9069243ae842",
   "DllName": "ConduitOutletBody",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\3DRefData\\SharedContent\\Bin\\Electrical\\DotNetSymbols\\Release\\ConduitOutletBody.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T11:28:22.2690202Z"
+    "ScanDate": "2026-07-12T10:58:13.4922621Z"
   },
   "Dependencies": [
     {

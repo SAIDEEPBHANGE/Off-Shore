@@ -1,5 +1,5 @@
 {
-  "Id": "2eb0b2c0-8347-4fcd-81b5-74686be5b1af",
+  "Id": "602c7744-38c6-4e20-9c7a-864a6e05f1da",
   "DllName": "Microsoft.Practices.Prism.Composition",
   "Version": "5.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\Core\\Container\\Bin\\SxS\\Microsoft\\Microsoft.Practices.Prism.Composition.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T11:28:22.2730497Z"
+    "ScanDate": "2026-07-12T10:58:13.4979574Z"
   },
   "Dependencies": [
     {

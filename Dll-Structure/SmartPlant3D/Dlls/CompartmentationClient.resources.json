@@ -1,5 +1,5 @@
 {
-  "Id": "e72c5ebc-dedd-4e00-84b6-2c65cea87688",
+  "Id": "19acdf9a-d133-4192-9976-714bb0a8ad53",
   "DllName": "CompartmentationClient.resources",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\Core\\Container\\Bin\\Assemblies\\Release\\en-US\\CompartmentationClient.resources.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T11:28:22.2359492Z"
+    "ScanDate": "2026-07-12T10:58:13.4544245Z"
   },
   "Dependencies": [
     {

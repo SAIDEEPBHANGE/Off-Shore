@@ -1,5 +1,5 @@
 {
-  "Id": "f42f57db-116a-4ab3-a193-552eff1b5093",
+  "Id": "ad1d36ef-6da7-45d6-a492-f08d102765f9",
   "DllName": "StockQueryInterpretor",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\3DRefData\\SharedContent\\Bin\\StructManufacturing\\Rules\\Release\\StockQueryInterpretor.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T11:28:22.2379481Z"
+    "ScanDate": "2026-07-12T10:58:13.4579857Z"
   },
   "Dependencies": [
     {

@@ -1,5 +1,5 @@
 {
-  "Id": "f813de8f-6225-4bef-be7e-d55e00455b36",
+  "Id": "a99bd7b2-a384-497e-855b-d085d572f4e4",
   "DllName": "ManufacturingGenericMarkRule",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\3DRefData\\SharedContent\\Bin\\StructManufacturing\\Rules\\Release\\ManufacturingGenericMarkRule.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T11:28:22.2409488Z"
+    "ScanDate": "2026-07-12T10:58:13.467352Z"
   },
   "Dependencies": [
     {

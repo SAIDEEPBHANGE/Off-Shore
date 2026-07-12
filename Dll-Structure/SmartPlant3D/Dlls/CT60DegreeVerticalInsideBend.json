@@ -1,5 +1,5 @@
 {
-  "Id": "c10276c3-8ab7-4d3d-a7cd-e79e0b580333",
+  "Id": "4142682c-2499-46d7-9089-d6d6f6e00a46",
   "DllName": "CT60DegreeVerticalInsideBend",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\3DRefData\\SharedContent\\Bin\\Electrical\\DotNetSymbols\\Release\\CT60DegreeVerticalInsideBend.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T11:28:22.2339491Z"
+    "ScanDate": "2026-07-12T10:58:13.4533491Z"
   },
   "Dependencies": [
     {

@@ -1,5 +1,5 @@
 {
-  "Id": "b20a4c98-4061-48b7-a181-899a6b0972be",
+  "Id": "639bc76d-a4d0-4d85-adde-de04bfc6d9ff",
   "DllName": "Intergraph.UX.WPF.Toolkit",
   "Version": "3.5.0.0",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\intergraph.ux.wpf.toolkit.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T10:48:24.5133273Z"
+    "ScanDate": "2026-07-12T10:25:42.9231193Z"
   },
   "Dependencies": [
     {

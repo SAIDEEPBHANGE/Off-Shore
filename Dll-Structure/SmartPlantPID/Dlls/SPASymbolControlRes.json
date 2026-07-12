@@ -1,5 +1,5 @@
 {
-  "Id": "d18b3e33-f73f-4ca7-922c-d086f7ba532e",
+  "Id": "90ded252-b033-4093-bfe9-41fff9dacb00",
   "DllName": "SPASymbolControlRes",
   "Version": "9.0.0.1405",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\Languages\\spasymbolcontrolres.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T10:48:24.5103255Z"
+    "ScanDate": "2026-07-12T10:25:42.9231193Z"
   },
   "Dependencies": [
     {

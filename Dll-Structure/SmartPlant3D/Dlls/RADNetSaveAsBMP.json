@@ -1,5 +1,5 @@
 {
-  "Id": "da3fee54-061c-4f3d-a64c-b1fac4045fc4",
+  "Id": "ae83d3e6-a693-4e8f-8f5e-82aa1ece4776",
   "DllName": "RADNetSaveAsBMP",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\Common2D\\Rad2D\\bin\\RADNetSaveAsBMP.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T11:28:22.2740348Z"
+    "ScanDate": "2026-07-12T10:58:13.4989648Z"
   },
   "Dependencies": [
     {

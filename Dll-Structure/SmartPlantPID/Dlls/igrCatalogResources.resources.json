@@ -1,5 +1,5 @@
 {
-  "Id": "61e84ac7-e544-44ce-8eb9-4c9e8a08a9ec",
+  "Id": "f6742cd2-7d6d-4471-9f8c-e172d91a78f4",
   "DllName": "igrCatalogResources.resources",
   "Version": "10.0.0.603",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\Languages\\en-US\\igrcatalogresources.resources.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T10:48:24.5143269Z"
+    "ScanDate": "2026-07-12T10:25:42.9231193Z"
   },
   "Dependencies": [
     {

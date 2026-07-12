@@ -1,5 +1,5 @@
 {
-  "Id": "45006699-a3f8-42fd-a749-b09e327d29a3",
+  "Id": "17647101-b7fc-4efb-9f44-291ec2165dbc",
   "DllName": "EC2to1Head",
   "Version": "1.0.0.2",
   "FilePath": "D:\\Off-Share\\Smart3D\\3DRefData\\SharedContent\\Bin\\EquipmentComponents\\DotNetSymbols\\Release\\EC2to1Head.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T11:28:22.2637085Z"
+    "ScanDate": "2026-07-12T10:58:13.4859517Z"
   },
   "Dependencies": [
     {

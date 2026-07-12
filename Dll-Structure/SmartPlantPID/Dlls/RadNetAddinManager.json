@@ -1,5 +1,5 @@
 {
-  "Id": "56fc3460-1f62-499a-be69-532570bbba16",
+  "Id": "dba766d7-a367-4e3d-920c-b435eb961933",
   "DllName": "RadNetAddinManager",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\RadNetAddinManager.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T10:48:24.5193118Z"
+    "ScanDate": "2026-07-12T10:25:42.9231193Z"
   },
   "Dependencies": [
     {

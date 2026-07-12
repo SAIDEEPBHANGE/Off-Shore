@@ -1,5 +1,5 @@
 {
-  "Id": "936de972-6321-4835-baa7-9e62b8eb4090",
+  "Id": "3ae39203-e9f9-430e-b95f-e1b2b4761c74",
   "DllName": "ManagedExportCmd",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\Core\\Container\\Bin\\Assemblies\\Release\\ManagedExportCmd.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T11:28:22.2647088Z"
+    "ScanDate": "2026-07-12T10:58:13.4869515Z"
   },
   "Dependencies": [
     {

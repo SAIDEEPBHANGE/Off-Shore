@@ -1,5 +1,5 @@
 {
-  "Id": "3d08ec11-6446-4eca-b078-9bc76e781419",
+  "Id": "bdcbc22f-3ac2-4a68-a57c-31cbb9e5a630",
   "DllName": "XceedRAD",
   "Version": "0.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\Common2D\\Rad2D\\bin\\xceedrad.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T11:28:22.2700339Z"
+    "ScanDate": "2026-07-12T10:58:13.493239Z"
   },
   "Dependencies": [
     {

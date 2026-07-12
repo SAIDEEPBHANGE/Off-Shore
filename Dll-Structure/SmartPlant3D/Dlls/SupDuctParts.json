@@ -1,5 +1,5 @@
 {
-  "Id": "9df20153-3067-439b-bad8-68a6faba509a",
+  "Id": "b15fb226-6177-4b67-82ab-de9a8f0bfe0b",
   "DllName": "SupDuctParts",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\3DRefData\\SharedContent\\Bin\\HangersAndSupports\\Symbols\\Release\\SupDuctParts.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T11:28:22.2730497Z"
+    "ScanDate": "2026-07-12T10:58:13.4979574Z"
   },
   "Dependencies": [
     {

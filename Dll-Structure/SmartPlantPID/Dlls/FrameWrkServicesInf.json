@@ -1,5 +1,5 @@
 {
-  "Id": "0f0c88ea-4deb-4c64-a740-ced96f53dae6",
+  "Id": "93022955-a3aa-420d-a7d4-36cede58f1c3",
   "DllName": "FrameWrkServicesInf",
   "Version": "9.0.0.1405",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\framewrkservicesinf.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T10:48:24.5183186Z"
+    "ScanDate": "2026-07-12T10:25:42.9231193Z"
   },
   "Dependencies": [
     {

@@ -1,5 +1,5 @@
 {
-  "Id": "87bce3dd-5280-41ba-8a57-7d483485a4e7",
+  "Id": "5bad0913-6609-4f47-b248-ad299889368e",
   "DllName": "Telerik.Windows.Controls.Navigation",
   "Version": "2016.1.217.40",
   "FilePath": "D:\\Off-Share\\Smart3D\\Common2D\\Rad2D\\bin\\SxS\\Telerik\\Telerik.Windows.Controls.Navigation.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T11:28:22.2607088Z"
+    "ScanDate": "2026-07-12T10:58:13.4799526Z"
   },
   "Dependencies": [
     {

@@ -1,5 +1,5 @@
 {
-  "Id": "e0e35221-a664-4e8e-81f9-744d46141bcc",
+  "Id": "7baa8cc8-76f2-4f3e-bdbe-b3a38e823423",
   "DllName": "InteropSchemaGUI",
   "Version": "3.8.0.0",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\InteropSchemaGUI.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v2.0.50727",
-    "ScanDate": "2026-07-11T10:48:24.5113244Z"
+    "ScanDate": "2026-07-12T10:25:42.9231193Z"
   },
   "Dependencies": [
     {

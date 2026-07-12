@@ -1,5 +1,5 @@
 {
-  "Id": "9e4d6367-7617-4a5a-98ed-58c3c3aaa69c",
+  "Id": "7c9733b2-450e-4097-8921-10a330da4831",
   "DllName": "DesignSupportPart",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\3DRefData\\SharedContent\\Bin\\HangersAndSupports\\Symbols\\Release\\DesignSupportPart.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T11:28:22.2750345Z"
+    "ScanDate": "2026-07-12T10:58:13.4999579Z"
   },
   "Dependencies": [
     {

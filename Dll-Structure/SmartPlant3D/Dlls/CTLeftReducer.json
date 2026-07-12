@@ -1,5 +1,5 @@
 {
-  "Id": "65ff4bdf-cc6d-4d62-95ca-a4e1e05036f9",
+  "Id": "fbb839d0-9d18-4365-9893-24e245997ae9",
   "DllName": "CTLeftReducer",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\3DRefData\\SharedContent\\Bin\\Electrical\\DotNetSymbols\\Release\\CTLeftReducer.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T11:28:22.2710296Z"
+    "ScanDate": "2026-07-12T10:58:13.4956286Z"
   },
   "Dependencies": [
     {

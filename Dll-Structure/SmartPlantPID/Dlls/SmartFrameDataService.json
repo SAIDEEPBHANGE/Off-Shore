@@ -1,5 +1,5 @@
 {
-  "Id": "430bff7b-cf34-41b7-8801-aeddef634b26",
+  "Id": "baa28640-8bde-492e-a138-4c3b7bd90618",
   "DllName": "SmartFrameDataService",
   "Version": "9.0.0.1405",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\smartframedataservice.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T10:48:24.5143269Z"
+    "ScanDate": "2026-07-12T10:25:42.9231193Z"
   },
   "Dependencies": [
     {

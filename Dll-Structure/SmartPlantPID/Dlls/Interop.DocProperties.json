@@ -1,5 +1,5 @@
 {
-  "Id": "b38b0c32-3281-48b6-8332-ea307a2bb1f7",
+  "Id": "04c4bcd0-b884-4897-ba1d-db2d5ad040cf",
   "DllName": "Interop.DocProperties",
   "Version": "2.0.0.0",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\Interop.DocProperties.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T10:48:24.5133273Z"
+    "ScanDate": "2026-07-12T10:25:42.9231193Z"
   },
   "Dependencies": [
     {

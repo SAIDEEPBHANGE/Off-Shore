@@ -1,5 +1,5 @@
 {
-  "Id": "3fdfb787-a0f2-4834-814f-929bd764ee05",
+  "Id": "7d025c15-fdbd-45a9-a87b-f48a79d9e2a0",
   "DllName": "EQHoriShellTubeExchangerAsm",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\3DRefData\\SharedContent\\Bin\\Equipment\\DotNetSymbols\\Release\\EQHoriShellTubeExchangerAsm.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T11:28:22.2409488Z"
+    "ScanDate": "2026-07-12T10:58:13.467352Z"
   },
   "Dependencies": [
     {

@@ -1,5 +1,5 @@
 {
-  "Id": "a3492060-5762-442d-9dc1-bbd1fb0a8de4",
+  "Id": "97416a82-87ce-4c65-9502-48ed36a296a6",
   "DllName": "ToDoListPlacement",
   "Version": "9.0.0.1405",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\todolistplacement.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T10:48:24.5193118Z"
+    "ScanDate": "2026-07-12T10:25:42.9231193Z"
   },
   "Dependencies": [
     {

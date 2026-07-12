@@ -1,5 +1,5 @@
 {
-  "Id": "9c627408-aac7-4e55-84a0-8946b08309e4",
+  "Id": "42bb3f9b-2980-4234-b2c8-39c1cb1b935c",
   "DllName": "SPPIDMDAdapter",
   "Version": "9.0.0.1405",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\sppidmdadapter.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T10:48:24.5093279Z"
+    "ScanDate": "2026-07-12T10:25:42.9231193Z"
   },
   "Dependencies": [
     {

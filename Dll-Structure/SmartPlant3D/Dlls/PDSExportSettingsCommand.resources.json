@@ -1,5 +1,5 @@
 {
-  "Id": "734d1d93-80ca-4e11-a902-23c9e1243212",
+  "Id": "317ff6f8-af72-4caf-8a13-95bacda1ab7c",
   "DllName": "PDSExportSettingsCommand.resources",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\Core\\Container\\Bin\\Assemblies\\Release\\en-US\\PDSExportSettingsCommand.resources.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T11:28:22.2750345Z"
+    "ScanDate": "2026-07-12T10:58:13.4999579Z"
   },
   "Dependencies": [
     {

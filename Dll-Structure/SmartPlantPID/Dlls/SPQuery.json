@@ -1,5 +1,5 @@
 {
-  "Id": "9fb15fb0-d68b-4a32-bedc-fdb2e367da84",
+  "Id": "5a075ee0-0935-467b-8595-3648c1a1d468",
   "DllName": "SPQuery",
   "Version": "9.0.0.1405",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\spquery.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T10:48:24.5183186Z"
+    "ScanDate": "2026-07-12T10:25:42.9231193Z"
   },
   "Dependencies": [
     {

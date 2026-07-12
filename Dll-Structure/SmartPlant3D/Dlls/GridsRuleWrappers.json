@@ -1,5 +1,5 @@
 {
-  "Id": "fc97eaa3-7d50-4ec3-bd88-aa7c8e696fbe",
+  "Id": "4884e394-246a-403d-aabe-859e20cc0116",
   "DllName": "GridsRuleWrappers",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\Core\\Container\\Bin\\Assemblies\\Release\\GridsRuleWrappers.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T11:28:22.2740348Z"
+    "ScanDate": "2026-07-12T10:58:13.4989648Z"
   },
   "Dependencies": [
     {

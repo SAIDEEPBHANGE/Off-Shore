@@ -1,5 +1,5 @@
 {
-  "Id": "dd44c7b9-2f72-4934-9a96-fdec723932b8",
+  "Id": "a836bfe8-7bb7-4abf-af77-ad3e21020f5f",
   "DllName": "AssignLoops",
   "Version": "9.0.0.1405",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\Validation\\AssignLoops.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T10:48:24.5153254Z"
+    "ScanDate": "2026-07-12T10:25:42.9231193Z"
   },
   "Dependencies": [
     {

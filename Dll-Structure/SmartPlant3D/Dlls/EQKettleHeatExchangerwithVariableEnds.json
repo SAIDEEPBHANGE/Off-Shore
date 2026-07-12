@@ -1,5 +1,5 @@
 {
-  "Id": "1599d764-2f30-4d1f-86af-38cc0b5d3093",
+  "Id": "b1a5feda-4f3f-4eac-bede-590d8444ead4",
   "DllName": "EQKettleHeatExchangerwithVariableEnds",
   "Version": "1.0.0.2",
   "FilePath": "D:\\Off-Share\\Smart3D\\3DRefData\\SharedContent\\Bin\\Equipment\\DotNetSymbols\\Release\\EQKettleHeatExchangerwithVariableEnds.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T11:28:22.2710296Z"
+    "ScanDate": "2026-07-12T10:58:13.4956286Z"
   },
   "Dependencies": [
     {

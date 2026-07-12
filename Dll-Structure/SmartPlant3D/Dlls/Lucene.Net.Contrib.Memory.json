@@ -1,5 +1,5 @@
 {
-  "Id": "bb9b6e7a-825a-4c35-ad09-4c5aa6383a78",
+  "Id": "4282c60b-4a27-446b-9cbc-6d9826950467",
   "DllName": "Lucene.Net.Contrib.Memory",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\Documentation\\HelpApp\\Lucene.Net.Contrib.Memory.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T11:28:22.2647088Z"
+    "ScanDate": "2026-07-12T10:58:13.4879509Z"
   },
   "Dependencies": [
     {

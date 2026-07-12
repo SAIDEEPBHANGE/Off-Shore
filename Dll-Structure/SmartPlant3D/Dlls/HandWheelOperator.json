@@ -1,5 +1,5 @@
 {
-  "Id": "77aa80ce-d542-4da2-9c13-9ea9947bb154",
+  "Id": "055a3737-1925-4f2d-b95e-34b49fcd1371",
   "DllName": "HandWheelOperator",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\3DRefData\\SharedContent\\Bin\\Piping\\DotNetSymbols\\Release\\HandWheelOperator.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T11:28:22.2429482Z"
+    "ScanDate": "2026-07-12T10:58:13.4683583Z"
   },
   "Dependencies": [
     {

@@ -1,5 +1,5 @@
 {
-  "Id": "c3f994fd-e126-42fd-8a4c-c9722a1e63ba",
+  "Id": "c7cd9dea-2764-4c91-bff8-3c6ebc54f0f1",
   "DllName": "UpdateDwgInfs",
   "Version": "9.0.0.1405",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\updatedwginfs.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T10:48:24.5113244Z"
+    "ScanDate": "2026-07-12T10:25:42.9231193Z"
   },
   "Dependencies": [
     {

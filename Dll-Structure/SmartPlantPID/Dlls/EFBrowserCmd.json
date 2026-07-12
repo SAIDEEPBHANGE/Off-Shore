@@ -1,5 +1,5 @@
 {
-  "Id": "a109ef0f-adbe-41b5-ab5c-b35c3c7a641f",
+  "Id": "146a72ec-fca0-4cfa-9716-9326f75ae85a",
   "DllName": "EFBrowserCmd",
   "Version": "9.0.0.1405",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\efbrowsercmd.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T10:48:24.5193118Z"
+    "ScanDate": "2026-07-12T10:25:42.9231193Z"
   },
   "Dependencies": [
     {

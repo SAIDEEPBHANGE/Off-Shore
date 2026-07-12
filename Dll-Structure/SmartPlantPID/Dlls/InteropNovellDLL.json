@@ -1,5 +1,5 @@
 {
-  "Id": "2627a5db-ac64-43c0-b8f2-ec32d3c4e0c1",
+  "Id": "c3a4cc7e-4815-4bc5-a593-bc3fdbee2388",
   "DllName": "InteropNovellDLL",
   "Version": "26.0.0.0",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\interopnovelldll.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v2.0.50727",
-    "ScanDate": "2026-07-11T10:48:24.5153254Z"
+    "ScanDate": "2026-07-12T10:25:42.9231193Z"
   },
   "Dependencies": [
     {

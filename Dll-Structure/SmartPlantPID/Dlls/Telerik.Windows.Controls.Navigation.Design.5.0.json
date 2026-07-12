@@ -1,5 +1,5 @@
 {
-  "Id": "623e1eda-06b4-4fdb-aba2-f1d3510d860b",
+  "Id": "ca6a34fa-ff71-488d-a8ae-41f3cd995acd",
   "DllName": "Telerik.Windows.Controls.Navigation.Design.5.0",
   "Version": "2018.2.620.45",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\telerik.windows.controls.navigation.design.5.0.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T10:48:24.5143269Z"
+    "ScanDate": "2026-07-12T10:25:42.9231193Z"
   },
   "Dependencies": [
     {

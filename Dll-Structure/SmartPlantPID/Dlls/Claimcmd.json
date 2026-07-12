@@ -1,5 +1,5 @@
 {
-  "Id": "b687e0b2-ea96-45eb-8c6a-ce35fa02034f",
+  "Id": "8a904862-fca7-4729-8bfa-b3637fa5293b",
   "DllName": "Claimcmd",
   "Version": "9.0.0.1405",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\claimcmd.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T10:48:24.5113244Z"
+    "ScanDate": "2026-07-12T10:25:42.9231193Z"
   },
   "Dependencies": [
     {

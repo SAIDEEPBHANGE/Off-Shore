@@ -1,5 +1,5 @@
 {
-  "Id": "9eada5e1-95f5-4e3f-9f13-9ababe570c4f",
+  "Id": "b5cf5e3f-c92a-432a-b93b-0893ed69a024",
   "DllName": "Structural_Sample",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\3DRefData\\SharedContent\\Bin\\HangersAndSupports\\Symbols\\Release\\Structural_Sample.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T11:28:22.2339491Z"
+    "ScanDate": "2026-07-12T10:58:13.4533491Z"
   },
   "Dependencies": [
     {

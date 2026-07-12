@@ -1,5 +1,5 @@
 {
-  "Id": "960eaa95-b3d3-4f97-8a0b-19cb49c939d4",
+  "Id": "e58cfd32-42f7-47ed-9885-3990e190c0cd",
   "DllName": "InterferenceRules",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\3DRefData\\SharedContent\\Bin\\Interference\\Rules\\Release\\InterferenceRules.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T11:28:22.2339491Z"
+    "ScanDate": "2026-07-12T10:58:13.4533491Z"
   },
   "Dependencies": [
     {

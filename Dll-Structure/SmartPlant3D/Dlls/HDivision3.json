@@ -1,5 +1,5 @@
 {
-  "Id": "baf05521-f667-4727-99d8-121dc5706f29",
+  "Id": "44ddde19-f809-43e1-8bb4-d6b87396dcd9",
   "DllName": "HDivision3",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\3DRefData\\SharedContent\\Bin\\Ducting\\DotNetSymbols\\Release\\HDivision3.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T11:28:22.2750345Z"
+    "ScanDate": "2026-07-12T10:58:13.4999579Z"
   },
   "Dependencies": [
     {

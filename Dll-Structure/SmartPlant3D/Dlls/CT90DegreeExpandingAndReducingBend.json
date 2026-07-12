@@ -1,5 +1,5 @@
 {
-  "Id": "2661412f-dccc-4f0a-87e3-68700a39a750",
+  "Id": "3e157b6a-2624-4be8-8177-90030f041c58",
   "DllName": "CT90DegreeExpandingAndReducingBend",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\3DRefData\\SharedContent\\Bin\\Electrical\\DotNetSymbols\\Release\\CT90DegreeExpandingAndReducingBend.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T11:28:22.2485861Z"
+    "ScanDate": "2026-07-12T10:58:13.4723486Z"
   },
   "Dependencies": [
     {

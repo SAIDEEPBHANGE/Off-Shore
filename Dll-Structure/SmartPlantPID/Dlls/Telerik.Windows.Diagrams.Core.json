@@ -1,5 +1,5 @@
 {
-  "Id": "68007a16-bb2d-4553-b633-98440df50420",
+  "Id": "ed78d32b-59c5-470e-9b28-9659de8f615e",
   "DllName": "Telerik.Windows.Diagrams.Core",
   "Version": "2018.2.620.45",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\telerik.windows.diagrams.core.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T10:48:24.5133273Z"
+    "ScanDate": "2026-07-12T10:25:42.9231193Z"
   },
   "Dependencies": [
     {

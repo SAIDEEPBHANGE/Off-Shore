@@ -1,5 +1,5 @@
 {
-  "Id": "4e3f40cd-1904-4140-94b8-a50281973851",
+  "Id": "246295d8-a52c-46e4-9ca6-d3d851470d4c",
   "DllName": "ManufacturingShrinkageNamingRule",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\3DRefData\\SharedContent\\Bin\\StructManufacturing\\Rules\\Release\\ManufacturingShrinkageNamingRule.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T11:28:22.2439479Z"
+    "ScanDate": "2026-07-12T10:58:13.4693494Z"
   },
   "Dependencies": [
     {

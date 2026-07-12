@@ -1,5 +1,5 @@
 {
-  "Id": "f065195a-8f1c-480c-9bf8-ce029efb614e",
+  "Id": "35ee5fe7-bd8c-4397-acbf-729de220bfb7",
   "DllName": "Microsoft.SqlServer.Types",
   "Version": "14.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\Core\\Container\\Bin\\Assemblies\\Release\\SMO\\14.1\\Microsoft.SqlServer.Types.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v2.0.50727",
-    "ScanDate": "2026-07-11T11:28:22.2419484Z"
+    "ScanDate": "2026-07-12T10:58:13.467352Z"
   },
   "Dependencies": [
     {

@@ -1,5 +1,5 @@
 {
-  "Id": "a62b6bb8-d9d8-4b41-9788-bd2e940080f8",
+  "Id": "e973ff91-6353-412c-9e7e-e571bcde2a61",
   "DllName": "Telerik.Windows.Documents.Core",
   "Version": "2016.1.212.40",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\SxS\\Telerik\\Telerik.Windows.Documents.Core.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T10:48:24.5193118Z"
+    "ScanDate": "2026-07-12T10:25:42.9231193Z"
   },
   "Dependencies": [
     {

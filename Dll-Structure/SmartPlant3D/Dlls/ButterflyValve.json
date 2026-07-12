@@ -1,5 +1,5 @@
 {
-  "Id": "a62ffb74-866f-49df-bd32-817c2fce03eb",
+  "Id": "d41686a6-c18a-4f73-85d5-7f3ed4b2d77f",
   "DllName": "ButterflyValve",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\3DRefData\\SharedContent\\Bin\\Piping\\DotNetSymbols\\Release\\ButterflyValve.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T11:28:22.2319505Z"
+    "ScanDate": "2026-07-12T10:58:13.4501196Z"
   },
   "Dependencies": [
     {

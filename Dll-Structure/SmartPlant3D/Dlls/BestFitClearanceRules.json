@@ -1,5 +1,5 @@
 {
-  "Id": "bae3ab98-37f9-4e7e-942a-c6bcd7dc812f",
+  "Id": "6bf34a2a-f738-4ba4-a500-6460faa73c22",
   "DllName": "BestFitClearanceRules",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\3DRefData\\SharedContent\\Bin\\HoleMgmt\\CustomAssemblies\\Release\\BestFitClearanceRules.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T11:28:22.2339491Z"
+    "ScanDate": "2026-07-12T10:58:13.4521797Z"
   },
   "Dependencies": [
     {

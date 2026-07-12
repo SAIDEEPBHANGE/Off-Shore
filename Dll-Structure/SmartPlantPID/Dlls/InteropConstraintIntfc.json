@@ -1,5 +1,5 @@
 {
-  "Id": "467de546-09f5-47e2-b3c8-4c541db0063e",
+  "Id": "3e5c4465-f9fa-4e73-bf9e-2f2f95f7f073",
   "DllName": "InteropConstraintIntfc",
   "Version": "3.8.0.0",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\interopconstraintintfc.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v2.0.50727",
-    "ScanDate": "2026-07-11T10:48:24.5133273Z"
+    "ScanDate": "2026-07-12T10:25:42.9231193Z"
   },
   "Dependencies": [
     {

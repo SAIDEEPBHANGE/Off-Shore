@@ -1,5 +1,5 @@
 {
-  "Id": "84f0d65c-3ab3-4706-8c10-297725a6cf38",
+  "Id": "e090513b-6368-419f-a31e-3c3bb87cee3e",
   "DllName": "ModifyAssemblyConnection.resources",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\Core\\Container\\Bin\\Assemblies\\Release\\en-US\\ModifyAssemblyConnection.resources.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T11:28:22.2496605Z"
+    "ScanDate": "2026-07-12T10:58:13.4736542Z"
   },
   "Dependencies": [
     {

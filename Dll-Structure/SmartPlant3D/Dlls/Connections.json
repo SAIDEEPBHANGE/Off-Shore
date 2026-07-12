@@ -1,5 +1,5 @@
 {
-  "Id": "e0724401-1d16-4d7b-83c7-dbc02ea03396",
+  "Id": "4f9b2115-df2e-406d-b866-28c1f7267a91",
   "DllName": "Connections",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\3DRefData\\SharedContent\\Bin\\StructDetail\\CustomAssemblies\\Release\\Connections.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T11:28:22.2670284Z"
+    "ScanDate": "2026-07-12T10:58:13.4889512Z"
   },
   "Dependencies": [
     {

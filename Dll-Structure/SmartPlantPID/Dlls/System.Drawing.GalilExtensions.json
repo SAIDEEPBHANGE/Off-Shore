@@ -1,5 +1,5 @@
 {
-  "Id": "d42f0b0c-dc2e-4ab4-a249-e1ab96a79e8b",
+  "Id": "32a0eaa2-aca2-4ff6-a146-f33a92dac681",
   "DllName": "System.Drawing.GalilExtensions",
   "Version": "10.0.0.603",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\system.drawing.galilextensions.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T10:48:24.5193118Z"
+    "ScanDate": "2026-07-12T10:25:42.9231193Z"
   },
   "Dependencies": [
     {

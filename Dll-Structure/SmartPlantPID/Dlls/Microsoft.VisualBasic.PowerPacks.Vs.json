@@ -1,5 +1,5 @@
 {
-  "Id": "dd25dd00-28ff-4baf-ad89-33c5764bf51d",
+  "Id": "0ad8e766-42d3-4214-b988-cae63f935961",
   "DllName": "Microsoft.VisualBasic.PowerPacks.Vs",
   "Version": "10.0.0.0",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\microsoft.visualbasic.powerpacks.vs.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v2.0.50727",
-    "ScanDate": "2026-07-11T10:48:24.5123232Z"
+    "ScanDate": "2026-07-12T10:25:42.9231193Z"
   },
   "Dependencies": [
     {

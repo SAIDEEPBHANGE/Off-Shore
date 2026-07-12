@@ -1,5 +1,5 @@
 {
-  "Id": "d7c7a2b5-64b1-45d9-956f-113f4b42b5f2",
+  "Id": "1454a795-c98b-40d1-97fa-2b72ae5cc5a6",
   "DllName": "ECHorizontalDrum",
   "Version": "1.0.0.2",
   "FilePath": "D:\\Off-Share\\Smart3D\\3DRefData\\SharedContent\\Bin\\EquipmentComponents\\DotNetSymbols\\Release\\ECHorizontalDrum.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T11:28:22.2472804Z"
+    "ScanDate": "2026-07-12T10:58:13.4713502Z"
   },
   "Dependencies": [
     {

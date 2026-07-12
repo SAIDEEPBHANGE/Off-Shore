@@ -1,5 +1,5 @@
 {
-  "Id": "d7e7c94d-061c-4e50-b374-80d4f8ac0320",
+  "Id": "11a25beb-5f72-49f0-a30d-24c1509a74da",
   "DllName": "BadEmbedLabelsCmd",
   "Version": "9.0.0.1405",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\badembedlabelscmd.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T10:48:24.5143269Z"
+    "ScanDate": "2026-07-12T10:25:42.9231193Z"
   },
   "Dependencies": [
     {

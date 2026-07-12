@@ -1,5 +1,5 @@
 {
-  "Id": "578213d4-8028-4ec5-a5a2-cad161b27d43",
+  "Id": "4f1124e3-eaf1-4846-8477-672e188737c6",
   "DllName": "PropagateInf",
   "Version": "9.0.0.1405",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\propagateinf.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T10:48:24.5153254Z"
+    "ScanDate": "2026-07-12T10:25:42.9231193Z"
   },
   "Dependencies": [
     {

@@ -1,5 +1,5 @@
 {
-  "Id": "2f051fdd-d19f-486c-8b36-adaa3a274927",
+  "Id": "a1b62d0e-5b75-4b78-a9f3-f586d70aac94",
   "DllName": "SystemNamingRules",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\3DRefData\\SharedContent\\Bin\\SystemAndSpecs\\Rules\\Release\\SystemNamingRules.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T11:28:22.2720279Z"
+    "ScanDate": "2026-07-12T10:58:13.4966117Z"
   },
   "Dependencies": [
     {

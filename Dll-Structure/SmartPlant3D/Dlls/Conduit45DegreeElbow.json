@@ -1,5 +1,5 @@
 {
-  "Id": "6313694a-69cd-4d15-9962-115cd253fd7a",
+  "Id": "f59115b5-0a29-4de4-a7e6-9a2187fa5923",
   "DllName": "Conduit45DegreeElbow",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\3DRefData\\SharedContent\\Bin\\Electrical\\DotNetSymbols\\Release\\Conduit45DegreeElbow.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T11:28:22.2730497Z"
+    "ScanDate": "2026-07-12T10:58:13.4979574Z"
   },
   "Dependencies": [
     {

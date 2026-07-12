@@ -1,5 +1,5 @@
 {
-  "Id": "794eb999-2a12-4ee5-8aba-9aca00187a06",
+  "Id": "f446b5f3-6e6c-42cf-ba01-e8896fa563bc",
   "DllName": "HSSmartPart.resources",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\3DRefData\\SharedContent\\Bin\\HangersAndSupports\\Symbols\\Release\\en-US\\HSSmartPart.resources.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T11:28:22.276034Z"
+    "ScanDate": "2026-07-12T10:58:13.5009655Z"
   },
   "Dependencies": [
     {

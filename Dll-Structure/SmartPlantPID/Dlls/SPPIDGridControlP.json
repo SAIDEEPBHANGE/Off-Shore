@@ -1,5 +1,5 @@
 {
-  "Id": "13970fcd-4ce8-4372-b45c-b9764c3989d9",
+  "Id": "11ae7c4f-ab27-4638-bf06-f8d0a592afd6",
   "DllName": "SPPIDGridControlP",
   "Version": "9.0.0.1405",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\sppidgridcontrolp.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T10:48:24.5153254Z"
+    "ScanDate": "2026-07-12T10:25:42.9231193Z"
   },
   "Dependencies": [
     {

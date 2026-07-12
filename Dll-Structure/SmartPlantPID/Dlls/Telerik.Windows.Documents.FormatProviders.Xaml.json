@@ -1,5 +1,5 @@
 {
-  "Id": "95c719da-1279-4c6e-88a4-7f31aaa9c097",
+  "Id": "28c8090f-d30e-410d-9b65-251570fbdc8f",
   "DllName": "Telerik.Windows.Documents.FormatProviders.Xaml",
   "Version": "2018.2.620.45",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\telerik.windows.documents.formatproviders.xaml.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T10:48:24.5143269Z"
+    "ScanDate": "2026-07-12T10:25:42.9231193Z"
   },
   "Dependencies": [
     {

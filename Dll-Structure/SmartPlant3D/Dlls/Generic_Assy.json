@@ -1,5 +1,5 @@
 {
-  "Id": "b50f4105-fe26-424b-b507-221797d6cec4",
+  "Id": "fd9af0e5-4892-4324-a7f0-a9d3218843ca",
   "DllName": "Generic_Assy",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\3DRefData\\SharedContent\\Bin\\HangersAndSupports\\Rules\\Release\\Generic_Assy.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T11:28:22.2485861Z"
+    "ScanDate": "2026-07-12T10:58:13.4723486Z"
   },
   "Dependencies": [
     {

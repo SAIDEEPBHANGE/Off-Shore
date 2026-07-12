@@ -1,5 +1,5 @@
 {
-  "Id": "7c66a8ce-5a06-4e90-9ed7-fb8546f5a95c",
+  "Id": "43f356a8-f474-4579-8ca8-d1708d667e3f",
   "DllName": "LSControl",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\LSControl.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T10:48:24.5143269Z"
+    "ScanDate": "2026-07-12T10:25:42.9231193Z"
   },
   "Dependencies": [
     {

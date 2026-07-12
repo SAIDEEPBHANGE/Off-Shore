@@ -1,5 +1,5 @@
 {
-  "Id": "eeffc1ef-28c2-4073-a5f0-8aa2936491e4",
+  "Id": "37a3d322-d67e-429b-8a6a-1166c180c767",
   "DllName": "RadNetDocProperties",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\Common2D\\Rad2D\\bin\\RadNetDocProperties.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T11:28:22.2429482Z"
+    "ScanDate": "2026-07-12T10:58:13.4683583Z"
   },
   "Dependencies": [
     {

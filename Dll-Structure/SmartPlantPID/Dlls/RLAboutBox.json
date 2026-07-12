@@ -1,5 +1,5 @@
 {
-  "Id": "c0d3f4df-9c0f-4b65-82e5-8cc99b592755",
+  "Id": "96c6bca6-2cfd-42e3-a220-02079285d5d3",
   "DllName": "RLAboutBox",
   "Version": "9.0.0.1405",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\Languages\\RLAboutBox.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T10:48:24.5143269Z"
+    "ScanDate": "2026-07-12T10:25:42.9231193Z"
   },
   "Dependencies": [
     {

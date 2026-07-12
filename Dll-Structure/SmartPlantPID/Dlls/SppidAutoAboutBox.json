@@ -1,5 +1,5 @@
 {
-  "Id": "d4f64bbc-e74c-4b6a-a929-0be2dab68b69",
+  "Id": "df954206-0dcd-4b3e-a43b-f4f6043eb866",
   "DllName": "SppidAutoAboutBox",
   "Version": "9.0.0.1405",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\Languages\\SppidAutoAboutBox.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T10:48:24.5153254Z"
+    "ScanDate": "2026-07-12T10:25:42.9231193Z"
   },
   "Dependencies": [
     {

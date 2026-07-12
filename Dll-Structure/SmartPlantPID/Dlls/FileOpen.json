@@ -1,5 +1,5 @@
 {
-  "Id": "6e1fd834-1cb8-4e88-bc3f-743051ea64e2",
+  "Id": "0694f2f3-1f35-46a0-9ef3-3e0bc2ca62b8",
   "DllName": "FileOpen",
   "Version": "9.0.0.1405",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\Fileopen.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T10:48:24.5133273Z"
+    "ScanDate": "2026-07-12T10:25:42.9231193Z"
   },
   "Dependencies": [
     {

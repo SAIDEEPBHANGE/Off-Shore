@@ -1,5 +1,5 @@
 {
-  "Id": "9970a5fe-63cf-43b1-b886-8fd23d633a75",
+  "Id": "143c70b6-8d00-4c1a-85c8-f92003f42ccc",
   "DllName": "CornerFeatures.resources",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\3DRefData\\SharedContent\\Bin\\StructDetail\\CustomAssemblies\\Release\\en-US\\CornerFeatures.resources.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T11:28:22.2485861Z"
+    "ScanDate": "2026-07-12T10:58:13.4723486Z"
   },
   "Dependencies": [
     {

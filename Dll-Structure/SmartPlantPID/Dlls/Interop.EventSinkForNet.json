@@ -1,5 +1,5 @@
 {
-  "Id": "74430365-b16b-4593-923a-9df3e6538a1d",
+  "Id": "c8a2a9fd-0d04-4b25-8f5e-a47dd463dd1e",
   "DllName": "Interop.EventSinkForNet",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\Interop.EventSinkForNet.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T10:48:24.5133273Z"
+    "ScanDate": "2026-07-12T10:25:42.9231193Z"
   },
   "Dependencies": [
     {

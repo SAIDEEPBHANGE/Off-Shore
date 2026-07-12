@@ -1,5 +1,5 @@
 {
-  "Id": "d4c2285b-9a01-4383-b6a7-cff5e4456f2e",
+  "Id": "5a38e3e6-9bb5-4056-a233-ac7ec4512108",
   "DllName": "Telerik.Windows.Documents.Proofing.DataGrid",
   "Version": "2018.2.620.45",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\telerik.windows.documents.proofing.datagrid.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T10:48:24.5133273Z"
+    "ScanDate": "2026-07-12T10:25:42.9231193Z"
   },
   "Dependencies": [
     {

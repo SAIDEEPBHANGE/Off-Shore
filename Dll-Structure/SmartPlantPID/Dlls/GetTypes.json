@@ -1,5 +1,5 @@
 {
-  "Id": "acb2b3ca-ad39-4974-b8c2-673d583f7afd",
+  "Id": "1a7a84b9-0ccc-4839-8d71-cd94d878575a",
   "DllName": "GetTypes",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\gettypes.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T10:48:24.5133273Z"
+    "ScanDate": "2026-07-12T10:25:42.9231193Z"
   },
   "Dependencies": [
     {

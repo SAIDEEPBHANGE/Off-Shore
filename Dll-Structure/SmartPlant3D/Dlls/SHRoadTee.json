@@ -1,5 +1,5 @@
 {
-  "Id": "703e1d81-389e-4db3-a7bf-e9f2e9041b22",
+  "Id": "2da66fe6-364d-48f8-b991-0d3fd6769b65",
   "DllName": "SHRoadTee",
   "Version": "1.0.0.1",
   "FilePath": "D:\\Off-Share\\Smart3D\\3DRefData\\SharedContent\\Bin\\Shapes\\DotNetSymbols\\Release\\SHRoadTee.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T11:28:22.2577098Z"
+    "ScanDate": "2026-07-12T10:58:13.4756454Z"
   },
   "Dependencies": [
     {

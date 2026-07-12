@@ -1,5 +1,5 @@
 {
-  "Id": "a489026a-135b-4f56-b661-0f51cbe51ba6",
+  "Id": "fc0d07de-0916-4d67-b221-f148d1bc2494",
   "DllName": "EquipmentFoundationCustomAssemblies",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\3DRefData\\SharedContent\\Bin\\SmartPlantStructure\\Symbols\\Release\\EquipmentFoundationCustomAssemblies.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T11:28:22.2319505Z"
+    "ScanDate": "2026-07-12T10:58:13.4501196Z"
   },
   "Dependencies": [
     {

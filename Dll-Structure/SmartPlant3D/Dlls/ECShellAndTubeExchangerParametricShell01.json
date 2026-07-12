@@ -1,5 +1,5 @@
 {
-  "Id": "d81c2801-d89d-49a1-b3da-c5c47bfd21ec",
+  "Id": "72307976-5bae-456f-acc3-a14549f5befb",
   "DllName": "ECShellAndTubeExchangerParametricShell01",
   "Version": "1.0.0.1",
   "FilePath": "D:\\Off-Share\\Smart3D\\3DRefData\\SharedContent\\Bin\\EquipmentComponents\\DotNetSymbols\\Release\\ECShellAndTubeExchangerParametricShell01.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T11:28:22.2750345Z"
+    "ScanDate": "2026-07-12T10:58:13.4999579Z"
   },
   "Dependencies": [
     {

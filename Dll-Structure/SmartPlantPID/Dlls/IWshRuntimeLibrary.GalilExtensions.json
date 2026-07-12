@@ -1,5 +1,5 @@
 {
-  "Id": "aab0e4bb-1c21-4746-933e-5423d7aab80a",
+  "Id": "45d54049-d8c7-4b10-9d91-5dfb658818e9",
   "DllName": "IWshRuntimeLibrary.GalilExtensions",
   "Version": "10.0.0.603",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\iwshruntimelibrary.galilextensions.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T10:48:24.5123232Z"
+    "ScanDate": "2026-07-12T10:25:42.9231193Z"
   },
   "Dependencies": [
     {

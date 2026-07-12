@@ -1,5 +1,5 @@
 {
-  "Id": "84989c02-cc05-455e-b98e-f207692cba6e",
+  "Id": "5986126b-7131-467f-9f31-e9588d031c50",
   "DllName": "CTRightReducer",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\3DRefData\\SharedContent\\Bin\\Electrical\\DotNetSymbols\\Release\\CTRightReducer.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T11:28:22.2329497Z"
+    "ScanDate": "2026-07-12T10:58:13.4521797Z"
   },
   "Dependencies": [
     {

@@ -1,5 +1,5 @@
 {
-  "Id": "e9b66b3b-5172-420a-bdfd-0590c74d1457",
+  "Id": "36e1d34e-e246-4637-8eea-b1c238b212e4",
   "DllName": "igrAskingFilter",
   "Version": "10.0.0.603",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\igraskingfilter.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T10:48:24.5193118Z"
+    "ScanDate": "2026-07-12T10:25:42.9231193Z"
   },
   "Dependencies": [
     {

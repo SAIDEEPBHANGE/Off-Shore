@@ -1,5 +1,5 @@
 {
-  "Id": "8a1f3287-a46a-4311-92de-c7816fe2520b",
+  "Id": "20ec894b-25b2-4073-8105-be28e4cc1a74",
   "DllName": "AddPlantGroup",
   "Version": "9.0.0.1405",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\Validation\\AddPlantGroup.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T10:48:24.5133273Z"
+    "ScanDate": "2026-07-12T10:25:42.9231193Z"
   },
   "Dependencies": [
     {

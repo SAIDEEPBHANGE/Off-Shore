@@ -1,5 +1,5 @@
 {
-  "Id": "eecbddec-4447-4331-a5f2-01fe43837249",
+  "Id": "baaed2db-8953-46ea-801a-b1f73d9e83ea",
   "DllName": "InteropMSXML6",
   "Version": "6.0.0.0",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\InteropMSXML6.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v2.0.50727",
-    "ScanDate": "2026-07-11T10:48:24.5123232Z"
+    "ScanDate": "2026-07-12T10:25:42.9231193Z"
   },
   "Dependencies": [
     {

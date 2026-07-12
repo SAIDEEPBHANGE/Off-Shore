@@ -1,5 +1,5 @@
 {
-  "Id": "ef78d755-da9a-4bb8-a394-b149f65787ef",
+  "Id": "0a1052ad-ec72-4dab-896e-b417b8e3a369",
   "DllName": "StructureSymbolWrapper",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\Core\\Container\\Bin\\Assemblies\\Release\\StructureSymbolWrapper.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T11:28:22.2379481Z"
+    "ScanDate": "2026-07-12T10:58:13.4579857Z"
   },
   "Dependencies": [
     {

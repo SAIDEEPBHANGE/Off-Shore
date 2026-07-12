@@ -1,5 +1,5 @@
 {
-  "Id": "a5990362-2704-435b-851b-c6e2a3580243",
+  "Id": "50143250-ba61-4383-92ae-35c3980245bf",
   "DllName": "GlobeValve",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\3DRefData\\SharedContent\\Bin\\Piping\\DotNetSymbols\\Release\\GlobeValve.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T11:28:22.2720279Z"
+    "ScanDate": "2026-07-12T10:58:13.4966117Z"
   },
   "Dependencies": [
     {

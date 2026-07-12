@@ -1,5 +1,5 @@
 {
-  "Id": "d56d4837-8d2e-40cc-b5e1-18ce979fd659",
+  "Id": "112dcfc8-57dc-47c1-bdab-7dcf1ab3ca62",
   "DllName": "InteropGraphPropTypes",
   "Version": "0.0.0.111",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\interopgraphproptypes.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v2.0.50727",
-    "ScanDate": "2026-07-11T10:48:24.5143269Z"
+    "ScanDate": "2026-07-12T10:25:42.9231193Z"
   },
   "Dependencies": [
     {

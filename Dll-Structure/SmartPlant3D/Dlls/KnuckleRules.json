@@ -1,5 +1,5 @@
 {
-  "Id": "cdf422ef-ab9d-4b33-9968-742389836ca1",
+  "Id": "0c9a137d-ba16-4013-a1d3-b9708560e281",
   "DllName": "KnuckleRules",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\3DRefData\\SharedContent\\Bin\\ShipStructure\\Rules\\Release\\KnuckleRules.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T11:28:22.2449482Z"
+    "ScanDate": "2026-07-12T10:58:13.4703504Z"
   },
   "Dependencies": [
     {

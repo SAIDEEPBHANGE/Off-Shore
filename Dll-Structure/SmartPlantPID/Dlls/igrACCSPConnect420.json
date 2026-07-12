@@ -1,5 +1,5 @@
 {
-  "Id": "a90d4b3d-9dbf-4d83-858f-0a82b55097dc",
+  "Id": "9004b79b-75ee-4a4a-ad0f-1ce9837fcbc1",
   "DllName": "igrACCSPConnect420",
   "Version": "10.0.0.603",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\igraccspconnect420.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T10:48:24.5123232Z"
+    "ScanDate": "2026-07-12T10:25:42.9231193Z"
   },
   "Dependencies": [
     {

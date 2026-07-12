@@ -1,5 +1,5 @@
 {
-  "Id": "20b33897-de81-4a77-9dc8-655762af8eaa",
+  "Id": "5d76ac8e-c7fe-451f-b09e-a6339a264332",
   "DllName": "PrjMgmtMiddle",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\Core\\Container\\Bin\\Assemblies\\Release\\PrjMgmtMiddle.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T11:28:22.238948Z"
+    "ScanDate": "2026-07-12T10:58:13.4599866Z"
   },
   "Dependencies": [
     {

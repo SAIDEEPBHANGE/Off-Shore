@@ -1,5 +1,5 @@
 {
-  "Id": "0376a0f8-0874-4aa1-987a-4d27324ba567",
+  "Id": "2ee4ae10-b5a0-49c6-809f-0370c3b9b4af",
   "DllName": "igrSQLSPConnect420",
   "Version": "10.0.0.603",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\igrsqlspconnect420.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T10:48:24.5193118Z"
+    "ScanDate": "2026-07-12T10:25:42.9231193Z"
   },
   "Dependencies": [
     {

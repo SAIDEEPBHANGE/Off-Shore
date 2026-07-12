@@ -1,5 +1,5 @@
 {
-  "Id": "abbff24a-80cf-4f2b-a375-8f690391c3f2",
+  "Id": "dbd979dc-3bb2-4454-97ba-ca5b171a4ba5",
   "DllName": "igrTimeConvert412",
   "Version": "10.0.0.603",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\igrTimeConvert412.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T10:48:24.5123232Z"
+    "ScanDate": "2026-07-12T10:25:42.9231193Z"
   },
   "Dependencies": [
     {

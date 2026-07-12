@@ -1,5 +1,5 @@
 {
-  "Id": "65be9b9b-7230-40a8-b10d-107e6349ca2f",
+  "Id": "7eab3b49-eca2-4fe6-9703-5811775cd0d3",
   "DllName": "ManufacturingTabSelectorRule",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\3DRefData\\SharedContent\\Bin\\StructManufacturing\\Rules\\Release\\ManufacturingTabSelectorRule.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T11:28:22.2617095Z"
+    "ScanDate": "2026-07-12T10:58:13.4829535Z"
   },
   "Dependencies": [
     {

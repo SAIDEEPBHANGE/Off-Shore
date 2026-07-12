@@ -1,5 +1,5 @@
 {
-  "Id": "7023990b-0d16-4421-a735-57012455355c",
+  "Id": "6cc56d60-571f-4a3c-93d5-b3501c1b0441",
   "DllName": "SPToDoListResource.resources",
   "Version": "9.0.0.1405",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\Languages\\en-US\\sptodolistresource.resources.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T10:48:24.5103255Z"
+    "ScanDate": "2026-07-12T10:25:42.9231193Z"
   },
   "Dependencies": [
     {

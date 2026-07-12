@@ -1,5 +1,5 @@
 {
-  "Id": "004b5d88-261e-4204-8cfc-dbf6ba7e3c6c",
+  "Id": "dac9bd16-ab43-4227-a86d-072ed15064ae",
   "DllName": "CivilVerticalToolBar",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\Civil\\Environment\\Bin\\Release\\CivilVerticalToolBar.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T11:28:22.2750345Z"
+    "ScanDate": "2026-07-12T10:58:13.4999579Z"
   },
   "Dependencies": [
     {

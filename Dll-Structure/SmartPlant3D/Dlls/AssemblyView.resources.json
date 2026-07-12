@@ -1,5 +1,5 @@
 {
-  "Id": "e3771b09-869f-4b2f-aa6b-6e555a2bcf66",
+  "Id": "dffc5f9f-2953-4589-9de8-d80172980357",
   "DllName": "AssemblyView.resources",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\Core\\Container\\Bin\\Assemblies\\Release\\en-US\\AssemblyView.resources.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T11:28:22.2329497Z"
+    "ScanDate": "2026-07-12T10:58:13.4521797Z"
   },
   "Dependencies": [
     {

@@ -1,5 +1,5 @@
 {
-  "Id": "3021ed70-7313-4a54-af13-32ce97d80970",
+  "Id": "ba6c0608-0c68-4ed5-8c63-b65652351566",
   "DllName": "MarineModelExchange",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\Core\\Container\\Bin\\Assemblies\\Release\\MarineModelExchange.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T11:28:22.2506553Z"
+    "ScanDate": "2026-07-12T10:58:13.4746454Z"
   },
   "Dependencies": [
     {

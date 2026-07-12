@@ -1,5 +1,5 @@
 {
-  "Id": "28b464b3-1a39-4b11-9a20-453a7a94d826",
+  "Id": "77f5315b-ae7b-42c7-a538-6cba4f6fe0e1",
   "DllName": "InteropRADViewCtlLib412",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\interopradviewctllib412.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T10:48:24.5183186Z"
+    "ScanDate": "2026-07-12T10:25:42.9231193Z"
   },
   "Dependencies": [
     {

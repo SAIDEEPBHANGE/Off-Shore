@@ -1,5 +1,5 @@
 {
-  "Id": "ed487722-1f16-4c59-bc35-65a8f1c4c9c3",
+  "Id": "56c971ed-4fd2-4393-a814-dfd92809aadb",
   "DllName": "HFlatOvalRivet",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\3DRefData\\SharedContent\\Bin\\Ducting\\DotNetSymbols\\Release\\HFlatOvalRivet.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T11:28:22.2690202Z"
+    "ScanDate": "2026-07-12T10:58:13.4922621Z"
   },
   "Dependencies": [
     {

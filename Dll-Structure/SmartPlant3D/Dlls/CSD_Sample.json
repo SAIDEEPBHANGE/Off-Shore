@@ -1,5 +1,5 @@
 {
-  "Id": "e6e9f0ee-8eb7-44ba-86b8-47203fee4fec",
+  "Id": "ccf72e78-bb47-43db-ac15-9552b8f6e489",
   "DllName": "CSD_Sample",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\3DRefData\\SharedContent\\Bin\\HangersAndSupports\\Rules\\Release\\CSD_Sample.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T11:28:22.2770296Z"
+    "ScanDate": "2026-07-12T10:58:13.5019567Z"
   },
   "Dependencies": [
     {

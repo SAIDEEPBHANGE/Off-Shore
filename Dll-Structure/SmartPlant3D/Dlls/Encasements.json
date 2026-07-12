@@ -1,5 +1,5 @@
 {
-  "Id": "830d2fda-b754-493e-a295-3a406a241111",
+  "Id": "731e2f9c-1b3c-4d3e-af8a-249b260533d4",
   "DllName": "Encasements",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\3DRefData\\SharedContent\\Bin\\SmartPlantStructure\\CustomAssemblies\\Release\\Encasements.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T11:28:22.230944Z"
+    "ScanDate": "2026-07-12T10:58:13.449121Z"
   },
   "Dependencies": [
     {

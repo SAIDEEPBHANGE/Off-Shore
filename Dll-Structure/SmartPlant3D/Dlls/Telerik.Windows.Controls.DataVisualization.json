@@ -1,5 +1,5 @@
 {
-  "Id": "03b4b1ac-7b22-45be-8aba-66bc371fe4ed",
+  "Id": "83ca1451-6b6a-4657-bdf2-3e653e053cd0",
   "DllName": "Telerik.Windows.Controls.DataVisualization",
   "Version": "2018.1.220.45",
   "FilePath": "D:\\Off-Share\\Smart3D\\Core\\Container\\Bin\\SxS\\Telerik\\Telerik.Windows.Controls.DataVisualization.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T11:28:22.2750345Z"
+    "ScanDate": "2026-07-12T10:58:13.4999579Z"
   },
   "Dependencies": [
     {

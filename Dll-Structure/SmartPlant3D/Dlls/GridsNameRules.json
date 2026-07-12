@@ -1,5 +1,5 @@
 {
-  "Id": "fb78d71e-deb4-4a78-8b23-581d2d6be901",
+  "Id": "7bfe7caa-b7f7-4b48-9083-218c114783b2",
   "DllName": "GridsNameRules",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\3DRefData\\SharedContent\\Bin\\GridSystem\\Rules\\Release\\GridsNameRules.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T11:28:22.2637085Z"
+    "ScanDate": "2026-07-12T10:58:13.4869515Z"
   },
   "Dependencies": [
     {

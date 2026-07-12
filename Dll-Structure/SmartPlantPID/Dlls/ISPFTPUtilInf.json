@@ -1,5 +1,5 @@
 {
-  "Id": "442c65e1-21f2-4356-a597-b57ab6219bad",
+  "Id": "9c979526-eb91-4206-9c4b-f2a0e8f8f186",
   "DllName": "ISPFTPUtilInf",
   "Version": "9.0.0.1405",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\ISPFTPUtilInf.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T10:48:24.5133273Z"
+    "ScanDate": "2026-07-12T10:25:42.9231193Z"
   },
   "Dependencies": [
     {

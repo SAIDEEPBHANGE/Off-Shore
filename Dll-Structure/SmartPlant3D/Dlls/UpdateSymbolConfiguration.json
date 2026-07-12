@@ -1,5 +1,5 @@
 {
-  "Id": "c43c3f0c-7689-48a3-b695-e93fb528ffad",
+  "Id": "ee83f401-ea8b-40ef-9002-6a4d4ba560ce",
   "DllName": "UpdateSymbolConfiguration",
   "Version": "1.0.1.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\Core\\Container\\Bin\\Assemblies\\Release\\UpdateSymbolConfiguration.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T11:28:22.2670284Z"
+    "ScanDate": "2026-07-12T10:58:13.4899514Z"
   },
   "Dependencies": [
     {

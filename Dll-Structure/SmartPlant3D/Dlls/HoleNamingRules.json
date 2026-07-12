@@ -1,5 +1,5 @@
 {
-  "Id": "8dcdde3f-f78c-49d3-acc8-b0a2412f8607",
+  "Id": "f8a596c7-c944-4a60-bd53-9aaa41de99bf",
   "DllName": "HoleNamingRules",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\3DRefData\\SharedContent\\Bin\\HoleMgmt\\Rules\\Release\\HoleNamingRules.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T11:28:22.2462584Z"
+    "ScanDate": "2026-07-12T10:58:13.4703504Z"
   },
   "Dependencies": [
     {

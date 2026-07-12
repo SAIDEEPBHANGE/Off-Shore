@@ -1,5 +1,5 @@
 {
-  "Id": "62e48310-fb1f-4492-8d83-20f2ef67bd65",
+  "Id": "0b54d077-5cc6-4c42-ae1e-bf0a06ed78c5",
   "DllName": "ManufacturingWeldCompensationNamingRule",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\3DRefData\\SharedContent\\Bin\\StructManufacturing\\Rules\\Release\\ManufacturingWeldCompensationNamingRule.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T11:28:22.2740348Z"
+    "ScanDate": "2026-07-12T10:58:13.4999579Z"
   },
   "Dependencies": [
     {

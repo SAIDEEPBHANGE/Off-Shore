@@ -1,5 +1,5 @@
 {
-  "Id": "30e25d31-52b6-421d-9ffc-e95fadd13520",
+  "Id": "727e9cb0-9e9e-427f-8706-6af1c1b5bd0a",
   "DllName": "Telerik.Windows.Controls.RichTextBoxUI",
   "Version": "2018.2.620.45",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\telerik.windows.controls.richtextboxui.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T10:48:24.5123232Z"
+    "ScanDate": "2026-07-12T10:25:42.9231193Z"
   },
   "Dependencies": [
     {

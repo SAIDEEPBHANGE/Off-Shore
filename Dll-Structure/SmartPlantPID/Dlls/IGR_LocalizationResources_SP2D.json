@@ -1,5 +1,5 @@
 {
-  "Id": "efc52fbe-3972-4586-9300-a946d8292e5b",
+  "Id": "8a160ff0-16de-42d7-9845-ecec45bd9e78",
   "DllName": "IGR_LocalizationResources_SP2D",
   "Version": "10.0.0.603",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\Languages\\IGR_LocalizationResources_SP2D.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T10:48:24.5103255Z"
+    "ScanDate": "2026-07-12T10:25:42.9231193Z"
   },
   "Dependencies": [
     {

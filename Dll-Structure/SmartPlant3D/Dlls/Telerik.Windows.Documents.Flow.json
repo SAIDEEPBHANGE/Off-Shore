@@ -1,5 +1,5 @@
 {
-  "Id": "fa606a1f-22d9-48bb-a6b3-0f7fb72ff0c2",
+  "Id": "b15d6a90-ac4d-447e-aa55-af1329cfad69",
   "DllName": "Telerik.Windows.Documents.Flow",
   "Version": "2017.3.1010.40",
   "FilePath": "D:\\Off-Share\\Smart3D\\Documentation\\HelpApp\\Telerik.Windows.Documents.Flow.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T11:28:22.2690202Z"
+    "ScanDate": "2026-07-12T10:58:13.4922621Z"
   },
   "Dependencies": [
     {

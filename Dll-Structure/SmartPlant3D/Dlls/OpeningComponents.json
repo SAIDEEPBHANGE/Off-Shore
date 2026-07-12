@@ -1,5 +1,5 @@
 {
-  "Id": "faa929a5-003f-4d40-be7e-362d4652abcb",
+  "Id": "5efb11bb-0e9b-4ec0-afaa-f7426f24cdc4",
   "DllName": "OpeningComponents",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\ShipStructure\\Middle\\Bin\\OpeningComponents.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T11:28:22.276034Z"
+    "ScanDate": "2026-07-12T10:58:13.5009655Z"
   },
   "Dependencies": [
     {

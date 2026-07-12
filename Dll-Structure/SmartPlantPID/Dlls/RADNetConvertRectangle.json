@@ -1,5 +1,5 @@
 {
-  "Id": "e9ff103f-1f32-4910-86c1-966d4d6c7352",
+  "Id": "6f9b7a49-e962-4a14-ac0f-1b9974391ebf",
   "DllName": "RADNetConvertRectangle",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\RADNetConvertRectangle.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T10:48:24.5113244Z"
+    "ScanDate": "2026-07-12T10:25:42.9231193Z"
   },
   "Dependencies": [
     {

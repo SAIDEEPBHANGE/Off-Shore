@@ -1,5 +1,5 @@
 {
-  "Id": "e743a34e-fe0e-4926-841d-52ec38a79fdc",
+  "Id": "be8ba19e-63a2-4846-84b8-e1abcc13a3d4",
   "DllName": "CrossSectionNameComboBox",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\Core\\Container\\Bin\\Assemblies\\Release\\CrossSectionNameComboBox.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T11:28:22.2700339Z"
+    "ScanDate": "2026-07-12T10:58:13.493239Z"
   },
   "Dependencies": [
     {

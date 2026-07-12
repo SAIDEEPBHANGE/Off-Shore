@@ -1,5 +1,5 @@
 {
-  "Id": "eadc3a45-8c96-4713-a2db-c039622c1794",
+  "Id": "8439e30c-892b-495b-99a5-863be900079e",
   "DllName": "StructAutomaticReboundService",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\Core\\Container\\Bin\\Assemblies\\Release\\StructAutomaticReboundService.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T11:28:22.2409488Z"
+    "ScanDate": "2026-07-12T10:58:13.4661323Z"
   },
   "Dependencies": [
     {

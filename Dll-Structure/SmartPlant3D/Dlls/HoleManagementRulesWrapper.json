@@ -1,5 +1,5 @@
 {
-  "Id": "b2566974-ad8a-429a-bed4-9cb20bae0dfa",
+  "Id": "8177f273-43fb-4dbb-be22-341f5d8b4a57",
   "DllName": "HoleManagementRulesWrapper",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\Core\\Container\\Bin\\Assemblies\\Release\\HoleManagementRulesWrapper.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T11:28:22.2647088Z"
+    "ScanDate": "2026-07-12T10:58:13.4879509Z"
   },
   "Dependencies": [
     {

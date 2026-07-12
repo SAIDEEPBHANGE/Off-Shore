@@ -1,5 +1,5 @@
 {
-  "Id": "e066f811-e4ab-4669-b1c2-b0cc428a7907",
+  "Id": "63738b78-6476-4f43-a3d0-27cf04e77c83",
   "DllName": "RadNetSaveAsInf",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\Common2D\\Rad2D\\bin\\RadNetSaveAsInf.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T11:28:22.238948Z"
+    "ScanDate": "2026-07-12T10:58:13.4589872Z"
   },
   "Dependencies": [
     {

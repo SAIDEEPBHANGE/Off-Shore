@@ -1,5 +1,5 @@
 {
-  "Id": "5d7fa1ff-0e21-405b-9bd0-f49f1c2b4e78",
+  "Id": "6417384b-d543-4ce8-9840-06e23b010385",
   "DllName": "HRectangularPantWye",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\3DRefData\\SharedContent\\Bin\\Ducting\\DotNetSymbols\\Release\\HRectangularPantWye.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T11:28:22.2472804Z"
+    "ScanDate": "2026-07-12T10:58:13.4723486Z"
   },
   "Dependencies": [
     {

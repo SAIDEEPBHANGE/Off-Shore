@@ -1,5 +1,5 @@
 {
-  "Id": "144fd91c-914a-4b5c-aa6d-5645fb764def",
+  "Id": "53b49818-38ef-43c5-9522-03122b9acf38",
   "DllName": "heattracNET",
   "Version": "9.0.0.1405",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\heattracnet.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T10:48:24.5153254Z"
+    "ScanDate": "2026-07-12T10:25:42.9231193Z"
   },
   "Dependencies": [
     {

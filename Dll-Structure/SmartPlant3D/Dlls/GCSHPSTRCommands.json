@@ -1,5 +1,5 @@
 {
-  "Id": "96a8e834-3a6a-4d2b-8184-292350b176d5",
+  "Id": "4941be40-f97d-41ea-93e3-da54a25b464c",
   "DllName": "GCSHPSTRCommands",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\ShipStructure\\Client\\Bin\\GCSHPSTRCommands.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T11:28:22.2506553Z"
+    "ScanDate": "2026-07-12T10:58:13.4746454Z"
   },
   "Dependencies": [
     {

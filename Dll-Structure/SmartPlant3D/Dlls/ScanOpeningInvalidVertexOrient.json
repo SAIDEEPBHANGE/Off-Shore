@@ -1,5 +1,5 @@
 {
-  "Id": "7c4fb2fd-6f08-414e-83f5-d0a666a2f81e",
+  "Id": "1640ff17-4164-4586-a4e5-a2994e5887f6",
   "DllName": "ScanOpeningInvalidVertexOrient",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\Core\\Container\\Bin\\Assemblies\\Release\\ScanOpeningInvalidVertexOrient.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T11:28:22.276034Z"
+    "ScanDate": "2026-07-12T10:58:13.5009655Z"
   },
   "Dependencies": [
     {

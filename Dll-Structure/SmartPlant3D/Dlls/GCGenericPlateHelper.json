@@ -1,5 +1,5 @@
 {
-  "Id": "6983ff2a-c9c7-4756-b5cd-87f84220cfb7",
+  "Id": "d78ac31e-56ec-4ab5-9d28-2e1e737c441c",
   "DllName": "GCGenericPlateHelper",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\ShipStructure\\Middle\\Bin\\GCGenericPlateHelper.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T11:28:22.2690202Z"
+    "ScanDate": "2026-07-12T10:58:13.493239Z"
   },
   "Dependencies": [
     {

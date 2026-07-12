@@ -1,5 +1,5 @@
 {
-  "Id": "fb89b2f7-0155-4f76-9957-ccca40c614e5",
+  "Id": "42048b28-90f5-4c6c-ac54-95fc132340c4",
   "DllName": "RADNetRectPopUpMenu",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\RADNetRectPopUpMenu.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T10:48:24.5123232Z"
+    "ScanDate": "2026-07-12T10:25:42.9231193Z"
   },
   "Dependencies": [
     {

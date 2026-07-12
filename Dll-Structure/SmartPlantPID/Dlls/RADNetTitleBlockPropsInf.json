@@ -1,5 +1,5 @@
 {
-  "Id": "cef81d35-2a85-4e27-9b55-d2200d059007",
+  "Id": "d34bc841-df7a-48bf-9cee-ddefa7f80444",
   "DllName": "RADNetTitleBlockPropsInf",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\RADNetTitleBlockPropsInf.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T10:48:24.5103255Z"
+    "ScanDate": "2026-07-12T10:25:42.9231193Z"
   },
   "Dependencies": [
     {

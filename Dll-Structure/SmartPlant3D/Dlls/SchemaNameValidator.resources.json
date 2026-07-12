@@ -1,5 +1,5 @@
 {
-  "Id": "4029dadc-a415-4256-825b-70c5409864b1",
+  "Id": "cffe5761-869e-4cf6-9939-27b78d4a57e3",
   "DllName": "SchemaNameValidator.resources",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\Core\\Container\\Bin\\Assemblies\\Release\\en-US\\SchemaNameValidator.resources.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T11:28:22.2369485Z"
+    "ScanDate": "2026-07-12T10:58:13.4557083Z"
   },
   "Dependencies": [
     {

@@ -1,5 +1,5 @@
 {
-  "Id": "b57a2ea8-04f4-4599-ba8f-1bc230386fd4",
+  "Id": "a4607381-ee57-4eda-b3ce-38a2fa34d534",
   "DllName": "EQElectricalEnclosure",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\3DRefData\\SharedContent\\Bin\\Equipment\\DotNetSymbols\\Release\\EQElectricalEnclosure.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T11:28:22.2680391Z"
+    "ScanDate": "2026-07-12T10:58:13.4899514Z"
   },
   "Dependencies": [
     {

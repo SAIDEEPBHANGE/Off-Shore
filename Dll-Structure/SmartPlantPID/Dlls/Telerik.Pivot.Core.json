@@ -1,5 +1,5 @@
 {
-  "Id": "eb394ad2-5b9c-4a59-a642-d2a65ad24dc9",
+  "Id": "2f42fe4a-cbae-4124-b666-d33716de8606",
   "DllName": "Telerik.Pivot.Core",
   "Version": "2018.2.620.45",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\telerik.pivot.core.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T10:48:24.5123232Z"
+    "ScanDate": "2026-07-12T10:25:42.9231193Z"
   },
   "Dependencies": [
     {

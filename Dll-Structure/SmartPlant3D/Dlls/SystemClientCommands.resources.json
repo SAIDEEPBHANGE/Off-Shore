@@ -1,5 +1,5 @@
 {
-  "Id": "dc332ce5-705d-400c-bb46-ea0762fd5429",
+  "Id": "9297f772-230f-4755-85db-1d80981e4229",
   "DllName": "SystemClientCommands.resources",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\Core\\Container\\Bin\\Assemblies\\Release\\en-US\\SystemClientCommands.resources.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T11:28:22.2485861Z"
+    "ScanDate": "2026-07-12T10:58:13.4723486Z"
   },
   "Dependencies": [
     {

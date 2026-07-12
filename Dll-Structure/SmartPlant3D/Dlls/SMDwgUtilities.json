@@ -1,5 +1,5 @@
 {
-  "Id": "2989932d-0555-4347-8180-03763bcc652c",
+  "Id": "2635f4d3-b2cd-44eb-a231-f64809397c4e",
   "DllName": "SMDwgUtilities",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\Core\\Container\\Bin\\Assemblies\\Release\\SMDwgUtilities.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T11:28:22.2740348Z"
+    "ScanDate": "2026-07-12T10:58:13.4989648Z"
   },
   "Dependencies": [
     {

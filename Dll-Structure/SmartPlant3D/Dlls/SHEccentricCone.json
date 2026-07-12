@@ -1,5 +1,5 @@
 {
-  "Id": "fc19b963-47d8-4360-8af8-a9e8f5863c74",
+  "Id": "e0143269-4ea5-40cf-b920-a99b998cd062",
   "DllName": "SHEccentricCone",
   "Version": "1.0.0.1",
   "FilePath": "D:\\Off-Share\\Smart3D\\3DRefData\\SharedContent\\Bin\\Shapes\\DotNetSymbols\\Release\\SHEccentricCone.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T11:28:22.2409488Z"
+    "ScanDate": "2026-07-12T10:58:13.4661323Z"
   },
   "Dependencies": [
     {

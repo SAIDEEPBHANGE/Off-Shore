@@ -1,5 +1,5 @@
 {
-  "Id": "c33e5bf4-2543-4289-85e8-24b301172448",
+  "Id": "0b65f45c-c364-4162-9999-417f0467cf99",
   "DllName": "HgrStructural",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\3DRefData\\SharedContent\\Bin\\HangersAndSupports\\Symbols\\Release\\HgrStructural.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T11:28:22.2516532Z"
+    "ScanDate": "2026-07-12T10:58:13.4756454Z"
   },
   "Dependencies": [
     {

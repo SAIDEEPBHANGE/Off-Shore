@@ -1,5 +1,5 @@
 {
-  "Id": "19383299-e065-4cc1-8370-e5436549750f",
+  "Id": "5906f610-adf0-4f40-a3ad-df9bd5576317",
   "DllName": "ReferenceDataClient.resources",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\Core\\Container\\Bin\\Assemblies\\Release\\en-US\\ReferenceDataClient.resources.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T11:28:22.2690202Z"
+    "ScanDate": "2026-07-12T10:58:13.493239Z"
   },
   "Dependencies": [
     {

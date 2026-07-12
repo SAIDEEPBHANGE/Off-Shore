@@ -1,5 +1,5 @@
 {
-  "Id": "b5f00749-e8b1-402b-852c-b1c6a840f0e3",
+  "Id": "7db08fc4-2060-47a0-be9f-d64dd108a1c2",
   "DllName": "RADNetDraftMessageListener",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\RADNetDraftMessageListener.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T10:48:24.5123232Z"
+    "ScanDate": "2026-07-12T10:25:42.9231193Z"
   },
   "Dependencies": [
     {

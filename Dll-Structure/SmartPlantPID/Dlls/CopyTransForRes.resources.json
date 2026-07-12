@@ -1,5 +1,5 @@
 {
-  "Id": "36c32a4f-814b-4402-9ec7-704a9d590708",
+  "Id": "ecb64e71-142f-4104-b36f-d049fe14fb3d",
   "DllName": "CopyTransForRes.resources",
   "Version": "9.0.0.1405",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\Languages\\en-US\\CopyTransForRes.resources.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T10:48:24.5113244Z"
+    "ScanDate": "2026-07-12T10:25:42.9231193Z"
   },
   "Dependencies": [
     {

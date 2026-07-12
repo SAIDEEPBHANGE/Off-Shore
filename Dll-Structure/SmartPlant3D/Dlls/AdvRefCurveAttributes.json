@@ -1,5 +1,5 @@
 {
-  "Id": "ce85f2ae-4f36-45e3-9328-376d2b3fee87",
+  "Id": "e33d78fb-bda9-48bb-8ddb-5cbbbd13b86b",
   "DllName": "AdvRefCurveAttributes",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\GeometryAnalysisAndRepair\\Assemblies\\Bin\\AdvRefCurveAttributes.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T11:28:22.2597092Z"
+    "ScanDate": "2026-07-12T10:58:13.4789309Z"
   },
   "Dependencies": [
     {

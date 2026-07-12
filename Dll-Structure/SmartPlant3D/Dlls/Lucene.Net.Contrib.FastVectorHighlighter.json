@@ -1,5 +1,5 @@
 {
-  "Id": "96c87c58-4ec5-4a14-b03d-51c0d3066012",
+  "Id": "bccd96ac-df46-4b12-8771-f9d2be68c616",
   "DllName": "Lucene.Net.Contrib.FastVectorHighlighter",
   "Version": "3.0.3.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\Documentation\\HelpApp\\Lucene.Net.Contrib.FastVectorHighlighter.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T11:28:22.2462584Z"
+    "ScanDate": "2026-07-12T10:58:13.4703504Z"
   },
   "Dependencies": [
     {

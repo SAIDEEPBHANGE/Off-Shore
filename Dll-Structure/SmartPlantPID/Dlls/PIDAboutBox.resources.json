@@ -1,5 +1,5 @@
 {
-  "Id": "749b6e25-de0f-4bbe-90d6-95d0b7ec7c1c",
+  "Id": "cbe7c176-0ae6-4872-9eac-01ee8052a816",
   "DllName": "PIDAboutBox.resources",
   "Version": "9.0.0.1405",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\Languages\\en-US\\pidaboutbox.resources.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T10:48:24.5133273Z"
+    "ScanDate": "2026-07-12T10:25:42.9231193Z"
   },
   "Dependencies": [
     {

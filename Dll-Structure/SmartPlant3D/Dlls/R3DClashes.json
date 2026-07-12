@@ -1,5 +1,5 @@
 {
-  "Id": "79fafe29-925e-4a5a-a383-4f1e81e73be9",
+  "Id": "1d6620af-dfd3-4701-aaa1-0a95604dede8",
   "DllName": "R3DClashes",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\Core\\Container\\Bin\\Assemblies\\Release\\R3DClashes.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T11:28:22.2720279Z"
+    "ScanDate": "2026-07-12T10:58:13.4966117Z"
   },
   "Dependencies": [
     {

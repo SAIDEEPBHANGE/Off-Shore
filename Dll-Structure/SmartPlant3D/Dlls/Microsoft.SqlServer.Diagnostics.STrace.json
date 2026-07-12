@@ -1,5 +1,5 @@
 {
-  "Id": "76847992-20e2-4f37-89a9-5daaf43d67ec",
+  "Id": "12878cca-cf2f-4156-8777-eb4528a3f5ed",
   "DllName": "Microsoft.SqlServer.Diagnostics.STrace",
   "Version": "14.100.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\Core\\Container\\Bin\\Assemblies\\Release\\SMO\\14.1\\Microsoft.SqlServer.Diagnostics.Strace.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v2.0.50727",
-    "ScanDate": "2026-07-11T11:28:22.2439479Z"
+    "ScanDate": "2026-07-12T10:58:13.4693494Z"
   },
   "Dependencies": [
     {

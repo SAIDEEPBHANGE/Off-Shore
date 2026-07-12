@@ -1,5 +1,5 @@
 {
-  "Id": "22545ba2-d8c7-45a4-a92c-3ef74de7074a",
+  "Id": "59202611-aa00-4c06-9329-5a6373bf0ca3",
   "DllName": "DrawingsCommands.resources",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\Core\\Container\\Bin\\Assemblies\\Release\\en-US\\DrawingsCommands.resources.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T11:28:22.276034Z"
+    "ScanDate": "2026-07-12T10:58:13.5009655Z"
   },
   "Dependencies": [
     {

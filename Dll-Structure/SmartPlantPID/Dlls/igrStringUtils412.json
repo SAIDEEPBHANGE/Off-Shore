@@ -1,5 +1,5 @@
 {
-  "Id": "45cdd0ed-8f43-4c26-854e-f8518a29106b",
+  "Id": "aa138a65-7818-4e65-a6af-e333db1456fc",
   "DllName": "igrStringUtils412",
   "Version": "10.0.0.603",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\igrStringUtils412.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T10:48:24.5153254Z"
+    "ScanDate": "2026-07-12T10:25:42.9231193Z"
   },
   "Dependencies": [
     {

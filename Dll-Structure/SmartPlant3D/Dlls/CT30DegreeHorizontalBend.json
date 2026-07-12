@@ -1,5 +1,5 @@
 {
-  "Id": "3ae4aa21-4ffd-4a82-8696-87628e245300",
+  "Id": "0d15143c-2758-47cc-bced-8962d2fb471a",
   "DllName": "CT30DegreeHorizontalBend",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\3DRefData\\SharedContent\\Bin\\Electrical\\DotNetSymbols\\Release\\CT30DegreeHorizontalBend.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T11:28:22.238948Z"
+    "ScanDate": "2026-07-12T10:58:13.460986Z"
   },
   "Dependencies": [
     {

@@ -1,5 +1,5 @@
 {
-  "Id": "f71c2b9a-33e8-4146-92ab-c35640f2e93c",
+  "Id": "c56a77ce-c999-4767-9bcc-2017b4acf175",
   "DllName": "SP3DPIA.sdPlatePartUtils",
   "Version": "3.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\StructDetail\\Client\\Bin\\SP3DPIA.sdPlatePartUtils.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T11:28:22.2627089Z"
+    "ScanDate": "2026-07-12T10:58:13.4849526Z"
   },
   "Dependencies": [
     {

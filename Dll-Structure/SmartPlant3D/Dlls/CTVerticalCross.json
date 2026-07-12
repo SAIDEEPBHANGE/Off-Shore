@@ -1,5 +1,5 @@
 {
-  "Id": "22b58f6e-0d7b-46df-9930-8f8616191aeb",
+  "Id": "f124cca9-765b-4391-8ce8-7fbdf9453b07",
   "DllName": "CTVerticalCross",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\3DRefData\\SharedContent\\Bin\\Electrical\\DotNetSymbols\\Release\\CTVerticalCross.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T11:28:22.2409488Z"
+    "ScanDate": "2026-07-12T10:58:13.4661323Z"
   },
   "Dependencies": [
     {

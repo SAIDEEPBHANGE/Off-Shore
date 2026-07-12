@@ -1,5 +1,5 @@
 {
-  "Id": "78870bee-4312-4e85-b51f-1f349c657fee",
+  "Id": "e9f1d851-dbea-4754-95bd-6d2755198403",
   "DllName": "CopySimATPService",
   "Version": "2.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\CopyByFamily\\Assemblies\\Release\\CopySimATPService.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T11:28:22.2496605Z"
+    "ScanDate": "2026-07-12T10:58:13.4736542Z"
   },
   "Dependencies": [
     {

@@ -1,5 +1,5 @@
 {
-  "Id": "a205648f-d565-47f7-a088-464d8aceafc8",
+  "Id": "c1d01344-dce7-4800-bda8-e0b8dadb375c",
   "DllName": "RadNetAddinManager",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\Common2D\\Rad2D\\bin\\RadNetAddinManager.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T11:28:22.2485861Z"
+    "ScanDate": "2026-07-12T10:58:13.4723486Z"
   },
   "Dependencies": [
     {

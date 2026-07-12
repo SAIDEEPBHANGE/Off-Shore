@@ -1,5 +1,5 @@
 {
-  "Id": "6bbee591-701b-4294-9a45-21030bde605a",
+  "Id": "3f11b867-0cb4-4418-924c-03f04cc04a24",
   "DllName": "ConnectionManager",
   "Version": "9.0.0.1405",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\connectionmanager.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T10:48:24.5153254Z"
+    "ScanDate": "2026-07-12T10:25:42.9231193Z"
   },
   "Dependencies": [
     {

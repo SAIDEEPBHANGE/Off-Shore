@@ -1,5 +1,5 @@
 {
-  "Id": "cdbf15f1-817d-476d-bb05-64f367e912f1",
+  "Id": "665487a3-c4c7-40e3-b095-55c67bec590c",
   "DllName": "AddDisplaySetCMD",
   "Version": "9.0.0.1405",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\adddisplaysetcmd.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T10:48:24.5193118Z"
+    "ScanDate": "2026-07-12T10:25:42.9231193Z"
   },
   "Dependencies": [
     {

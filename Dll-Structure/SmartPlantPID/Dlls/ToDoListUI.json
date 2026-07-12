@@ -1,5 +1,5 @@
 {
-  "Id": "b5e5bde6-61a6-43bb-8696-c941fbeb3cf5",
+  "Id": "927ec564-0b55-4450-96e7-8c088e3818bb",
   "DllName": "ToDoListUI",
   "Version": "9.0.0.1405",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\todolistui.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T10:48:24.5143269Z"
+    "ScanDate": "2026-07-12T10:25:42.9231193Z"
   },
   "Dependencies": [
     {

@@ -1,5 +1,5 @@
 {
-  "Id": "2d493fe1-de0f-4927-8b1f-65dbf553da34",
+  "Id": "ab013564-0727-4621-9203-920f5199a285",
   "DllName": "RadNetResource",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\Common2D\\Rad2D\\bin\\RadNetResource.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T11:28:22.238948Z"
+    "ScanDate": "2026-07-12T10:58:13.4599866Z"
   },
   "Dependencies": [
     {

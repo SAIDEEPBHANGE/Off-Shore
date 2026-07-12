@@ -1,5 +1,5 @@
 {
-  "Id": "0c745b6a-2348-4c36-bb46-6b04409fd269",
+  "Id": "ab00995a-f377-4616-975a-e356bfe93a5e",
   "DllName": "CompareCatalogHelper",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\Core\\Container\\Bin\\Assemblies\\Release\\CompareCatalogHelper.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T11:28:22.2329497Z"
+    "ScanDate": "2026-07-12T10:58:13.4521797Z"
   },
   "Dependencies": [
     {

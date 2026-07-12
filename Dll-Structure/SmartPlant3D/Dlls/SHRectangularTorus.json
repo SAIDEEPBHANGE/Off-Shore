@@ -1,5 +1,5 @@
 {
-  "Id": "e0a54f48-122d-46bb-9960-54431d35d22d",
+  "Id": "0860e1bf-1d55-4673-a00e-82ae62d1a6b6",
   "DllName": "SHRectangularTorus",
   "Version": "1.0.0.1",
   "FilePath": "D:\\Off-Share\\Smart3D\\3DRefData\\SharedContent\\Bin\\Shapes\\DotNetSymbols\\Release\\SHRectangularTorus.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T11:28:22.2485861Z"
+    "ScanDate": "2026-07-12T10:58:13.4723486Z"
   },
   "Dependencies": [
     {

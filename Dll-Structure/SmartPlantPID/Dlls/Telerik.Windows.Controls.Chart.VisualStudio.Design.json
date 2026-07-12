@@ -1,5 +1,5 @@
 {
-  "Id": "4ad3cdd0-2d4a-4785-acca-8aa14d3a0031",
+  "Id": "ab9bb089-58d6-414f-bbc3-2480fb33272a",
   "DllName": "Telerik.Windows.Controls.Chart.VisualStudio.Design",
   "Version": "2018.2.620.45",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\telerik.windows.controls.chart.visualstudio.design.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T10:48:24.5143269Z"
+    "ScanDate": "2026-07-12T10:25:42.9231193Z"
   },
   "Dependencies": [
     {

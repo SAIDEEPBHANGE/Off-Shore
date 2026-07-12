@@ -1,5 +1,5 @@
 {
-  "Id": "a54f5d67-112b-44c7-b6fb-ed1f2fea65cd",
+  "Id": "8e539e23-ba85-4d8c-9835-0ae183583581",
   "DllName": "System.Windows.Interactivity",
   "Version": "4.5.0.0",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\System.Windows.Interactivity.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T10:48:24.5133273Z"
+    "ScanDate": "2026-07-12T10:25:42.9231193Z"
   },
   "Dependencies": [
     {

@@ -1,5 +1,5 @@
 {
-  "Id": "fd5ef6f1-a57c-41c7-973c-4754e5df954d",
+  "Id": "55162672-38e1-45ad-ac76-adb33332af55",
   "DllName": "Propogation",
   "Version": "9.0.0.1405",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\propogation.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T10:48:24.5143269Z"
+    "ScanDate": "2026-07-12T10:25:42.9231193Z"
   },
   "Dependencies": [
     {

@@ -1,5 +1,5 @@
 {
-  "Id": "7447f0ce-1ce6-4824-8eb6-aec4eb1a7686",
+  "Id": "f0b74a1d-2145-4af6-8464-4f1f42837aaf",
   "DllName": "PrjMgmtClientServicesWrapper",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\Core\\Container\\Bin\\Assemblies\\Release\\PrjMgmtClientServicesWrapper.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T11:28:22.2409488Z"
+    "ScanDate": "2026-07-12T10:58:13.4661323Z"
   },
   "Dependencies": [
     {

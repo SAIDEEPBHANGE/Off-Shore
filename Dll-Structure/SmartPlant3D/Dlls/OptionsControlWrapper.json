@@ -1,5 +1,5 @@
 {
-  "Id": "7b320743-c0e4-48d6-a556-db2d4b653b51",
+  "Id": "095ca5cb-6d65-4b16-b2f1-fd60ff819d34",
   "DllName": "OptionsControlWrapper",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\Core\\Container\\Bin\\Assemblies\\Release\\OptionsControlWrapper.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T11:28:22.2770296Z"
+    "ScanDate": "2026-07-12T10:58:13.5019567Z"
   },
   "Dependencies": [
     {

@@ -1,5 +1,5 @@
 {
-  "Id": "b0af7872-7552-4cd4-9be4-344f00450a4d",
+  "Id": "ac7ad62e-460f-4491-86a0-f896c34f1e88",
   "DllName": "HoleManagement3DAPICustomCommand",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\HoleMgmt\\Client\\Bin\\HoleManagement3DAPICustomCommand.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T11:28:22.2670284Z"
+    "ScanDate": "2026-07-12T10:58:13.4899514Z"
   },
   "Dependencies": [
     {

@@ -1,5 +1,5 @@
 {
-  "Id": "355ac662-eee6-4f37-9b22-f0a908409d26",
+  "Id": "5a009421-9921-407f-9707-0adb9e640706",
   "DllName": "S3DMfgSketchProjector",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\Core\\Container\\Bin\\Assemblies\\Release\\S3DMfgSketchProjector.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T11:28:22.2449482Z"
+    "ScanDate": "2026-07-12T10:58:13.4703504Z"
   },
   "Dependencies": [
     {

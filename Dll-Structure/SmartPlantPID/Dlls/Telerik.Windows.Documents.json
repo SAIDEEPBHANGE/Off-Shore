@@ -1,5 +1,5 @@
 {
-  "Id": "47419180-7186-4582-930f-591a61c993a2",
+  "Id": "56e6a6c9-d1d6-42b3-8e1d-50f1d248afb3",
   "DllName": "Telerik.Windows.Documents",
   "Version": "2016.1.217.40",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\SxS\\Telerik\\Telerik.Windows.Documents.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T10:48:24.5133273Z"
+    "ScanDate": "2026-07-12T10:25:42.9231193Z"
   },
   "Dependencies": [
     {

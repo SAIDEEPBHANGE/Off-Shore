@@ -1,5 +1,5 @@
 {
-  "Id": "4c5ffebc-e2d5-4055-8e8c-10e4fda04625",
+  "Id": "3336aee8-862e-43b7-86fb-9495ee5c9e2a",
   "DllName": "ATPWizard.resources",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\Core\\Container\\Bin\\Assemblies\\Release\\en-US\\ATPWizard.resources.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T11:28:22.2506553Z"
+    "ScanDate": "2026-07-12T10:58:13.4746454Z"
   },
   "Dependencies": [
     {

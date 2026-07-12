@@ -1,5 +1,5 @@
 {
-  "Id": "bc67e9ce-9614-4d0f-a9c9-10f35219ff52",
+  "Id": "78429e08-c838-428f-9bb7-f3b1f0fb9de3",
   "DllName": "SupportSelRule",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\3DRefData\\SharedContent\\Bin\\HangersAndSupports\\Rules\\Release\\SupportSelRule.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T11:28:22.2720279Z"
+    "ScanDate": "2026-07-12T10:58:13.4966117Z"
   },
   "Dependencies": [
     {

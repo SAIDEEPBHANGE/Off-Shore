@@ -1,5 +1,5 @@
 {
-  "Id": "09307b42-f8a3-4b9e-b775-9f22bb269aa5",
+  "Id": "9d41fb65-9757-4afa-bd4f-321c3e223d9f",
   "DllName": "ConduitSeal",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\3DRefData\\SharedContent\\Bin\\Electrical\\DotNetSymbols\\Release\\ConduitSeal.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T11:28:22.2647088Z"
+    "ScanDate": "2026-07-12T10:58:13.4879509Z"
   },
   "Dependencies": [
     {

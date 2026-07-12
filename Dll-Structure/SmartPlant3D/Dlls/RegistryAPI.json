@@ -1,5 +1,5 @@
 {
-  "Id": "085ca6cf-2be3-4ce6-b64b-a4e89274b95f",
+  "Id": "795d39f5-8514-4b75-a835-0de11706314a",
   "DllName": "RegistryAPI",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\Core\\Container\\Bin\\Assemblies\\Release\\RegistryAPI.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T11:28:22.2617095Z"
+    "ScanDate": "2026-07-12T10:58:13.4819534Z"
   },
   "Dependencies": [
     {

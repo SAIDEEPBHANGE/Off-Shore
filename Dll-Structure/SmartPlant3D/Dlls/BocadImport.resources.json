@@ -1,5 +1,5 @@
 {
-  "Id": "c834bd26-d6cd-432f-894d-67934392c12e",
+  "Id": "2a22d323-9003-45cb-b97f-2c8cc8eb24a6",
   "DllName": "BocadImport.resources",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\Core\\Container\\Bin\\Assemblies\\Release\\en-US\\BocadImport.resources.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T11:28:22.2319505Z"
+    "ScanDate": "2026-07-12T10:58:13.4511678Z"
   },
   "Dependencies": [
     {

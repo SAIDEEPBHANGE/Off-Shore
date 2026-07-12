@@ -1,5 +1,5 @@
 {
-  "Id": "49f56cc5-a9b1-440a-8f6e-b72b5e084acc",
+  "Id": "0fb57cc7-417f-43f7-adac-4f498d53c747",
   "DllName": "MaterialsHandlingMiddle",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\Core\\Container\\Bin\\Assemblies\\Release\\MaterialsHandlingMiddle.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T11:28:22.2660584Z"
+    "ScanDate": "2026-07-12T10:58:13.4879509Z"
   },
   "Dependencies": [
     {

@@ -1,5 +1,5 @@
 {
-  "Id": "13a8183d-0d99-4b1d-8be8-60f88883c76f",
+  "Id": "149e5102-4865-4876-91e4-f70052fce624",
   "DllName": "Telerik.Windows.Controls.RibbonView.Design.4.0",
   "Version": "2018.2.620.45",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\telerik.windows.controls.ribbonview.design.4.0.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T10:48:24.5183186Z"
+    "ScanDate": "2026-07-12T10:25:42.9231193Z"
   },
   "Dependencies": [
     {

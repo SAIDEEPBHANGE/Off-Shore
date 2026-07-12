@@ -1,5 +1,5 @@
 {
-  "Id": "13b73fee-168c-426b-94da-a2287a791f70",
+  "Id": "b48c0997-18eb-44ed-9458-0773212e6be1",
   "DllName": "EQHorizontalRotatingEquipment",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\3DRefData\\SharedContent\\Bin\\Equipment\\DotNetSymbols\\Release\\EQHorizontalRotatingEquipment.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T11:28:22.276034Z"
+    "ScanDate": "2026-07-12T10:58:13.5009655Z"
   },
   "Dependencies": [
     {

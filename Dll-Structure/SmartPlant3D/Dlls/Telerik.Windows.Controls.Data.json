@@ -1,5 +1,5 @@
 {
-  "Id": "09932853-142d-466c-9c80-a7aa941a6023",
+  "Id": "8d51748b-2ecb-44ad-8ce2-303820f203e9",
   "DllName": "Telerik.Windows.Controls.Data",
   "Version": "2018.1.220.45",
   "FilePath": "D:\\Off-Share\\Smart3D\\Core\\Container\\Bin\\SxS\\Telerik\\Telerik.Windows.Controls.Data.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T11:28:22.2740348Z"
+    "ScanDate": "2026-07-12T10:58:13.4989648Z"
   },
   "Dependencies": [
     {

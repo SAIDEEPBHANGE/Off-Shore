@@ -1,5 +1,5 @@
 {
-  "Id": "19c55150-82c5-40df-b98b-86b734fa5274",
+  "Id": "b567b973-e079-4009-96e6-ebb577ba7c20",
   "DllName": "H45DegreeRoundLateral",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\3DRefData\\SharedContent\\Bin\\Ducting\\DotNetSymbols\\Release\\H45DegreeRoundLateral.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T11:28:22.2627089Z"
+    "ScanDate": "2026-07-12T10:58:13.4839536Z"
   },
   "Dependencies": [
     {

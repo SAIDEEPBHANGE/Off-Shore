@@ -1,5 +1,5 @@
 {
-  "Id": "f343217e-5efb-41ba-8b19-2451a17168a8",
+  "Id": "c724f4c5-a44f-47cf-aa93-e02795df05c4",
   "DllName": "igrListSelectionControl412",
   "Version": "10.0.0.603",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\igrlistselectioncontrol412.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T10:48:24.5133273Z"
+    "ScanDate": "2026-07-12T10:25:42.9231193Z"
   },
   "Dependencies": [
     {

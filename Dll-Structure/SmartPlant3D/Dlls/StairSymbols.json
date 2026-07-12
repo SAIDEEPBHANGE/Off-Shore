@@ -1,5 +1,5 @@
 {
-  "Id": "eb645afb-7cbb-4ead-86be-a665614ed554",
+  "Id": "0377ffba-251a-46c7-9cd2-e9c1328cd49e",
   "DllName": "StairSymbols",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\3DRefData\\SharedContent\\Bin\\SmartPlantStructure\\Symbols\\Release\\StairSymbols.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T11:28:22.2485861Z"
+    "ScanDate": "2026-07-12T10:58:13.4723486Z"
   },
   "Dependencies": [
     {

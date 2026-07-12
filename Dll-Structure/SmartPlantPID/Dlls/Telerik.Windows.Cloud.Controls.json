@@ -1,5 +1,5 @@
 {
-  "Id": "7fe4fbff-b624-47ba-8e58-cc1659f68cc8",
+  "Id": "401fced1-e5cc-4163-aa37-d05751e98ec7",
   "DllName": "Telerik.Windows.Cloud.Controls",
   "Version": "2018.2.620.45",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\telerik.windows.cloud.controls.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T10:48:24.5113244Z"
+    "ScanDate": "2026-07-12T10:25:42.9231193Z"
   },
   "Dependencies": [
     {

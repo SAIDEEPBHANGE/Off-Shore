@@ -1,5 +1,5 @@
 {
-  "Id": "bf7fa7b3-17ac-41da-b7c4-27f6f01218ff",
+  "Id": "65c1f7b2-15e8-4fdf-89fa-60a91574bae4",
   "DllName": "RADNetInterop",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\RadNetInterop.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T10:48:24.5123232Z"
+    "ScanDate": "2026-07-12T10:25:42.9231193Z"
   },
   "Dependencies": [
     {

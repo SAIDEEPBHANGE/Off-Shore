@@ -1,5 +1,5 @@
 {
-  "Id": "3e471909-fa1e-4102-8e3a-55a49236fdf3",
+  "Id": "855fd768-2f79-4aa9-957f-77d29efa1e32",
   "DllName": "ConduitUTypeBody",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\3DRefData\\SharedContent\\Bin\\Electrical\\DotNetSymbols\\Release\\ConduitUTypeBody.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T11:28:22.2439479Z"
+    "ScanDate": "2026-07-12T10:58:13.4693494Z"
   },
   "Dependencies": [
     {

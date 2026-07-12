@@ -1,5 +1,5 @@
 {
-  "Id": "cf9f3504-8ed1-4bca-93cc-a5854bdd51c8",
+  "Id": "2f920f6f-cb00-4313-94c5-503472d4c851",
   "DllName": "SDEndCutDataMappingRule",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\3DRefData\\SharedContent\\Bin\\StructDetail\\Rules\\Release\\SDEndCutDataMappingRule.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T11:28:22.230944Z"
+    "ScanDate": "2026-07-12T10:58:13.4501196Z"
   },
   "Dependencies": [
     {

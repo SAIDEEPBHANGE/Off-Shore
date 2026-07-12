@@ -1,5 +1,5 @@
 {
-  "Id": "8c89c278-9870-4a2e-b1f4-6d298fd4993f",
+  "Id": "d17313da-3311-49a1-bca3-e9874373ded7",
   "DllName": "Telerik.Windows.Controls.PivotFieldList.VisualStudio.Design",
   "Version": "2018.2.620.45",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\telerik.windows.controls.pivotfieldlist.visualstudio.design.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T10:48:24.5103255Z"
+    "ScanDate": "2026-07-12T10:25:42.9231193Z"
   },
   "Dependencies": [
     {

@@ -1,5 +1,5 @@
 {
-  "Id": "afd0ef0c-7b12-4a1a-bf77-17e3f2d165fa",
+  "Id": "d80cd51c-6372-4bd9-b603-bc480fe68753",
   "DllName": "SHTruncatedPrism",
   "Version": "1.0.0.1",
   "FilePath": "D:\\Off-Share\\Smart3D\\3DRefData\\SharedContent\\Bin\\Shapes\\DotNetSymbols\\Release\\SHTruncatedPrism.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T11:28:22.2690202Z"
+    "ScanDate": "2026-07-12T10:58:13.4922621Z"
   },
   "Dependencies": [
     {

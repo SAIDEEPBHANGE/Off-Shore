@@ -1,5 +1,5 @@
 {
-  "Id": "d24d21a4-7b29-45a9-a5e4-6fd1e02bb498",
+  "Id": "73e4277f-0745-42aa-ac1e-ce85b0e186f0",
   "DllName": "S3DToGenieExport",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\Core\\Container\\Bin\\Assemblies\\Release\\S3DToGenieExport.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T11:28:22.2496605Z"
+    "ScanDate": "2026-07-12T10:58:13.4746454Z"
   },
   "Dependencies": [
     {

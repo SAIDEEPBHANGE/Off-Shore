@@ -1,5 +1,5 @@
 {
-  "Id": "7f7520bb-60e5-4753-afec-bc8bc9a17b11",
+  "Id": "d3c5e48f-dc49-4fb5-934f-cab901c30fc3",
   "DllName": "GenericCollectionEditProvider",
   "Version": "2.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\DrawingsIsometric\\Alias\\ICP\\Modules\\GenericCollectionEditProvider.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T11:28:22.276034Z"
+    "ScanDate": "2026-07-12T10:58:13.5009655Z"
   },
   "Dependencies": [
     {

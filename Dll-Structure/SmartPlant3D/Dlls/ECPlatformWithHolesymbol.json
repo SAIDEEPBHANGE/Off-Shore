@@ -1,5 +1,5 @@
 {
-  "Id": "5064e7f7-8d1d-4413-8ddc-a5ec2cd64a01",
+  "Id": "70c3f064-e851-4b54-a2ab-9724613c29cb",
   "DllName": "ECPlatformWithHolesymbol",
   "Version": "1.0.0.1",
   "FilePath": "D:\\Off-Share\\Smart3D\\3DRefData\\SharedContent\\Bin\\EquipmentComponents\\DotNetSymbols\\Release\\ECPlatformWithHolesymbol.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T11:28:22.2587099Z"
+    "ScanDate": "2026-07-12T10:58:13.4766458Z"
   },
   "Dependencies": [
     {

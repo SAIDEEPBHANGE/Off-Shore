@@ -1,5 +1,5 @@
 {
-  "Id": "92b057cc-c2ff-4df5-b040-e4d41679221f",
+  "Id": "b61109c6-7180-4e35-91ed-4169a95459cb",
   "DllName": "Interop.RADRedir",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\Interop.RADRedir.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T10:48:24.5143269Z"
+    "ScanDate": "2026-07-12T10:25:42.9231193Z"
   },
   "Dependencies": [
     {

@@ -1,5 +1,5 @@
 {
-  "Id": "de8b4d51-2fe3-4663-aa1f-0a9f7c9893d1",
+  "Id": "27e191d9-ae43-467b-b97a-d1dab85847b7",
   "DllName": "IntellishipModel",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\CopyByFamily\\Assemblies\\Release\\IntellishipModel.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T11:28:22.2496605Z"
+    "ScanDate": "2026-07-12T10:58:13.4746454Z"
   },
   "Dependencies": [
     {

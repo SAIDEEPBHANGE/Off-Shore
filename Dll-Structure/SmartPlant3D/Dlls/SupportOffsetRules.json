@@ -1,5 +1,5 @@
 {
-  "Id": "a0ccb77c-a16c-4afa-9b48-ffda111b9559",
+  "Id": "b72efd0c-cef5-4e90-a24c-1d5d0640ca54",
   "DllName": "SupportOffsetRules",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\3DRefData\\SharedContent\\Bin\\HangersAndSupports\\Rules\\Release\\SupportOffsetRules.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T11:28:22.2577098Z"
+    "ScanDate": "2026-07-12T10:58:13.4756454Z"
   },
   "Dependencies": [
     {

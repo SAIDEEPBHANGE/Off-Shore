@@ -1,5 +1,5 @@
 {
-  "Id": "8a40fdaf-bec6-4ae9-9abe-6514f8d3fb5f",
+  "Id": "f95e8892-c36c-40b0-ae30-5b8985844185",
   "DllName": "ECPlateExchanger",
   "Version": "1.0.0.1",
   "FilePath": "D:\\Off-Share\\Smart3D\\3DRefData\\SharedContent\\Bin\\EquipmentComponents\\DotNetSymbols\\Release\\ECPlateExchanger.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T11:28:22.2770296Z"
+    "ScanDate": "2026-07-12T10:58:13.5019567Z"
   },
   "Dependencies": [
     {

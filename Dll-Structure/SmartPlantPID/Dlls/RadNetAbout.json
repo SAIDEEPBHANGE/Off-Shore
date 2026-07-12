@@ -1,5 +1,5 @@
 {
-  "Id": "b383a043-95d5-4a48-b314-e8fae556989e",
+  "Id": "6b5fcabf-0f33-460d-8fe1-8f9523614cb4",
   "DllName": "RadNetAbout",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\RadNetAbout.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T10:48:24.5193118Z"
+    "ScanDate": "2026-07-12T10:25:42.9231193Z"
   },
   "Dependencies": [
     {

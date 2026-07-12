@@ -1,5 +1,5 @@
 {
-  "Id": "3db69fc4-f1e5-46f6-a973-303fa4bfc0b5",
+  "Id": "b66be781-59ae-4b25-ab29-e09fa62deacf",
   "DllName": "CableRules",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\3DRefData\\SharedContent\\Bin\\Cable\\Rules\\Release\\CableRules.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T11:28:22.2369485Z"
+    "ScanDate": "2026-07-12T10:58:13.4557083Z"
   },
   "Dependencies": [
     {

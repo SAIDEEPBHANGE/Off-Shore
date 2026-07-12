@@ -1,5 +1,5 @@
 {
-  "Id": "1659f13f-7778-4747-a2b2-04ce7f15e92a",
+  "Id": "42e33c54-bc66-4476-85b4-8b741c0fa7f6",
   "DllName": "ECSupportLug",
   "Version": "1.0.0.1",
   "FilePath": "D:\\Off-Share\\Smart3D\\3DRefData\\SharedContent\\Bin\\EquipmentComponents\\DotNetSymbols\\Release\\ECSupportLug.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T11:28:22.2617095Z"
+    "ScanDate": "2026-07-12T10:58:13.4839536Z"
   },
   "Dependencies": [
     {

@@ -1,5 +1,5 @@
 {
-  "Id": "3fb37c04-c864-4c28-9929-f47c2faf926d",
+  "Id": "621b40a0-e6f7-4a66-875a-1a36036a40a6",
   "DllName": "RADNetLoader413",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\radnetloader413.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T10:48:24.5113244Z"
+    "ScanDate": "2026-07-12T10:25:42.9231193Z"
   },
   "Dependencies": [
     {

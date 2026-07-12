@@ -1,5 +1,5 @@
 {
-  "Id": "130126e5-20bb-4300-bb5b-df1bd37eab86",
+  "Id": "069534f1-1917-4df8-a2ca-dcbad7715769",
   "DllName": "PIDAboutBox",
   "Version": "9.0.0.1405",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\Languages\\PIDAboutBox.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T10:48:24.5113244Z"
+    "ScanDate": "2026-07-12T10:25:42.9231193Z"
   },
   "Dependencies": [
     {

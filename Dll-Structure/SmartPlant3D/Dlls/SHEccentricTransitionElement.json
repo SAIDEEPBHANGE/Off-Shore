@@ -1,5 +1,5 @@
 {
-  "Id": "16171f30-afb4-47f0-9b11-18c74a5fa42f",
+  "Id": "bb257b47-7e4e-4ec2-a9ea-1e4bde04915b",
   "DllName": "SHEccentricTransitionElement",
   "Version": "1.0.0.1",
   "FilePath": "D:\\Off-Share\\Smart3D\\3DRefData\\SharedContent\\Bin\\Shapes\\DotNetSymbols\\Release\\SHEccentricTransitionElement.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T11:28:22.234949Z"
+    "ScanDate": "2026-07-12T10:58:13.4544245Z"
   },
   "Dependencies": [
     {

@@ -1,5 +1,5 @@
 {
-  "Id": "34c6ef98-cd22-4beb-9a87-0206f88a2d77",
+  "Id": "11ac927a-ffb9-436b-a215-9c2091c76d9a",
   "DllName": "ServicesAuthenticationSettings.resources",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\ProjectMgmt\\Tools\\bin\\en-US\\ServicesAuthenticationSettings.resources.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T11:28:22.2379481Z"
+    "ScanDate": "2026-07-12T10:58:13.4569868Z"
   },
   "Dependencies": [
     {

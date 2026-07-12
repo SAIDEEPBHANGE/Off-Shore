@@ -1,5 +1,5 @@
 {
-  "Id": "ac6c66fe-8e03-4ae7-8e3d-23e17448a7a6",
+  "Id": "510d12c8-c721-4146-aefb-06bb8bbccb86",
   "DllName": "igrCMSmartText412",
   "Version": "10.0.0.603",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\igrcmsmarttext412.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T10:48:24.5143269Z"
+    "ScanDate": "2026-07-12T10:25:42.9231193Z"
   },
   "Dependencies": [
     {

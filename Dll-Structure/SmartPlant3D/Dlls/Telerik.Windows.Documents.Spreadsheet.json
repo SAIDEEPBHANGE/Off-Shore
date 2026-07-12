@@ -1,5 +1,5 @@
 {
-  "Id": "33fa62fb-d059-4f7c-88a4-96041bd727eb",
+  "Id": "af60b753-0bc1-4fa8-b562-c53b1035e19e",
   "DllName": "Telerik.Windows.Documents.Spreadsheet",
   "Version": "2018.1.220.40",
   "FilePath": "D:\\Off-Share\\Smart3D\\Core\\Container\\Bin\\SxS\\Telerik\\Telerik.Windows.Documents.Spreadsheet.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T11:28:22.2506553Z"
+    "ScanDate": "2026-07-12T10:58:13.4746454Z"
   },
   "Dependencies": [
     {

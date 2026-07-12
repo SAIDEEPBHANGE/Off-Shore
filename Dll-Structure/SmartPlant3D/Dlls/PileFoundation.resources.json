@@ -1,5 +1,5 @@
 {
-  "Id": "803966a3-22d8-4c5e-bf81-8d82265b0758",
+  "Id": "7d80491b-fb51-4c77-8c57-fb26c962df2d",
   "DllName": "PileFoundation.resources",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\Core\\Container\\Bin\\Assemblies\\Release\\en-US\\PileFoundation.resources.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T11:28:22.2577098Z"
+    "ScanDate": "2026-07-12T10:58:13.4756454Z"
   },
   "Dependencies": [
     {

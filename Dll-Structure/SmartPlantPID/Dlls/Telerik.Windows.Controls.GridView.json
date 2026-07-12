@@ -1,5 +1,5 @@
 {
-  "Id": "2a4c4d9e-d81b-41ea-8c74-079453772253",
+  "Id": "c47cc4e1-d153-40bf-a023-773552d5091a",
   "DllName": "Telerik.Windows.Controls.GridView",
   "Version": "2018.2.620.45",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\telerik.windows.controls.gridview.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T10:48:24.5113244Z"
+    "ScanDate": "2026-07-12T10:25:42.9231193Z"
   },
   "Dependencies": [
     {

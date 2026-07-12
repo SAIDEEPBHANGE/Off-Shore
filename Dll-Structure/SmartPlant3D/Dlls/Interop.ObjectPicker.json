@@ -1,5 +1,5 @@
 {
-  "Id": "ef45b892-dfb6-4f48-a839-9782208fe806",
+  "Id": "1e645093-ce51-40d4-94c0-d92eae0352c2",
   "DllName": "Interop.ObjectPicker",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\Common2D\\Rad2D\\bin\\Interop.ObjectPicker.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T11:28:22.2700339Z"
+    "ScanDate": "2026-07-12T10:58:13.4945578Z"
   },
   "Dependencies": [
     {

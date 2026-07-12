@@ -1,5 +1,5 @@
 {
-  "Id": "64d2dd30-7af6-4dc3-b0ba-a79b23a87995",
+  "Id": "15f52158-d2ad-4df4-90bb-045c8d3bd0a1",
   "DllName": "Lucene.Net.Contrib.Core",
   "Version": "3.0.3.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\Documentation\\HelpApp\\Lucene.Net.Contrib.Core.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T11:28:22.2720279Z"
+    "ScanDate": "2026-07-12T10:58:13.4966117Z"
   },
   "Dependencies": [
     {

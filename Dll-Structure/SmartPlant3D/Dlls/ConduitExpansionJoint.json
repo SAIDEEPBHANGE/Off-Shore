@@ -1,5 +1,5 @@
 {
-  "Id": "a48f9efe-b714-46e3-81ba-1aff5aae332c",
+  "Id": "cece927b-691a-49bc-8110-b7c689e8108d",
   "DllName": "ConduitExpansionJoint",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\3DRefData\\SharedContent\\Bin\\Electrical\\DotNetSymbols\\Release\\ConduitExpansionJoint.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T11:28:22.2472804Z"
+    "ScanDate": "2026-07-12T10:58:13.4713502Z"
   },
   "Dependencies": [
     {

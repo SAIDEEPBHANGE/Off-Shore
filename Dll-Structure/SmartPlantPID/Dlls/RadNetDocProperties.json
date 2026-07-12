@@ -1,5 +1,5 @@
 {
-  "Id": "cd6655cf-3cbe-4218-b287-74a6a083ffcf",
+  "Id": "3131d5c2-9f80-433b-bd4a-9c2a33f3c62e",
   "DllName": "RadNetDocProperties",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\RadNetDocProperties.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T10:48:24.5093279Z"
+    "ScanDate": "2026-07-12T10:25:42.9231193Z"
   },
   "Dependencies": [
     {

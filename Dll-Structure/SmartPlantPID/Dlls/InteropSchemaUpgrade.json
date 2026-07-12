@@ -1,5 +1,5 @@
 {
-  "Id": "af37ffde-8ac2-48a2-a03f-5205b70a54ca",
+  "Id": "6efec12e-40f3-48cc-bb62-a790c6dca9ce",
   "DllName": "InteropSchemaUpgrade",
   "Version": "0.0.0.111",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\interopschemaupgrade.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v2.0.50727",
-    "ScanDate": "2026-07-11T10:48:24.5123232Z"
+    "ScanDate": "2026-07-12T10:25:42.9231193Z"
   },
   "Dependencies": [
     {

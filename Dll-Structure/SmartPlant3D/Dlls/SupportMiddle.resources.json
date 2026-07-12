@@ -1,5 +1,5 @@
 {
-  "Id": "1f856291-2792-41d0-96c2-18d7baa8f29a",
+  "Id": "4d3945ae-b0e2-4bf8-920f-5e55ca8ce6be",
   "DllName": "SupportMiddle.resources",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\Core\\Container\\Bin\\Assemblies\\Release\\en-US\\SupportMiddle.resources.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T11:28:22.2770296Z"
+    "ScanDate": "2026-07-12T10:58:13.5019567Z"
   },
   "Dependencies": [
     {

@@ -1,5 +1,5 @@
 {
-  "Id": "92969e12-2e76-4cbc-9c60-37760285d43b",
+  "Id": "924c10f6-fb8f-48df-a3c7-7b94221df497",
   "DllName": "Microsoft.Practices.ServiceLocation",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\microsoft.practices.servicelocation.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v2.0.50727",
-    "ScanDate": "2026-07-11T10:48:24.5183186Z"
+    "ScanDate": "2026-07-12T10:25:42.9231193Z"
   },
   "Dependencies": [
     {

@@ -1,5 +1,5 @@
 {
-  "Id": "be625d0f-7cc0-4048-9adc-8b5af2664127",
+  "Id": "fcba0615-3cfc-41a4-ba8e-37acabc91a5b",
   "DllName": "UpdateSmartOccurrenceToByRule",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\CommonShip\\Tools\\Bin\\UpdateSmartOccurrenceToByRule.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T11:28:22.2429482Z"
+    "ScanDate": "2026-07-12T10:58:13.4683583Z"
   },
   "Dependencies": [
     {

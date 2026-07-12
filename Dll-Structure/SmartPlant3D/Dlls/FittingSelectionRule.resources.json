@@ -1,5 +1,5 @@
 {
-  "Id": "d1f50c6c-41b8-4240-aadd-a9ca54975375",
+  "Id": "deb402d2-1cd5-4dbd-9f55-1fb7cedbb0a5",
   "DllName": "FittingSelectionRule.resources",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\3DRefData\\SharedContent\\Bin\\HoleMgmt\\CustomAssemblies\\Release\\en-US\\FittingSelectionRule.resources.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T11:28:22.2690202Z"
+    "ScanDate": "2026-07-12T10:58:13.493239Z"
   },
   "Dependencies": [
     {

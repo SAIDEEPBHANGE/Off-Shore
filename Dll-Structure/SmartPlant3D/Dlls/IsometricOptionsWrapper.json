@@ -1,5 +1,5 @@
 {
-  "Id": "720ac863-4856-43c1-b6a0-f1eae11276e7",
+  "Id": "bc788100-a55b-4754-b91e-e79a015ee91c",
   "DllName": "IsometricOptionsWrapper",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\Core\\Container\\Bin\\Assemblies\\Release\\IsometricOptionsWrapper.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T11:28:22.2700339Z"
+    "ScanDate": "2026-07-12T10:58:13.4945578Z"
   },
   "Dependencies": [
     {

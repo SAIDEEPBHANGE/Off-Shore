@@ -1,5 +1,5 @@
 {
-  "Id": "3cf0f665-99d8-4503-924d-d7d0a9265ecb",
+  "Id": "f10f25df-15be-4328-9694-4da23c975deb",
   "DllName": "System.Windows.Interactivity",
   "Version": "4.5.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\Core\\Container\\Bin\\SxS\\Microsoft\\System.Windows.Interactivity.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T11:28:22.2700339Z"
+    "ScanDate": "2026-07-12T10:58:13.4945578Z"
   },
   "Dependencies": [
     {

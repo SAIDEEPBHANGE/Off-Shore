@@ -1,5 +1,5 @@
 {
-  "Id": "aed1f79e-7935-4db7-9fec-7b00e5973bac",
+  "Id": "9785c308-0cf9-41b0-b661-8611b6147550",
   "DllName": "GalleryControl",
   "Version": "2.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\DrawingsIsometric\\Alias\\ICP\\GalleryControl.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T11:28:22.2319505Z"
+    "ScanDate": "2026-07-12T10:58:13.4501196Z"
   },
   "Dependencies": [
     {

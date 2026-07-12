@@ -1,5 +1,5 @@
 {
-  "Id": "c225dc3a-1f1f-431b-b5ba-91535c9f3295",
+  "Id": "caf4d2e7-ad6b-4584-9db9-2df02ac6e310",
   "DllName": "Ingr.SPPID.EDE.WindowsControl",
   "Version": "9.0.0.1405",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\ingr.sppid.ede.windowscontrol.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T10:48:24.5193118Z"
+    "ScanDate": "2026-07-12T10:25:42.9231193Z"
   },
   "Dependencies": [
     {

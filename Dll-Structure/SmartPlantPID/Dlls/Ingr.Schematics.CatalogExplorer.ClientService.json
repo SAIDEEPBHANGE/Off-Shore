@@ -1,5 +1,5 @@
 {
-  "Id": "dfcafcf5-ba06-4f25-b109-f40eccc7dc6e",
+  "Id": "e2466d07-6a87-4af5-9afb-21b2aab7c689",
   "DllName": "Ingr.Schematics.CatalogExplorer.ClientService",
   "Version": "1.0.0.134",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\Ingr.Schematics.CatalogExplorer.ClientService.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T10:48:24.5143269Z"
+    "ScanDate": "2026-07-12T10:25:42.9231193Z"
   },
   "Dependencies": [
     {

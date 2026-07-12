@@ -1,5 +1,5 @@
 {
-  "Id": "a801a1dc-f800-4b83-8d03-ff9da1275130",
+  "Id": "a22ca5fe-90d9-466c-a6fa-45add832aab5",
   "DllName": "HEndCap",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\3DRefData\\SharedContent\\Bin\\Ducting\\DotNetSymbols\\Release\\HEndCap.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T11:28:22.2607088Z"
+    "ScanDate": "2026-07-12T10:58:13.4799526Z"
   },
   "Dependencies": [
     {

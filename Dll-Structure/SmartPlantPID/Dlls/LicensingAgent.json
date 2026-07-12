@@ -1,5 +1,5 @@
 {
-  "Id": "90fd12b5-cc59-4c47-a11f-779d66c0b3f3",
+  "Id": "2931959d-1884-4d4e-949d-a583af5fcf9e",
   "DllName": "LicensingAgent",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\LicensingAgent.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T10:48:24.5093279Z"
+    "ScanDate": "2026-07-12T10:25:42.9231193Z"
   },
   "Dependencies": [
     {

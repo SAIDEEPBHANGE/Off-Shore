@@ -1,5 +1,5 @@
 {
-  "Id": "93727dc4-9d59-47ba-b6ae-4487ee1399ec",
+  "Id": "f6c943fd-ce87-47f3-972e-dd6f2b93a5d7",
   "DllName": "PidItemManager",
   "Version": "9.0.0.1405",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\piditemmanager.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T10:48:24.5123232Z"
+    "ScanDate": "2026-07-12T10:25:42.9231193Z"
   },
   "Dependencies": [
     {

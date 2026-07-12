@@ -1,5 +1,5 @@
 {
-  "Id": "c00dc295-8131-4341-9a8e-833403418b57",
+  "Id": "2bfe9e2d-207a-4e4f-80a4-92ee1999ae71",
   "DllName": "Ingr.SP2D.SharedGrid",
   "Version": "10.0.0.603",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\Ingr.SP2D.SharedGrid.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T10:48:24.5103255Z"
+    "ScanDate": "2026-07-12T10:25:42.9231193Z"
   },
   "Dependencies": [
     {

@@ -1,5 +1,5 @@
 {
-  "Id": "d378cec5-249a-4eb6-9f74-9e38ad4d1358",
+  "Id": "e29ac03d-c3ec-4a40-9906-50bbd0a38d31",
   "DllName": "PIDAuto",
   "Version": "9.0.0.1405",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\pidauto.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T10:48:24.5123232Z"
+    "ScanDate": "2026-07-12T10:25:42.9231193Z"
   },
   "Dependencies": [
     {

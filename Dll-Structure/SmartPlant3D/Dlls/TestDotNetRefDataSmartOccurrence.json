@@ -1,5 +1,5 @@
 {
-  "Id": "79f1b33b-e984-44be-a94e-a6ae83b8a971",
+  "Id": "5f6403e7-3534-428d-81e0-6215779cdbc4",
   "DllName": "TestDotNetRefDataSmartOccurrence",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\3DRefData\\SharedContent\\Bin\\RefData\\Symbols\\Release\\TestDotNetRefDataSmartOccurrence.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T11:28:22.2419484Z"
+    "ScanDate": "2026-07-12T10:58:13.467352Z"
   },
   "Dependencies": [
     {

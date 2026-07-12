@@ -1,5 +1,5 @@
 {
-  "Id": "57372e34-4376-4ecf-9c39-40e1cb997861",
+  "Id": "6dcc4671-b910-451d-85fc-95fa695f9f43",
   "DllName": "Interop.RADNetBridge",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\Interop.RADNetBridge.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T10:48:24.5143269Z"
+    "ScanDate": "2026-07-12T10:25:42.9231193Z"
   },
   "Dependencies": [
     {

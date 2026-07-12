@@ -1,5 +1,5 @@
 {
-  "Id": "8af1975a-2ebf-4525-b31b-94caaa401d34",
+  "Id": "3ec22281-7f19-4e7c-a009-a4da828682c1",
   "DllName": "igrSpZip412",
   "Version": "10.0.0.603",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\igrspzip412.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T10:48:24.5103255Z"
+    "ScanDate": "2026-07-12T10:25:42.9231193Z"
   },
   "Dependencies": [
     {

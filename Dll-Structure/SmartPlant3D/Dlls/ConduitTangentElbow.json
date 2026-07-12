@@ -1,5 +1,5 @@
 {
-  "Id": "04febc72-6791-48bf-a420-997992a4fb16",
+  "Id": "20bb390c-9105-4414-859a-098398cbcb56",
   "DllName": "ConduitTangentElbow",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\3DRefData\\SharedContent\\Bin\\Electrical\\DotNetSymbols\\Release\\ConduitTangentElbow.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T11:28:22.2720279Z"
+    "ScanDate": "2026-07-12T10:58:13.4966117Z"
   },
   "Dependencies": [
     {

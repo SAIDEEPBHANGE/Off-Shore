@@ -1,5 +1,5 @@
 {
-  "Id": "92c74f35-f8d7-4c04-b928-9e57553f37ce",
+  "Id": "277633fc-517e-42b9-ba96-0a04e28c8a18",
   "DllName": "Telerik.Windows.Themes.Windows8",
   "Version": "2018.2.620.45",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\telerik.windows.themes.windows8.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T10:48:24.5153254Z"
+    "ScanDate": "2026-07-12T10:25:42.9231193Z"
   },
   "Dependencies": [
     {

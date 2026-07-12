@@ -1,5 +1,5 @@
 {
-  "Id": "28456915-75db-435c-a5f3-28ac43516f1f",
+  "Id": "ef6c962a-17c3-49e6-a1f6-33ad4c72b227",
   "DllName": "AutoLabelingCommand",
   "Version": "9.0.0.1405",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\autolabelingcommand.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T10:48:24.5153254Z"
+    "ScanDate": "2026-07-12T10:25:42.9231193Z"
   },
   "Dependencies": [
     {

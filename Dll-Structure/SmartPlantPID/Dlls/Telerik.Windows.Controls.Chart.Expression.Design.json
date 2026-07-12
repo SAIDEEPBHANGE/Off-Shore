@@ -1,5 +1,5 @@
 {
-  "Id": "0df5fdc6-9c4d-4e9b-9317-768c3d2c9ae1",
+  "Id": "dac5e73f-019a-4d2f-b33c-5f196b357583",
   "DllName": "Telerik.Windows.Controls.Chart.Expression.Design",
   "Version": "2018.2.620.45",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\telerik.windows.controls.chart.expression.design.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T10:48:24.5153254Z"
+    "ScanDate": "2026-07-12T10:25:42.9231193Z"
   },
   "Dependencies": [
     {

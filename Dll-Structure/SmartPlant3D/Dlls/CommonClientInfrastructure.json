@@ -1,5 +1,5 @@
 {
-  "Id": "f7d236a1-0d49-4313-84d4-09cbc03ee785",
+  "Id": "c7d4d7c4-62f6-4b9a-ac94-9ef3480ca244",
   "DllName": "CommonClientInfrastructure",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\Core\\Container\\Bin\\Assemblies\\Release\\CommonClientInfrastructure.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T11:28:22.2587099Z"
+    "ScanDate": "2026-07-12T10:58:13.4766458Z"
   },
   "Dependencies": [
     {

@@ -1,5 +1,5 @@
 {
-  "Id": "a0d427ed-d84f-4a66-a2d5-c83cab0badb9",
+  "Id": "6b2e9122-0c37-4af4-865b-da97ee2f9ab9",
   "DllName": "ProjectManagerWrapper",
   "Version": "0.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\DrawingsIsometric\\Alias\\Core Components\\ProjectManagerWrapper.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T11:28:22.2690202Z"
+    "ScanDate": "2026-07-12T10:58:13.4922621Z"
   },
   "Dependencies": [
     {

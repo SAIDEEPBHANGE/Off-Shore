@@ -1,5 +1,5 @@
 {
-  "Id": "e6d14ff3-d384-47f8-99cc-1474d702c2bb",
+  "Id": "b4a28f9a-1ac8-4160-b8b1-677d51bfcf26",
   "DllName": "Xceed.Compression.v6.3",
   "Version": "6.3.17281.13580",
   "FilePath": "D:\\Off-Share\\Smart3D\\Common2D\\Rad2D\\bin\\Xceed.Compression.v6.3.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T11:28:22.2670284Z"
+    "ScanDate": "2026-07-12T10:58:13.4899514Z"
   },
   "Dependencies": [
     {

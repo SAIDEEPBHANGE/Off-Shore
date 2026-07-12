@@ -1,5 +1,5 @@
 {
-  "Id": "69755aef-9aab-47ab-999e-9100e9a8cf8b",
+  "Id": "28e0a0d5-36a9-4923-9121-7e5b97b5fef9",
   "DllName": "Telerik.Windows.Controls.Diagrams",
   "Version": "2017.3.1018.45",
   "FilePath": "D:\\Off-Share\\Smart3D\\Documentation\\HelpApp\\Telerik.Windows.Controls.Diagrams.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T11:28:22.2439479Z"
+    "ScanDate": "2026-07-12T10:58:13.4693494Z"
   },
   "Dependencies": [
     {

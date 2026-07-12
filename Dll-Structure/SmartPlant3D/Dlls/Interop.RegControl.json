@@ -1,5 +1,5 @@
 {
-  "Id": "e17bde9e-dced-44aa-a491-d103d4d4af71",
+  "Id": "a7a82c59-4d29-4446-9adf-8e02723785f8",
   "DllName": "Interop.RegControl",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\Common2D\\Rad2D\\bin64\\Interop.RegControl.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-07-11T11:28:22.2439479Z"
+    "ScanDate": "2026-07-12T10:58:13.4693494Z"
   },
   "Dependencies": [
     {
