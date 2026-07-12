@@ -1,5 +1,5 @@
 {
-  "Id": "11173bf4-5dab-4187-87d2-876a3858e25d",
+  "Id": "563e4087-f84b-4972-87dd-f2ba06283d76",
   "DllName": "PidRules",
   "Version": "9.0.0.1405",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\pidrules.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T10:26:43.0387587Z"
+    "ScanDate": "2026-07-11T10:48:24.5153254Z"
   },
   "Dependencies": [
     {

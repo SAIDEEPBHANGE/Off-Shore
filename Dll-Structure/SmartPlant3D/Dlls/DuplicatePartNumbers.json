@@ -1,5 +1,5 @@
 {
-  "Id": "ce26d2f4-5d28-4336-a49d-41d5acbe88e5",
+  "Id": "2e5e1ba4-25d2-4c07-a773-2d98e4547333",
   "DllName": "DuplicatePartNumbers",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\Core\\Container\\Bin\\Assemblies\\Release\\DuplicatePartNumbers.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T11:55:26.6874435Z"
+    "ScanDate": "2026-07-11T11:28:22.238948Z"
   },
   "Dependencies": [
     {

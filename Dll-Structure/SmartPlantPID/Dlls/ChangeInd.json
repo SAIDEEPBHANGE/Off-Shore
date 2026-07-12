@@ -1,5 +1,5 @@
 {
-  "Id": "c320b016-5c04-4dd2-9130-7e093a7feb8b",
+  "Id": "ca979da0-35d4-4095-a4f9-6462ca80515c",
   "DllName": "ChangeInd",
   "Version": "9.0.0.1405",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\changeind.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T10:26:43.0317595Z"
+    "ScanDate": "2026-07-11T10:48:24.5143269Z"
   },
   "Dependencies": [
     {

@@ -1,5 +1,5 @@
 {
-  "Id": "d2b77835-a6c1-4973-9c98-244da79a8f2b",
+  "Id": "5483eab8-5e87-4f68-a30e-c44ca94fca34",
   "DllName": "SHTriangularSolid",
   "Version": "1.0.0.1",
   "FilePath": "D:\\Off-Share\\Smart3D\\3DRefData\\SharedContent\\Bin\\Shapes\\DotNetSymbols\\Release\\SHTriangularSolid.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T11:55:26.5991233Z"
+    "ScanDate": "2026-07-11T11:28:22.2680391Z"
   },
   "Dependencies": [
     {

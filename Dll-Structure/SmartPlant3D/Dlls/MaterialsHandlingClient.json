@@ -1,5 +1,5 @@
 {
-  "Id": "1cd1f325-925b-47b6-9bea-76d9339008dc",
+  "Id": "67ed08d7-bf55-49d2-b451-4ca3ac91e2a1",
   "DllName": "MaterialsHandlingClient",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\Core\\Container\\Bin\\Assemblies\\Release\\MaterialsHandlingClient.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T11:55:26.706206Z"
+    "ScanDate": "2026-07-11T11:28:22.2319505Z"
   },
   "Dependencies": [
     {

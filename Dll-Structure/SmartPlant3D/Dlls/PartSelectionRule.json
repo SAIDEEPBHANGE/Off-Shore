@@ -1,5 +1,5 @@
 {
-  "Id": "dcb52353-ab01-41e5-b332-0942b2e24a87",
+  "Id": "2a4f77de-eefb-44db-9e8f-3230f91ab110",
   "DllName": "PartSelectionRule",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\3DRefData\\SharedContent\\Bin\\HangersAndSupports\\Rules\\Release\\PartSelectionRule.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T11:55:26.5812441Z"
+    "ScanDate": "2026-07-11T11:28:22.238948Z"
   },
   "Dependencies": [
     {

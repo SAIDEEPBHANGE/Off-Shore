@@ -1,5 +1,5 @@
 {
-  "Id": "aa5cef95-6dd7-4e33-b79b-be20c3cc1c4e",
+  "Id": "8b99fe51-4ca4-4eb9-ace4-0d505cf5d9fa",
   "DllName": "DisplayEndCutData",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\Core\\Container\\Bin\\Assemblies\\Release\\DisplayEndCutData.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T11:55:26.6835333Z"
+    "ScanDate": "2026-07-11T11:28:22.276034Z"
   },
   "Dependencies": [
     {

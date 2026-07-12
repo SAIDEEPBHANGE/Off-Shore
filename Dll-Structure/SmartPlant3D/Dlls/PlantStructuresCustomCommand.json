@@ -1,5 +1,5 @@
 {
-  "Id": "a141da6c-13a7-4fe5-ba45-b646c2297daf",
+  "Id": "8613e8f8-f50f-4a12-ad19-0e865b5ea03f",
   "DllName": "PlantStructuresCustomCommand",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\StructuralModeling\\Client\\Bin\\PlantStructuresCustomCommand.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T11:55:26.8289956Z"
+    "ScanDate": "2026-07-11T11:28:22.2670284Z"
   },
   "Dependencies": [
     {

@@ -1,5 +1,5 @@
 {
-  "Id": "d5a34e79-2958-4fc6-9120-8b29363d6ec7",
+  "Id": "c3f6d60e-6500-4e80-87af-c3731f3ed6d0",
   "DllName": "SmartFramePopup",
   "Version": "9.0.0.1405",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\smartframepopup.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T10:26:43.0387587Z"
+    "ScanDate": "2026-07-11T10:48:24.5183186Z"
   },
   "Dependencies": [
     {

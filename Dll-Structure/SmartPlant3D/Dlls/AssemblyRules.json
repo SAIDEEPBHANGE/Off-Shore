@@ -1,5 +1,5 @@
 {
-  "Id": "0d5fcb75-912b-4b3b-96fc-56ebefd44c2b",
+  "Id": "de2d53bd-d4b5-4755-bdc0-2c0554491467",
   "DllName": "AssemblyRules",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\3DRefData\\SharedContent\\Bin\\HangersAndSupports\\Rules\\Release\\AssemblyRules.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T11:55:26.5780437Z"
+    "ScanDate": "2026-07-11T11:28:22.2399485Z"
   },
   "Dependencies": [
     {

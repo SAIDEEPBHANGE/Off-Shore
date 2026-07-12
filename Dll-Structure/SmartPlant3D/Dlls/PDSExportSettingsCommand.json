@@ -1,5 +1,5 @@
 {
-  "Id": "306ac885-b5e6-4cf3-924a-2a99e2d77546",
+  "Id": "e063183a-78ac-4f50-bbc0-b389ed91ed57",
   "DllName": "PDSExportSettingsCommand",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\Core\\Container\\Bin\\Assemblies\\Release\\PDSExportSettingsCommand.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T11:55:26.712346Z"
+    "ScanDate": "2026-07-11T11:28:22.2485861Z"
   },
   "Dependencies": [
     {

@@ -1,5 +1,5 @@
 {
-  "Id": "7bb73132-8ef1-4c27-b4e0-55aab414faf6",
+  "Id": "c6c820cf-958b-4f22-8223-1adc11461101",
   "DllName": "Interop.GluePoint",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\Common2D\\Rad2D\\bin64\\Interop.GluePoint.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T11:55:26.6493798Z"
+    "ScanDate": "2026-07-11T11:28:22.2730497Z"
   },
   "Dependencies": [
     {

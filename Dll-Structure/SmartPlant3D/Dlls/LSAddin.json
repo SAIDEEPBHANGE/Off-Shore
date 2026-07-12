@@ -1,5 +1,5 @@
 {
-  "Id": "0d4d7eb7-783e-4416-865c-20c10c4b7d65",
+  "Id": "ec0caaed-3fd3-4c1f-a991-f6553ac3d9af",
   "DllName": "LSAddin",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\Common2D\\Rad2D\\bin\\LSAddin.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T11:55:26.6176811Z"
+    "ScanDate": "2026-07-11T11:28:22.2439479Z"
   },
   "Dependencies": [
     {

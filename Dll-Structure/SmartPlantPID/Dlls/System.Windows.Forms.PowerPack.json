@@ -1,5 +1,5 @@
 {
-  "Id": "09359d92-ab11-4efd-a0df-c9418fe20feb",
+  "Id": "c988fa8a-4538-4e66-a1e8-0410ddc47956",
   "DllName": "System.Windows.Forms.PowerPack",
   "Version": "10.0.0.603",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\system.windows.forms.powerpack.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T10:26:43.0387587Z"
+    "ScanDate": "2026-07-11T10:48:24.5193118Z"
   },
   "Dependencies": [
     {

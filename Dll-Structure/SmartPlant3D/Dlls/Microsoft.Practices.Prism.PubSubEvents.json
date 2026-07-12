@@ -1,5 +1,5 @@
 {
-  "Id": "d908a5d5-0b21-429b-8ee2-56b098b4982c",
+  "Id": "733af19a-7e87-45b1-ac86-aa72cdc278cf",
   "DllName": "Microsoft.Practices.Prism.PubSubEvents",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\Core\\Container\\Bin\\SxS\\Microsoft\\Microsoft.Practices.Prism.PubSubEvents.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T11:55:26.7642974Z"
+    "ScanDate": "2026-07-11T11:28:22.2700339Z"
   },
   "Dependencies": [
     {

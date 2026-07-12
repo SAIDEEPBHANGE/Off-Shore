@@ -1,5 +1,5 @@
 {
-  "Id": "df357ed2-56f4-469a-b9f4-4213678331ae",
+  "Id": "044e1e96-fe03-468f-bf9a-bb07f02a9fd9",
   "DllName": "ManualPhysicalConnection.resources",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\Core\\Container\\Bin\\Assemblies\\Release\\en-US\\ManualPhysicalConnection.resources.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T11:55:26.7434913Z"
+    "ScanDate": "2026-07-11T11:28:22.230944Z"
   },
   "Dependencies": [
     {

@@ -1,5 +1,5 @@
 {
-  "Id": "c6db2549-dce2-4761-a69b-168e8e7b680f",
+  "Id": "f0ccafe1-d5ba-46c1-8cc2-22811e060e9e",
   "DllName": "DwgValidateView",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\Core\\Container\\Bin\\Assemblies\\Release\\DwgValidateView.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T11:55:26.6874435Z"
+    "ScanDate": "2026-07-11T11:28:22.2627089Z"
   },
   "Dependencies": [
     {

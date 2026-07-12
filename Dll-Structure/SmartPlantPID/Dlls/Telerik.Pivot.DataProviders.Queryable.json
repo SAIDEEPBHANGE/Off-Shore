@@ -1,5 +1,5 @@
 {
-  "Id": "3779ec04-b698-47f4-939e-86908a23a5f6",
+  "Id": "b6e857d2-905e-4805-ae76-89dbdf9e3ba2",
   "DllName": "Telerik.Pivot.DataProviders.Queryable",
   "Version": "2018.2.620.45",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\telerik.pivot.dataproviders.queryable.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T10:26:43.0387587Z"
+    "ScanDate": "2026-07-11T10:48:24.5153254Z"
   },
   "Dependencies": [
     {

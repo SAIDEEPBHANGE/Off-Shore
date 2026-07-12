@@ -1,5 +1,5 @@
 {
-  "Id": "f826c4fc-7b71-4cf7-8e80-8136c4ca8b23",
+  "Id": "7d7caaa1-2533-4260-9cde-ce2a126e91fe",
   "DllName": "RADNetInterop",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\Common2D\\Rad2D\\bin\\RadNetInterop.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T11:55:26.6231417Z"
+    "ScanDate": "2026-07-11T11:28:22.2670284Z"
   },
   "Dependencies": [
     {

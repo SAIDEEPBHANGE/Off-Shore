@@ -1,5 +1,5 @@
 {
-  "Id": "9f495322-d7e4-4841-8086-f37eada1a02a",
+  "Id": "7df0fbaf-2ac3-44d4-aa61-9629e40765a9",
   "DllName": "Microsoft.SqlServer.Management.Collector",
   "Version": "14.100.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\Core\\Container\\Bin\\Assemblies\\Release\\SMO\\14.1\\Microsoft.SqlServer.Management.Collector.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v2.0.50727",
-    "ScanDate": "2026-06-28T11:55:26.7482666Z"
+    "ScanDate": "2026-07-11T11:28:22.2710296Z"
   },
   "Dependencies": [
     {

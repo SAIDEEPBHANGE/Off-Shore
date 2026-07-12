@@ -1,5 +1,5 @@
 {
-  "Id": "73700d51-7198-4c3b-91dd-bb612083ece2",
+  "Id": "11f21544-a20b-4038-99b8-bb790c1401f9",
   "DllName": "Microsoft.SqlServer.Management.XEvent",
   "Version": "14.100.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\Core\\Container\\Bin\\Assemblies\\Release\\SMO\\14.1\\Microsoft.SqlServer.Management.XEvent.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v2.0.50727",
-    "ScanDate": "2026-06-28T11:55:26.7505466Z"
+    "ScanDate": "2026-07-11T11:28:22.2680391Z"
   },
   "Dependencies": [
     {

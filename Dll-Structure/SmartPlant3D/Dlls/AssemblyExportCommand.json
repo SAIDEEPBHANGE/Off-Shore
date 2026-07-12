@@ -1,5 +1,5 @@
 {
-  "Id": "cb248f33-458c-4594-aada-0183bc3bd1e3",
+  "Id": "fdd47b94-51bf-4d73-9f23-00677b2cc546",
   "DllName": "AssemblyExportCommand",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\Core\\Container\\Bin\\Assemblies\\Release\\AssemblyExportCommand.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T11:55:26.6601349Z"
+    "ScanDate": "2026-07-11T11:28:22.2472804Z"
   },
   "Dependencies": [
     {

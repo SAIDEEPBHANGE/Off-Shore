@@ -1,5 +1,5 @@
 {
-  "Id": "4db99373-dc84-4cef-9ac7-12876895ba1a",
+  "Id": "7ac60d81-a6e1-4e35-86e9-337ecc130bcb",
   "DllName": "Civil3DAPICustomCommand",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\Civil\\Client\\Bin\\Civil3DAPICustomCommand.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T11:55:26.6135437Z"
+    "ScanDate": "2026-07-11T11:28:22.2359492Z"
   },
   "Dependencies": [
     {

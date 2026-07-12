@@ -1,5 +1,5 @@
 {
-  "Id": "0f626270-fa31-4861-a5f3-661a84380b0a",
+  "Id": "28cda059-17da-4eb9-9225-896449adaf84",
   "DllName": "Microsoft.SqlServer.Management.UtilityEnum",
   "Version": "14.100.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\Core\\Container\\Bin\\Assemblies\\Release\\SMO\\14.1\\Microsoft.SqlServer.Management.UtilityEnum.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v2.0.50727",
-    "ScanDate": "2026-06-28T11:55:26.7505466Z"
+    "ScanDate": "2026-07-11T11:28:22.2730497Z"
   },
   "Dependencies": [
     {

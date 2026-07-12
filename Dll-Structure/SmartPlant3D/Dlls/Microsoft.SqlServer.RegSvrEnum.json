@@ -1,5 +1,5 @@
 {
-  "Id": "1c373a7d-4b43-4b8c-b6b9-60b650d8643d",
+  "Id": "064672a7-926c-4da3-ba85-c222eecc85d9",
   "DllName": "Microsoft.SqlServer.RegSvrEnum",
   "Version": "14.100.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\Core\\Container\\Bin\\Assemblies\\Release\\SMO\\14.1\\Microsoft.SqlServer.RegSvrEnum.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v2.0.50727",
-    "ScanDate": "2026-06-28T11:55:26.7517989Z"
+    "ScanDate": "2026-07-11T11:28:22.2710296Z"
   },
   "Dependencies": [
     {

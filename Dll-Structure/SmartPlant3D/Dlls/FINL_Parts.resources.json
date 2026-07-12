@@ -1,5 +1,5 @@
 {
-  "Id": "674d9d96-f9c9-4f24-912a-452be5ff215e",
+  "Id": "0d0ebaee-0aa2-4b72-ad57-451045122d33",
   "DllName": "FINL_Parts.resources",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\3DRefData\\SharedContent\\Bin\\HangersAndSupports\\Symbols\\Release\\en-US\\FINL_Parts.resources.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T11:55:26.5893268Z"
+    "ScanDate": "2026-07-11T11:28:22.2409488Z"
   },
   "Dependencies": [
     {

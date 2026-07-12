@@ -1,5 +1,5 @@
 {
-  "Id": "b2e2529a-741c-45a3-a8cb-715b44421236",
+  "Id": "b40f22ce-21e4-4e3b-a2c3-cb571d75f50f",
   "DllName": "ConduitReducer",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\3DRefData\\SharedContent\\Bin\\Electrical\\DotNetSymbols\\Release\\ConduitReducer.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T11:55:26.5617443Z"
+    "ScanDate": "2026-07-11T11:28:22.2690202Z"
   },
   "Dependencies": [
     {

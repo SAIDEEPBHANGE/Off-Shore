@@ -1,5 +1,5 @@
 {
-  "Id": "9d961ec2-f95b-4535-a978-19f3feb07032",
+  "Id": "33987c30-1bc4-4ecb-a905-eb2440ec5c1c",
   "DllName": "AxInterop.S3DRADView",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\DrawingsIsometric\\Alias\\Drawing Setup Tool\\AxInterop.S3DRADView.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v2.0.50727",
-    "ScanDate": "2026-06-28T11:55:26.8289956Z"
+    "ScanDate": "2026-07-11T11:28:22.2439479Z"
   },
   "Dependencies": [
     {

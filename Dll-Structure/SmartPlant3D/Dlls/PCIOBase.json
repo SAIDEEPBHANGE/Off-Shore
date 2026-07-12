@@ -1,5 +1,5 @@
 {
-  "Id": "ab98548a-5de6-44e3-9a6a-969b7ee8ef9c",
+  "Id": "eacd9483-dcfd-4fe0-8d25-5dd9c5ce75d5",
   "DllName": "PCIOBase",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\Core\\Container\\Bin\\Assemblies\\Release\\PCIOBase.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T11:55:26.706206Z"
+    "ScanDate": "2026-07-11T11:28:22.2485861Z"
   },
   "Dependencies": [
     {

@@ -1,5 +1,5 @@
 {
-  "Id": "9827b419-437d-4b93-84a9-26f09d8b5fba",
+  "Id": "b872a385-80cf-444b-8bab-c670a36abe88",
   "DllName": "Ingr.SP2D.Windows.igrPropertyGrid",
   "Version": "10.0.0.603",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\ingr.sp2d.windows.igrpropertygrid.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T10:26:43.0337582Z"
+    "ScanDate": "2026-07-11T10:48:24.5153254Z"
   },
   "Dependencies": [
     {

@@ -1,5 +1,5 @@
 {
-  "Id": "0f1faefa-f1cb-44ab-b0d6-0680a36caa01",
+  "Id": "dba6f2f7-5e11-4017-8176-d84045c14544",
   "DllName": "CompartmentRules",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\3DRefData\\SharedContent\\Bin\\Compartmentation\\Rules\\Release\\CompartmentRules.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T11:55:26.556024Z"
+    "ScanDate": "2026-07-11T11:28:22.2660584Z"
   },
   "Dependencies": [
     {

@@ -1,5 +1,5 @@
 {
-  "Id": "95bc2e65-12e2-49a1-8a31-e111688abcd4",
+  "Id": "bbfc059a-009d-491e-a0d7-c2a04e0f97ff",
   "DllName": "EQPlateHeatExchanger",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\3DRefData\\SharedContent\\Bin\\Equipment\\DotNetSymbols\\Release\\EQPlateHeatExchanger.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T11:55:26.5676744Z"
+    "ScanDate": "2026-07-11T11:28:22.2637085Z"
   },
   "Dependencies": [
     {

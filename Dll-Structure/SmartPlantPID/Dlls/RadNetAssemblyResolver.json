@@ -1,5 +1,5 @@
 {
-  "Id": "dfafdbf7-1205-44bd-af77-7ba894935e9c",
+  "Id": "a8836459-fa54-439e-bb3e-62796a1dd784",
   "DllName": "RadNetAssemblyResolver",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\RadNetAssemblyResolver.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T10:26:43.0387587Z"
+    "ScanDate": "2026-07-11T10:48:24.5143269Z"
   },
   "Dependencies": [
     {

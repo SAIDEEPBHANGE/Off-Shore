@@ -1,5 +1,5 @@
 {
-  "Id": "102ef7a1-2fad-4490-a164-609f43a1443a",
+  "Id": "8f2f127f-fa73-451f-a139-7e9b3ff082ee",
   "DllName": "ClaimData",
   "Version": "9.0.0.1405",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\claimdata.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T10:26:43.0317595Z"
+    "ScanDate": "2026-07-11T10:48:24.5113244Z"
   },
   "Dependencies": [
     {

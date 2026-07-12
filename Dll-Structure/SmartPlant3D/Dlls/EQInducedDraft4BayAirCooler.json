@@ -1,5 +1,5 @@
 {
-  "Id": "9912d626-564a-4de6-a2a1-bed1e7858eed",
+  "Id": "379b396a-a369-46c8-88b2-a8d9a8e104d8",
   "DllName": "EQInducedDraft4BayAirCooler",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\3DRefData\\SharedContent\\Bin\\Equipment\\DotNetSymbols\\Release\\EQInducedDraft4BayAirCooler.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T11:55:26.5676744Z"
+    "ScanDate": "2026-07-11T11:28:22.2627089Z"
   },
   "Dependencies": [
     {

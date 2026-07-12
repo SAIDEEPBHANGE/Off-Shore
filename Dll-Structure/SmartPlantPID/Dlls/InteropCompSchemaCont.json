@@ -1,5 +1,5 @@
 {
-  "Id": "245663ae-d157-4f9d-8477-4976a4a450ec",
+  "Id": "573bc364-dcbe-4246-9630-bccda3b4cc04",
   "DllName": "InteropCompSchemaCont",
   "Version": "1.1.0.0",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\interopcompschemacont.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v2.0.50727",
-    "ScanDate": "2026-06-28T10:26:43.0337582Z"
+    "ScanDate": "2026-07-11T10:48:24.5123232Z"
   },
   "Dependencies": [
     {

@@ -1,5 +1,5 @@
 {
-  "Id": "737f38d2-90f3-4ff0-9ffc-27ca98df0db8",
+  "Id": "6ebba540-8ab3-4228-b970-347a7bb15691",
   "DllName": "Interop.S3DRADView",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\DrawingsIsometric\\Alias\\Drawing Setup Tool\\Interop.S3DRADView.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v2.0.50727",
-    "ScanDate": "2026-06-28T11:55:26.8289956Z"
+    "ScanDate": "2026-07-11T11:28:22.2439479Z"
   },
   "Dependencies": [
     {

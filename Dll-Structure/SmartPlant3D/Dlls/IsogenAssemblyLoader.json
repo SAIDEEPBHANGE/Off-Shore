@@ -1,5 +1,5 @@
 {
-  "Id": "9208601a-aa7e-47a2-95e1-bfe9bc59e6a6",
+  "Id": "5566f49b-cb95-4dbb-887d-01c5e64984b8",
   "DllName": "IsogenAssemblyLoader",
   "Version": "1.0.0.10",
   "FilePath": "D:\\Off-Share\\Smart3D\\Core\\Container\\Bin\\Assemblies\\Release\\IsogenAssemblyLoader.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T11:55:26.6945444Z"
+    "ScanDate": "2026-07-11T11:28:22.2750345Z"
   },
   "Dependencies": [
     {

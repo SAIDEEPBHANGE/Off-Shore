@@ -1,5 +1,5 @@
 {
-  "Id": "ae7d1c67-bf3f-4e52-9bea-a0a5dfad4e32",
+  "Id": "26ba3a3e-3b65-48c9-8bf2-876425a1ba3b",
   "DllName": "BOMLabels",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\3DRefData\\SharedContent\\Bin\\HangersAndSupports\\Rules\\Release\\BOMLabels.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T11:55:26.57929Z"
+    "ScanDate": "2026-07-11T11:28:22.2750345Z"
   },
   "Dependencies": [
     {

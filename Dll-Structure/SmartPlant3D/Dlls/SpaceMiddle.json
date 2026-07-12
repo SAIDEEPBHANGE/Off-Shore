@@ -1,5 +1,5 @@
 {
-  "Id": "b0616057-7de8-42cc-a253-bfa0b55c8135",
+  "Id": "69a58ff3-431d-456c-98dd-22463cd43bbb",
   "DllName": "SpaceMiddle",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\Core\\Container\\Bin\\Assemblies\\Release\\SpaceMiddle.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T11:55:26.7317344Z"
+    "ScanDate": "2026-07-11T11:28:22.2329497Z"
   },
   "Dependencies": [
     {

@@ -1,5 +1,5 @@
 {
-  "Id": "7ef70e77-1e61-4779-a4e2-086601f255d9",
+  "Id": "6206abb3-2c1a-4248-9fd9-5e5671db5307",
   "DllName": "ManufacturingCustomReportRules",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\3DRefData\\SharedContent\\Bin\\StructManufacturing\\Rules\\Release\\ManufacturingCustomReportRules.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T11:55:26.6089102Z"
+    "ScanDate": "2026-07-11T11:28:22.2740348Z"
   },
   "Dependencies": [
     {

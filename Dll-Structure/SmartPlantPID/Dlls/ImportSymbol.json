@@ -1,5 +1,5 @@
 {
-  "Id": "0f4d8cf8-86a0-4fa2-a2cf-10439e4f6898",
+  "Id": "659e8d3b-59e0-4b70-8aca-70f5cbb232eb",
   "DllName": "ImportSymbol",
   "Version": "9.0.0.1405",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\importsymbol.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T10:26:43.0337582Z"
+    "ScanDate": "2026-07-11T10:48:24.5103255Z"
   },
   "Dependencies": [
     {

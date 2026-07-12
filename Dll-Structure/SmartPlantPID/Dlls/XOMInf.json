@@ -1,5 +1,5 @@
 {
-  "Id": "4c3e1623-279e-4e73-8b9f-336c8934cdfa",
+  "Id": "f92d8e62-b8c6-435d-8a45-ecbc738b46fa",
   "DllName": "XOMInf",
   "Version": "9.0.0.1405",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\xominf.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T10:26:43.0387587Z"
+    "ScanDate": "2026-07-11T10:48:24.5123232Z"
   },
   "Dependencies": [
     {

@@ -1,5 +1,5 @@
 {
-  "Id": "2c74d108-48d5-4504-b5ac-23a8a33ae796",
+  "Id": "9fee7471-db9c-4afb-89ec-7e9ac14c5fb8",
   "DllName": "S3DHRectSleeve",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\3DRefData\\SharedContent\\Bin\\Ducting\\DotNetSymbols\\Release\\S3DHRectSleeve.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T11:55:26.5607359Z"
+    "ScanDate": "2026-07-11T11:28:22.2647088Z"
   },
   "Dependencies": [
     {

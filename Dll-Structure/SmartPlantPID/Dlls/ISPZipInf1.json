@@ -1,5 +1,5 @@
 {
-  "Id": "ee548f0a-3727-46e8-b6e9-00676f822fc2",
+  "Id": "9cb50352-ced4-416e-904c-89964d98f5e2",
   "DllName": "ISPZipInf1",
   "Version": "10.0.0.603",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\ispzipinf1.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T10:26:43.0337582Z"
+    "ScanDate": "2026-07-11T10:48:24.5153254Z"
   },
   "Dependencies": [
     {

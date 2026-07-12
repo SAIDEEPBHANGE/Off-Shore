@@ -1,5 +1,5 @@
 {
-  "Id": "2b2c1713-5155-48d2-80fd-3c3043cd05b0",
+  "Id": "c4767bdf-95e6-4e54-998c-b89422d0e866",
   "DllName": "Telerik.Windows.Controls.EntityFramework.Expression.Design",
   "Version": "2018.2.620.45",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\telerik.windows.controls.entityframework.expression.design.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T10:26:43.0387587Z"
+    "ScanDate": "2026-07-11T10:48:24.5103255Z"
   },
   "Dependencies": [
     {

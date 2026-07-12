@@ -1,14 +1,14 @@
 {
-  "Id": "3a9541a4-b26b-45cd-8522-77ac4cd679f1",
+  "Id": "94e5d0b0-69b3-4f52-8621-8d399a896f15",
   "DllName": "Interop.LicenseCheckOutHelper",
   "Version": "1.0.0.0",
-  "FilePath": "D:\\Off-Share\\Smart3D\\Common2D\\Rad2D\\bin64\\Interop.LicenseCheckOutHelper.dll",
+  "FilePath": "D:\\Off-Share\\Smart3D\\Common2D\\Rad2D\\bin\\Interop.LicenseCheckOutHelper.dll",
   "Metadata": {
     "AssemblyName": "Interop.LicenseCheckOutHelper",
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T11:55:26.6500059Z"
+    "ScanDate": "2026-07-11T11:28:22.2710296Z"
   },
   "Dependencies": [
     {

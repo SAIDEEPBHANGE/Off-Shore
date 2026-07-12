@@ -1,5 +1,5 @@
 {
-  "Id": "3d29d0ae-9249-4dee-ad9b-c5c564e584b2",
+  "Id": "cfa2778a-1a2a-43ed-a6f5-7bd76fd88657",
   "DllName": "Sockolet",
   "Version": "1.0.0.2",
   "FilePath": "D:\\Off-Share\\Smart3D\\3DRefData\\SharedContent\\Bin\\Piping\\DotNetSymbols\\Release\\Sockolet.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T11:55:26.5964905Z"
+    "ScanDate": "2026-07-11T11:28:22.2506553Z"
   },
   "Dependencies": [
     {

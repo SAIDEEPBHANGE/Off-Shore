@@ -1,5 +1,5 @@
 {
-  "Id": "6609cce2-25f2-421b-8ddb-c2d592e5e22d",
+  "Id": "f32c1126-bc3f-4b2f-909d-dd95f27f67b6",
   "DllName": "Telerik.Windows.Documents.FormatProviders.MsRichTextBoxXaml",
   "Version": "2018.2.620.45",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\telerik.windows.documents.formatproviders.msrichtextboxxaml.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T10:26:43.0387587Z"
+    "ScanDate": "2026-07-11T10:48:24.5143269Z"
   },
   "Dependencies": [
     {

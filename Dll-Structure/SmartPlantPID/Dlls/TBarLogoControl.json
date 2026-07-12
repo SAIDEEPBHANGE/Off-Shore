@@ -1,5 +1,5 @@
 {
-  "Id": "5bf34f42-1d4d-4d48-a242-b5656cb7b96e",
+  "Id": "7e458c1f-94dc-4cfc-a595-ea98ec659586",
   "DllName": "TBarLogoControl",
   "Version": "10.0.0.603",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\TBarLogoControl.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T10:26:43.0387587Z"
+    "ScanDate": "2026-07-11T10:48:24.5193118Z"
   },
   "Dependencies": [
     {

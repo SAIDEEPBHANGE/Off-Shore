@@ -1,5 +1,5 @@
 {
-  "Id": "fcf1347b-0a27-409e-8d3a-fe16aa02414c",
+  "Id": "4690b2f9-0138-4f59-9111-431131b0329a",
   "DllName": "SharpDX.DXGI",
   "Version": "2.5.0.0",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\sharpdx.dxgi.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T10:26:43.0387587Z"
+    "ScanDate": "2026-07-11T10:48:24.5133273Z"
   },
   "Dependencies": [
     {

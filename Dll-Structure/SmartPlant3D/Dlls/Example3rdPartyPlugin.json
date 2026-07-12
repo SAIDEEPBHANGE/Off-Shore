@@ -1,5 +1,5 @@
 {
-  "Id": "10ddd1a0-4f20-4fee-b578-3978ae4bf945",
+  "Id": "d97e14c3-1e01-43ca-8f7b-20f90f9dbff4",
   "DllName": "Example3rdPartyPlugin",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\3DRefData\\SharedContent\\Bin\\HangersAndSupports\\Plugins\\Release\\Example3rdPartyPlugin.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T11:55:26.5780437Z"
+    "ScanDate": "2026-07-11T11:28:22.2730497Z"
   },
   "Dependencies": [
     {

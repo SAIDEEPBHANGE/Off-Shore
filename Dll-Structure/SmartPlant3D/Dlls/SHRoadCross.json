@@ -1,5 +1,5 @@
 {
-  "Id": "3566a4a9-faab-40d6-bdf8-b956b2ffc49a",
+  "Id": "a8d19e92-d537-448f-8dfd-ac1acdd832ed",
   "DllName": "SHRoadCross",
   "Version": "1.0.0.1",
   "FilePath": "D:\\Off-Share\\Smart3D\\3DRefData\\SharedContent\\Bin\\Shapes\\DotNetSymbols\\Release\\SHRoadCross.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T11:55:26.5991233Z"
+    "ScanDate": "2026-07-11T11:28:22.2399485Z"
   },
   "Dependencies": [
     {

@@ -1,5 +1,5 @@
 {
-  "Id": "64c9c8a6-5e65-45db-b3e1-c98b317e2a94",
+  "Id": "c9379e3d-0e1f-439d-9460-0f7b551966bb",
   "DllName": "Intergraph.UX.WPF.Toolkit.S3D",
   "Version": "3.4.2.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\Core\\Container\\Bin\\SxS\\Intergraph\\Intergraph.UX.WPF.Toolkit.S3D.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T11:55:26.7592258Z"
+    "ScanDate": "2026-07-11T11:28:22.2670284Z"
   },
   "Dependencies": [
     {

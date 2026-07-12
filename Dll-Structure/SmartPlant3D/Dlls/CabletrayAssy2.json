@@ -1,5 +1,5 @@
 {
-  "Id": "8010e7ff-5de4-4b03-ae93-accaac01a31d",
+  "Id": "9fba0113-404a-456f-9106-6a59c989b4c9",
   "DllName": "CabletrayAssy2",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\3DRefData\\SharedContent\\Bin\\HangersAndSupports\\Rules\\Release\\CabletrayAssy2.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T11:55:26.57929Z"
+    "ScanDate": "2026-07-11T11:28:22.2439479Z"
   },
   "Dependencies": [
     {

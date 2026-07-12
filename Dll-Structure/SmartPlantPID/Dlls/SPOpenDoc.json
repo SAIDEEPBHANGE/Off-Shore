@@ -1,5 +1,5 @@
 {
-  "Id": "cfb71618-101b-46d6-9c06-b69157962cc8",
+  "Id": "b85c5f3d-613d-4c45-b497-c273ad93cd03",
   "DllName": "SPOpenDoc",
   "Version": "9.0.0.1405",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\spopendoc.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T10:26:43.0387587Z"
+    "ScanDate": "2026-07-11T10:48:24.5103255Z"
   },
   "Dependencies": [
     {

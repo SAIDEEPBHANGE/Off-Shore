@@ -1,5 +1,5 @@
 {
-  "Id": "5a02d7c4-5781-4e9f-8faf-4749c4bcc69b",
+  "Id": "5015c3b7-d6d6-4079-bb8a-c6514663923d",
   "DllName": "Power_Assy",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\3DRefData\\SharedContent\\Bin\\HangersAndSupports\\Rules\\Release\\Power_Assy.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T11:55:26.5832392Z"
+    "ScanDate": "2026-07-11T11:28:22.276034Z"
   },
   "Dependencies": [
     {

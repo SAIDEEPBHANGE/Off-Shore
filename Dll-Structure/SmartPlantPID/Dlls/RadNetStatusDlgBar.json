@@ -1,5 +1,5 @@
 {
-  "Id": "c8d0a634-049b-45a9-855e-353fcf24e554",
+  "Id": "5b2d8669-f2e9-4f6a-978b-f1ed288ed847",
   "DllName": "RadNetStatusDlgBar",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\RadNetStatusDlgBar.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T10:26:43.0387587Z"
+    "ScanDate": "2026-07-11T10:48:24.5193118Z"
   },
   "Dependencies": [
     {

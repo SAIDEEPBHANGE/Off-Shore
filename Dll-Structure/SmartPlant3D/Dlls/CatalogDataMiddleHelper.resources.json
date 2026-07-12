@@ -1,5 +1,5 @@
 {
-  "Id": "f0ea1f24-d287-4dfc-b752-f9ff8b40fe78",
+  "Id": "78c34c2a-96e2-45d9-9857-860e2c1272c9",
   "DllName": "CatalogDataMiddleHelper.resources",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\Core\\Container\\Bin\\Assemblies\\Release\\en-US\\CatalogDataMiddleHelper.resources.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T11:55:26.7404762Z"
+    "ScanDate": "2026-07-11T11:28:22.2462584Z"
   },
   "Dependencies": [
     {

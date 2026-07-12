@@ -1,5 +1,5 @@
 {
-  "Id": "4b7a251f-a67d-4ae3-be8c-10c637ef51dd",
+  "Id": "6fa7104d-ec3e-4a78-841b-6045d4e7c03e",
   "DllName": "OptiMgrAboutBox",
   "Version": "9.0.0.1405",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\Languages\\OptiMgrAboutBox.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T10:26:43.0387587Z"
+    "ScanDate": "2026-07-11T10:48:24.5133273Z"
   },
   "Dependencies": [
     {

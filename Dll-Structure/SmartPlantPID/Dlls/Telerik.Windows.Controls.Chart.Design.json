@@ -1,5 +1,5 @@
 {
-  "Id": "a23f1f79-9700-4b85-be2f-e1b5ee914da7",
+  "Id": "74cda3e1-7111-42c8-8c51-a689f07b7630",
   "DllName": "Telerik.Windows.Controls.Chart.Design",
   "Version": "2018.2.620.45",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\telerik.windows.controls.chart.design.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T10:26:43.0387587Z"
+    "ScanDate": "2026-07-11T10:48:24.5183186Z"
   },
   "Dependencies": [
     {

@@ -1,5 +1,5 @@
 {
-  "Id": "7dccda8a-13cc-4df8-b4f9-a1d1c31a6682",
+  "Id": "3e0a37d7-cd86-442f-933c-6643939548e3",
   "DllName": "ProjectManagerNet",
   "Version": "7.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\DrawingsIsometric\\Alias\\Core Components\\ProjectManagerNet.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T11:55:26.8289956Z"
+    "ScanDate": "2026-07-11T11:28:22.2740348Z"
   },
   "Dependencies": [
     {

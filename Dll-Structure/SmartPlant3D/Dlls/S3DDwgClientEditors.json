@@ -1,5 +1,5 @@
 {
-  "Id": "5810b0cb-8e2c-4dd8-bd79-19341eb2fae2",
+  "Id": "37857691-7b4a-43b3-8b87-54dfb1735778",
   "DllName": "S3DDwgClientEditors",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\Drawings\\Client\\Bin\\S3DDwgClientEditors.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T11:55:26.8289956Z"
+    "ScanDate": "2026-07-11T11:28:22.2720279Z"
   },
   "Dependencies": [
     {

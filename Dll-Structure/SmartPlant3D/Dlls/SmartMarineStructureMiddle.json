@@ -1,5 +1,5 @@
 {
-  "Id": "45dd716c-22a0-4ee2-bbed-c9dc26bd0739",
+  "Id": "4ba29eeb-6cd2-464d-9f88-a6fb29a3d745",
   "DllName": "SmartMarineStructureMiddle",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\Core\\Container\\Bin\\Assemblies\\Release\\SmartMarineStructureMiddle.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T11:55:26.7262277Z"
+    "ScanDate": "2026-07-11T11:28:22.2627089Z"
   },
   "Dependencies": [
     {

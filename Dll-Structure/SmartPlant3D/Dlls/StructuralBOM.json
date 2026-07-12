@@ -1,5 +1,5 @@
 {
-  "Id": "8b8ddace-cd18-4fc1-a32a-9361c4c19e44",
+  "Id": "32dab13d-b74f-4cf8-9aec-d82c4f3bac78",
   "DllName": "StructuralBOM",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\3DRefData\\SharedContent\\Bin\\Drawings\\QueryInterpreters\\Release\\StructuralBOM.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T11:55:26.556024Z"
+    "ScanDate": "2026-07-11T11:28:22.2379481Z"
   },
   "Dependencies": [
     {

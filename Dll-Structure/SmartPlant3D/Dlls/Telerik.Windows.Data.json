@@ -1,14 +1,14 @@
 {
-  "Id": "f12d96fb-854a-45fb-80ad-2fde1dae1c85",
+  "Id": "e59d5cf1-b713-442e-a90a-b8b85ffd0e79",
   "DllName": "Telerik.Windows.Data",
-  "Version": "2017.3.1018.45",
-  "FilePath": "D:\\Off-Share\\Smart3D\\Documentation\\HelpApp\\Telerik.Windows.Data.dll",
+  "Version": "2018.1.220.45",
+  "FilePath": "D:\\Off-Share\\Smart3D\\Core\\Container\\Bin\\SxS\\Telerik\\Telerik.Windows.Data.dll",
   "Metadata": {
     "AssemblyName": "Telerik.Windows.Data",
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T11:55:26.8239742Z"
+    "ScanDate": "2026-07-11T11:28:22.2710296Z"
   },
   "Dependencies": [
     {
@@ -49,7 +49,7 @@
     },
     {
       "AssemblyName": "Telerik.Windows.Controls",
-      "Version": "2017.3.1018.45",
+      "Version": "2018.1.220.45",
       "IsLocalDll": false,
       "ReferencedJsonFile": null
     },
@@ -71410,14 +71410,6 @@
       ],
       "Fields": [
         {
-          "Name": "elementType",
-          "Type": "System.Type",
-          "IsPublic": false,
-          "IsStatic": false,
-          "IsReadonly": true,
-          "Attributes": []
-        },
-        {
           "Name": "hashingDisabled",
           "Type": "System.Boolean",
           "IsPublic": false,
@@ -71533,15 +71525,6 @@
           "IsConstructor": true,
           "Parameters": [
             {
-              "Name": "elementType",
-              "Type": "System.Type",
-              "IsOptional": false,
-              "DefaultValue": null,
-              "IsOut": false,
-              "IsRef": false,
-              "Attributes": []
-            },
-            {
               "Name": "keyFunction",
               "Type": "System.Func\u00602\u003CSystem.Object,System.Object\u003E",
               "IsOptional": false,
@@ -71572,15 +71555,6 @@
           "IsConstructor": true,
           "Parameters": [
             {
-              "Name": "elementType",
-              "Type": "System.Type",
-              "IsOptional": false,
-              "DefaultValue": null,
-              "IsOut": false,
-              "IsRef": false,
-              "Attributes": []
-            },
-            {
               "Name": "items",
               "Type": "System.Collections.IEnumerable",
               "IsOptional": false,
@@ -71608,17 +71582,6 @@
               "Attributes": []
             }
           ],
-          "Attributes": []
-        },
-        {
-          "Name": "GenerateKeyedDictionary",
-          "ReturnType": "System.Collections.Generic.Dictionary\u00602\u003CSystem.Object,System.Tuple\u00602\u003CSystem.Object,System.Int32\u003E\u003E",
-          "IsStatic": false,
-          "IsPublic": false,
-          "IsVirtual": false,
-          "IsAbstract": false,
-          "IsConstructor": false,
-          "Parameters": [],
           "Attributes": []
         },
         {
@@ -84524,86 +84487,6 @@
       "Attributes": []
     },
     {
-      "Name": "ReferenceEqualityComparer\u00601",
-      "Namespace": "Telerik.Windows.Data",
-      "FullName": "Telerik.Windows.Data.ReferenceEqualityComparer\u00601",
-      "BaseType": "System.Object",
-      "IsAbstract": false,
-      "IsSealed": false,
-      "DeclaringType": null,
-      "ImplementedInterfaces": [
-        "System.Collections.Generic.IEqualityComparer\u00601\u003CT\u003E"
-      ],
-      "Fields": [],
-      "Methods": [
-        {
-          "Name": "Equals",
-          "ReturnType": "System.Boolean",
-          "IsStatic": false,
-          "IsPublic": true,
-          "IsVirtual": true,
-          "IsAbstract": false,
-          "IsConstructor": false,
-          "Parameters": [
-            {
-              "Name": "x",
-              "Type": "T",
-              "IsOptional": false,
-              "DefaultValue": null,
-              "IsOut": false,
-              "IsRef": false,
-              "Attributes": []
-            },
-            {
-              "Name": "y",
-              "Type": "T",
-              "IsOptional": false,
-              "DefaultValue": null,
-              "IsOut": false,
-              "IsRef": false,
-              "Attributes": []
-            }
-          ],
-          "Attributes": []
-        },
-        {
-          "Name": "GetHashCode",
-          "ReturnType": "System.Int32",
-          "IsStatic": false,
-          "IsPublic": true,
-          "IsVirtual": true,
-          "IsAbstract": false,
-          "IsConstructor": false,
-          "Parameters": [
-            {
-              "Name": "obj",
-              "Type": "T",
-              "IsOptional": false,
-              "DefaultValue": null,
-              "IsOut": false,
-              "IsRef": false,
-              "Attributes": []
-            }
-          ],
-          "Attributes": []
-        },
-        {
-          "Name": ".ctor",
-          "ReturnType": "System.Void",
-          "IsStatic": false,
-          "IsPublic": true,
-          "IsVirtual": false,
-          "IsAbstract": false,
-          "IsConstructor": true,
-          "Parameters": [],
-          "Attributes": []
-        }
-      ],
-      "Properties": [],
-      "Events": [],
-      "Attributes": []
-    },
-    {
       "Name": "ControlExtensions",
       "Namespace": "Telerik.Windows.Data",
       "FullName": "Telerik.Windows.Data.ControlExtensions",
@@ -85573,67 +85456,7 @@
           "Attributes": []
         },
         {
-          "Name": "SetIsSelectedSafe",
-          "ReturnType": "System.Void",
-          "IsStatic": false,
-          "IsPublic": false,
-          "IsVirtual": true,
-          "IsAbstract": true,
-          "IsConstructor": false,
-          "Parameters": [
-            {
-              "Name": "item",
-              "Type": "System.Object",
-              "IsOptional": false,
-              "DefaultValue": null,
-              "IsOut": false,
-              "IsRef": false,
-              "Attributes": []
-            },
-            {
-              "Name": "isSelected",
-              "Type": "System.Boolean",
-              "IsOptional": false,
-              "DefaultValue": null,
-              "IsOut": false,
-              "IsRef": false,
-              "Attributes": []
-            }
-          ],
-          "Attributes": []
-        },
-        {
           "Name": "SetIsCurrent",
-          "ReturnType": "System.Void",
-          "IsStatic": false,
-          "IsPublic": false,
-          "IsVirtual": true,
-          "IsAbstract": true,
-          "IsConstructor": false,
-          "Parameters": [
-            {
-              "Name": "item",
-              "Type": "System.Object",
-              "IsOptional": false,
-              "DefaultValue": null,
-              "IsOut": false,
-              "IsRef": false,
-              "Attributes": []
-            },
-            {
-              "Name": "isCurrent",
-              "Type": "System.Boolean",
-              "IsOptional": false,
-              "DefaultValue": null,
-              "IsOut": false,
-              "IsRef": false,
-              "Attributes": []
-            }
-          ],
-          "Attributes": []
-        },
-        {
-          "Name": "SetIsCurrentSafe",
           "ReturnType": "System.Void",
           "IsStatic": false,
           "IsPublic": false,
@@ -138217,6 +138040,14 @@
       ],
       "Fields": [
         {
+          "Name": "elementType",
+          "Type": "System.Type",
+          "IsPublic": false,
+          "IsStatic": false,
+          "IsReadonly": true,
+          "Attributes": []
+        },
+        {
           "Name": "hashingDisabled",
           "Type": "System.Boolean",
           "IsPublic": false,
@@ -138332,6 +138163,15 @@
           "IsConstructor": true,
           "Parameters": [
             {
+              "Name": "elementType",
+              "Type": "System.Type",
+              "IsOptional": false,
+              "DefaultValue": null,
+              "IsOut": false,
+              "IsRef": false,
+              "Attributes": []
+            },
+            {
               "Name": "keyFunction",
               "Type": "System.Func\u00602\u003CSystem.Object,System.Object\u003E",
               "IsOptional": false,
@@ -138362,6 +138202,15 @@
           "IsConstructor": true,
           "Parameters": [
             {
+              "Name": "elementType",
+              "Type": "System.Type",
+              "IsOptional": false,
+              "DefaultValue": null,
+              "IsOut": false,
+              "IsRef": false,
+              "Attributes": []
+            },
+            {
               "Name": "items",
               "Type": "System.Collections.IEnumerable",
               "IsOptional": false,
@@ -138389,6 +138238,17 @@
               "Attributes": []
             }
           ],
+          "Attributes": []
+        },
+        {
+          "Name": "GenerateKeyedDictionary",
+          "ReturnType": "System.Collections.Generic.Dictionary\u00602\u003CSystem.Object,System.Tuple\u00602\u003CSystem.Object,System.Int32\u003E\u003E",
+          "IsStatic": false,
+          "IsPublic": false,
+          "IsVirtual": false,
+          "IsAbstract": false,
+          "IsConstructor": false,
+          "Parameters": [],
           "Attributes": []
         },
         {
@@ -151294,6 +151154,86 @@
       "Attributes": []
     },
     {
+      "Name": "ReferenceEqualityComparer\u00601",
+      "Namespace": "Telerik.Windows.Data",
+      "FullName": "Telerik.Windows.Data.ReferenceEqualityComparer\u00601",
+      "BaseType": "System.Object",
+      "IsAbstract": false,
+      "IsSealed": false,
+      "DeclaringType": null,
+      "ImplementedInterfaces": [
+        "System.Collections.Generic.IEqualityComparer\u00601\u003CT\u003E"
+      ],
+      "Fields": [],
+      "Methods": [
+        {
+          "Name": "Equals",
+          "ReturnType": "System.Boolean",
+          "IsStatic": false,
+          "IsPublic": true,
+          "IsVirtual": true,
+          "IsAbstract": false,
+          "IsConstructor": false,
+          "Parameters": [
+            {
+              "Name": "x",
+              "Type": "T",
+              "IsOptional": false,
+              "DefaultValue": null,
+              "IsOut": false,
+              "IsRef": false,
+              "Attributes": []
+            },
+            {
+              "Name": "y",
+              "Type": "T",
+              "IsOptional": false,
+              "DefaultValue": null,
+              "IsOut": false,
+              "IsRef": false,
+              "Attributes": []
+            }
+          ],
+          "Attributes": []
+        },
+        {
+          "Name": "GetHashCode",
+          "ReturnType": "System.Int32",
+          "IsStatic": false,
+          "IsPublic": true,
+          "IsVirtual": true,
+          "IsAbstract": false,
+          "IsConstructor": false,
+          "Parameters": [
+            {
+              "Name": "obj",
+              "Type": "T",
+              "IsOptional": false,
+              "DefaultValue": null,
+              "IsOut": false,
+              "IsRef": false,
+              "Attributes": []
+            }
+          ],
+          "Attributes": []
+        },
+        {
+          "Name": ".ctor",
+          "ReturnType": "System.Void",
+          "IsStatic": false,
+          "IsPublic": true,
+          "IsVirtual": false,
+          "IsAbstract": false,
+          "IsConstructor": true,
+          "Parameters": [],
+          "Attributes": []
+        }
+      ],
+      "Properties": [],
+      "Events": [],
+      "Attributes": []
+    },
+    {
       "Name": "ControlExtensions",
       "Namespace": "Telerik.Windows.Data",
       "FullName": "Telerik.Windows.Data.ControlExtensions",
@@ -152263,7 +152203,67 @@
           "Attributes": []
         },
         {
+          "Name": "SetIsSelectedSafe",
+          "ReturnType": "System.Void",
+          "IsStatic": false,
+          "IsPublic": false,
+          "IsVirtual": true,
+          "IsAbstract": true,
+          "IsConstructor": false,
+          "Parameters": [
+            {
+              "Name": "item",
+              "Type": "System.Object",
+              "IsOptional": false,
+              "DefaultValue": null,
+              "IsOut": false,
+              "IsRef": false,
+              "Attributes": []
+            },
+            {
+              "Name": "isSelected",
+              "Type": "System.Boolean",
+              "IsOptional": false,
+              "DefaultValue": null,
+              "IsOut": false,
+              "IsRef": false,
+              "Attributes": []
+            }
+          ],
+          "Attributes": []
+        },
+        {
           "Name": "SetIsCurrent",
+          "ReturnType": "System.Void",
+          "IsStatic": false,
+          "IsPublic": false,
+          "IsVirtual": true,
+          "IsAbstract": true,
+          "IsConstructor": false,
+          "Parameters": [
+            {
+              "Name": "item",
+              "Type": "System.Object",
+              "IsOptional": false,
+              "DefaultValue": null,
+              "IsOut": false,
+              "IsRef": false,
+              "Attributes": []
+            },
+            {
+              "Name": "isCurrent",
+              "Type": "System.Boolean",
+              "IsOptional": false,
+              "DefaultValue": null,
+              "IsOut": false,
+              "IsRef": false,
+              "Attributes": []
+            }
+          ],
+          "Attributes": []
+        },
+        {
+          "Name": "SetIsCurrentSafe",
           "ReturnType": "System.Void",
           "IsStatic": false,
           "IsPublic": false,

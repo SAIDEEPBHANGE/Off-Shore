@@ -1,5 +1,5 @@
 {
-  "Id": "672e6773-b0ce-40f2-a6f1-a6e75b9e4fab",
+  "Id": "0939b8d8-6b95-4424-9566-d0d68d6d27c1",
   "DllName": "SupDuctAssmInfoRules2",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\3DRefData\\SharedContent\\Bin\\HangersAndSupports\\Rules\\Release\\SupDuctAssmInfoRules2.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T11:55:26.5832392Z"
+    "ScanDate": "2026-07-11T11:28:22.2700339Z"
   },
   "Dependencies": [
     {

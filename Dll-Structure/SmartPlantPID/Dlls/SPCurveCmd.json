@@ -1,5 +1,5 @@
 {
-  "Id": "099e63f5-010d-4f7c-ae89-bd43f21ecedc",
+  "Id": "8e40e36a-c14f-42b4-be99-8c8f0c7b7a18",
   "DllName": "SPCurveCmd",
   "Version": "9.0.0.1405",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\spcurvecmd.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T10:26:43.0387587Z"
+    "ScanDate": "2026-07-11T10:48:24.5193118Z"
   },
   "Dependencies": [
     {

@@ -1,5 +1,5 @@
 {
-  "Id": "82e1b3fa-3cbe-4cae-8667-0e622094c469",
+  "Id": "59305388-846b-42dc-b969-afd73a40a51d",
   "DllName": "Telerik.Windows.Controls.ScheduleView.Expression.Design",
   "Version": "2018.2.620.45",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\telerik.windows.controls.scheduleview.expression.design.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T10:26:43.0387587Z"
+    "ScanDate": "2026-07-11T10:48:24.5133273Z"
   },
   "Dependencies": [
     {

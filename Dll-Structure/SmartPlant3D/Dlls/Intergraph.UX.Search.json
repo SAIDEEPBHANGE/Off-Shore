@@ -1,5 +1,5 @@
 {
-  "Id": "927eb56f-1b39-465e-a885-489ea32b5d07",
+  "Id": "0f261176-7945-4b6e-a5c2-cfab3e55fcef",
   "DllName": "Intergraph.UX.Search",
   "Version": "1.0.0.2",
   "FilePath": "D:\\Off-Share\\Smart3D\\Documentation\\HelpApp\\Intergraph.UX.Search.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T11:55:26.7987218Z"
+    "ScanDate": "2026-07-11T11:28:22.2319505Z"
   },
   "Dependencies": [
     {

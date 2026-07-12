@@ -1,5 +1,5 @@
 {
-  "Id": "89c7b896-7379-449e-b766-2ad3dc5e8255",
+  "Id": "2c7838ce-1149-437d-83f9-d009e3199cbf",
   "DllName": "RadNetLogger",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\Common2D\\Rad2D\\bin\\RadNetLogger.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T11:55:26.6243793Z"
+    "ScanDate": "2026-07-11T11:28:22.2710296Z"
   },
   "Dependencies": [
     {

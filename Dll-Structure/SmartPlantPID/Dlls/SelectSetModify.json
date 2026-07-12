@@ -1,5 +1,5 @@
 {
-  "Id": "aeeaac3f-a61d-4355-aa4d-743402d5973c",
+  "Id": "ed4f6fcd-c632-4d49-8483-f92e84110af9",
   "DllName": "SelectSetModify",
   "Version": "9.0.0.1405",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\selectsetmodify.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T10:26:43.0387587Z"
+    "ScanDate": "2026-07-11T10:48:24.5133273Z"
   },
   "Dependencies": [
     {

@@ -1,5 +1,5 @@
 {
-  "Id": "227fa1d5-3765-4c5b-9838-9cef932f9ec7",
+  "Id": "ef94dd40-e64c-48ea-acf4-e7c1e92dc17e",
   "DllName": "PipeHgrAssemblySymbols",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\3DRefData\\SharedContent\\Bin\\HangersAndSupports\\Symbols\\Release\\PipeHgrAssemblySymbols.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T11:55:26.5847831Z"
+    "ScanDate": "2026-07-11T11:28:22.2409488Z"
   },
   "Dependencies": [
     {

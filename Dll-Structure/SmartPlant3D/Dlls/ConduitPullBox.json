@@ -1,5 +1,5 @@
 {
-  "Id": "a357cdd5-02db-4b6b-8efa-5904b10820f2",
+  "Id": "8fcb11f4-814b-4079-9a2c-ef41804c76c9",
   "DllName": "ConduitPullBox",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\3DRefData\\SharedContent\\Bin\\Electrical\\DotNetSymbols\\Release\\ConduitPullBox.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T11:55:26.5617443Z"
+    "ScanDate": "2026-07-11T11:28:22.2587099Z"
   },
   "Dependencies": [
     {

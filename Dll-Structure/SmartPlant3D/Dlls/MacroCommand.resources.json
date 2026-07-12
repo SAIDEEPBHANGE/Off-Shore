@@ -1,5 +1,5 @@
 {
-  "Id": "5ecd5b2d-32d4-491f-a9a6-14f76259b092",
+  "Id": "e8ab47e3-3666-459b-ba7e-ad57741996e5",
   "DllName": "MacroCommand.resources",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\Core\\Container\\Bin\\Assemblies\\Release\\en-US\\MacroCommand.resources.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T11:55:26.7424753Z"
+    "ScanDate": "2026-07-11T11:28:22.2637085Z"
   },
   "Dependencies": [
     {

@@ -1,5 +1,5 @@
 {
-  "Id": "ae000f3c-27b1-408c-bee2-d58e434e4b2e",
+  "Id": "25cdc6d4-133b-481e-b888-0ce81f89b364",
   "DllName": "Telerik.Windows.Controls.Pivot.Design.5.0",
   "Version": "2018.2.620.45",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\telerik.windows.controls.pivot.design.5.0.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T10:26:43.0387587Z"
+    "ScanDate": "2026-07-11T10:48:24.5113244Z"
   },
   "Dependencies": [
     {

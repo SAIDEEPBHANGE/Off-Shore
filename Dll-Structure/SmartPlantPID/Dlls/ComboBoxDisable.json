@@ -1,5 +1,5 @@
 {
-  "Id": "e183180c-ec32-4b51-8180-d7932ad49e12",
+  "Id": "31c1af7a-ba0f-4043-a6c1-85c07fbb32ae",
   "DllName": "ComboBoxDisable",
   "Version": "9.0.0.1405",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\comboboxdisable.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T10:26:43.0317595Z"
+    "ScanDate": "2026-07-11T10:48:24.5123232Z"
   },
   "Dependencies": [
     {

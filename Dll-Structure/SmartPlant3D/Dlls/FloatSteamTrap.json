@@ -1,5 +1,5 @@
 {
-  "Id": "8f3eef55-33f2-48dd-a77a-676e573145dd",
+  "Id": "ed044d28-a5b8-4e35-972f-d62132325436",
   "DllName": "FloatSteamTrap",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\3DRefData\\SharedContent\\Bin\\Piping\\DotNetSymbols\\Release\\FloatSteamTrap.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T11:55:26.5931968Z"
+    "ScanDate": "2026-07-11T11:28:22.2647088Z"
   },
   "Dependencies": [
     {

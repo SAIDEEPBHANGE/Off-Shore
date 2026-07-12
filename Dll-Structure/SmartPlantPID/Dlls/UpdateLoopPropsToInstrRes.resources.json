@@ -1,5 +1,5 @@
 {
-  "Id": "cc66872e-948c-4991-a71e-14038e57ffdc",
+  "Id": "2df56d10-61d7-41d6-a49b-b67ddf7ca7f6",
   "DllName": "UpdateLoopPropsToInstrRes.resources",
   "Version": "9.0.0.1405",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\Languages\\en-US\\UpdateLoopPropsToInstrRes.resources.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T10:26:43.0387587Z"
+    "ScanDate": "2026-07-11T10:48:24.5153254Z"
   },
   "Dependencies": [
     {

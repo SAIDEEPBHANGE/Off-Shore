@@ -1,5 +1,5 @@
 {
-  "Id": "e24b0914-f685-4546-bac9-17fee4eee890",
+  "Id": "d4914f1e-490d-46af-97a5-277d8ca6a37a",
   "DllName": "IllegalPB",
   "Version": "0.0.0.0",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\IllegalPB.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T10:26:43.0337582Z"
+    "ScanDate": "2026-07-11T10:48:24.5153254Z"
   },
   "Dependencies": [
     {

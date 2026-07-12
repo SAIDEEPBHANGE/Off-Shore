@@ -1,5 +1,5 @@
 {
-  "Id": "206cf993-e264-42b7-b1b9-341777138bf4",
+  "Id": "38fc0a2f-29cb-4a1b-9c5c-b14cdded5745",
   "DllName": "ScanWallWithInvalidXSectValues",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\Core\\Container\\Bin\\Assemblies\\Release\\ScanWallWithInvalidXSectValues.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T11:55:26.7232241Z"
+    "ScanDate": "2026-07-11T11:28:22.2750345Z"
   },
   "Dependencies": [
     {

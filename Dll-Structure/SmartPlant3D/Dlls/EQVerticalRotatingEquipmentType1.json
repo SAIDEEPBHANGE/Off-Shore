@@ -1,5 +1,5 @@
 {
-  "Id": "8835aeb9-a5df-4d97-aa71-9427cafa219b",
+  "Id": "a095024e-14fc-429a-845b-73bb84ac84eb",
   "DllName": "EQVerticalRotatingEquipmentType1",
   "Version": "1.0.0.1",
   "FilePath": "D:\\Off-Share\\Smart3D\\3DRefData\\SharedContent\\Bin\\Equipment\\DotNetSymbols\\Release\\EQVerticalRotatingEquipmentType1.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T11:55:26.5676744Z"
+    "ScanDate": "2026-07-11T11:28:22.2472804Z"
   },
   "Dependencies": [
     {

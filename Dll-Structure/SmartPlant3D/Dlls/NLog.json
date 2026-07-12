@@ -1,5 +1,5 @@
 {
-  "Id": "398df954-7aeb-4cc1-9fa0-2a5f92f2b8c1",
+  "Id": "8badd06b-8061-483b-94c8-6b62a0952374",
   "DllName": "NLog",
   "Version": "4.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\Documentation\\HelpApp\\NLog.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T11:55:26.8048437Z"
+    "ScanDate": "2026-07-11T11:28:22.2472804Z"
   },
   "Dependencies": [
     {

@@ -1,5 +1,5 @@
 {
-  "Id": "8f4af0d8-41d9-483f-8b2b-f801aff230ef",
+  "Id": "08b2ae41-eb4f-45ed-9580-d9b527783416",
   "DllName": "PidObjMgrAddIn",
   "Version": "9.0.0.1405",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\pidobjmgraddin.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T10:26:43.0387587Z"
+    "ScanDate": "2026-07-11T10:48:24.5123232Z"
   },
   "Dependencies": [
     {

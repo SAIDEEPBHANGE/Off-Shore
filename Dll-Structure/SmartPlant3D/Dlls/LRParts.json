@@ -1,5 +1,5 @@
 {
-  "Id": "06020c94-2399-4f4a-ac59-e1e19038bb55",
+  "Id": "043e694b-56dc-42ee-8cf8-ecb90ce41fb6",
   "DllName": "LRParts",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\3DRefData\\SharedContent\\Bin\\HangersAndSupports\\Symbols\\Release\\LRParts.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T11:55:26.5847831Z"
+    "ScanDate": "2026-07-11T11:28:22.2369485Z"
   },
   "Dependencies": [
     {

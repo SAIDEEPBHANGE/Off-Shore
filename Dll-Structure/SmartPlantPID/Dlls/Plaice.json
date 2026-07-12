@@ -1,5 +1,5 @@
 {
-  "Id": "af9bf895-caa0-4c9d-aa1f-67d6eccd36da",
+  "Id": "524f8162-e07c-4a14-a41c-d3c2bded9a23",
   "DllName": "Plaice",
   "Version": "9.0.0.1405",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\plaice.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T10:26:43.0387587Z"
+    "ScanDate": "2026-07-11T10:48:24.5133273Z"
   },
   "Dependencies": [
     {

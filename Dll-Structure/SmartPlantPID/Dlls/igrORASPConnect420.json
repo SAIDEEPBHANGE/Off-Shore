@@ -1,5 +1,5 @@
 {
-  "Id": "e867a4e0-5624-4eb1-b3c3-860c81b9a0a8",
+  "Id": "c172a507-0ce8-4a58-aa6f-21f3bc47954d",
   "DllName": "igrORASPConnect420",
   "Version": "10.0.0.603",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\igroraspconnect420.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T10:26:43.032759Z"
+    "ScanDate": "2026-07-11T10:48:24.5133273Z"
   },
   "Dependencies": [
     {

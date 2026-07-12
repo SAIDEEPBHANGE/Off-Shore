@@ -1,5 +1,5 @@
 {
-  "Id": "54178359-b817-4ce3-821a-6dc14833b8fb",
+  "Id": "d53d4e31-ef4b-439d-9bba-4152cfbb4fe4",
   "DllName": "Telerik.Windows.Controls.Expression.Design",
   "Version": "2018.2.620.45",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\telerik.windows.controls.expression.design.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T10:26:43.0387587Z"
+    "ScanDate": "2026-07-11T10:48:24.5123232Z"
   },
   "Dependencies": [
     {

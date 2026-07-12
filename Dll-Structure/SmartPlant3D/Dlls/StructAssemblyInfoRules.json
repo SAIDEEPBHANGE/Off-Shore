@@ -1,5 +1,5 @@
 {
-  "Id": "5940dc9b-1a36-4c68-8065-e8ceb4df4b61",
+  "Id": "429d9cdb-7a6d-4c3f-9680-4adb9acf8be7",
   "DllName": "StructAssemblyInfoRules",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\3DRefData\\SharedContent\\Bin\\HangersAndSupports\\Rules\\Release\\StructAssemblyInfoRules.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T11:55:26.5832392Z"
+    "ScanDate": "2026-07-11T11:28:22.2506553Z"
   },
   "Dependencies": [
     {

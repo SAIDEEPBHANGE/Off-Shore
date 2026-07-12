@@ -1,5 +1,5 @@
 {
-  "Id": "c55c0fc3-640f-4eea-b2ef-6c7e4ba5232a",
+  "Id": "19c467ac-5b72-4c9d-a5a4-e8334b81e439",
   "DllName": "RadNetFileOpen",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\RadNetFileOpen.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T10:26:43.0387587Z"
+    "ScanDate": "2026-07-11T10:48:24.5183186Z"
   },
   "Dependencies": [
     {

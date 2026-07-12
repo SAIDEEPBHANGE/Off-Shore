@@ -1,5 +1,5 @@
 {
-  "Id": "9073551e-c95a-4f4e-96cd-268d3779ab05",
+  "Id": "a2569383-dbf7-4c51-b5a5-eee2d7aead03",
   "DllName": "EFContinuousPubService.Utilities",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\Core\\Middle\\bin\\EFContinuousPubService.Utilities.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T11:55:26.7902867Z"
+    "ScanDate": "2026-07-11T11:28:22.234949Z"
   },
   "Dependencies": [
     {

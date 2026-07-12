@@ -1,5 +1,5 @@
 {
-  "Id": "4230f1b3-df9a-41ab-944f-9d4a2e4433aa",
+  "Id": "ec374761-bd4e-44ed-a9fe-f4f11c21f0fd",
   "DllName": "HRoundFlangeType2",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\3DRefData\\SharedContent\\Bin\\Ducting\\DotNetSymbols\\Release\\HRoundFlangeType2.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T11:55:26.5597546Z"
+    "ScanDate": "2026-07-11T11:28:22.2506553Z"
   },
   "Dependencies": [
     {

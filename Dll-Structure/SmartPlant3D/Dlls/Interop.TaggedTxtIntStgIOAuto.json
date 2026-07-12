@@ -1,14 +1,14 @@
 {
-  "Id": "809a1bd6-ef56-405e-bb18-91b33731a6b2",
+  "Id": "734e14fa-ccc3-4128-915b-c72744bd6b56",
   "DllName": "Interop.TaggedTxtIntStgIOAuto",
   "Version": "1.0.0.0",
-  "FilePath": "D:\\Off-Share\\Smart3D\\Common2D\\Rad2D\\bin64\\Interop.TaggedTxtIntStgIOAuto.dll",
+  "FilePath": "D:\\Off-Share\\Smart3D\\Common2D\\Rad2D\\bin\\Interop.TaggedTxtIntStgIOAuto.dll",
   "Metadata": {
     "AssemblyName": "Interop.TaggedTxtIntStgIOAuto",
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T11:55:26.650508Z"
+    "ScanDate": "2026-07-11T11:28:22.2730497Z"
   },
   "Dependencies": [
     {

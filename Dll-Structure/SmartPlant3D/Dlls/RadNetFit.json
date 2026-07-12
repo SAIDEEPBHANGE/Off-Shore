@@ -1,5 +1,5 @@
 {
-  "Id": "192dc742-c11f-460e-9220-2316c33f7bbc",
+  "Id": "a4802a91-dcdc-441b-9509-e531f6e1f050",
   "DllName": "RadNetFit",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\Common2D\\Rad2D\\bin\\RadNetFit.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T11:55:26.6231417Z"
+    "ScanDate": "2026-07-11T11:28:22.2720279Z"
   },
   "Dependencies": [
     {

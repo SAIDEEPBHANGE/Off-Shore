@@ -1,5 +1,5 @@
 {
-  "Id": "77e2165c-2985-46a5-8365-bf41e8919721",
+  "Id": "febf866f-6e96-4516-b437-a7c325110d82",
   "DllName": "RadNetStatusDlgBar",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\Common2D\\Rad2D\\bin\\RadNetStatusDlgBar.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T11:55:26.627034Z"
+    "ScanDate": "2026-07-11T11:28:22.2597092Z"
   },
   "Dependencies": [
     {

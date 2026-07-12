@@ -1,5 +1,5 @@
 {
-  "Id": "beaf5dac-7bc2-4dea-8202-5ba6a2433ab9",
+  "Id": "743f7241-4fb7-481c-8f31-78bc6d26716f",
   "DllName": "DavitforHorizontalCover",
   "Version": "1.0.0.2",
   "FilePath": "D:\\Off-Share\\Smart3D\\3DRefData\\SharedContent\\Bin\\EquipmentComponents\\DotNetSymbols\\Release\\DavitforHorizontalCover.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T11:55:26.5737997Z"
+    "ScanDate": "2026-07-11T11:28:22.2399485Z"
   },
   "Dependencies": [
     {

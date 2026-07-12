@@ -1,5 +1,5 @@
 {
-  "Id": "45d82221-4095-4a73-89c0-796fe525843a",
+  "Id": "05f29d84-5422-40c9-9748-e4ece1dbc2ba",
   "DllName": "igrSelectIni412",
   "Version": "10.0.0.603",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\igrselectini412.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T10:26:43.032759Z"
+    "ScanDate": "2026-07-11T10:48:24.5153254Z"
   },
   "Dependencies": [
     {

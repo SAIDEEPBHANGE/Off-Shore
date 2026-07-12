@@ -1,5 +1,5 @@
 {
-  "Id": "186eff55-5e48-4048-b03f-8c357e511841",
+  "Id": "f8586963-d8d5-4898-a898-4ebf36eefdf9",
   "DllName": "CTVerticalDownwardTeeSideBranch",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\3DRefData\\SharedContent\\Bin\\Electrical\\DotNetSymbols\\Release\\CTVerticalDownwardTeeSideBranch.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T11:55:26.5617443Z"
+    "ScanDate": "2026-07-11T11:28:22.2472804Z"
   },
   "Dependencies": [
     {

@@ -1,5 +1,5 @@
 {
-  "Id": "cf039dd4-67db-4321-981e-0cd6221e82ed",
+  "Id": "fe8c3d67-7ca2-4b6a-acc1-d9b79761278d",
   "DllName": "TEKBOdata",
   "Version": "1.2.0.2",
   "FilePath": "D:\\Off-Share\\Smart3D\\Core\\Container\\Bin\\Assemblies\\Release\\TEKBOdata.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T11:55:26.7352734Z"
+    "ScanDate": "2026-07-11T11:28:22.2700339Z"
   },
   "Dependencies": [
     {

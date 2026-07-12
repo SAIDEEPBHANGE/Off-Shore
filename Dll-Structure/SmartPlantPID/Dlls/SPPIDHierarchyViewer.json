@@ -1,5 +1,5 @@
 {
-  "Id": "6cf33e8f-4cd5-471e-82d8-fddc25be73c3",
+  "Id": "57a0e881-aa91-47ad-9082-9878df401ded",
   "DllName": "SPPIDHierarchyViewer",
   "Version": "9.0.0.1405",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\sppidhierarchyviewer.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T10:26:43.0387587Z"
+    "ScanDate": "2026-07-11T10:48:24.5153254Z"
   },
   "Dependencies": [
     {

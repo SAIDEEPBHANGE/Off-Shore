@@ -1,5 +1,5 @@
 {
-  "Id": "2214d0c1-a909-4367-bd41-873b7ad9cdb2",
+  "Id": "233c988f-308b-4192-89bc-90de4bba7fa9",
   "DllName": "Telerik.Windows.Controls.Diagrams.Extensions",
   "Version": "2016.1.217.40",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\SxS\\Telerik\\Telerik.Windows.Controls.Diagrams.Extensions.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T10:26:43.0387587Z"
+    "ScanDate": "2026-07-11T10:48:24.5133273Z"
   },
   "Dependencies": [
     {

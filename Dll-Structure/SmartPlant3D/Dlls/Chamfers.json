@@ -1,5 +1,5 @@
 {
-  "Id": "67b8ec7f-2237-4b93-909b-09b08932d9d7",
+  "Id": "ea031698-c25e-4019-ab80-9f9e8347bb28",
   "DllName": "Chamfers",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\3DRefData\\SharedContent\\Bin\\StructDetail\\CustomAssemblies\\Release\\Chamfers.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T11:55:26.6018494Z"
+    "ScanDate": "2026-07-11T11:28:22.2429482Z"
   },
   "Dependencies": [
     {

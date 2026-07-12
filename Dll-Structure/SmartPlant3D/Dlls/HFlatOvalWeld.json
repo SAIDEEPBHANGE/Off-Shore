@@ -1,5 +1,5 @@
 {
-  "Id": "cc9ff8a7-08ac-4397-94d4-ff95c448a96b",
+  "Id": "ec418a75-0a0c-4912-a183-7ff97f70ffa5",
   "DllName": "HFlatOvalWeld",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\3DRefData\\SharedContent\\Bin\\Ducting\\DotNetSymbols\\Release\\HFlatOvalWeld.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T11:55:26.5583688Z"
+    "ScanDate": "2026-07-11T11:28:22.2329497Z"
   },
   "Dependencies": [
     {

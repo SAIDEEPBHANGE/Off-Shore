@@ -1,5 +1,5 @@
 {
-  "Id": "57f85011-4628-4829-871d-4be77dd99658",
+  "Id": "0b31b167-8219-4c14-bd9d-1508694f669a",
   "DllName": "SDSlotMappingRule",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\3DRefData\\SharedContent\\Bin\\StructDetail\\Rules\\Release\\SDSlotMappingRule.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T11:55:26.6079097Z"
+    "ScanDate": "2026-07-11T11:28:22.2439479Z"
   },
   "Dependencies": [
     {

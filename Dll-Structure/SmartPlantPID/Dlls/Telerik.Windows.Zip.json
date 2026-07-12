@@ -1,5 +1,5 @@
 {
-  "Id": "d0da562b-e391-428f-92d7-bce4a9cd7416",
+  "Id": "0dc86237-88cc-47e9-91e3-33de83d434a2",
   "DllName": "Telerik.Windows.Zip",
   "Version": "2018.2.619.40",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\telerik.windows.zip.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T10:26:43.0387587Z"
+    "ScanDate": "2026-07-11T10:48:24.5123232Z"
   },
   "Dependencies": [
     {

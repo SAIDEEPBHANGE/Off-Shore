@@ -1,5 +1,5 @@
 {
-  "Id": "8f0e66f0-7e9c-4630-890f-12a3847e7c5b",
+  "Id": "b9996f7a-9c4a-4057-bb54-5bf072bbc199",
   "DllName": "QueryInterpreterWrapper",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\Core\\Container\\Bin\\Assemblies\\Release\\QueryInterpreterWrapper.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T11:55:26.7189001Z"
+    "ScanDate": "2026-07-11T11:28:22.2740348Z"
   },
   "Dependencies": [
     {

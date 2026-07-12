@@ -1,5 +1,5 @@
 {
-  "Id": "5a6c425c-0c25-4d87-9b51-fb7d3e4d8de2",
+  "Id": "aade9100-e2e2-4677-8a4a-cb7ca93ffbca",
   "DllName": "DwgBatchUICommand.resources",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\Core\\Container\\Bin\\Assemblies\\Release\\en-US\\DwgBatchUICommand.resources.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T11:55:26.741476Z"
+    "ScanDate": "2026-07-11T11:28:22.276034Z"
   },
   "Dependencies": [
     {

@@ -1,5 +1,5 @@
 {
-  "Id": "4aabbffe-e2be-4af5-bb68-61ee0a2efaa0",
+  "Id": "8cfc2d52-263a-49e6-8576-6b4ce3d431d2",
   "DllName": "PDMSDatalPropExtractor",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\Core\\Container\\Bin\\Assemblies\\Release\\PDMSDatalPropExtractor.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T11:55:26.711315Z"
+    "ScanDate": "2026-07-11T11:28:22.2750345Z"
   },
   "Dependencies": [
     {

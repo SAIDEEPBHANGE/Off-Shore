@@ -1,5 +1,5 @@
 {
-  "Id": "54238ded-e27a-48ab-a7b9-96ecf585fcd6",
+  "Id": "8fe1f873-cb9d-4626-b316-688b6094521c",
   "DllName": "NSchemaGenieExportCmd.resources",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\Core\\Container\\Bin\\Assemblies\\Release\\en-US\\NSchemaGenieExportCmd.resources.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T11:55:26.7434913Z"
+    "ScanDate": "2026-07-11T11:28:22.2690202Z"
   },
   "Dependencies": [
     {

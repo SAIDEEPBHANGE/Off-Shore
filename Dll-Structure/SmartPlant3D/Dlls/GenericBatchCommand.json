@@ -1,5 +1,5 @@
 {
-  "Id": "cea4b6a6-ddc2-4830-b76e-1a064ca86f9e",
+  "Id": "e328f0bd-4551-4289-9bff-b52207a17b48",
   "DllName": "GenericBatchCommand",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\Core\\Container\\Bin\\Assemblies\\Release\\GenericBatchCommand.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T11:55:26.6919361Z"
+    "ScanDate": "2026-07-11T11:28:22.238948Z"
   },
   "Dependencies": [
     {

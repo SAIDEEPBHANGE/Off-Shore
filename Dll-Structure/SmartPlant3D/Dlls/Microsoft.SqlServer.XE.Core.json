@@ -1,5 +1,5 @@
 {
-  "Id": "edeb2756-9d82-4ff5-b190-eefc46315043",
+  "Id": "15df6603-ebd1-4604-b376-0210992a994a",
   "DllName": "Microsoft.SqlServer.XE.Core",
   "Version": "14.100.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\Core\\Container\\Bin\\Assemblies\\Release\\SMO\\14.1\\Microsoft.SqlServer.XE.Core.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T11:55:26.7558062Z"
+    "ScanDate": "2026-07-11T11:28:22.2359492Z"
   },
   "Dependencies": [
     {

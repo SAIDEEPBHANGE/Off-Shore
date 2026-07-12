@@ -1,5 +1,5 @@
 {
-  "Id": "a8040343-4396-47a2-b32c-ee15d544b6ba",
+  "Id": "117ff25e-a1b4-42bd-a8b9-43bee6a562f6",
   "DllName": "HangerFormDefinitions",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\3DRefData\\SharedContent\\Bin\\HangersAndSupports\\FormDefinitions\\Release\\HangerFormDefinitions.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T11:55:26.5780437Z"
+    "ScanDate": "2026-07-11T11:28:22.2710296Z"
   },
   "Dependencies": [
     {

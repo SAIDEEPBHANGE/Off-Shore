@@ -1,5 +1,5 @@
 {
-  "Id": "258d8fa8-ce9a-4b1b-9248-ae731f19f7c4",
+  "Id": "1ced1600-d892-47e2-9edc-564dd08cf759",
   "DllName": "Telerik.Windows.Controls.ImageEditor.Design.5.0",
   "Version": "2018.2.620.45",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\telerik.windows.controls.imageeditor.design.5.0.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T10:26:43.0387587Z"
+    "ScanDate": "2026-07-11T10:48:24.5082598Z"
   },
   "Dependencies": [
     {

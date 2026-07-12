@@ -1,5 +1,5 @@
 {
-  "Id": "87fded79-2a67-41a8-a612-22a560333796",
+  "Id": "76e4da80-aba6-4b1e-b5e1-d477e6c24042",
   "DllName": "DelayCableUpdate.resources",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\Core\\Container\\Bin\\Assemblies\\Release\\en-US\\DelayCableUpdate.resources.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T11:55:26.741476Z"
+    "ScanDate": "2026-07-11T11:28:22.2710296Z"
   },
   "Dependencies": [
     {

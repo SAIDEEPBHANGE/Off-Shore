@@ -1,5 +1,5 @@
 {
-  "Id": "d3b1948f-630e-4e45-b117-5d59bfff0aac",
+  "Id": "8686c140-a001-4aa0-b156-771f16ec0295",
   "DllName": "SmartSteel",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\3DRefData\\SharedContent\\Bin\\HangersAndSupports\\Symbols\\Release\\SmartSteel.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T11:55:26.5847831Z"
+    "ScanDate": "2026-07-11T11:28:22.2419484Z"
   },
   "Dependencies": [
     {

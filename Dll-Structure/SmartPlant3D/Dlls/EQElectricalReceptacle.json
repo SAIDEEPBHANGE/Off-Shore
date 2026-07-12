@@ -1,5 +1,5 @@
 {
-  "Id": "ed8b8088-3b55-4d53-a23c-8b736beb5fa4",
+  "Id": "0ac50c5c-7119-4820-b0df-6ca41f6bc511",
   "DllName": "EQElectricalReceptacle",
   "Version": "1.0.0.1",
   "FilePath": "D:\\Off-Share\\Smart3D\\3DRefData\\SharedContent\\Bin\\Equipment\\DotNetSymbols\\Release\\EQElectricalReceptacle.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T11:55:26.5658894Z"
+    "ScanDate": "2026-07-11T11:28:22.2329497Z"
   },
   "Dependencies": [
     {

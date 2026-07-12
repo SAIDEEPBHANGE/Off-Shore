@@ -1,5 +1,5 @@
 {
-  "Id": "a4d9aaff-876a-4590-a7dc-94353238d371",
+  "Id": "2f2bf5b5-e99f-4a52-ab25-5ef3cd243aed",
   "DllName": "MaterialDataWrapper",
   "Version": "0.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\DrawingsIsometric\\Alias\\Core Components\\MaterialDataWrapper.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T11:55:26.8289956Z"
+    "ScanDate": "2026-07-11T11:28:22.2506553Z"
   },
   "Dependencies": [
     {

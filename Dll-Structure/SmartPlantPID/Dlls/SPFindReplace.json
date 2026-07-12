@@ -1,5 +1,5 @@
 {
-  "Id": "e75eda0f-a2e2-42e5-a1bc-073f01d2272e",
+  "Id": "b1e2160e-1aaa-41c0-ae0a-8d850b52bae4",
   "DllName": "SPFindReplace",
   "Version": "9.0.0.1405",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\spfindreplace.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T10:26:43.0387587Z"
+    "ScanDate": "2026-07-11T10:48:24.5193118Z"
   },
   "Dependencies": [
     {

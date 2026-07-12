@@ -1,5 +1,5 @@
 {
-  "Id": "e329e6b6-bce8-45cf-980e-2fe28aa32c1e",
+  "Id": "1d8e654d-c14e-4679-9cad-bc66d9673658",
   "DllName": "SmrtLblAttrSvr",
   "Version": "9.0.0.1405",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\smrtlblattrsvr.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T10:26:43.0387587Z"
+    "ScanDate": "2026-07-11T10:48:24.5103255Z"
   },
   "Dependencies": [
     {

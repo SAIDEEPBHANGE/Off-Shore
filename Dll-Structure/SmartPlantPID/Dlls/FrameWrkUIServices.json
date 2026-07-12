@@ -1,5 +1,5 @@
 {
-  "Id": "ea5b56bf-1d53-4a24-9913-89ff776e327e",
+  "Id": "1fac32f4-e145-4542-8881-00fab8ef2d7b",
   "DllName": "FrameWrkUIServices",
   "Version": "9.0.0.1405",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\framewrkuiservices.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T10:26:43.032759Z"
+    "ScanDate": "2026-07-11T10:48:24.5093279Z"
   },
   "Dependencies": [
     {

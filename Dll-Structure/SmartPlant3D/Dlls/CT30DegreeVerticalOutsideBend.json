@@ -1,5 +1,5 @@
 {
-  "Id": "e1a1d637-ef78-4614-b419-8c3777d24db0",
+  "Id": "b44149ed-94a1-42e2-bbfe-63e081f558c1",
   "DllName": "CT30DegreeVerticalOutsideBend",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\3DRefData\\SharedContent\\Bin\\Electrical\\DotNetSymbols\\Release\\CT30DegreeVerticalOutsideBend.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T11:55:26.5617443Z"
+    "ScanDate": "2026-07-11T11:28:22.2462584Z"
   },
   "Dependencies": [
     {

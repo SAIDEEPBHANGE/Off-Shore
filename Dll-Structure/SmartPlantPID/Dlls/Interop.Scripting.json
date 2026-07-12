@@ -1,5 +1,5 @@
 {
-  "Id": "a55dee4d-b604-4b36-9609-91e10d4ac1ce",
+  "Id": "19959480-e4ad-4f88-92e1-3e8481b8d6c4",
   "DllName": "Interop.Scripting",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\interop.scripting.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T10:26:43.0337582Z"
+    "ScanDate": "2026-07-11T10:48:24.5133273Z"
   },
   "Dependencies": [
     {

@@ -1,5 +1,5 @@
 {
-  "Id": "7a7ed18f-e737-4b70-8142-29a5db4a0635",
+  "Id": "1c5b52d2-e1c8-45a3-a943-16f1ab650295",
   "DllName": "igrMProjInfo412",
   "Version": "10.0.0.603",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\igrMProjInfo412.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T10:26:43.032759Z"
+    "ScanDate": "2026-07-11T10:48:24.5183186Z"
   },
   "Dependencies": [
     {

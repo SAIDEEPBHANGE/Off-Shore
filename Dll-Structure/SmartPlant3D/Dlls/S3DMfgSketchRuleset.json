@@ -1,5 +1,5 @@
 {
-  "Id": "a1637081-0aa8-48a1-ba0b-0255c395c7c5",
+  "Id": "b20660e9-3727-4d22-9fc4-f3ca1e5c4469",
   "DllName": "S3DMfgSketchRuleset",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\Core\\Container\\Bin\\Assemblies\\Release\\S3DMfgSketchRuleset.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T11:55:26.7212031Z"
+    "ScanDate": "2026-07-11T11:28:22.2319505Z"
   },
   "Dependencies": [
     {

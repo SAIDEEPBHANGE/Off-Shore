@@ -1,5 +1,5 @@
 {
-  "Id": "182cd776-8592-453f-bbb1-ea39bc54bcbb",
+  "Id": "edef0a7e-17a1-4c9d-b6ec-ef5b44e386c1",
   "DllName": "TrenchCmd",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\Core\\Container\\Bin\\Assemblies\\Release\\TrenchCmd.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T11:55:26.7352734Z"
+    "ScanDate": "2026-07-11T11:28:22.2359492Z"
   },
   "Dependencies": [
     {

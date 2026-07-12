@@ -1,5 +1,5 @@
 {
-  "Id": "37b6d6b7-cbb0-4862-a0a9-d4f7cd1109c0",
+  "Id": "906ab7c7-128d-4112-97c0-d518be656eaf",
   "DllName": "RadNetFit",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\RadNetFit.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T10:26:43.0387587Z"
+    "ScanDate": "2026-07-11T10:48:24.5113244Z"
   },
   "Dependencies": [
     {

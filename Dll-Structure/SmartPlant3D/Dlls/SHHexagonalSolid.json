@@ -1,5 +1,5 @@
 {
-  "Id": "fc10b63c-bbad-4bde-85d8-0b116a34d83e",
+  "Id": "789991b0-49d4-4db7-b23a-3d3ee0bed601",
   "DllName": "SHHexagonalSolid",
   "Version": "1.0.0.1",
   "FilePath": "D:\\Off-Share\\Smart3D\\3DRefData\\SharedContent\\Bin\\Shapes\\DotNetSymbols\\Release\\SHHexagonalSolid.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T11:55:26.5991233Z"
+    "ScanDate": "2026-07-11T11:28:22.2419484Z"
   },
   "Dependencies": [
     {

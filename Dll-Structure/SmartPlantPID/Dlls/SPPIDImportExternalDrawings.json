@@ -1,5 +1,5 @@
 {
-  "Id": "6d65ea3e-4605-4989-acc7-25e3ac2c9f76",
+  "Id": "d3781194-1209-41c4-b0cd-af3aea1a992d",
   "DllName": "SPPIDImportExternalDrawings",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\SPPIDImportExternalDrawings.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T10:26:43.0387587Z"
+    "ScanDate": "2026-07-11T10:48:24.5103255Z"
   },
   "Dependencies": [
     {

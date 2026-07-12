@@ -1,5 +1,5 @@
 {
-  "Id": "55acad1d-f6d1-4214-ad65-1857f13d4413",
+  "Id": "56b6dfbe-cdcd-49f3-847a-94d87892b276",
   "DllName": "SHCircularCone",
   "Version": "1.0.0.2",
   "FilePath": "D:\\Off-Share\\Smart3D\\3DRefData\\SharedContent\\Bin\\Shapes\\DotNetSymbols\\Release\\SHCircularCone.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T11:55:26.5985668Z"
+    "ScanDate": "2026-07-11T11:28:22.276034Z"
   },
   "Dependencies": [
     {

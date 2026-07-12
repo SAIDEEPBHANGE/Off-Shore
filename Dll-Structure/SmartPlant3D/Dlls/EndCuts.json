@@ -1,5 +1,5 @@
 {
-  "Id": "1cb8879b-4381-408f-862b-1fa050032753",
+  "Id": "07c6bf34-f64d-4add-9d08-60cab3903106",
   "DllName": "EndCuts",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\3DRefData\\SharedContent\\Bin\\StructDetail\\CustomAssemblies\\Release\\EndCuts.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T11:55:26.6051649Z"
+    "ScanDate": "2026-07-11T11:28:22.2429482Z"
   },
   "Dependencies": [
     {

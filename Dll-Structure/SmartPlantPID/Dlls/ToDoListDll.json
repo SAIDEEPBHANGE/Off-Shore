@@ -1,5 +1,5 @@
 {
-  "Id": "9b51acc4-55c8-427f-b45b-15ab7413e6bd",
+  "Id": "95fd1a7c-ddb6-4b80-9382-5a0a1007ff53",
   "DllName": "ToDoListDll",
   "Version": "9.0.0.1405",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\todolistdll.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T10:26:43.0387587Z"
+    "ScanDate": "2026-07-11T10:48:24.5103255Z"
   },
   "Dependencies": [
     {

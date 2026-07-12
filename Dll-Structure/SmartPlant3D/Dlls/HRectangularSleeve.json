@@ -1,5 +1,5 @@
 {
-  "Id": "0d81cd43-d9b9-42c9-9dbc-d76a8b39ee17",
+  "Id": "8e4a94ec-a976-45dc-8723-30c9a35fef7e",
   "DllName": "HRectangularSleeve",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\3DRefData\\SharedContent\\Bin\\Ducting\\DotNetSymbols\\Release\\HRectangularSleeve.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T11:55:26.5597546Z"
+    "ScanDate": "2026-07-11T11:28:22.2472804Z"
   },
   "Dependencies": [
     {

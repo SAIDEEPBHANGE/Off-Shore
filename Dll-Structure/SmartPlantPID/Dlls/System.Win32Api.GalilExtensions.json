@@ -1,5 +1,5 @@
 {
-  "Id": "e543a284-716d-40c2-a4ae-dd44ad10f5a0",
+  "Id": "d2bb6e33-c5e6-42ab-90b5-b17d274b512f",
   "DllName": "System.Win32Api.GalilExtensions",
   "Version": "10.0.0.603",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\system.win32api.galilextensions.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T10:26:43.0387587Z"
+    "ScanDate": "2026-07-11T10:48:24.5143269Z"
   },
   "Dependencies": [
     {

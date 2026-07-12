@@ -1,5 +1,5 @@
 {
-  "Id": "14c1b57c-6a3e-478d-a269-63f223ac3775",
+  "Id": "8f4d41f4-3bef-41c2-b3c3-090ab3a11310",
   "DllName": "CommonDataHandler",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\Core\\Container\\Bin\\Assemblies\\Release\\CommonDataHandler.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T11:55:26.6724136Z"
+    "ScanDate": "2026-07-11T11:28:22.2472804Z"
   },
   "Dependencies": [
     {

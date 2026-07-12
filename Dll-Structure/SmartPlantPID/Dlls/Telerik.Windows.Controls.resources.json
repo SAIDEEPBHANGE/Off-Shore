@@ -1,5 +1,5 @@
 {
-  "Id": "a97ea339-7534-492d-9d2e-6c4a4a33eb2b",
+  "Id": "67ed9856-a448-4260-a1b1-6a22e53e7ccc",
   "DllName": "Telerik.Windows.Controls.resources",
   "Version": "2018.2.620.45",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\telerik.windows.controls.resources.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T10:26:43.0387587Z"
+    "ScanDate": "2026-07-11T10:48:24.5123232Z"
   },
   "Dependencies": [
     {

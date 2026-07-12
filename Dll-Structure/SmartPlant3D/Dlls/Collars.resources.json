@@ -1,5 +1,5 @@
 {
-  "Id": "aa4aae55-8136-459b-9d8a-9dd748e6fcbb",
+  "Id": "85507d8e-160d-4564-81e9-a756537a389f",
   "DllName": "Collars.resources",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\3DRefData\\SharedContent\\Bin\\StructDetail\\CustomAssemblies\\Release\\en-US\\Collars.resources.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T11:55:26.6079097Z"
+    "ScanDate": "2026-07-11T11:28:22.2472804Z"
   },
   "Dependencies": [
     {

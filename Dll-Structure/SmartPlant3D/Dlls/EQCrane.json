@@ -1,5 +1,5 @@
 {
-  "Id": "0c8d094b-78d7-4240-9f49-65cb1e9f8c08",
+  "Id": "b3923c06-32c9-4ddd-b088-e854db60790f",
   "DllName": "EQCrane",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\3DRefData\\SharedContent\\Bin\\Equipment\\DotNetSymbols\\Release\\EQCrane.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T11:55:26.5658894Z"
+    "ScanDate": "2026-07-11T11:28:22.2319505Z"
   },
   "Dependencies": [
     {

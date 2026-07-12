@@ -1,5 +1,5 @@
 {
-  "Id": "0555d36c-0da7-4ccc-80b5-bde488bd0ff5",
+  "Id": "d9c39eaa-f6c9-4cef-951e-a81690d32693",
   "DllName": "PDMSSP3DModelImport",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\Core\\Container\\Bin\\Assemblies\\Release\\PDMSSP3DModelImport.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T11:55:26.7119251Z"
+    "ScanDate": "2026-07-11T11:28:22.2660584Z"
   },
   "Dependencies": [
     {

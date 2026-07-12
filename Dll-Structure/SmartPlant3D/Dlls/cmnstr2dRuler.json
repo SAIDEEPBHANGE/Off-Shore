@@ -1,5 +1,5 @@
 {
-  "Id": "24c3c431-8124-4b73-9de5-e04ff9ee5312",
+  "Id": "88bd5409-ef9d-48c3-a570-8c3af22c566c",
   "DllName": "cmnstr2dRuler",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\CommonStruct\\Client\\Bin\\cmnstr2dRuler.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T11:55:26.6548107Z"
+    "ScanDate": "2026-07-11T11:28:22.2670284Z"
   },
   "Dependencies": [
     {

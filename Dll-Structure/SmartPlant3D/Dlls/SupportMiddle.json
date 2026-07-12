@@ -1,5 +1,5 @@
 {
-  "Id": "4ce6a81c-d9bc-4735-b72e-a2e6d6cdbe01",
+  "Id": "3f680c58-cd60-4b50-abce-5742e5ce1469",
   "DllName": "SupportMiddle",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\Core\\Container\\Bin\\Assemblies\\Release\\SupportMiddle.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T11:55:26.7341393Z"
+    "ScanDate": "2026-07-11T11:28:22.2429482Z"
   },
   "Dependencies": [
     {

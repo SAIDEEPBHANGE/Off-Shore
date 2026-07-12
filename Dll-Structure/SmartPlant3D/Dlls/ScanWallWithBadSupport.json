@@ -1,5 +1,5 @@
 {
-  "Id": "3aa3f4a7-de05-4eee-b64d-d3d4ee399d64",
+  "Id": "ca75b40c-bcb3-4906-876b-76a8be38b32b",
   "DllName": "ScanWallWithBadSupport",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\Core\\Container\\Bin\\Assemblies\\Release\\ScanWallWithBadSupport.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T11:55:26.7232241Z"
+    "ScanDate": "2026-07-11T11:28:22.2690202Z"
   },
   "Dependencies": [
     {

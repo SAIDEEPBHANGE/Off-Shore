@@ -1,5 +1,5 @@
 {
-  "Id": "8ef41575-9b71-47c1-be2a-8fd572db5ad5",
+  "Id": "65ced2e6-717f-46f2-9cc6-b27557ad17f7",
   "DllName": "Microsoft.SqlServer.ServiceBrokerEnum",
   "Version": "14.100.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\Core\\Container\\Bin\\Assemblies\\Release\\SMO\\14.1\\Microsoft.SqlServer.ServiceBrokerEnum.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v2.0.50727",
-    "ScanDate": "2026-06-28T11:55:26.7517989Z"
+    "ScanDate": "2026-07-11T11:28:22.2680391Z"
   },
   "Dependencies": [
     {

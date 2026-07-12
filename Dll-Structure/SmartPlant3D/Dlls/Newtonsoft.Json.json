@@ -1,5 +1,5 @@
 {
-  "Id": "b84f753d-02b7-43db-9f44-5a879cc95243",
+  "Id": "5e3931d7-02cd-48fc-8fb6-6f0226b4ded4",
   "DllName": "Newtonsoft.Json",
   "Version": "10.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\Documentation\\HelpApp\\Newtonsoft.Json.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T11:55:26.8037097Z"
+    "ScanDate": "2026-07-11T11:28:22.2647088Z"
   },
   "Dependencies": [
     {

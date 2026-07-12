@@ -1,5 +1,5 @@
 {
-  "Id": "3d005e06-42f3-4fb7-a6bb-b91f0b962b0c",
+  "Id": "0d1757f4-9924-4c7b-8668-8841c44b17e5",
   "DllName": "Telerik.Windows.Controls.PivotFieldList.Expression.Design",
   "Version": "2018.2.620.45",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\telerik.windows.controls.pivotfieldlist.expression.design.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T10:26:43.0387587Z"
+    "ScanDate": "2026-07-11T10:48:24.5193118Z"
   },
   "Dependencies": [
     {

@@ -1,5 +1,5 @@
 {
-  "Id": "953acc1f-dd29-418f-b2ef-609d362991da",
+  "Id": "5ada1ca0-f6a9-4563-a967-4e6c6c134741",
   "DllName": "DwgCheckUtility.resources",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\Core\\Container\\Bin\\Assemblies\\Release\\en-US\\DwgCheckUtility.resources.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T11:55:26.741476Z"
+    "ScanDate": "2026-07-11T11:28:22.2680391Z"
   },
   "Dependencies": [
     {

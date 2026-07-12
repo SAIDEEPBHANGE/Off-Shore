@@ -1,5 +1,5 @@
 {
-  "Id": "d6b387ee-8eb4-4cb0-98ff-755e354393b3",
+  "Id": "a3f71d8b-4259-4fa8-b6f8-adf4af832b48",
   "DllName": "StructuralAnalysisMiddle",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\Core\\Container\\Bin\\Assemblies\\Release\\StructuralAnalysisMiddle.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T11:55:26.7331132Z"
+    "ScanDate": "2026-07-11T11:28:22.238948Z"
   },
   "Dependencies": [
     {

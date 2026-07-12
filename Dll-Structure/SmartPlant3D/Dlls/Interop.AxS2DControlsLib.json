@@ -1,5 +1,5 @@
 {
-  "Id": "272e9f89-2a2c-42ed-b364-fbed11efbd07",
+  "Id": "3e4ca80f-dc1c-4328-95d8-013113b921ea",
   "DllName": "Interop.AxS2DControlsLib",
   "Version": "4.12.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\Common2D\\Rad2D\\bin\\Interop.AxS2DControlsLib.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T11:55:26.6161669Z"
+    "ScanDate": "2026-07-11T11:28:22.2647088Z"
   },
   "Dependencies": [
     {

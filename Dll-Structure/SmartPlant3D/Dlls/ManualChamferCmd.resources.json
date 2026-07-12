@@ -1,5 +1,5 @@
 {
-  "Id": "6384a2df-273d-4bb3-8d04-0f0859ba01c0",
+  "Id": "f3139a93-d5d6-45e8-ad7c-00803514d162",
   "DllName": "ManualChamferCmd.resources",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\Core\\Container\\Bin\\Assemblies\\Release\\en-US\\ManualChamferCmd.resources.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T11:55:26.7434913Z"
+    "ScanDate": "2026-07-11T11:28:22.2462584Z"
   },
   "Dependencies": [
     {

@@ -1,5 +1,5 @@
 {
-  "Id": "2130d007-77e4-4952-9f55-ce2237955609",
+  "Id": "a2b53775-187b-4bb7-9021-1ac32f711f0e",
   "DllName": "Telerik.Windows.Controls.Docking.VisualStudio.Design.4.0",
   "Version": "2018.2.620.45",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\telerik.windows.controls.docking.visualstudio.design.4.0.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T10:26:43.0387587Z"
+    "ScanDate": "2026-07-11T10:48:24.5183186Z"
   },
   "Dependencies": [
     {

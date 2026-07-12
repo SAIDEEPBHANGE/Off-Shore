@@ -1,14 +1,14 @@
 {
-  "Id": "45b3c96b-54db-4982-864f-b25c766972ae",
+  "Id": "e08eba70-cd1f-46ee-822a-fa91bbb01872",
   "DllName": "Xceed.Compression.Formats.v6.3",
   "Version": "6.3.17281.13580",
-  "FilePath": "D:\\Off-Share\\Smart3D\\Core\\Container\\Bin\\Assemblies\\Release\\Xceed.Compression.Formats.v6.3.dll",
+  "FilePath": "D:\\Off-Share\\Smart3D\\Common2D\\Rad2D\\bin\\Xceed.Compression.Formats.v6.3.dll",
   "Metadata": {
     "AssemblyName": "Xceed.Compression.Formats.v6.3",
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T11:55:26.736287Z"
+    "ScanDate": "2026-07-11T11:28:22.2730497Z"
   },
   "Dependencies": [
     {

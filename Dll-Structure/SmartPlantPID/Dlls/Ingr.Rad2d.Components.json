@@ -1,5 +1,5 @@
 {
-  "Id": "462b3d16-7a09-4c39-a04a-8962e2363c37",
+  "Id": "d6fb0571-cc9c-4d08-b5f3-aa15747ef996",
   "DllName": "Ingr.Rad2d.Components",
   "Version": "10.0.0.603",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\ingr.rad2d.components.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T10:26:43.0337582Z"
+    "ScanDate": "2026-07-11T10:48:24.5133273Z"
   },
   "Dependencies": [
     {

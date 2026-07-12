@@ -1,5 +1,5 @@
 {
-  "Id": "99a9279b-82d8-4faf-b329-f6b2063607cd",
+  "Id": "8766b1d3-ce4b-45fe-9267-335402dc6ab2",
   "DllName": "PlanningAssemblyRules",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\3DRefData\\SharedContent\\Bin\\Planning\\Rules\\Release\\PlanningAssemblyRules.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T11:55:26.5980576Z"
+    "ScanDate": "2026-07-11T11:28:22.2740348Z"
   },
   "Dependencies": [
     {

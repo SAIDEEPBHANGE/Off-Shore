@@ -1,5 +1,5 @@
 {
-  "Id": "97e3ad9b-4f6b-486d-8dbc-d9ea5c842479",
+  "Id": "eed757cb-6971-4048-ac4b-d501804eee2e",
   "DllName": "HRoundElbow",
   "Version": "1.0.0.1",
   "FilePath": "D:\\Off-Share\\Smart3D\\3DRefData\\SharedContent\\Bin\\Ducting\\DotNetSymbols\\Release\\HRoundElbow.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T11:55:26.5597546Z"
+    "ScanDate": "2026-07-11T11:28:22.2670284Z"
   },
   "Dependencies": [
     {

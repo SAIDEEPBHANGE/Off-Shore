@@ -1,5 +1,5 @@
 {
-  "Id": "bc14de3b-06e8-4476-aeba-4083e860b27d",
+  "Id": "28ac2853-f94c-4c00-85b6-f1150ef18987",
   "DllName": "Telerik.Windows.Controls.RibbonView",
   "Version": "2017.3.1018.45",
   "FilePath": "D:\\Off-Share\\Smart3D\\Documentation\\HelpApp\\Telerik.Windows.Controls.RibbonView.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T11:55:26.8218246Z"
+    "ScanDate": "2026-07-11T11:28:22.2720279Z"
   },
   "Dependencies": [
     {

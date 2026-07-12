@@ -1,5 +1,5 @@
 {
-  "Id": "6448b9e2-62ce-4cbf-a61e-d873a4af844c",
+  "Id": "979e678f-ba3e-4bd0-88ea-86a0aa4ba8e4",
   "DllName": "SPIntegrationClient",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\Core\\Container\\Bin\\Assemblies\\Release\\SPIntegrationClient.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T11:55:26.7321039Z"
+    "ScanDate": "2026-07-11T11:28:22.2690202Z"
   },
   "Dependencies": [
     {

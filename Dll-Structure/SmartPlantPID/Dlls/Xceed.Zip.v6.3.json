@@ -1,5 +1,5 @@
 {
-  "Id": "75c55f33-f2df-4fb4-b63d-68f5ed3605de",
+  "Id": "95a4ed73-88d9-4a52-bc40-f314e12e96f3",
   "DllName": "Xceed.Zip.v6.3",
   "Version": "6.3.17281.13580",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\Xceed.Zip.v6.3.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T10:26:43.0387587Z"
+    "ScanDate": "2026-07-11T10:48:24.5143269Z"
   },
   "Dependencies": [
     {

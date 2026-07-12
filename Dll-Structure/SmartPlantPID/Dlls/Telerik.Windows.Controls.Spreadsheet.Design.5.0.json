@@ -1,5 +1,5 @@
 {
-  "Id": "3f2186eb-af2f-4176-8158-2a594f3cba3b",
+  "Id": "ea4ef09b-fd9f-41d3-ac5f-52b4b88bb1e5",
   "DllName": "Telerik.Windows.Controls.Spreadsheet.Design.5.0",
   "Version": "2018.2.620.45",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\telerik.windows.controls.spreadsheet.design.5.0.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T10:26:43.0387587Z"
+    "ScanDate": "2026-07-11T10:48:24.5113244Z"
   },
   "Dependencies": [
     {

@@ -1,5 +1,5 @@
 {
-  "Id": "e142601a-c80f-4d53-b0dc-6dc074778847",
+  "Id": "389ee791-b774-4310-8189-304d2fc0368c",
   "DllName": "MiddleServiceBridge",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\Core\\Container\\Bin\\Assemblies\\Release\\MiddleServiceBridge.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T11:55:26.706206Z"
+    "ScanDate": "2026-07-11T11:28:22.2319505Z"
   },
   "Dependencies": [
     {

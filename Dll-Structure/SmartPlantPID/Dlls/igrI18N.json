@@ -1,5 +1,5 @@
 {
-  "Id": "a54254f7-73f3-4962-938a-5ad0aeafa035",
+  "Id": "d4a62bb2-6785-4a7d-bab6-72d2b43afee7",
   "DllName": "igrI18N",
   "Version": "10.0.0.603",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\igri18n.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T10:26:43.032759Z"
+    "ScanDate": "2026-07-11T10:48:24.5143269Z"
   },
   "Dependencies": [
     {

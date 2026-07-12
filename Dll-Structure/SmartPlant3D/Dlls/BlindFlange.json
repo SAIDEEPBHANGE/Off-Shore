@@ -1,5 +1,5 @@
 {
-  "Id": "7d5dffd3-c5a2-4ee6-9ea5-e24f0288aa5e",
+  "Id": "c5153d49-6d50-4347-8a7a-abeee406d44b",
   "DllName": "BlindFlange",
   "Version": "1.0.0.1",
   "FilePath": "D:\\Off-Share\\Smart3D\\3DRefData\\SharedContent\\Bin\\Piping\\DotNetSymbols\\Release\\BlindFlange.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T11:55:26.5921028Z"
+    "ScanDate": "2026-07-11T11:28:22.2409488Z"
   },
   "Dependencies": [
     {

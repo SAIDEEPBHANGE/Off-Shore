@@ -1,5 +1,5 @@
 {
-  "Id": "de6269f1-8da5-4591-bbc1-2a987e44f600",
+  "Id": "228b2415-5042-42c6-be0e-1f986f07f0ab",
   "DllName": "HoleTraceCustomAssemblies.resources",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\3DRefData\\SharedContent\\Bin\\HoleMgmt\\CustomAssemblies\\Release\\en-US\\HoleTraceCustomAssemblies.resources.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T11:55:26.5893268Z"
+    "ScanDate": "2026-07-11T11:28:22.2319505Z"
   },
   "Dependencies": [
     {

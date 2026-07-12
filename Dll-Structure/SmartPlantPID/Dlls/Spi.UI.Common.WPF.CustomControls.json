@@ -1,5 +1,5 @@
 {
-  "Id": "c2cb2274-8ea5-459a-b578-b8bb364b9e47",
+  "Id": "5212b137-7b13-441f-b05a-c48d7892a1ff",
   "DllName": "Spi.UI.Common.WPF.CustomControls",
   "Version": "2.2.0.4",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\spi.ui.common.wpf.customcontrols.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T10:26:43.0387587Z"
+    "ScanDate": "2026-07-11T10:48:24.5123232Z"
   },
   "Dependencies": [
     {

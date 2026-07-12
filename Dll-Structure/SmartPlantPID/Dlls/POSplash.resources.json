@@ -1,5 +1,5 @@
 {
-  "Id": "d2d3743c-3fe5-49c5-82f1-78c5f9057c16",
+  "Id": "b8ee8d2a-1cd5-4bef-ac2f-51c70e213c42",
   "DllName": "POSplash.resources",
   "Version": "9.0.0.1405",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\Languages\\en-US\\posplash.resources.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T10:26:43.0387587Z"
+    "ScanDate": "2026-07-11T10:48:24.5153254Z"
   },
   "Dependencies": [
     {

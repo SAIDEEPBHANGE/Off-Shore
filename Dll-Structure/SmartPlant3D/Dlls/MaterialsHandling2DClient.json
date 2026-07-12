@@ -1,5 +1,5 @@
 {
-  "Id": "d8532d64-12b4-4761-bebc-d5c79fa1ab18",
+  "Id": "fefb94a4-ae81-445e-a640-24ea7a9e962c",
   "DllName": "MaterialsHandling2DClient",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\Core\\Container\\Bin\\Assemblies\\Release\\MaterialsHandling2DClient.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T11:55:26.703457Z"
+    "ScanDate": "2026-07-11T11:28:22.2597092Z"
   },
   "Dependencies": [
     {

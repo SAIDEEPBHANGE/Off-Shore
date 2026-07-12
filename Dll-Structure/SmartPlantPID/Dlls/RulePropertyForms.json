@@ -1,5 +1,5 @@
 {
-  "Id": "12635cd9-2ce6-4a3e-92bd-0fdad2012477",
+  "Id": "20ae977e-da33-4e4f-92a1-a8f35666d3ea",
   "DllName": "RulePropertyForms",
   "Version": "9.0.0.1405",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\rulepropertyforms.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T10:26:43.0387587Z"
+    "ScanDate": "2026-07-11T10:48:24.5123232Z"
   },
   "Dependencies": [
     {

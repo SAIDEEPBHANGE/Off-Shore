@@ -1,5 +1,5 @@
 {
-  "Id": "cf48cd5c-4380-48dc-a36d-00b827560652",
+  "Id": "69dfdd5b-c2c2-485e-bfef-9121ac91f1de",
   "DllName": "Microsoft.SqlServer.Management.SmoMetadataProvider",
   "Version": "14.100.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\Core\\Container\\Bin\\Assemblies\\Release\\SMO\\14.1\\Microsoft.SqlServer.Management.SmoMetadataProvider.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v2.0.50727",
-    "ScanDate": "2026-06-28T11:55:26.7505466Z"
+    "ScanDate": "2026-07-11T11:28:22.2627089Z"
   },
   "Dependencies": [
     {

@@ -1,5 +1,5 @@
 {
-  "Id": "33bc6f05-7b9f-43f3-be5f-6ce80b5a3b33",
+  "Id": "db328f0d-e716-41ef-9a6c-1633b921bd77",
   "DllName": "ISPDDBroker",
   "Version": "10.0.0.603",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\ispddbroker.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T10:26:43.0337582Z"
+    "ScanDate": "2026-07-11T10:48:24.5103255Z"
   },
   "Dependencies": [
     {

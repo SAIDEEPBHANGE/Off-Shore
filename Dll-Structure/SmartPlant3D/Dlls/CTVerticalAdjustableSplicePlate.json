@@ -1,5 +1,5 @@
 {
-  "Id": "77b267d2-b77b-4f4c-beb0-edb11e0bfe23",
+  "Id": "0ca9d011-5b89-4d02-8ce1-392754213e8c",
   "DllName": "CTVerticalAdjustableSplicePlate",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\3DRefData\\SharedContent\\Bin\\Electrical\\DotNetSymbols\\Release\\CTVerticalAdjustableSplicePlate.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T11:55:26.5617443Z"
+    "ScanDate": "2026-07-11T11:28:22.2637085Z"
   },
   "Dependencies": [
     {

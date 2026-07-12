@@ -1,5 +1,5 @@
 {
-  "Id": "aba3b74b-90c6-4e70-a1c4-d3df9143a1c8",
+  "Id": "a79ee4b4-190a-4079-96f3-f1b04dfc29c6",
   "DllName": "SPPIDDwgProcess",
   "Version": "9.0.0.1405",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\sppiddwgprocess.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T10:26:43.0387587Z"
+    "ScanDate": "2026-07-11T10:48:24.5143269Z"
   },
   "Dependencies": [
     {

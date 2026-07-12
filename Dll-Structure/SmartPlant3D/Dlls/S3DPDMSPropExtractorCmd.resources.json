@@ -1,5 +1,5 @@
 {
-  "Id": "37031b70-d29c-4206-bf1d-db4bfa6c4f95",
+  "Id": "0bc5d221-e2c4-4331-a100-3983a5a58367",
   "DllName": "S3DPDMSPropExtractorCmd.resources",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\Core\\Container\\Bin\\Assemblies\\Release\\en-US\\S3DPDMSPropExtractorCmd.resources.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T11:55:26.7444785Z"
+    "ScanDate": "2026-07-11T11:28:22.2720279Z"
   },
   "Dependencies": [
     {

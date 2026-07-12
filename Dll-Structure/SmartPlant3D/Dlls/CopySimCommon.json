@@ -1,5 +1,5 @@
 {
-  "Id": "a1eed798-b7f8-482d-bdd2-2259081c6af1",
+  "Id": "14da0f56-9a46-4b25-9d74-fc2053259b28",
   "DllName": "CopySimCommon",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\CopyByFamily\\Assemblies\\Release\\CopySimCommon.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T11:55:26.6578656Z"
+    "ScanDate": "2026-07-11T11:28:22.2740348Z"
   },
   "Dependencies": [
     {

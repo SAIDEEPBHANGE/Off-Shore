@@ -1,14 +1,14 @@
 {
-  "Id": "4e3e4cc4-f118-4837-b23f-2791813802a8",
+  "Id": "33fa62fb-d059-4f7c-88a4-96041bd727eb",
   "DllName": "Telerik.Windows.Documents.Spreadsheet",
-  "Version": "2017.3.1010.40",
-  "FilePath": "D:\\Off-Share\\Smart3D\\Documentation\\HelpApp\\Telerik.Windows.Documents.Spreadsheet.dll",
+  "Version": "2018.1.220.40",
+  "FilePath": "D:\\Off-Share\\Smart3D\\Core\\Container\\Bin\\SxS\\Telerik\\Telerik.Windows.Documents.Spreadsheet.dll",
   "Metadata": {
     "AssemblyName": "Telerik.Windows.Documents.Spreadsheet",
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T11:55:26.8289956Z"
+    "ScanDate": "2026-07-11T11:28:22.2506553Z"
   },
   "Dependencies": [
     {
@@ -19,7 +19,7 @@
     },
     {
       "AssemblyName": "Telerik.Windows.Documents.Core",
-      "Version": "2017.3.1010.40",
+      "Version": "2018.1.220.40",
       "IsLocalDll": false,
       "ReferencedJsonFile": null
     },
@@ -24286,38 +24286,6 @@
       "ImplementedInterfaces": [],
       "Fields": [
         {
-          "Name": "stSuffix",
-          "Type": "System.String",
-          "IsPublic": false,
-          "IsStatic": true,
-          "IsReadonly": false,
-          "Attributes": []
-        },
-        {
-          "Name": "ndSuffix",
-          "Type": "System.String",
-          "IsPublic": false,
-          "IsStatic": true,
-          "IsReadonly": false,
-          "Attributes": []
-        },
-        {
-          "Name": "rdSuffix",
-          "Type": "System.String",
-          "IsPublic": false,
-          "IsStatic": true,
-          "IsReadonly": false,
-          "Attributes": []
-        },
-        {
-          "Name": "thSuffix",
-          "Type": "System.String",
-          "IsPublic": false,
-          "IsStatic": true,
-          "IsReadonly": false,
-          "Attributes": []
-        },
-        {
           "Name": "RuleName",
           "Type": "System.String",
           "IsPublic": false,
@@ -24344,14 +24312,6 @@
         {
           "Name": "AllowReversingBelowLowerBound",
           "Type": "System.Boolean",
-          "IsPublic": false,
-          "IsStatic": true,
-          "IsReadonly": true,
-          "Attributes": []
-        },
-        {
-          "Name": "ordinalSuffixes",
-          "Type": "System.Collections.Generic.List\u00601\u003CSystem.String\u003E",
           "IsPublic": false,
           "IsStatic": true,
           "IsReadonly": true,
@@ -71330,19 +71290,19 @@
           "Attributes": []
         },
         {
-          "Name": "formatProviders",
-          "Type": "System.Collections.Generic.List\u00601\u003CTelerik.Windows.Documents.Spreadsheet.FormatProviders.IWorkbookFormatProvider\u003E",
+          "Name": "supportedExtensions",
+          "Type": "System.Collections.Generic.List\u00601\u003CSystem.String\u003E",
           "IsPublic": false,
           "IsStatic": false,
           "IsReadonly": true,
           "Attributes": []
         },
         {
-          "Name": "CS$\u003C\u003E9__CachedAnonymousMethodDelegate1",
-          "Type": "System.Func\u00602\u003CTelerik.Windows.Documents.Spreadsheet.FormatProviders.IWorkbookFormatProvider,System.Collections.Generic.IEnumerable\u00601\u003CSystem.String\u003E\u003E",
+          "Name": "namesToFormatProviders",
+          "Type": "System.Collections.Generic.Dictionary\u00602\u003CSystem.String,Telerik.Windows.Documents.Spreadsheet.FormatProviders.IWorkbookFormatProvider\u003E",
           "IsPublic": false,
-          "IsStatic": true,
-          "IsReadonly": false,
+          "IsStatic": false,
+          "IsReadonly": true,
           "Attributes": []
         }
       ],
@@ -71370,27 +71330,6 @@
           "Attributes": []
         },
         {
-          "Name": "GetSupportedExtensions",
-          "ReturnType": "System.Collections.Generic.IEnumerable\u00601\u003CSystem.String\u003E",
-          "IsStatic": true,
-          "IsPublic": false,
-          "IsVirtual": false,
-          "IsAbstract": false,
-          "IsConstructor": false,
-          "Parameters": [
-            {
-              "Name": "formatProviders",
-              "Type": "System.Collections.Generic.IEnumerable\u00601\u003CTelerik.Windows.Documents.Spreadsheet.FormatProviders.IWorkbookFormatProvider\u003E",
-              "IsOptional": false,
-              "DefaultValue": null,
-              "IsOut": false,
-              "IsRef": false,
-              "Attributes": []
-            }
-          ],
-          "Attributes": []
-        },
-        {
           "Name": "InitBuiltInProviders",
           "ReturnType": "System.Void",
           "IsStatic": false,
@@ -71404,22 +71343,12 @@
         {
           "Name": "GetSupportedExtensionsInternal",
           "ReturnType": "System.Collections.Generic.IEnumerable\u00601\u003CSystem.String\u003E",
-          "IsStatic": true,
+          "IsStatic": false,
           "IsPublic": false,
           "IsVirtual": false,
           "IsAbstract": false,
           "IsConstructor": false,
-          "Parameters": [
-            {
-              "Name": "formatProviders",
-              "Type": "System.Collections.Generic.IEnumerable\u00601\u003CTelerik.Windows.Documents.Spreadsheet.FormatProviders.IWorkbookFormatProvider\u003E",
-              "IsOptional": false,
-              "DefaultValue": null,
-              "IsOut": false,
-              "IsRef": false,
-              "Attributes": []
-            }
-          ],
+          "Parameters": [],
           "Attributes": []
         },
         {
@@ -71446,7 +71375,7 @@
         {
           "Name": "GetProviderByExtensionInternal",
           "ReturnType": "Telerik.Windows.Documents.Spreadsheet.FormatProviders.IWorkbookFormatProvider",
-          "IsStatic": true,
+          "IsStatic": false,
           "IsPublic": false,
           "IsVirtual": false,
           "IsAbstract": false,
@@ -71455,15 +71384,6 @@
             {
               "Name": "extension",
               "Type": "System.String",
-              "IsOptional": false,
-              "DefaultValue": null,
-              "IsOut": false,
-              "IsRef": false,
-              "Attributes": []
-            },
-            {
-              "Name": "formatProviders",
-              "Type": "System.Collections.Generic.IEnumerable\u00601\u003CTelerik.Windows.Documents.Spreadsheet.FormatProviders.IWorkbookFormatProvider\u003E",
               "IsOptional": false,
               "DefaultValue": null,
               "IsOut": false,
@@ -71516,24 +71436,14 @@
           "Attributes": []
         },
         {
-          "Name": "RemoveFormatProviderByName",
+          "Name": "InvalidateSupportedExtensions",
           "ReturnType": "System.Void",
           "IsStatic": false,
           "IsPublic": false,
           "IsVirtual": false,
           "IsAbstract": false,
           "IsConstructor": false,
-          "Parameters": [
-            {
-              "Name": "name",
-              "Type": "System.String",
-              "IsOptional": false,
-              "DefaultValue": null,
-              "IsOut": false,
-              "IsRef": false,
-              "Attributes": []
-            }
-          ],
+          "Parameters": [],
           "Attributes": []
         },
         {
@@ -71662,45 +71572,6 @@
           "Attributes": []
         },
         {
-          "Name": "Import",
-          "ReturnType": "Telerik.Windows.Documents.Spreadsheet.Model.Workbook",
-          "IsStatic": true,
-          "IsPublic": true,
-          "IsVirtual": false,
-          "IsAbstract": false,
-          "IsConstructor": false,
-          "Parameters": [
-            {
-              "Name": "extension",
-              "Type": "System.String",
-              "IsOptional": false,
-              "DefaultValue": null,
-              "IsOut": false,
-              "IsRef": false,
-              "Attributes": []
-            },
-            {
-              "Name": "input",
-              "Type": "System.IO.Stream",
-              "IsOptional": false,
-              "DefaultValue": null,
-              "IsOut": false,
-              "IsRef": false,
-              "Attributes": []
-            },
-            {
-              "Name": "formatProviders",
-              "Type": "System.Collections.Generic.IEnumerable\u00601\u003CTelerik.Windows.Documents.Spreadsheet.FormatProviders.IWorkbookFormatProvider\u003E",
-              "IsOptional": false,
-              "DefaultValue": null,
-              "IsOut": false,
-              "IsRef": false,
-              "Attributes": []
-            }
-          ],
-          "Attributes": []
-        },
-        {
           "Name": "Export",
           "ReturnType": "System.Void",
           "IsStatic": true,
@@ -71730,75 +71601,6 @@
             {
               "Name": "output",
               "Type": "System.IO.Stream",
-              "IsOptional": false,
-              "DefaultValue": null,
-              "IsOut": false,
-              "IsRef": false,
-              "Attributes": []
-            }
-          ],
-          "Attributes": []
-        },
-        {
-          "Name": "Export",
-          "ReturnType": "System.Void",
-          "IsStatic": true,
-          "IsPublic": true,
-          "IsVirtual": false,
-          "IsAbstract": false,
-          "IsConstructor": false,
-          "Parameters": [
-            {
-              "Name": "workbook",
-              "Type": "Telerik.Windows.Documents.Spreadsheet.Model.Workbook",
-              "IsOptional": false,
-              "DefaultValue": null,
-              "IsOut": false,
-              "IsRef": false,
-              "Attributes": []
-            },
-            {
-              "Name": "extension",
-              "Type": "System.String",
-              "IsOptional": false,
-              "DefaultValue": null,
-              "IsOut": false,
-              "IsRef": false,
-              "Attributes": []
-            },
-            {
-              "Name": "output",
-              "Type": "System.IO.Stream",
-              "IsOptional": false,
-              "DefaultValue": null,
-              "IsOut": false,
-              "IsRef": false,
-              "Attributes": []
-            },
-            {
-              "Name": "formatProviders",
-              "Type": "System.Collections.Generic.IEnumerable\u00601\u003CTelerik.Windows.Documents.Spreadsheet.FormatProviders.IWorkbookFormatProvider\u003E",
-              "IsOptional": false,
-              "DefaultValue": null,
-              "IsOut": false,
-              "IsRef": false,
-              "Attributes": []
-            }
-          ],
-          "Attributes": []
-        },
-        {
-          "Name": "\u003CGetSupportedExtensionsInternal\u003Eb__0",
-          "ReturnType": "System.Collections.Generic.IEnumerable\u00601\u003CSystem.String\u003E",
-          "IsStatic": true,
-          "IsPublic": false,
-          "IsVirtual": false,
-          "IsAbstract": false,
-          "IsConstructor": false,
-          "Parameters": [
-            {
-              "Name": "p",
-              "Type": "Telerik.Windows.Documents.Spreadsheet.FormatProviders.IWorkbookFormatProvider",
               "IsOptional": false,
               "DefaultValue": null,
               "IsOut": false,
@@ -261093,6 +260895,38 @@
       "ImplementedInterfaces": [],
       "Fields": [
         {
+          "Name": "stSuffix",
+          "Type": "System.String",
+          "IsPublic": false,
+          "IsStatic": true,
+          "IsReadonly": false,
+          "Attributes": []
+        },
+        {
+          "Name": "ndSuffix",
+          "Type": "System.String",
+          "IsPublic": false,
+          "IsStatic": true,
+          "IsReadonly": false,
+          "Attributes": []
+        },
+        {
+          "Name": "rdSuffix",
+          "Type": "System.String",
+          "IsPublic": false,
+          "IsStatic": true,
+          "IsReadonly": false,
+          "Attributes": []
+        },
+        {
+          "Name": "thSuffix",
+          "Type": "System.String",
+          "IsPublic": false,
+          "IsStatic": true,
+          "IsReadonly": false,
+          "Attributes": []
+        },
+        {
           "Name": "RuleName",
           "Type": "System.String",
           "IsPublic": false,
@@ -261119,6 +260953,14 @@
         {
           "Name": "AllowReversingBelowLowerBound",
           "Type": "System.Boolean",
+          "IsPublic": false,
+          "IsStatic": true,
+          "IsReadonly": true,
+          "Attributes": []
+        },
+        {
+          "Name": "ordinalSuffixes",
+          "Type": "System.Collections.Generic.List\u00601\u003CSystem.String\u003E",
           "IsPublic": false,
           "IsStatic": true,
           "IsReadonly": true,
@@ -308097,19 +307939,19 @@
           "Attributes": []
         },
         {
-          "Name": "supportedExtensions",
-          "Type": "System.Collections.Generic.List\u00601\u003CSystem.String\u003E",
+          "Name": "formatProviders",
+          "Type": "System.Collections.Generic.List\u00601\u003CTelerik.Windows.Documents.Spreadsheet.FormatProviders.IWorkbookFormatProvider\u003E",
           "IsPublic": false,
           "IsStatic": false,
           "IsReadonly": true,
           "Attributes": []
         },
         {
-          "Name": "namesToFormatProviders",
-          "Type": "System.Collections.Generic.Dictionary\u00602\u003CSystem.String,Telerik.Windows.Documents.Spreadsheet.FormatProviders.IWorkbookFormatProvider\u003E",
+          "Name": "CS$\u003C\u003E9__CachedAnonymousMethodDelegate1",
+          "Type": "System.Func\u00602\u003CTelerik.Windows.Documents.Spreadsheet.FormatProviders.IWorkbookFormatProvider,System.Collections.Generic.IEnumerable\u00601\u003CSystem.String\u003E\u003E",
           "IsPublic": false,
-          "IsStatic": false,
-          "IsReadonly": true,
+          "IsStatic": true,
+          "IsReadonly": false,
           "Attributes": []
         }
       ],
@@ -308137,6 +307979,27 @@
           "Attributes": []
         },
         {
+          "Name": "GetSupportedExtensions",
+          "ReturnType": "System.Collections.Generic.IEnumerable\u00601\u003CSystem.String\u003E",
+          "IsStatic": true,
+          "IsPublic": false,
+          "IsVirtual": false,
+          "IsAbstract": false,
+          "IsConstructor": false,
+          "Parameters": [
+            {
+              "Name": "formatProviders",
+              "Type": "System.Collections.Generic.IEnumerable\u00601\u003CTelerik.Windows.Documents.Spreadsheet.FormatProviders.IWorkbookFormatProvider\u003E",
+              "IsOptional": false,
+              "DefaultValue": null,
+              "IsOut": false,
+              "IsRef": false,
+              "Attributes": []
+            }
+          ],
+          "Attributes": []
+        },
+        {
           "Name": "InitBuiltInProviders",
           "ReturnType": "System.Void",
           "IsStatic": false,
@@ -308150,12 +308013,22 @@
         {
           "Name": "GetSupportedExtensionsInternal",
           "ReturnType": "System.Collections.Generic.IEnumerable\u00601\u003CSystem.String\u003E",
-          "IsStatic": false,
+          "IsStatic": true,
           "IsPublic": false,
           "IsVirtual": false,
           "IsAbstract": false,
           "IsConstructor": false,
-          "Parameters": [],
+          "Parameters": [
+            {
+              "Name": "formatProviders",
+              "Type": "System.Collections.Generic.IEnumerable\u00601\u003CTelerik.Windows.Documents.Spreadsheet.FormatProviders.IWorkbookFormatProvider\u003E",
+              "IsOptional": false,
+              "DefaultValue": null,
+              "IsOut": false,
+              "IsRef": false,
+              "Attributes": []
+            }
+          ],
           "Attributes": []
         },
         {
@@ -308182,7 +308055,7 @@
         {
           "Name": "GetProviderByExtensionInternal",
           "ReturnType": "Telerik.Windows.Documents.Spreadsheet.FormatProviders.IWorkbookFormatProvider",
-          "IsStatic": false,
+          "IsStatic": true,
           "IsPublic": false,
           "IsVirtual": false,
           "IsAbstract": false,
@@ -308191,6 +308064,15 @@
             {
               "Name": "extension",
               "Type": "System.String",
+              "IsOptional": false,
+              "DefaultValue": null,
+              "IsOut": false,
+              "IsRef": false,
+              "Attributes": []
+            },
+            {
+              "Name": "formatProviders",
+              "Type": "System.Collections.Generic.IEnumerable\u00601\u003CTelerik.Windows.Documents.Spreadsheet.FormatProviders.IWorkbookFormatProvider\u003E",
               "IsOptional": false,
               "DefaultValue": null,
               "IsOut": false,
@@ -308243,14 +308125,24 @@
           "Attributes": []
         },
         {
-          "Name": "InvalidateSupportedExtensions",
+          "Name": "RemoveFormatProviderByName",
           "ReturnType": "System.Void",
           "IsStatic": false,
           "IsPublic": false,
           "IsVirtual": false,
           "IsAbstract": false,
           "IsConstructor": false,
-          "Parameters": [],
+          "Parameters": [
+            {
+              "Name": "name",
+              "Type": "System.String",
+              "IsOptional": false,
+              "DefaultValue": null,
+              "IsOut": false,
+              "IsRef": false,
+              "Attributes": []
+            }
+          ],
           "Attributes": []
         },
         {
@@ -308379,6 +308271,45 @@
           "Attributes": []
         },
         {
+          "Name": "Import",
+          "ReturnType": "Telerik.Windows.Documents.Spreadsheet.Model.Workbook",
+          "IsStatic": true,
+          "IsPublic": true,
+          "IsVirtual": false,
+          "IsAbstract": false,
+          "IsConstructor": false,
+          "Parameters": [
+            {
+              "Name": "extension",
+              "Type": "System.String",
+              "IsOptional": false,
+              "DefaultValue": null,
+              "IsOut": false,
+              "IsRef": false,
+              "Attributes": []
+            },
+            {
+              "Name": "input",
+              "Type": "System.IO.Stream",
+              "IsOptional": false,
+              "DefaultValue": null,
+              "IsOut": false,
+              "IsRef": false,
+              "Attributes": []
+            },
+            {
+              "Name": "formatProviders",
+              "Type": "System.Collections.Generic.IEnumerable\u00601\u003CTelerik.Windows.Documents.Spreadsheet.FormatProviders.IWorkbookFormatProvider\u003E",
+              "IsOptional": false,
+              "DefaultValue": null,
+              "IsOut": false,
+              "IsRef": false,
+              "Attributes": []
+            }
+          ],
+          "Attributes": []
+        },
+        {
           "Name": "Export",
           "ReturnType": "System.Void",
           "IsStatic": true,
@@ -308408,6 +308339,75 @@
             {
               "Name": "output",
               "Type": "System.IO.Stream",
+              "IsOptional": false,
+              "DefaultValue": null,
+              "IsOut": false,
+              "IsRef": false,
+              "Attributes": []
+            }
+          ],
+          "Attributes": []
+        },
+        {
+          "Name": "Export",
+          "ReturnType": "System.Void",
+          "IsStatic": true,
+          "IsPublic": true,
+          "IsVirtual": false,
+          "IsAbstract": false,
+          "IsConstructor": false,
+          "Parameters": [
+            {
+              "Name": "workbook",
+              "Type": "Telerik.Windows.Documents.Spreadsheet.Model.Workbook",
+              "IsOptional": false,
+              "DefaultValue": null,
+              "IsOut": false,
+              "IsRef": false,
+              "Attributes": []
+            },
+            {
+              "Name": "extension",
+              "Type": "System.String",
+              "IsOptional": false,
+              "DefaultValue": null,
+              "IsOut": false,
+              "IsRef": false,
+              "Attributes": []
+            },
+            {
+              "Name": "output",
+              "Type": "System.IO.Stream",
+              "IsOptional": false,
+              "DefaultValue": null,
+              "IsOut": false,
+              "IsRef": false,
+              "Attributes": []
+            },
+            {
+              "Name": "formatProviders",
+              "Type": "System.Collections.Generic.IEnumerable\u00601\u003CTelerik.Windows.Documents.Spreadsheet.FormatProviders.IWorkbookFormatProvider\u003E",
+              "IsOptional": false,
+              "DefaultValue": null,
+              "IsOut": false,
+              "IsRef": false,
+              "Attributes": []
+            }
+          ],
+          "Attributes": []
+        },
+        {
+          "Name": "\u003CGetSupportedExtensionsInternal\u003Eb__0",
+          "ReturnType": "System.Collections.Generic.IEnumerable\u00601\u003CSystem.String\u003E",
+          "IsStatic": true,
+          "IsPublic": false,
+          "IsVirtual": false,
+          "IsAbstract": false,
+          "IsConstructor": false,
+          "Parameters": [
+            {
+              "Name": "p",
+              "Type": "Telerik.Windows.Documents.Spreadsheet.FormatProviders.IWorkbookFormatProvider",
               "IsOptional": false,
               "DefaultValue": null,
               "IsOut": false,

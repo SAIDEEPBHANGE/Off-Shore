@@ -1,5 +1,5 @@
 {
-  "Id": "2bc6cd28-e6ab-448d-ba58-cacd4c7910ff",
+  "Id": "eead5e65-dadf-4216-b786-d62e6a5bf736",
   "DllName": "WallOperators",
   "Version": "2.0.50727.3053",
   "FilePath": "D:\\Off-Share\\Smart3D\\SmartPlantStructure\\Symbols\\Bin\\WallOperators.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T11:55:26.8289956Z"
+    "ScanDate": "2026-07-11T11:28:22.2319505Z"
   },
   "Dependencies": [
     {

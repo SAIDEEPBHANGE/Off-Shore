@@ -1,5 +1,5 @@
 {
-  "Id": "85e811b9-99b6-492a-822d-bff40a44bfa0",
+  "Id": "e9602b4d-ba64-4756-8f1d-8af7b993db7f",
   "DllName": "Interop.JControls",
   "Version": "4.12.0.0",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\Interop.JControls.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T10:26:43.0337582Z"
+    "ScanDate": "2026-07-11T10:48:24.5103255Z"
   },
   "Dependencies": [
     {

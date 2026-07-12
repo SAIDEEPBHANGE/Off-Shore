@@ -1,5 +1,5 @@
 {
-  "Id": "3204368b-39da-4c08-9e1e-93675035fab2",
+  "Id": "b4df73b8-31cc-4e0e-b3ee-af4e6a6f7d61",
   "DllName": "UpdateClaimSymbology",
   "Version": "9.0.0.1405",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\updateclaimsymbology.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T10:26:43.0387587Z"
+    "ScanDate": "2026-07-11T10:48:24.5153254Z"
   },
   "Dependencies": [
     {

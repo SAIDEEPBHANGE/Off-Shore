@@ -1,5 +1,5 @@
 {
-  "Id": "4aea19d0-163a-4891-a7c8-afdd443d9538",
+  "Id": "e1deda51-d20b-4b69-afeb-5a1c1c1dbda0",
   "DllName": "MarineRuleWrappers",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\Core\\Container\\Bin\\Assemblies\\Release\\MarineRuleWrappers.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T11:55:26.703457Z"
+    "ScanDate": "2026-07-11T11:28:22.2627089Z"
   },
   "Dependencies": [
     {

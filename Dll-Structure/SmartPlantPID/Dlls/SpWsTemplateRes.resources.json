@@ -1,5 +1,5 @@
 {
-  "Id": "2015b92e-d06c-4b49-8f07-5f0fad1c324c",
+  "Id": "04ce4e53-a202-4379-b123-0ca8409e22d6",
   "DllName": "SpWsTemplateRes.resources",
   "Version": "10.0.0.603",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\Languages\\en-US\\spwstemplateres.resources.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T10:26:43.0387587Z"
+    "ScanDate": "2026-07-11T10:48:24.5113244Z"
   },
   "Dependencies": [
     {

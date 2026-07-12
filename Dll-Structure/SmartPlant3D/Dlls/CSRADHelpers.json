@@ -1,5 +1,5 @@
 {
-  "Id": "c902c756-3517-4f09-a213-252be3c914a0",
+  "Id": "ae8268fc-816f-47d0-b984-06a308758f44",
   "DllName": "CSRADHelpers",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\CommonShip\\Middle\\Bin\\CSRADHelpers.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T11:55:26.6548107Z"
+    "ScanDate": "2026-07-11T11:28:22.2750345Z"
   },
   "Dependencies": [
     {

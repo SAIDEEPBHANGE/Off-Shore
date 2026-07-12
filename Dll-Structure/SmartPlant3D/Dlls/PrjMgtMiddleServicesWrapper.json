@@ -1,5 +1,5 @@
 {
-  "Id": "aaef5eed-c78d-4679-b38e-16759041298f",
+  "Id": "46f5bddc-4b1d-404a-9952-b0a77513e9f5",
   "DllName": "PrjMgtMiddleServicesWrapper",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\Core\\Container\\Bin\\Assemblies\\Release\\PrjMgtMiddleServicesWrapper.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T11:55:26.7176771Z"
+    "ScanDate": "2026-07-11T11:28:22.2730497Z"
   },
   "Dependencies": [
     {

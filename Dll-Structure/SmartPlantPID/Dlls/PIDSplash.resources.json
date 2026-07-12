@@ -1,5 +1,5 @@
 {
-  "Id": "44a08929-fa2d-4493-b906-1584fc7213ec",
+  "Id": "f6c3b039-6ab4-4a40-88f6-2af2d9469105",
   "DllName": "PIDSplash.resources",
   "Version": "9.0.0.1405",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\Languages\\en-US\\pidsplash.resources.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T10:26:43.0387587Z"
+    "ScanDate": "2026-07-11T10:48:24.5183186Z"
   },
   "Dependencies": [
     {

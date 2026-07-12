@@ -1,5 +1,5 @@
 {
-  "Id": "2e9a24d5-7621-4c12-a442-d4f8c2a9a110",
+  "Id": "61e4b0a4-dfe0-4d41-ac42-211b19b86eea",
   "DllName": "DesignBasisViewer",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\Core\\Container\\Bin\\Assemblies\\Release\\DesignBasisViewer.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T11:55:26.6835333Z"
+    "ScanDate": "2026-07-11T11:28:22.2770296Z"
   },
   "Dependencies": [
     {

@@ -1,5 +1,5 @@
 {
-  "Id": "5d5a7e13-1e1b-4b4a-9e0b-9d871ca15839",
+  "Id": "d6a50bd1-1caf-4fcb-895e-34fa66faa431",
   "DllName": "IDX_NSchema",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\Core\\Container\\Bin\\Assemblies\\Release\\IDX_NSchema.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T11:55:26.6945444Z"
+    "ScanDate": "2026-07-11T11:28:22.2587099Z"
   },
   "Dependencies": [
     {

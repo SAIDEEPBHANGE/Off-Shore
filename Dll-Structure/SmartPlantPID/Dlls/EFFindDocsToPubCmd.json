@@ -1,5 +1,5 @@
 {
-  "Id": "20cb1b57-4276-44de-8e04-b3fd891c5fe4",
+  "Id": "4d5af8d0-0f6d-4731-b472-7c3d2cb8c033",
   "DllName": "EFFindDocsToPubCmd",
   "Version": "9.0.0.1405",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\effinddocstopubcmd.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T10:26:43.032759Z"
+    "ScanDate": "2026-07-11T10:48:24.5093279Z"
   },
   "Dependencies": [
     {

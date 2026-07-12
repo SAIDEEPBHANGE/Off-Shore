@@ -1,5 +1,5 @@
 {
-  "Id": "d4a04485-6547-40a8-9a39-b8c834b02483",
+  "Id": "c5eca9d7-61df-4b36-b70d-75cfdb39b12c",
   "DllName": "Telerik.Windows.Controls.EntityFramework.VisualStudio.Design.4.0",
   "Version": "2018.2.620.45",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\telerik.windows.controls.entityframework.visualstudio.design.4.0.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T10:26:43.0387587Z"
+    "ScanDate": "2026-07-11T10:48:24.5193118Z"
   },
   "Dependencies": [
     {

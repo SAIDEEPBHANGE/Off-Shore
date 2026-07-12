@@ -1,5 +1,5 @@
 {
-  "Id": "12428793-a2af-428d-b680-8e9d3968b42d",
+  "Id": "ae00bbb6-33a3-4ab7-b2ce-4498fcb953ce",
   "DllName": "PlanningMiddle",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\Core\\Container\\Bin\\Assemblies\\Release\\PlanningMiddle.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T11:55:26.7150796Z"
+    "ScanDate": "2026-07-11T11:28:22.2379481Z"
   },
   "Dependencies": [
     {

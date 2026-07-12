@@ -1,5 +1,5 @@
 {
-  "Id": "d57d3899-4f63-4960-8402-0c62407b8265",
+  "Id": "b65c9878-ec97-4d4e-b0e4-60ae07111d57",
   "DllName": "DrawingsCommandsWrappers",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\Core\\Container\\Bin\\Assemblies\\Release\\DrawingsCommandsWrappers.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T11:55:26.6874435Z"
+    "ScanDate": "2026-07-11T11:28:22.2617095Z"
   },
   "Dependencies": [
     {

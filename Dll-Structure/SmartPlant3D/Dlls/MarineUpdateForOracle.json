@@ -1,5 +1,5 @@
 {
-  "Id": "a92ba597-7d32-40a9-9d56-40429934b765",
+  "Id": "b5a34b7a-f05c-4816-bb1c-9585200f1924",
   "DllName": "MarineUpdateForOracle",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\Core\\Container\\Bin\\Assemblies\\Release\\MarineUpdateForOracle.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T11:55:26.703457Z"
+    "ScanDate": "2026-07-11T11:28:22.2680391Z"
   },
   "Dependencies": [
     {

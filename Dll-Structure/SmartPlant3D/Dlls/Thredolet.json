@@ -1,5 +1,5 @@
 {
-  "Id": "7a61f1a6-52b2-4bcc-b83b-18e1548ce73c",
+  "Id": "efd4ae62-beab-48c4-a54c-464d6e1e8ea7",
   "DllName": "Thredolet",
   "Version": "1.0.0.1",
   "FilePath": "D:\\Off-Share\\Smart3D\\3DRefData\\SharedContent\\Bin\\Piping\\DotNetSymbols\\Release\\Thredolet.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T11:55:26.5974953Z"
+    "ScanDate": "2026-07-11T11:28:22.2730497Z"
   },
   "Dependencies": [
     {

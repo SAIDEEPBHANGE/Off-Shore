@@ -1,5 +1,5 @@
 {
-  "Id": "0c26c43b-3ccb-480d-85a1-38e528d36c58",
+  "Id": "950e0340-7efb-4037-963a-fa12ac5391b6",
   "DllName": "RadNetPopMenus",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\RadNetPopMenus.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T10:26:43.0387587Z"
+    "ScanDate": "2026-07-11T10:48:24.5183186Z"
   },
   "Dependencies": [
     {

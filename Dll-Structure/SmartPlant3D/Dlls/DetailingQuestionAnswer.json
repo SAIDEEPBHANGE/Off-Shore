@@ -1,5 +1,5 @@
 {
-  "Id": "fd83b3f8-f264-4c4b-a1e9-fc620425692d",
+  "Id": "9e783167-c642-40f5-8f0e-4b8beba79f56",
   "DllName": "DetailingQuestionAnswer",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\3DRefData\\SharedContent\\Bin\\StructDetail\\CustomAssemblies\\Release\\DetailingQuestionAnswer.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T11:55:26.6051649Z"
+    "ScanDate": "2026-07-11T11:28:22.2462584Z"
   },
   "Dependencies": [
     {

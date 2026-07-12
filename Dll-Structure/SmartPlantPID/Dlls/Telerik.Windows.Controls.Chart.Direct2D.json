@@ -1,5 +1,5 @@
 {
-  "Id": "b53f35fa-f569-4410-8504-98e6c794308e",
+  "Id": "7142051b-a50b-4f8e-8775-8100193b6021",
   "DllName": "Telerik.Windows.Controls.Chart.Direct2D",
   "Version": "2018.2.620.45",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\telerik.windows.controls.chart.direct2d.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T10:26:43.0387587Z"
+    "ScanDate": "2026-07-11T10:48:24.5183186Z"
   },
   "Dependencies": [
     {

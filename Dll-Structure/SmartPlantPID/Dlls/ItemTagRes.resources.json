@@ -1,5 +1,5 @@
 {
-  "Id": "a73434d5-b8ab-4561-8fbb-9484ed0b9738",
+  "Id": "4c50da23-17e1-4a14-8144-7ef2dc3c36dd",
   "DllName": "ItemTagRes.resources",
   "Version": "9.0.0.1405",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\Languages\\en-US\\ItemTagRes.resources.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T10:26:43.0387587Z"
+    "ScanDate": "2026-07-11T10:48:24.5113244Z"
   },
   "Dependencies": [
     {

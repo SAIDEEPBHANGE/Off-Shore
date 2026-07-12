@@ -1,5 +1,5 @@
 {
-  "Id": "b4542724-b57b-4778-a620-ae1ccc780aa2",
+  "Id": "aa35d722-ee85-4229-8d0f-4cda374332cf",
   "DllName": "MaterialDataNet",
   "Version": "6.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\DrawingsIsometric\\Alias\\Core Components\\MaterialDataNet.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T11:55:26.8289956Z"
+    "ScanDate": "2026-07-11T11:28:22.2750345Z"
   },
   "Dependencies": [
     {

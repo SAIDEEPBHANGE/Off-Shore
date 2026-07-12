@@ -1,5 +1,5 @@
 {
-  "Id": "8e1b0204-9a50-4c2f-afce-b86f80073895",
+  "Id": "495a3cc4-d13b-429d-bdf8-09f158ed8c3e",
   "DllName": "igrCatalogExplorer412",
   "Version": "10.0.0.603",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\igrCatalogExplorer412.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T10:26:43.032759Z"
+    "ScanDate": "2026-07-11T10:48:24.5133273Z"
   },
   "Dependencies": [
     {

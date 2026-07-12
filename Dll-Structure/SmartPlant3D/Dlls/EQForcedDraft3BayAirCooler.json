@@ -1,5 +1,5 @@
 {
-  "Id": "8468f66e-12ff-4d71-b493-d304f707fc7d",
+  "Id": "f0c5fe9c-b6f0-4fa8-92f3-57d7c324c049",
   "DllName": "EQForcedDraft3BayAirCooler",
   "Version": "1.0.0.1",
   "FilePath": "D:\\Off-Share\\Smart3D\\3DRefData\\SharedContent\\Bin\\Equipment\\DotNetSymbols\\Release\\EQForcedDraft3BayAirCooler.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T11:55:26.5676744Z"
+    "ScanDate": "2026-07-11T11:28:22.2449482Z"
   },
   "Dependencies": [
     {

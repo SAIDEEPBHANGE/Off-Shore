@@ -1,5 +1,5 @@
 {
-  "Id": "a8dcfd31-2657-4628-932e-ab32addf9bf9",
+  "Id": "9a4c825d-db8e-4ed5-8496-fa7ea9495210",
   "DllName": "System.Win32Api.Extensions",
   "Version": "10.0.0.603",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\system.win32api.extensions.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T10:26:43.0387587Z"
+    "ScanDate": "2026-07-11T10:48:24.5093279Z"
   },
   "Dependencies": [
     {

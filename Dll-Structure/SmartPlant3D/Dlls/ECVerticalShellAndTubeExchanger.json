@@ -1,5 +1,5 @@
 {
-  "Id": "ce53f027-a25a-4aad-871d-048816e420a2",
+  "Id": "ae270653-ccbf-435f-aed9-3bb77c2c18a4",
   "DllName": "ECVerticalShellAndTubeExchanger",
   "Version": "1.0.0.1",
   "FilePath": "D:\\Off-Share\\Smart3D\\3DRefData\\SharedContent\\Bin\\EquipmentComponents\\DotNetSymbols\\Release\\ECVerticalShellAndTubeExchanger.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T11:55:26.5780437Z"
+    "ScanDate": "2026-07-11T11:28:22.2647088Z"
   },
   "Dependencies": [
     {

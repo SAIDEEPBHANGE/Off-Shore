@@ -1,5 +1,5 @@
 {
-  "Id": "9dadb6d6-0cb9-44e1-81d2-391c045efcb7",
+  "Id": "93f77e40-97bd-4afd-930d-7c1be5e3ec64",
   "DllName": "Telerik.Windows.Controls.ImageEditor.VisualStudio.Design.4.0",
   "Version": "2018.2.620.45",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\telerik.windows.controls.imageeditor.visualstudio.design.4.0.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T10:26:43.0387587Z"
+    "ScanDate": "2026-07-11T10:48:24.5153254Z"
   },
   "Dependencies": [
     {

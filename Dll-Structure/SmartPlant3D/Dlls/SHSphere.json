@@ -1,5 +1,5 @@
 {
-  "Id": "afbfd480-23c6-4c9d-816d-097845b24497",
+  "Id": "e07d5b4b-b737-4ea6-98ed-7e9564245322",
   "DllName": "SHSphere",
   "Version": "1.0.0.1",
   "FilePath": "D:\\Off-Share\\Smart3D\\3DRefData\\SharedContent\\Bin\\Shapes\\DotNetSymbols\\Release\\SHSphere.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T11:55:26.5991233Z"
+    "ScanDate": "2026-07-11T11:28:22.2379481Z"
   },
   "Dependencies": [
     {

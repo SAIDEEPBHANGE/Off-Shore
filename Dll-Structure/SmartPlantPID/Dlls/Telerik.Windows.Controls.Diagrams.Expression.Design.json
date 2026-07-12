@@ -1,5 +1,5 @@
 {
-  "Id": "1a0ad003-e6de-4fbf-91f8-a397058ecf3b",
+  "Id": "2336ee94-3633-4541-9ee4-a5c378c5d0ff",
   "DllName": "Telerik.Windows.Controls.Diagrams.Expression.Design",
   "Version": "2018.2.620.45",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\telerik.windows.controls.diagrams.expression.design.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T10:26:43.0387587Z"
+    "ScanDate": "2026-07-11T10:48:24.5183186Z"
   },
   "Dependencies": [
     {

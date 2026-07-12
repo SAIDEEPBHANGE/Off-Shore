@@ -1,5 +1,5 @@
 {
-  "Id": "53f16c62-61ee-4474-a211-19311f348a08",
+  "Id": "6c825ac4-06e3-4398-af06-a98f9fd0c9ff",
   "DllName": "HDivision2",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\3DRefData\\SharedContent\\Bin\\Ducting\\DotNetSymbols\\Release\\HDivision2.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T11:55:26.5573658Z"
+    "ScanDate": "2026-07-11T11:28:22.2472804Z"
   },
   "Dependencies": [
     {

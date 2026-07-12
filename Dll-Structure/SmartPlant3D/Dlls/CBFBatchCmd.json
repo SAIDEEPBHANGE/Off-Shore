@@ -1,5 +1,5 @@
 {
-  "Id": "fa59319a-2106-41a0-bc32-9cea8119a318",
+  "Id": "f00a7c87-290d-410e-ac82-2b13cfe8a71b",
   "DllName": "CBFBatchCmd",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\CopyByFamily\\Assemblies\\Release\\CBFBatchCmd.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T11:55:26.6578656Z"
+    "ScanDate": "2026-07-11T11:28:22.2462584Z"
   },
   "Dependencies": [
     {

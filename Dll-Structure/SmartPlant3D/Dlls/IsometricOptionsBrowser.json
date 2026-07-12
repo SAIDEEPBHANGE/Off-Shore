@@ -1,5 +1,5 @@
 {
-  "Id": "188cdf81-ab26-4245-ba20-9dc02e9ef502",
+  "Id": "f1ed1d14-5a16-478c-84c5-6599c440b21a",
   "DllName": "IsometricOptionsBrowser",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\Core\\Container\\Bin\\Assemblies\\Release\\IsometricOptionsBrowser.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T11:55:26.6945444Z"
+    "ScanDate": "2026-07-11T11:28:22.2680391Z"
   },
   "Dependencies": [
     {

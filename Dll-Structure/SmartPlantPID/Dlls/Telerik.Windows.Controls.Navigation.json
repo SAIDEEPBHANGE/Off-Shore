@@ -1,5 +1,5 @@
 {
-  "Id": "54a7a8b2-63b7-44ec-bc8b-5fcb2be39017",
+  "Id": "145dd9e8-a152-45ba-a047-60b3d3427203",
   "DllName": "Telerik.Windows.Controls.Navigation",
   "Version": "2016.1.217.40",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\SxS\\Telerik\\Telerik.Windows.Controls.Navigation.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T10:26:43.0387587Z"
+    "ScanDate": "2026-07-11T10:48:24.5193118Z"
   },
   "Dependencies": [
     {

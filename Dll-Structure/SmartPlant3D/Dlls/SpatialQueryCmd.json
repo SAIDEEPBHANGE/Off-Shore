@@ -1,5 +1,5 @@
 {
-  "Id": "76d5d52a-9c53-4b28-b9a9-b8408acb5cf1",
+  "Id": "b5d3472d-e29b-47de-807b-80d94b1c8054",
   "DllName": "SpatialQueryCmd",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\Core\\Container\\Bin\\Assemblies\\Release\\SpatialQueryCmd.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T11:55:26.7321039Z"
+    "ScanDate": "2026-07-11T11:28:22.276034Z"
   },
   "Dependencies": [
     {

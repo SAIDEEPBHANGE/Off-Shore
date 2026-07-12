@@ -1,5 +1,5 @@
 {
-  "Id": "dd8f79c2-acf2-4fec-b796-7b8b41f23818",
+  "Id": "760eccee-7a0f-496c-9e5b-ce3ae5722e62",
   "DllName": "Ingr.SPPID.EDE.BusinessLogic",
   "Version": "9.0.0.1405",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\ingr.sppid.ede.businesslogic.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T10:26:43.0337582Z"
+    "ScanDate": "2026-07-11T10:48:24.5123232Z"
   },
   "Dependencies": [
     {

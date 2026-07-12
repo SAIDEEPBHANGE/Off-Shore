@@ -1,5 +1,5 @@
 {
-  "Id": "a71ea041-7a6e-4e18-b042-e8afc7009363",
+  "Id": "44d3639d-ca60-4465-af86-1212c696cf16",
   "DllName": "CTCross",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\3DRefData\\SharedContent\\Bin\\Electrical\\DotNetSymbols\\Release\\CTCross.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T11:55:26.5617443Z"
+    "ScanDate": "2026-07-11T11:28:22.2379481Z"
   },
   "Dependencies": [
     {

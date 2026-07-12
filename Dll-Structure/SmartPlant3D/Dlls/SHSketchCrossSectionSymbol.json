@@ -1,5 +1,5 @@
 {
-  "Id": "a5fcee17-a3ae-4d0c-99d5-8506921fc669",
+  "Id": "f4ce7cfa-0f92-4e6a-ad15-bbceaf42a4e9",
   "DllName": "SHSketchCrossSectionSymbol",
   "Version": "1.0.0.1",
   "FilePath": "D:\\Off-Share\\Smart3D\\3DRefData\\SharedContent\\Bin\\Shapes\\DotNetSymbols\\Release\\SHSketchCrossSectionSymbol.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T11:55:26.5991233Z"
+    "ScanDate": "2026-07-11T11:28:22.2750345Z"
   },
   "Dependencies": [
     {

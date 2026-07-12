@@ -1,5 +1,5 @@
 {
-  "Id": "6b8c5a27-ae09-408e-a5c1-113d0243f3f9",
+  "Id": "b7c2f11c-2c41-4e26-8cf6-f68d7bd208b9",
   "DllName": "EQDouPipeExchangerAsm",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\3DRefData\\SharedContent\\Bin\\Equipment\\DotNetSymbols\\Release\\EQDouPipeExchangerAsm.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T11:55:26.5658894Z"
+    "ScanDate": "2026-07-11T11:28:22.276034Z"
   },
   "Dependencies": [
     {

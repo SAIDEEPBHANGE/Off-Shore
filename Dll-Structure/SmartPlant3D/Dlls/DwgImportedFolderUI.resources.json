@@ -1,5 +1,5 @@
 {
-  "Id": "a31d2f7d-c04d-4c1b-b327-eb8d5e87ee49",
+  "Id": "a8a1029c-0a35-4f89-9716-b9fe541738f9",
   "DllName": "DwgImportedFolderUI.resources",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\Core\\Container\\Bin\\Assemblies\\Release\\en-US\\DwgImportedFolderUI.resources.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T11:55:26.741476Z"
+    "ScanDate": "2026-07-11T11:28:22.2670284Z"
   },
   "Dependencies": [
     {

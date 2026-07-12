@@ -1,5 +1,5 @@
 {
-  "Id": "087b8273-44f4-461d-aa8c-ce0406ec07ea",
+  "Id": "d531a7da-1280-4f3f-ad63-c7c04e1134f9",
   "DllName": "Telerik.Windows.Documents.Design.5.0",
   "Version": "2018.2.620.45",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\telerik.windows.documents.design.5.0.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T10:26:43.0387587Z"
+    "ScanDate": "2026-07-11T10:48:24.5113244Z"
   },
   "Dependencies": [
     {

@@ -1,5 +1,5 @@
 {
-  "Id": "f4c639a7-c483-4c16-8240-15eb13782990",
+  "Id": "f0d6f3be-fca5-473b-b6e9-d6e73715ede5",
   "DllName": "SPVariantDataTable",
   "Version": "10.0.0.603",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\SPVariantDataTable.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T10:26:43.0387587Z"
+    "ScanDate": "2026-07-11T10:48:24.5133273Z"
   },
   "Dependencies": [
     {

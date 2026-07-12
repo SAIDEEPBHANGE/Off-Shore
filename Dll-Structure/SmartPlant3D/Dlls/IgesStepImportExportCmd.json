@@ -1,5 +1,5 @@
 {
-  "Id": "aa1766db-0ae5-49f6-b7d9-0c77f0d2685d",
+  "Id": "22ba7b8f-8357-4107-bd66-aec5d39075c6",
   "DllName": "IgesStepImportExportCmd",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\Core\\Container\\Bin\\Assemblies\\Release\\IgesStepImportExportCmd.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T11:55:26.6945444Z"
+    "ScanDate": "2026-07-11T11:28:22.2506553Z"
   },
   "Dependencies": [
     {

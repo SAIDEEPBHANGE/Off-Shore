@@ -1,5 +1,5 @@
 {
-  "Id": "a9cb262f-e8f1-4783-9bea-5bc15f033a53",
+  "Id": "8b27be6d-7896-4f6c-a07f-1fb4c67db4ea",
   "DllName": "SPCompare",
   "Version": "9.0.0.1405",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\spcompare.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T10:26:43.0387587Z"
+    "ScanDate": "2026-07-11T10:48:24.5123232Z"
   },
   "Dependencies": [
     {

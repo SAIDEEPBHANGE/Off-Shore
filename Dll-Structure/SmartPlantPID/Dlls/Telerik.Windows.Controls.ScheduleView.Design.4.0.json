@@ -1,5 +1,5 @@
 {
-  "Id": "98405674-6285-43ab-ae2b-e59a3a7708f3",
+  "Id": "bfa879a5-0c47-4f3b-b393-76c3d92fe109",
   "DllName": "Telerik.Windows.Controls.ScheduleView.Design.4.0",
   "Version": "2018.2.620.45",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\telerik.windows.controls.scheduleview.design.4.0.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T10:26:43.0387587Z"
+    "ScanDate": "2026-07-11T10:48:24.5113244Z"
   },
   "Dependencies": [
     {

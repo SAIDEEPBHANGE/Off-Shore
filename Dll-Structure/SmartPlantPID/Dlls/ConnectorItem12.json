@@ -1,5 +1,5 @@
 {
-  "Id": "0caedfe3-7450-4d71-ad04-07b37711180a",
+  "Id": "7093e6fd-5594-400f-9b44-610cc2783f38",
   "DllName": "ConnectorItem12",
   "Version": "9.0.0.1405",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\connectoritem12.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T10:26:43.0317595Z"
+    "ScanDate": "2026-07-11T10:48:24.5183186Z"
   },
   "Dependencies": [
     {

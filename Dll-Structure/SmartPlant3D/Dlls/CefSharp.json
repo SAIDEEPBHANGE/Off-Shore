@@ -1,5 +1,5 @@
 {
-  "Id": "9ac877d6-07ad-4da9-8d8b-593bfb377a52",
+  "Id": "8a663930-7446-4aa8-86b2-bd836327b6dc",
   "DllName": "CefSharp",
   "Version": "53.0.1.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\Documentation\\HelpApp\\CefSharp.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T11:55:26.7967019Z"
+    "ScanDate": "2026-07-11T11:28:22.2720279Z"
   },
   "Dependencies": [
     {

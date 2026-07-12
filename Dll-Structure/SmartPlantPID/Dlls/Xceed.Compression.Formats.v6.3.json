@@ -1,5 +1,5 @@
 {
-  "Id": "7e2d16b0-ed5e-4ec6-a2b9-22801cfc07fc",
+  "Id": "136502c4-6498-46f1-87bb-dcc53dd90344",
   "DllName": "Xceed.Compression.Formats.v6.3",
   "Version": "6.3.17281.13580",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\Xceed.Compression.Formats.v6.3.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T10:26:43.0387587Z"
+    "ScanDate": "2026-07-11T10:48:24.5093279Z"
   },
   "Dependencies": [
     {

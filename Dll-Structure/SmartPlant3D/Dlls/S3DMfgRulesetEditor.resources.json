@@ -1,5 +1,5 @@
 {
-  "Id": "343fb82f-6eda-4e9f-b0f2-7100be852da4",
+  "Id": "ec405e30-8d2a-4c7f-b95e-5a8617a66cb9",
   "DllName": "S3DMfgRulesetEditor.resources",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\Core\\Container\\Bin\\Assemblies\\Release\\en-US\\S3DMfgRulesetEditor.resources.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T11:55:26.7444785Z"
+    "ScanDate": "2026-07-11T11:28:22.2399485Z"
   },
   "Dependencies": [
     {

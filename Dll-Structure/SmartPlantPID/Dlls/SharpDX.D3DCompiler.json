@@ -1,5 +1,5 @@
 {
-  "Id": "b5322e45-ed9b-4602-b4d2-9ec2bab43852",
+  "Id": "4fd19fc3-e2bd-48f8-9d12-31f8459d5ee4",
   "DllName": "SharpDX.D3DCompiler",
   "Version": "2.5.0.0",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\sharpdx.d3dcompiler.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T10:26:43.0387587Z"
+    "ScanDate": "2026-07-11T10:48:24.5203237Z"
   },
   "Dependencies": [
     {

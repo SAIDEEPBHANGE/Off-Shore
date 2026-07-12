@@ -1,5 +1,5 @@
 {
-  "Id": "781608cb-5095-4fe0-b8b3-c9ed72be1ad9",
+  "Id": "902365a5-122a-480e-8743-c965513f7b31",
   "DllName": "HSurfaceMountWithRectangularPort",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\3DRefData\\SharedContent\\Bin\\Ducting\\DotNetSymbols\\Release\\HSurfaceMountWithRectangularPort.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T11:55:26.5607359Z"
+    "ScanDate": "2026-07-11T11:28:22.2720279Z"
   },
   "Dependencies": [
     {

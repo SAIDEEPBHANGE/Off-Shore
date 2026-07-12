@@ -1,5 +1,5 @@
 {
-  "Id": "701f110d-d653-4c92-86f5-3901a6f1dd6b",
+  "Id": "c1c8a303-3261-44fb-9803-66593f4b05db",
   "DllName": "ScanCoincidentOpenings",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\Core\\Container\\Bin\\Assemblies\\Release\\ScanCoincidentOpenings.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T11:55:26.722224Z"
+    "ScanDate": "2026-07-11T11:28:22.2740348Z"
   },
   "Dependencies": [
     {

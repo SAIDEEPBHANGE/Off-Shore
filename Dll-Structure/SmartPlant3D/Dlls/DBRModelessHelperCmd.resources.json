@@ -1,5 +1,5 @@
 {
-  "Id": "db021060-7bb6-41aa-b37b-cbe40ed6f621",
+  "Id": "c4149d9a-78ca-4b2f-a06e-b2c0d2e0d84b",
   "DllName": "DBRModelessHelperCmd.resources",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\Core\\Container\\Bin\\Assemblies\\Release\\en-US\\DBRModelessHelperCmd.resources.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T11:55:26.741476Z"
+    "ScanDate": "2026-07-11T11:28:22.2740348Z"
   },
   "Dependencies": [
     {

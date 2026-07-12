@@ -1,5 +1,5 @@
 {
-  "Id": "cd34cc1f-3ac5-46db-9abf-5c7a3a2fb90d",
+  "Id": "d96feb74-4b8e-4d7b-b246-20a5bab09cb5",
   "DllName": "SPProjOpt",
   "Version": "9.0.0.1405",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\Languages\\SPProjOpt.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T10:26:43.0387587Z"
+    "ScanDate": "2026-07-11T10:48:24.5103255Z"
   },
   "Dependencies": [
     {

@@ -1,5 +1,5 @@
 {
-  "Id": "5c8ddf03-c850-49e9-bf6b-d835f6760cfb",
+  "Id": "bd3399e4-0d6c-4289-ac3b-9271755cceb7",
   "DllName": "MfgProfileSchema",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\StructManufacturing\\Middle\\Bin\\MfgProfileSchema.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T11:55:26.8289956Z"
+    "ScanDate": "2026-07-11T11:28:22.238948Z"
   },
   "Dependencies": [
     {

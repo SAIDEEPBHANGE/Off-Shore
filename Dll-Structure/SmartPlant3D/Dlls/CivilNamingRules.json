@@ -1,5 +1,5 @@
 {
-  "Id": "a9d93f6c-d468-412e-b2e0-9a0a5715bed2",
+  "Id": "666fe3d9-0cc0-4b2b-bef1-73b643fd7bd6",
   "DllName": "CivilNamingRules",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\3DRefData\\SharedContent\\Bin\\Civil\\Rules\\Release\\CivilNamingRules.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T11:55:26.556024Z"
+    "ScanDate": "2026-07-11T11:28:22.2439479Z"
   },
   "Dependencies": [
     {

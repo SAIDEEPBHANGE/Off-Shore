@@ -1,5 +1,5 @@
 {
-  "Id": "0816037c-af7f-4ca8-84a7-aeb0bcf1cfe8",
+  "Id": "5eecfcab-2a19-4a4c-99c6-6a4a6f33039c",
   "DllName": "HRectangularTee",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\3DRefData\\SharedContent\\Bin\\Ducting\\DotNetSymbols\\Release\\HRectangularTee.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T11:55:26.5597546Z"
+    "ScanDate": "2026-07-11T11:28:22.2607088Z"
   },
   "Dependencies": [
     {

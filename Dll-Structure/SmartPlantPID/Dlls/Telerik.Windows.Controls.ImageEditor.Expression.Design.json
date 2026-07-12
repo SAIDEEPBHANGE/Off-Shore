@@ -1,5 +1,5 @@
 {
-  "Id": "3909ccad-a87e-44d3-8adf-43421d44a9d4",
+  "Id": "5c78769b-37df-4b30-9046-51ad3855a1a0",
   "DllName": "Telerik.Windows.Controls.ImageEditor.Expression.Design",
   "Version": "2018.2.620.45",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\telerik.windows.controls.imageeditor.expression.design.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T10:26:43.0387587Z"
+    "ScanDate": "2026-07-11T10:48:24.5133273Z"
   },
   "Dependencies": [
     {

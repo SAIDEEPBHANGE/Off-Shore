@@ -1,5 +1,5 @@
 {
-  "Id": "295d794c-bb35-4a5c-857a-5f03d3e75e3d",
+  "Id": "4eea0cac-e408-41ef-8b7b-ab5601fcaf7d",
   "DllName": "ScanSlabWithInvalidFacePosition",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\Core\\Container\\Bin\\Assemblies\\Release\\ScanSlabWithInvalidFacePosition.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T11:55:26.7232241Z"
+    "ScanDate": "2026-07-11T11:28:22.2496605Z"
   },
   "Dependencies": [
     {

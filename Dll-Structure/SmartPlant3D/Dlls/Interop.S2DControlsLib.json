@@ -1,5 +1,5 @@
 {
-  "Id": "1937b643-724b-42bb-859f-72c21434703b",
+  "Id": "49306694-8f18-4955-85ee-8aab8b97009a",
   "DllName": "Interop.S2DControlsLib",
   "Version": "4.12.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\Common2D\\Rad2D\\bin64\\Interop.S2DControlsLib.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T11:55:26.650508Z"
+    "ScanDate": "2026-07-11T11:28:22.2587099Z"
   },
   "Dependencies": [
     {

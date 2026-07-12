@@ -1,5 +1,5 @@
 {
-  "Id": "6c6afa43-ad94-4729-aaea-ed7ffdb9bb55",
+  "Id": "8827d226-ae1e-47f5-b2a7-40a24f752611",
   "DllName": "CompartmentRuleWrappers",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\Core\\Container\\Bin\\Assemblies\\Release\\CompartmentRuleWrappers.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T11:55:26.6835333Z"
+    "ScanDate": "2026-07-11T11:28:22.2577098Z"
   },
   "Dependencies": [
     {

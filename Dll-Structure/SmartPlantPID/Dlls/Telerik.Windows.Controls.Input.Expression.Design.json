@@ -1,5 +1,5 @@
 {
-  "Id": "483ee49f-1f9c-48d3-8d07-ef1c55f7c8e2",
+  "Id": "fe577ad6-c10e-41fd-acc4-b3fb7f7948bd",
   "DllName": "Telerik.Windows.Controls.Input.Expression.Design",
   "Version": "2018.2.620.45",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\telerik.windows.controls.input.expression.design.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T10:26:43.0387587Z"
+    "ScanDate": "2026-07-11T10:48:24.5193118Z"
   },
   "Dependencies": [
     {

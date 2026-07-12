@@ -1,5 +1,5 @@
 {
-  "Id": "00d67260-4c93-4f71-a9b4-94811fd25f7f",
+  "Id": "8c27d917-8b33-4f96-b75a-e9b3f2d76e98",
   "DllName": "HoleTraceBestFitSymbol",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\3DRefData\\SharedContent\\Bin\\HoleMgmt\\Symbols\\Release\\HoleTraceBestFitSymbol.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T11:55:26.5893268Z"
+    "ScanDate": "2026-07-11T11:28:22.2319505Z"
   },
   "Dependencies": [
     {

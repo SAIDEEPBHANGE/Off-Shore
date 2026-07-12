@@ -1,5 +1,5 @@
 {
-  "Id": "d22378f2-4c24-4d49-95c7-83acc4586439",
+  "Id": "bf527a0e-e80a-4dee-a5ef-4a881a3849e5",
   "DllName": "EQDoorsAndWindowsType1",
   "Version": "1.0.0.2",
   "FilePath": "D:\\Off-Share\\Smart3D\\3DRefData\\SharedContent\\Bin\\SmartPlantStructure\\DotNetSymbols\\Release\\EQDoorsAndWindowsType1.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T11:55:26.6008378Z"
+    "ScanDate": "2026-07-11T11:28:22.2637085Z"
   },
   "Dependencies": [
     {

@@ -1,5 +1,5 @@
 {
-  "Id": "708a866e-e4d2-4df7-bce3-884b0f6c705f",
+  "Id": "00c48475-70f4-4ebf-a264-1f11522c4ca4",
   "DllName": "igrConfigInfo412",
   "Version": "10.0.0.603",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\igrConfigInfo412.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T10:26:43.032759Z"
+    "ScanDate": "2026-07-11T10:48:24.5123232Z"
   },
   "Dependencies": [
     {

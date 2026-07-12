@@ -1,5 +1,5 @@
 {
-  "Id": "e371e233-1878-488e-95b5-4fccc6087faa",
+  "Id": "4f8b6464-b1db-4fb5-a717-8fd7ee3273f0",
   "DllName": "Telerik.Windows.Controls.GridView.Expression.Design",
   "Version": "2018.2.620.45",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\telerik.windows.controls.gridview.expression.design.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T10:26:43.0387587Z"
+    "ScanDate": "2026-07-11T10:48:24.5093279Z"
   },
   "Dependencies": [
     {

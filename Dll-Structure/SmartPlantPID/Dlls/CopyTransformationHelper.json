@@ -1,5 +1,5 @@
 {
-  "Id": "38473b18-c252-4e68-8b69-d5a8b427c22e",
+  "Id": "7aa3ef5e-c405-4da8-b636-190df77bd597",
   "DllName": "CopyTransformationHelper",
   "Version": "9.0.0.1405",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\copytransformationhelper.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T10:26:43.0317595Z"
+    "ScanDate": "2026-07-11T10:48:24.5153254Z"
   },
   "Dependencies": [
     {

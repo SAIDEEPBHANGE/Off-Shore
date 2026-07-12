@@ -1,5 +1,5 @@
 {
-  "Id": "b33ce149-c32a-4027-adcf-15daa1c02a4e",
+  "Id": "cd151323-8768-446b-91dc-979b74d503e3",
   "DllName": "PDSModelExportCommand.resources",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\Core\\Container\\Bin\\Assemblies\\Release\\en-US\\PDSModelExportCommand.resources.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T11:55:26.7444785Z"
+    "ScanDate": "2026-07-11T11:28:22.2496605Z"
   },
   "Dependencies": [
     {

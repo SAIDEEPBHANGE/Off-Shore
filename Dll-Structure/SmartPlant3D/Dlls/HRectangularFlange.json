@@ -1,5 +1,5 @@
 {
-  "Id": "f7d47bf4-aa52-44bb-97be-13de0ada867e",
+  "Id": "5e78bd3e-fb0e-4713-86e8-2df244c9b9cb",
   "DllName": "HRectangularFlange",
   "Version": "1.0.0.2",
   "FilePath": "D:\\Off-Share\\Smart3D\\3DRefData\\SharedContent\\Bin\\Ducting\\DotNetSymbols\\Release\\HRectangularFlange.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T11:55:26.5583688Z"
+    "ScanDate": "2026-07-11T11:28:22.2587099Z"
   },
   "Dependencies": [
     {

@@ -1,5 +1,5 @@
 {
-  "Id": "c68c5925-53c6-4322-8cc8-b37b6291b487",
+  "Id": "514755a8-59c8-46ee-a7b0-0ed525f134d7",
   "DllName": "SmartSketchSettingTlbr.resources",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\Core\\Container\\Bin\\Assemblies\\Release\\en-US\\SmartSketchSettingTlbr.resources.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T11:55:26.7444785Z"
+    "ScanDate": "2026-07-11T11:28:22.2379481Z"
   },
   "Dependencies": [
     {

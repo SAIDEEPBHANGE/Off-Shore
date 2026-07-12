@@ -1,5 +1,5 @@
 {
-  "Id": "af15390e-3906-48cc-864d-2a58a686351a",
+  "Id": "d9ddaa79-010a-405f-98f1-2bce21cbe24e",
   "DllName": "ToDoListAnalysis",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\ShipStructure\\Client\\Bin\\ToDoListAnalysis.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T11:55:26.8289956Z"
+    "ScanDate": "2026-07-11T11:28:22.2660584Z"
   },
   "Dependencies": [
     {

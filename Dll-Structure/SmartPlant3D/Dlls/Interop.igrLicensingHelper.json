@@ -1,5 +1,5 @@
 {
-  "Id": "ec431390-1b05-48be-9bc0-28d69db52618",
+  "Id": "966e5354-3620-415b-be24-d69709297738",
   "DllName": "Interop.igrLicensingHelper",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\Common2D\\Rad2D\\bin64\\Interop.igrLicensingHelper.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T11:55:26.6500059Z"
+    "ScanDate": "2026-07-11T11:28:22.2439479Z"
   },
   "Dependencies": [
     {

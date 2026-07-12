@@ -1,5 +1,5 @@
 {
-  "Id": "6310763d-76c2-4c41-9b05-0e04f32858fa",
+  "Id": "8d65060e-18f2-4cf8-bb11-955cbd298a9f",
   "DllName": "SPRules",
   "Version": "9.0.0.1405",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\sprules.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T10:26:43.0387587Z"
+    "ScanDate": "2026-07-11T10:48:24.5123232Z"
   },
   "Dependencies": [
     {

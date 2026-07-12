@@ -1,5 +1,5 @@
 {
-  "Id": "2a7ac02d-7f9c-4a94-8d88-eea81f988f28",
+  "Id": "302a4cf8-f49b-4886-a7fe-5c0913dac9df",
   "DllName": "Microsoft.Practices.Prism.Mvvm",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\Core\\Container\\Bin\\SxS\\Microsoft\\Microsoft.Practices.Prism.Mvvm.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T11:55:26.7625012Z"
+    "ScanDate": "2026-07-11T11:28:22.2680391Z"
   },
   "Dependencies": [
     {

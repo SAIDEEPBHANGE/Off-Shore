@@ -1,5 +1,5 @@
 {
-  "Id": "aa691e04-1427-4782-ace6-493fdcc4962d",
+  "Id": "c035320e-ea10-42e3-8300-7d8b684f2aff",
   "DllName": "ExtensionStem",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\3DRefData\\SharedContent\\Bin\\Piping\\DotNetSymbols\\Release\\ExtensionStem.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T11:55:26.5931968Z"
+    "ScanDate": "2026-07-11T11:28:22.2485861Z"
   },
   "Dependencies": [
     {

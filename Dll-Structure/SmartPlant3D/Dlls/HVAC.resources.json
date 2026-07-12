@@ -1,5 +1,5 @@
 {
-  "Id": "74a27b52-3515-4432-95a2-e09d0cbc7ee8",
+  "Id": "284d3e72-41b8-4048-86f0-22d17fe59715",
   "DllName": "HVAC.resources",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\3DRefData\\SharedContent\\Bin\\HangersAndSupports\\Symbols\\Release\\en-US\\HVAC.resources.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T11:55:26.5893268Z"
+    "ScanDate": "2026-07-11T11:28:22.2700339Z"
   },
   "Dependencies": [
     {

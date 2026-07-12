@@ -1,5 +1,5 @@
 {
-  "Id": "e0cb25ce-a365-4248-90aa-d09cf0b6c0ac",
+  "Id": "b350ef4c-dc19-45e8-abbd-fdb445933ddd",
   "DllName": "GalilCs.Transposition.Extensions",
   "Version": "10.0.0.603",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\galilcs.transposition.extensions.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T10:26:43.032759Z"
+    "ScanDate": "2026-07-11T10:48:24.5143269Z"
   },
   "Dependencies": [
     {

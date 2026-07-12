@@ -1,5 +1,5 @@
 {
-  "Id": "b93e4a14-0645-4fe7-b245-229144456c3e",
+  "Id": "f3e88d09-0614-474f-a420-e14eaa8a69f6",
   "DllName": "EFPublishCmd",
   "Version": "9.0.0.1405",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\efpublishcmd.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T10:26:43.032759Z"
+    "ScanDate": "2026-07-11T10:48:24.5193118Z"
   },
   "Dependencies": [
     {

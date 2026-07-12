@@ -1,5 +1,5 @@
 {
-  "Id": "27db6270-590d-46d7-a074-c56fc3c924e3",
+  "Id": "7509f31f-c6eb-4f34-b4c9-3277174184f1",
   "DllName": "Spi.Core.Locale.LanguageKit",
   "Version": "13.0.0.28",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\spi.core.locale.languagekit.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T10:26:43.0387587Z"
+    "ScanDate": "2026-07-11T10:48:24.5193118Z"
   },
   "Dependencies": [
     {

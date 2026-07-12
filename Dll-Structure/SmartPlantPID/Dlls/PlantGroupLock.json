@@ -1,5 +1,5 @@
 {
-  "Id": "92fa41f6-c039-44b4-acf4-a97ce956a0ad",
+  "Id": "cbfbf5f2-4519-4d07-a731-83e42aa7273c",
   "DllName": "PlantGroupLock",
   "Version": "9.0.0.1405",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\plantgrouplock.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T10:26:43.0387587Z"
+    "ScanDate": "2026-07-11T10:48:24.5193118Z"
   },
   "Dependencies": [
     {

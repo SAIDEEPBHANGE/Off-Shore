@@ -1,5 +1,5 @@
 {
-  "Id": "61027642-1c49-4b95-abd1-5115331a62ab",
+  "Id": "f856dc73-1be0-4cbc-83f7-b442bc94cdc7",
   "DllName": "Telerik.Windows.Controls.FileDialogs",
   "Version": "2018.2.620.45",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\Telerik.Windows.Controls.FileDialogs.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T10:26:43.0387587Z"
+    "ScanDate": "2026-07-11T10:48:24.5103255Z"
   },
   "Dependencies": [
     {

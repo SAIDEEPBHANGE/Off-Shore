@@ -1,5 +1,5 @@
 {
-  "Id": "506670e6-35a9-4aee-9bf5-96546d484160",
+  "Id": "1bdb699d-540d-4ba6-bc2f-b3d929e8131d",
   "DllName": "MemberAssemblyConnections",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\3DRefData\\SharedContent\\Bin\\SmartPlantStructure\\CustomAssemblies\\Release\\MemberAssemblyConnections.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T11:55:26.6003332Z"
+    "ScanDate": "2026-07-11T11:28:22.2637085Z"
   },
   "Dependencies": [
     {

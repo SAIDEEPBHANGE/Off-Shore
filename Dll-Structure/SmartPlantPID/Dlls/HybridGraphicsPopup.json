@@ -1,5 +1,5 @@
 {
-  "Id": "6db58fe8-60a8-4341-bb2c-d58ff49a486d",
+  "Id": "67fe6643-4429-479f-957e-ed462eb194ef",
   "DllName": "HybridGraphicsPopup",
   "Version": "9.0.0.1405",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\HybridGraphicsPopup.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T10:26:43.032759Z"
+    "ScanDate": "2026-07-11T10:48:24.5133273Z"
   },
   "Dependencies": [
     {

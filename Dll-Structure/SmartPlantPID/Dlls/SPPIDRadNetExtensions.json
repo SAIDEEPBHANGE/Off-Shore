@@ -1,5 +1,5 @@
 {
-  "Id": "ede0e4c4-9914-404d-a6f5-5849f2083e6c",
+  "Id": "91fe51a1-ac1a-4ded-8cd6-1fdb832e4cee",
   "DllName": "SPPIDRadNetExtensions",
   "Version": "9.0.0.1405",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\sppidradnetextensions.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T10:26:43.0387587Z"
+    "ScanDate": "2026-07-11T10:48:24.5143269Z"
   },
   "Dependencies": [
     {

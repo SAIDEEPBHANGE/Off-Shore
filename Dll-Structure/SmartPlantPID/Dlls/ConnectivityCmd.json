@@ -1,5 +1,5 @@
 {
-  "Id": "be16265c-c061-4e21-9d12-32725d0fc9da",
+  "Id": "8d93ee7e-690e-46e9-9744-f11d1aa60b70",
   "DllName": "ConnectivityCmd",
   "Version": "9.0.0.1405",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\connectivitycmd.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T10:26:43.0317595Z"
+    "ScanDate": "2026-07-11T10:48:24.5183186Z"
   },
   "Dependencies": [
     {

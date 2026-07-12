@@ -1,5 +1,5 @@
 {
-  "Id": "da2d4b61-34aa-47f5-b407-c5ad366b4f66",
+  "Id": "6da01825-6c25-47e7-bdd6-fca36581c0bb",
   "DllName": "DuplicatedFilesDetector",
   "Version": "9.0.0.1405",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\duplicatedFilesdetector.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T10:26:43.0317595Z"
+    "ScanDate": "2026-07-11T10:48:24.5133273Z"
   },
   "Dependencies": [
     {

@@ -1,5 +1,5 @@
 {
-  "Id": "6b78a301-8474-4fa9-a294-4f1e35540738",
+  "Id": "04f75ec4-faaf-458d-9a82-a24b8c236356",
   "DllName": "Telerik.Windows.Controls.GridView.Export",
   "Version": "2018.1.220.45",
   "FilePath": "D:\\Off-Share\\Smart3D\\Core\\Container\\Bin\\SxS\\Telerik\\Telerik.Windows.Controls.GridView.Export.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T11:55:26.7642974Z"
+    "ScanDate": "2026-07-11T11:28:22.230944Z"
   },
   "Dependencies": [
     {

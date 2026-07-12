@@ -1,5 +1,5 @@
 {
-  "Id": "f91c1641-ca6f-4c3c-97cc-9ff50022007f",
+  "Id": "3f9dfd74-e0d0-4324-b19a-2be7159e9030",
   "DllName": "CryptoServicesAgent",
   "Version": "1.0.7078.17860",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\CryptoServicesAgent.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T10:26:43.0317595Z"
+    "ScanDate": "2026-07-11T10:48:24.5093279Z"
   },
   "Dependencies": [
     {

@@ -1,5 +1,5 @@
 {
-  "Id": "f9fea397-c4c2-49a1-9356-e100e3656482",
+  "Id": "3073eeef-37e2-45bf-9625-c9ee12d92376",
   "DllName": "PIDDlgBarTrans",
   "Version": "9.0.0.1405",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\piddlgbartrans.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T10:26:43.0347576Z"
+    "ScanDate": "2026-07-11T10:48:24.5123232Z"
   },
   "Dependencies": [
     {

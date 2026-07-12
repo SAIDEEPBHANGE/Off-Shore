@@ -1,5 +1,5 @@
 {
-  "Id": "ad7711f2-5724-44fb-bb5d-e57f90f98a37",
+  "Id": "b25366d2-16f9-47b1-b6a1-596f83d2cc3c",
   "DllName": "ManufacturingPinJigRule",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\3DRefData\\SharedContent\\Bin\\StructManufacturing\\Rules\\Release\\ManufacturingPinJigRule.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T11:55:26.610139Z"
+    "ScanDate": "2026-07-11T11:28:22.2379481Z"
   },
   "Dependencies": [
     {

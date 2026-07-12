@@ -1,5 +1,5 @@
 {
-  "Id": "7fa3dc38-0ccf-46af-80f2-310f61c06cef",
+  "Id": "0dd2697e-fb9c-4b90-9104-0dd67fded6c1",
   "DllName": "Telerik.Windows.Scheduling.Core",
   "Version": "2017.3.1018.45",
   "FilePath": "D:\\Off-Share\\Smart3D\\Documentation\\HelpApp\\Telerik.Windows.Scheduling.Core.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T11:55:26.8289956Z"
+    "ScanDate": "2026-07-11T11:28:22.2472804Z"
   },
   "Dependencies": [
     {

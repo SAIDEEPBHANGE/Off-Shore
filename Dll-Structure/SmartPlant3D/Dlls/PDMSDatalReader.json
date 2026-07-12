@@ -1,5 +1,5 @@
 {
-  "Id": "58bd2f64-3957-450e-8401-868853c90300",
+  "Id": "7a5cacac-8d6e-435a-8f38-3142b194cf34",
   "DllName": "PDMSDatalReader",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\Core\\Container\\Bin\\Assemblies\\Release\\PDMSDatalReader.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T11:55:26.711315Z"
+    "ScanDate": "2026-07-11T11:28:22.2462584Z"
   },
   "Dependencies": [
     {

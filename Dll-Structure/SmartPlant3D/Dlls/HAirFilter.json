@@ -1,5 +1,5 @@
 {
-  "Id": "3405f1a0-6088-43bc-804f-99991d63e27f",
+  "Id": "0f2e2ff2-7bbe-49b3-aafe-fe39eda5c698",
   "DllName": "HAirFilter",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\3DRefData\\SharedContent\\Bin\\Ducting\\DotNetSymbols\\Release\\HAirFilter.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T11:55:26.5573658Z"
+    "ScanDate": "2026-07-11T11:28:22.2637085Z"
   },
   "Dependencies": [
     {

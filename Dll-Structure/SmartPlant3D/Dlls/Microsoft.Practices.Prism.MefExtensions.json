@@ -1,5 +1,5 @@
 {
-  "Id": "83787929-2e69-4625-b2c7-3b42ae2fb941",
+  "Id": "52cf64ee-daaa-4d50-83f4-0c0b632651d3",
   "DllName": "Microsoft.Practices.Prism.MefExtensions",
   "Version": "5.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\Core\\Container\\Bin\\SxS\\Microsoft\\Microsoft.Practices.Prism.MefExtensions.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T11:55:26.7625012Z"
+    "ScanDate": "2026-07-11T11:28:22.2449482Z"
   },
   "Dependencies": [
     {

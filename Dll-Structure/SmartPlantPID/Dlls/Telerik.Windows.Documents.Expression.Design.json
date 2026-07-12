@@ -1,5 +1,5 @@
 {
-  "Id": "f2f53c5b-31d5-4c87-8aab-afd5863920d8",
+  "Id": "3b236ce6-1b5b-483f-b732-01c9b8af691a",
   "DllName": "Telerik.Windows.Documents.Expression.Design",
   "Version": "2018.2.620.45",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\telerik.windows.documents.expression.design.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T10:26:43.0387587Z"
+    "ScanDate": "2026-07-11T10:48:24.5113244Z"
   },
   "Dependencies": [
     {

@@ -1,5 +1,5 @@
 {
-  "Id": "7f1ddae3-3e30-452d-a9c3-773e1955440a",
+  "Id": "84f6a083-14ac-47a4-a94c-392d1f1bc4e0",
   "DllName": "CivilCrossSectionName.resources",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\Core\\Container\\Bin\\Assemblies\\Release\\en-US\\CivilCrossSectionName.resources.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T11:55:26.7404762Z"
+    "ScanDate": "2026-07-11T11:28:22.2670284Z"
   },
   "Dependencies": [
     {

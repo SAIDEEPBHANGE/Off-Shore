@@ -1,5 +1,5 @@
 {
-  "Id": "a462a5b1-f6d5-4c27-90f1-871db8b3b078",
+  "Id": "d4c80551-ba2a-4abe-bf61-80edafb35584",
   "DllName": "GalleryImages",
   "Version": "2.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\DrawingsIsometric\\Alias\\ICP\\GalleryImages.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T11:55:26.8289956Z"
+    "ScanDate": "2026-07-11T11:28:22.2720279Z"
   },
   "Dependencies": [
     {

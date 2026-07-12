@@ -1,5 +1,5 @@
 {
-  "Id": "214faf49-54ac-4cf4-9d16-245c6dba8c57",
+  "Id": "4d50f24d-a3d5-43c6-acc9-e3dddade9d19",
   "DllName": "Telerik.Windows.Controls.Pivot.Expression.Design",
   "Version": "2018.2.620.45",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\telerik.windows.controls.pivot.expression.design.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T10:26:43.0387587Z"
+    "ScanDate": "2026-07-11T10:48:24.5133273Z"
   },
   "Dependencies": [
     {

@@ -1,5 +1,5 @@
 {
-  "Id": "d9d27fea-15d9-4156-ac6f-f0a7ee7dcc0d",
+  "Id": "9abd2252-9f3b-45bc-a400-da344f213f34",
   "DllName": "DrawingDelete",
   "Version": "9.0.0.1405",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\drawingdelete.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T10:26:43.0317595Z"
+    "ScanDate": "2026-07-11T10:48:24.5193118Z"
   },
   "Dependencies": [
     {

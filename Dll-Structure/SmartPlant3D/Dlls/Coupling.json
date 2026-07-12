@@ -1,5 +1,5 @@
 {
-  "Id": "846d3df9-b8fd-4c9e-a025-224a039efd9d",
+  "Id": "5109dc3c-faa9-4322-8ae5-06fb15f55d45",
   "DllName": "Coupling",
   "Version": "1.0.0.1",
   "FilePath": "D:\\Off-Share\\Smart3D\\3DRefData\\SharedContent\\Bin\\Piping\\DotNetSymbols\\Release\\Coupling.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T11:55:26.5921028Z"
+    "ScanDate": "2026-07-11T11:28:22.2637085Z"
   },
   "Dependencies": [
     {

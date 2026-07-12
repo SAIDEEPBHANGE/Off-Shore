@@ -1,5 +1,5 @@
 {
-  "Id": "e4a6edc2-3dae-4c8f-88e1-76bd2b0a102f",
+  "Id": "1b9fa811-68d6-466d-a4e2-a481811c6afe",
   "DllName": "FilteredItem",
   "Version": "9.0.0.1405",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\filtereditem.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T10:26:43.032759Z"
+    "ScanDate": "2026-07-11T10:48:24.5133273Z"
   },
   "Dependencies": [
     {

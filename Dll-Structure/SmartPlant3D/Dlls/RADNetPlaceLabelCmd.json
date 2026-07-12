@@ -1,5 +1,5 @@
 {
-  "Id": "78f5737c-a736-40ae-a2e2-0097f89b6f4f",
+  "Id": "b76ae976-0a2e-48c8-a69f-1a2942603465",
   "DllName": "RADNetPlaceLabelCmd",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\Common2D\\Rad2D\\bin\\RADNetPlaceLabelCmd.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T11:55:26.6243793Z"
+    "ScanDate": "2026-07-11T11:28:22.234949Z"
   },
   "Dependencies": [
     {

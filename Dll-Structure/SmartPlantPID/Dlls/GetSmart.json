@@ -1,5 +1,5 @@
 {
-  "Id": "bf018837-7131-4fd9-96c2-b3651e3ffbc4",
+  "Id": "e01259c9-22d4-470a-9f53-aa67cca5ada2",
   "DllName": "GetSmart",
   "Version": "9.0.0.1405",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\getsmart.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T10:26:43.032759Z"
+    "ScanDate": "2026-07-11T10:48:24.5082598Z"
   },
   "Dependencies": [
     {

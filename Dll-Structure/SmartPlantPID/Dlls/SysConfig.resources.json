@@ -1,5 +1,5 @@
 {
-  "Id": "fe88b54c-96f1-418d-9e06-76ce8b634e9c",
+  "Id": "a1f54191-0d94-4eb8-8fee-00b3851ca00f",
   "DllName": "SysConfig.resources",
   "Version": "10.0.0.603",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\Languages\\en-US\\SysConfig.resources.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T10:26:43.0387587Z"
+    "ScanDate": "2026-07-11T10:48:24.5193118Z"
   },
   "Dependencies": [
     {

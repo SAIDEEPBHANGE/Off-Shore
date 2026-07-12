@@ -1,5 +1,5 @@
 {
-  "Id": "ae1041ef-3568-4dac-a7a6-9ad68051d88f",
+  "Id": "94a76275-f1d5-440e-a6fa-0cc53039f8e3",
   "DllName": "CheckSymbolsCmd",
   "Version": "9.0.0.1405",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\checksymbolscmd.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T10:26:43.0317595Z"
+    "ScanDate": "2026-07-11T10:48:24.5123232Z"
   },
   "Dependencies": [
     {

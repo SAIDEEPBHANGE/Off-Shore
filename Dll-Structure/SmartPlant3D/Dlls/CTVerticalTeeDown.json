@@ -1,5 +1,5 @@
 {
-  "Id": "a72e7154-cf12-411c-8b66-17b155a44e0a",
+  "Id": "aabf595e-2312-4081-8d57-63cd45812425",
   "DllName": "CTVerticalTeeDown",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\3DRefData\\SharedContent\\Bin\\Electrical\\DotNetSymbols\\Release\\CTVerticalTeeDown.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T11:55:26.5617443Z"
+    "ScanDate": "2026-07-11T11:28:22.2627089Z"
   },
   "Dependencies": [
     {

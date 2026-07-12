@@ -1,5 +1,5 @@
 {
-  "Id": "0d6f25b7-1bdc-4046-8a0c-ab65128842cd",
+  "Id": "7a09a64d-8581-40b0-ac37-d99e0fe3094e",
   "DllName": "ProfileStockQueryInterpretor",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\3DRefData\\SharedContent\\Bin\\StructManufacturing\\Rules\\Release\\ProfileStockQueryInterpretor.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T11:55:26.6125445Z"
+    "ScanDate": "2026-07-11T11:28:22.2399485Z"
   },
   "Dependencies": [
     {

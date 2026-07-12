@@ -1,14 +1,14 @@
 {
-  "Id": "232e4be2-503b-4cec-ad6e-097305c59d3a",
+  "Id": "a1f3ba7e-416e-4a97-86bd-d69f9b2552e6",
   "DllName": "SP3DGarbageCollector",
   "Version": "1.0.0.0",
-  "FilePath": "D:\\Off-Share\\Smart3D\\Core\\Middle\\bin64\\SP3DGarbageCollector.dll",
+  "FilePath": "D:\\Off-Share\\Smart3D\\Core\\Middle\\bin\\SP3DGarbageCollector.dll",
   "Metadata": {
     "AssemblyName": "SP3DGarbageCollector",
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T11:55:26.7906245Z"
+    "ScanDate": "2026-07-11T11:28:22.2496605Z"
   },
   "Dependencies": [
     {

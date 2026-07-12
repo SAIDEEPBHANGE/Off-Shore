@@ -1,5 +1,5 @@
 {
-  "Id": "fa930614-4d45-4958-906d-2f18d6e60009",
+  "Id": "5f7be016-3237-4a63-a80d-e806c78dcd70",
   "DllName": "R3DIncludeExcludeCmd.resources",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\Core\\Container\\Bin\\Assemblies\\Release\\en-US\\R3DIncludeExcludeCmd.resources.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T11:55:26.7444785Z"
+    "ScanDate": "2026-07-11T11:28:22.2730497Z"
   },
   "Dependencies": [
     {

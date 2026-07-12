@@ -1,5 +1,5 @@
 {
-  "Id": "94018436-0eaa-44e6-858e-8c8f88e35821",
+  "Id": "0226e9dd-e38c-486a-ad6f-d441d5b2ecc0",
   "DllName": "Telerik.Windows.Controls.Input",
   "Version": "2016.1.217.40",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\SxS\\Telerik\\Telerik.Windows.Controls.Input.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T10:26:43.0387587Z"
+    "ScanDate": "2026-07-11T10:48:24.5133273Z"
   },
   "Dependencies": [
     {

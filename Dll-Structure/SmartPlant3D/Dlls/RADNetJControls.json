@@ -1,5 +1,5 @@
 {
-  "Id": "8ba6d818-5650-4fcf-a4ed-ede030e8c468",
+  "Id": "e8d1515a-0676-4cae-8174-e3585e57656d",
   "DllName": "RADNetJControls",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\Common2D\\Rad2D\\bin\\RADNetJControls.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T11:55:26.6231417Z"
+    "ScanDate": "2026-07-11T11:28:22.2690202Z"
   },
   "Dependencies": [
     {

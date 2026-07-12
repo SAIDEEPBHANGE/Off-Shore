@@ -1,5 +1,5 @@
 {
-  "Id": "49320bc4-b2a2-4047-8750-7178ae2cdd2d",
+  "Id": "b6abb43c-3fb4-4951-be33-cd392603e544",
   "DllName": "Telerik.Windows.Controls.RichTextBoxUI.VisualStudio.Design.4.0",
   "Version": "2018.2.620.45",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\telerik.windows.controls.richtextboxui.visualstudio.design.4.0.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T10:26:43.0387587Z"
+    "ScanDate": "2026-07-11T10:48:24.5193118Z"
   },
   "Dependencies": [
     {

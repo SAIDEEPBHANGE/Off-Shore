@@ -1,5 +1,5 @@
 {
-  "Id": "104ffc3e-c5f2-4935-983a-388da999777f",
+  "Id": "8f9e552a-2c6c-454f-9675-888bf61b51f3",
   "DllName": "RadNetSymbolLabel",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\RadNetSymbolLabel.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T10:26:43.0387587Z"
+    "ScanDate": "2026-07-11T10:48:24.5203237Z"
   },
   "Dependencies": [
     {

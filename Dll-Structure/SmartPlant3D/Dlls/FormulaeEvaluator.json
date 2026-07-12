@@ -1,5 +1,5 @@
 {
-  "Id": "96c0f411-da02-4c13-a36d-62452efc990c",
+  "Id": "2b05f974-ef4f-4ca9-9451-a54e426c5809",
   "DllName": "FormulaeEvaluator",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\Core\\Container\\Bin\\Assemblies\\Release\\FormulaeEvaluator.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T11:55:26.6874435Z"
+    "ScanDate": "2026-07-11T11:28:22.2506553Z"
   },
   "Dependencies": [
     {

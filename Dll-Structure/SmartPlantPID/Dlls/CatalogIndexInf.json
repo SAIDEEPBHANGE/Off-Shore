@@ -1,5 +1,5 @@
 {
-  "Id": "8fd9274f-d1da-4030-a5a8-17926c42118e",
+  "Id": "ebd83787-5afb-40e2-bc76-f94362bd8a27",
   "DllName": "CatalogIndexInf",
   "Version": "9.0.0.1405",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\catalogindexinf.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T10:26:43.0317595Z"
+    "ScanDate": "2026-07-11T10:48:24.5103255Z"
   },
   "Dependencies": [
     {

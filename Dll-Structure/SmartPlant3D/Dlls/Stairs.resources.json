@@ -1,5 +1,5 @@
 {
-  "Id": "8274205e-e60f-425f-814d-236a1d50fdef",
+  "Id": "7c695cb4-b73e-4363-8cc4-f5f8a75f5de3",
   "DllName": "Stairs.resources",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\3DRefData\\SharedContent\\Bin\\SmartPlantStructure\\Symbols\\Release\\en-US\\Stairs.resources.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T11:55:26.6018494Z"
+    "ScanDate": "2026-07-11T11:28:22.2577098Z"
   },
   "Dependencies": [
     {

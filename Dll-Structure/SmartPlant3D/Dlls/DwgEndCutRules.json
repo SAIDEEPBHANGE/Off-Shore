@@ -1,5 +1,5 @@
 {
-  "Id": "4d1846b3-c7ee-4b5b-be8d-1aa6e7b8c128",
+  "Id": "b0c9c9e7-b599-4d65-99c5-b11b97d41ba8",
   "DllName": "DwgEndCutRules",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\3DRefData\\SharedContent\\Bin\\Drawings\\Rules\\Release\\DwgEndCutRules.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T11:55:26.556024Z"
+    "ScanDate": "2026-07-11T11:28:22.2730497Z"
   },
   "Dependencies": [
     {

@@ -1,5 +1,5 @@
 {
-  "Id": "ce7da14f-2275-48ce-be05-13393ff8c424",
+  "Id": "990a6067-4e54-4bf8-8650-7fc66366bb81",
   "DllName": "UnionTail",
   "Version": "1.0.0.1",
   "FilePath": "D:\\Off-Share\\Smart3D\\3DRefData\\SharedContent\\Bin\\Piping\\DotNetSymbols\\Release\\UnionTail.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T11:55:26.5974953Z"
+    "ScanDate": "2026-07-11T11:28:22.2496605Z"
   },
   "Dependencies": [
     {

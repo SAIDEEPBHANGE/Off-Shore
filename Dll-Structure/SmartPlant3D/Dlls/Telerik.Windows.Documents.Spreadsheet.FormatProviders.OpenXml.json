@@ -1,5 +1,5 @@
 {
-  "Id": "80f348ad-311d-4089-b8ba-5c4c2ff651b9",
+  "Id": "ee59564c-9f95-4cf8-8196-39daff2be756",
   "DllName": "Telerik.Windows.Documents.Spreadsheet.FormatProviders.OpenXml",
   "Version": "2018.1.220.40",
   "FilePath": "D:\\Off-Share\\Smart3D\\Core\\Container\\Bin\\SxS\\Telerik\\Telerik.Windows.Documents.Spreadsheet.FormatProviders.OpenXml.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T11:55:26.7867089Z"
+    "ScanDate": "2026-07-11T11:28:22.2587099Z"
   },
   "Dependencies": [
     {

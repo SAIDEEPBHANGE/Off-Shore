@@ -1,5 +1,5 @@
 {
-  "Id": "6f49f1fb-4e61-4f86-83e7-e610c0ac8f81",
+  "Id": "98b97692-c842-46fc-9f0f-27a5bd570650",
   "DllName": "HRectangularToRectangularAdapter",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\3DRefData\\SharedContent\\Bin\\Ducting\\DotNetSymbols\\Release\\HRectangularToRectangularAdapter.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T11:55:26.5597546Z"
+    "ScanDate": "2026-07-11T11:28:22.2770296Z"
   },
   "Dependencies": [
     {

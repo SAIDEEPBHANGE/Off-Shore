@@ -1,5 +1,5 @@
 {
-  "Id": "876cad50-fe1b-43ed-970e-6c5d3babbeb2",
+  "Id": "0e3b9c0d-1c1e-49fd-85bf-4ab31b6c1cac",
   "DllName": "HoleManagementDefinition",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\Core\\Container\\Bin\\Assemblies\\Release\\HoleManagementDefinition.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T11:55:26.6945444Z"
+    "ScanDate": "2026-07-11T11:28:22.2485861Z"
   },
   "Dependencies": [
     {

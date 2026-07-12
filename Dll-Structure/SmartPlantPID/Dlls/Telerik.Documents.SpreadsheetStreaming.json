@@ -1,5 +1,5 @@
 {
-  "Id": "64bcea55-0e09-45b8-ab20-d1332fc385b5",
+  "Id": "5e881d3c-c45c-40ac-8f4d-c5feeebf35ea",
   "DllName": "Telerik.Documents.SpreadsheetStreaming",
   "Version": "2018.2.619.40",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\telerik.documents.spreadsheetstreaming.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T10:26:43.0387587Z"
+    "ScanDate": "2026-07-11T10:48:24.5123232Z"
   },
   "Dependencies": [
     {

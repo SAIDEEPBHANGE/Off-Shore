@@ -1,5 +1,5 @@
 {
-  "Id": "5e9c23a8-a737-454f-8a3c-1e60098c7e37",
+  "Id": "02f20197-ca8a-41dd-b869-af9723f39e02",
   "DllName": "Microsoft.Practices.Prism",
   "Version": "4.1.0.0",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\Microsoft.Practices.Prism.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T10:26:43.0347576Z"
+    "ScanDate": "2026-07-11T10:48:24.5153254Z"
   },
   "Dependencies": [
     {

@@ -1,5 +1,5 @@
 {
-  "Id": "bdcf24f6-43da-436a-abee-8c758d460d68",
+  "Id": "af56eddb-7732-4683-a605-3c008f0d3982",
   "DllName": "Lucene.Net.Contrib.SpellChecker",
   "Version": "3.0.3.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\Documentation\\HelpApp\\Lucene.Net.Contrib.SpellChecker.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T11:55:26.8013442Z"
+    "ScanDate": "2026-07-11T11:28:22.2472804Z"
   },
   "Dependencies": [
     {

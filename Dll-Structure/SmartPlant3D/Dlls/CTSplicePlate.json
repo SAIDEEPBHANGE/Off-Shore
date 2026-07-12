@@ -1,5 +1,5 @@
 {
-  "Id": "d972ef5f-6f94-4f03-b5f3-eea24114c183",
+  "Id": "c0bfcb31-4af8-457e-a22a-ba9c5841faed",
   "DllName": "CTSplicePlate",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\3DRefData\\SharedContent\\Bin\\Electrical\\DotNetSymbols\\Release\\CTSplicePlate.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T11:55:26.5617443Z"
+    "ScanDate": "2026-07-11T11:28:22.2439479Z"
   },
   "Dependencies": [
     {

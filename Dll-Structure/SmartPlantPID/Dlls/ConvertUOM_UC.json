@@ -1,5 +1,5 @@
 {
-  "Id": "f95e4604-e7be-43b4-919d-46648b6994d7",
+  "Id": "97835a04-8318-466f-8752-55933d3d018b",
   "DllName": "ConvertUOM_UC",
   "Version": "10.0.0.603",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\ConvertUOM_UC.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T10:26:43.0317595Z"
+    "ScanDate": "2026-07-11T10:48:24.5183186Z"
   },
   "Dependencies": [
     {

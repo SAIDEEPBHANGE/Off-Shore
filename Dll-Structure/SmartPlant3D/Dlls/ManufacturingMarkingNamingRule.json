@@ -1,5 +1,5 @@
 {
-  "Id": "0b0d77b9-ecb7-420e-98b7-c105447b3dd2",
+  "Id": "80f3774b-973b-4c1d-b39d-cbefe9bcc270",
   "DllName": "ManufacturingMarkingNamingRule",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\3DRefData\\SharedContent\\Bin\\StructManufacturing\\Rules\\Release\\ManufacturingMarkingNamingRule.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T11:55:26.6089102Z"
+    "ScanDate": "2026-07-11T11:28:22.2485861Z"
   },
   "Dependencies": [
     {

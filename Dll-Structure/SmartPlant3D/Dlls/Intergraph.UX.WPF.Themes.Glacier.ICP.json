@@ -1,5 +1,5 @@
 {
-  "Id": "216aa643-81db-4737-a1d6-cc4dc049d450",
+  "Id": "8331c5b6-9eea-4fa9-916d-68dac80e490c",
   "DllName": "Intergraph.UX.WPF.Themes.Glacier.ICP",
   "Version": "2.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\DrawingsIsometric\\Alias\\ICP\\Intergraph.UX.WPF.Themes.Glacier.ICP.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T11:55:26.8289956Z"
+    "ScanDate": "2026-07-11T11:28:22.2587099Z"
   },
   "Dependencies": [
     {

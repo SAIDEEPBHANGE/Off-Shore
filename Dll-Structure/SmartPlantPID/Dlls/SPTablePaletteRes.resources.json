@@ -1,5 +1,5 @@
 {
-  "Id": "008b50df-1382-4218-aa89-d9fd2211ed6c",
+  "Id": "501cb9f0-326e-4ade-9cc0-c4c58bb3d44f",
   "DllName": "SPTablePaletteRes.resources",
   "Version": "9.0.0.1405",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\Languages\\en-US\\sptablepaletteres.resources.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T10:26:43.0387587Z"
+    "ScanDate": "2026-07-11T10:48:24.5143269Z"
   },
   "Dependencies": [
     {

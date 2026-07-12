@@ -1,5 +1,5 @@
 {
-  "Id": "5a35bbf5-3652-4e29-84d4-8b295a1e28de",
+  "Id": "5ed26a70-ec91-4bfa-9b49-d417c1d660ba",
   "DllName": "StartupNetBridge",
   "Version": "1.0.7078.26492",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\startupnetbridge.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T10:26:43.0387587Z"
+    "ScanDate": "2026-07-11T10:48:24.5193118Z"
   },
   "Dependencies": [
     {

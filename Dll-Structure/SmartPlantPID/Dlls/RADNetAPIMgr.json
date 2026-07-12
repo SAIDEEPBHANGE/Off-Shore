@@ -1,5 +1,5 @@
 {
-  "Id": "3a975cbf-d1c1-4daa-b140-55b6cc6152f2",
+  "Id": "1380cede-ef58-4760-acd8-8ae32f624b2b",
   "DllName": "RADNetAPIMgr",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\radnetapimgr.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T10:26:43.0387587Z"
+    "ScanDate": "2026-07-11T10:48:24.5103255Z"
   },
   "Dependencies": [
     {

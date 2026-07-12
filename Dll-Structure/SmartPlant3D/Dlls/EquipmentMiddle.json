@@ -1,5 +1,5 @@
 {
-  "Id": "6818d0d7-e4ff-49ce-8375-93f3a5c9e79a",
+  "Id": "5cca1e9d-e52c-48e6-8c45-c7314c676a09",
   "DllName": "EquipmentMiddle",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\Core\\Container\\Bin\\Assemblies\\Release\\EquipmentMiddle.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T11:55:26.6874435Z"
+    "ScanDate": "2026-07-11T11:28:22.2339491Z"
   },
   "Dependencies": [
     {

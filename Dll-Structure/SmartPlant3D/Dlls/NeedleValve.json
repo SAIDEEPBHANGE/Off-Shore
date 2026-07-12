@@ -1,5 +1,5 @@
 {
-  "Id": "d8c4bf0f-1b85-4f7c-8fa2-99475a5ad445",
+  "Id": "a5b138cd-371c-4cbf-b7ae-bdeda679a28f",
   "DllName": "NeedleValve",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\3DRefData\\SharedContent\\Bin\\Piping\\DotNetSymbols\\Release\\NeedleValve.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T11:55:26.5954671Z"
+    "ScanDate": "2026-07-11T11:28:22.2597092Z"
   },
   "Dependencies": [
     {

@@ -1,5 +1,5 @@
 {
-  "Id": "0c3ae252-c65b-4a72-b104-76d6ab97ee83",
+  "Id": "80f14a8b-95cb-4b40-b25e-5a7afd2ae169",
   "DllName": "DrawingWorkShareRes",
   "Version": "9.0.0.1405",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\Languages\\DrawingWorkShareRes.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T10:26:43.0387587Z"
+    "ScanDate": "2026-07-11T10:48:24.5133273Z"
   },
   "Dependencies": [
     {

@@ -1,5 +1,5 @@
 {
-  "Id": "2250f87f-9d50-443f-bd15-5abc3fddeb93",
+  "Id": "7dc7429d-c524-4597-be41-1c087b3a7502",
   "DllName": "ShellLinkInterfaceNET",
   "Version": "10.0.0.603",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\shelllinkinterfacenet.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T10:26:43.0387587Z"
+    "ScanDate": "2026-07-11T10:48:24.5203237Z"
   },
   "Dependencies": [
     {

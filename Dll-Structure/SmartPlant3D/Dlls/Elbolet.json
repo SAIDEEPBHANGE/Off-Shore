@@ -1,5 +1,5 @@
 {
-  "Id": "1ed7c51d-801e-4f3f-ae3a-970b4631dcab",
+  "Id": "8b1b6617-d6fe-4b59-b88c-83f58415e547",
   "DllName": "Elbolet",
   "Version": "1.0.0.1",
   "FilePath": "D:\\Off-Share\\Smart3D\\3DRefData\\SharedContent\\Bin\\Piping\\DotNetSymbols\\Release\\Elbolet.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T11:55:26.5931968Z"
+    "ScanDate": "2026-07-11T11:28:22.2730497Z"
   },
   "Dependencies": [
     {

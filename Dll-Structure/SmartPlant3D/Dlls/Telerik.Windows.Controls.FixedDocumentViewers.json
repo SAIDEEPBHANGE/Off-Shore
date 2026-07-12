@@ -1,5 +1,5 @@
 {
-  "Id": "82622b53-8274-46d9-9ae9-d1eae958867c",
+  "Id": "03603a24-0944-4163-b597-9e768fc1ac42",
   "DllName": "Telerik.Windows.Controls.FixedDocumentViewers",
   "Version": "2017.3.1018.45",
   "FilePath": "D:\\Off-Share\\Smart3D\\Documentation\\HelpApp\\Telerik.Windows.Controls.FixedDocumentViewers.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T11:55:26.8159162Z"
+    "ScanDate": "2026-07-11T11:28:22.2670284Z"
   },
   "Dependencies": [
     {

@@ -1,5 +1,5 @@
 {
-  "Id": "5ae4ae7f-7392-483f-8fb7-ce528f8674a8",
+  "Id": "824da3e5-b6ef-4b5c-b8f1-4eabba72c163",
   "DllName": "SP3DCoreDotNetUtils",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\Core\\Container\\Bin\\Assemblies\\Release\\SP3DCoreDotNetUtils.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T11:55:26.7292271Z"
+    "ScanDate": "2026-07-11T11:28:22.2472804Z"
   },
   "Dependencies": [
     {

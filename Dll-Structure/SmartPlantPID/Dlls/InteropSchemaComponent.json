@@ -1,5 +1,5 @@
 {
-  "Id": "d58d9f57-6dc2-4c2a-808b-4df86ce321ef",
+  "Id": "047295df-951c-44ae-8e8f-a81c95b047a1",
   "DllName": "InteropSchemaComponent",
   "Version": "1.35.0.0",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\InteropSchemaComponent.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v2.0.50727",
-    "ScanDate": "2026-06-28T10:26:43.0337582Z"
+    "ScanDate": "2026-07-11T10:48:24.5193118Z"
   },
   "Dependencies": [
     {

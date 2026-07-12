@@ -1,5 +1,5 @@
 {
-  "Id": "53926c27-4946-416f-b9d5-68a28f81f3ae",
+  "Id": "762a0fcb-7c61-4aae-b4f5-bb32c15af478",
   "DllName": "HVAC_Assy",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\3DRefData\\SharedContent\\Bin\\HangersAndSupports\\Rules\\Release\\HVAC_Assy.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T11:55:26.5812441Z"
+    "ScanDate": "2026-07-11T11:28:22.2369485Z"
   },
   "Dependencies": [
     {

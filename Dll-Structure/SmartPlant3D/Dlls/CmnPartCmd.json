@@ -1,5 +1,5 @@
 {
-  "Id": "a5bb70bc-330f-4d8d-b307-81039c27f0ae",
+  "Id": "138d1177-2e51-45b4-ba5f-5265f108318f",
   "DllName": "CmnPartCmd",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\CopyByFamily\\Assemblies\\Release\\CmnPartCmd.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T11:55:26.6578656Z"
+    "ScanDate": "2026-07-11T11:28:22.2740348Z"
   },
   "Dependencies": [
     {

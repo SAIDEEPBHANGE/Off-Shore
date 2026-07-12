@@ -1,5 +1,5 @@
 {
-  "Id": "ad216afd-d253-477a-a2eb-8172da17af03",
+  "Id": "50a041a9-d6bb-4ffc-8915-84a332b3f309",
   "DllName": "CivilMiddle.resources",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\Core\\Container\\Bin\\Assemblies\\Release\\en-US\\CivilMiddle.resources.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T11:55:26.7404762Z"
+    "ScanDate": "2026-07-11T11:28:22.2740348Z"
   },
   "Dependencies": [
     {

@@ -1,5 +1,5 @@
 {
-  "Id": "589c1521-20ad-4000-9376-895278c4bf6e",
+  "Id": "d9cafed0-7ad2-4c90-860a-0ef7bb4df724",
   "DllName": "EdgeTreatments",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\3DRefData\\SharedContent\\Bin\\StructDetail\\CustomAssemblies\\Release\\EdgeTreatments.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T11:55:26.6051649Z"
+    "ScanDate": "2026-07-11T11:28:22.2597092Z"
   },
   "Dependencies": [
     {

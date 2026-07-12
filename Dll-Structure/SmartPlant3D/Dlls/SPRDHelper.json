@@ -1,5 +1,5 @@
 {
-  "Id": "24ae5e96-1389-4514-a611-8a441daf9b07",
+  "Id": "aef6f16a-bf24-4c9c-9ec7-cc45ad59e3cf",
   "DllName": "SPRDHelper",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\Core\\Container\\Bin\\Assemblies\\Release\\SPRDHelper.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T11:55:26.7321039Z"
+    "ScanDate": "2026-07-11T11:28:22.2409488Z"
   },
   "Dependencies": [
     {

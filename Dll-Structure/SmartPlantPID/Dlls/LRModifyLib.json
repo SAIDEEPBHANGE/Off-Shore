@@ -1,5 +1,5 @@
 {
-  "Id": "720f660d-4c58-4408-bc71-564ea39acce0",
+  "Id": "514338f0-ba28-4c67-8018-6e6089e8c6ea",
   "DllName": "LRModifyLib",
   "Version": "9.0.0.1405",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\lrmodifylib.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T10:26:43.0347576Z"
+    "ScanDate": "2026-07-11T10:48:24.5153254Z"
   },
   "Dependencies": [
     {

@@ -1,5 +1,5 @@
 {
-  "Id": "a9f4c5c3-941c-43f8-a296-0471a9918cff",
+  "Id": "cab172f0-5da7-4247-9c0e-8630a81e20f0",
   "DllName": "CmdAssociatedItem",
   "Version": "9.0.0.1405",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\cmdassociateditem.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T10:26:43.0317595Z"
+    "ScanDate": "2026-07-11T10:48:24.5143269Z"
   },
   "Dependencies": [
     {

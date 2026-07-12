@@ -1,5 +1,5 @@
 {
-  "Id": "026954cd-033a-474c-a027-92080f6353eb",
+  "Id": "96948bd6-a014-44ea-9c6e-6881d5ea6168",
   "DllName": "XmlIOUtil",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\Core\\Container\\Bin\\Assemblies\\Release\\XmlIOUtil.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T11:55:26.7404762Z"
+    "ScanDate": "2026-07-11T11:28:22.234949Z"
   },
   "Dependencies": [
     {

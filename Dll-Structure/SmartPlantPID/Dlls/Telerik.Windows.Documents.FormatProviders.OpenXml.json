@@ -1,5 +1,5 @@
 {
-  "Id": "10e4f0a4-c2ce-4541-b86b-5db2157006a3",
+  "Id": "3bb95541-975d-4dd7-a763-41156db46b23",
   "DllName": "Telerik.Windows.Documents.FormatProviders.OpenXml",
   "Version": "2018.2.620.45",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\telerik.windows.documents.formatproviders.openxml.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T10:26:43.0387587Z"
+    "ScanDate": "2026-07-11T10:48:24.5123232Z"
   },
   "Dependencies": [
     {

@@ -1,5 +1,5 @@
 {
-  "Id": "d1e402c3-fafb-4965-adf3-1a5b1a0c217f",
+  "Id": "8bfdf13b-a045-4847-b8d3-ac729764f2ac",
   "DllName": "RADNetDataServer",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\RADNetDataServer.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T10:26:43.0387587Z"
+    "ScanDate": "2026-07-11T10:48:24.5153254Z"
   },
   "Dependencies": [
     {

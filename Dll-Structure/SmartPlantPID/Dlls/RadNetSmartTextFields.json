@@ -1,5 +1,5 @@
 {
-  "Id": "e6723445-4848-4662-9eb7-9e2b1c4d2156",
+  "Id": "5224d6d3-ee9f-40d7-91fa-18c5f049115f",
   "DllName": "RadNetSmartTextFields",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\RadNetSmartTextFields.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T10:26:43.0387587Z"
+    "ScanDate": "2026-07-11T10:48:24.5193118Z"
   },
   "Dependencies": [
     {

@@ -1,5 +1,5 @@
 {
-  "Id": "ab6c14f5-2531-4b1e-b336-e20952913617",
+  "Id": "0e174224-5820-4b40-a60e-37a9a55612ab",
   "DllName": "ECTORIConicalHead",
   "Version": "1.0.0.1",
   "FilePath": "D:\\Off-Share\\Smart3D\\3DRefData\\SharedContent\\Bin\\EquipmentComponents\\DotNetSymbols\\Release\\ECTORIConicalHead.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T11:55:26.5774826Z"
+    "ScanDate": "2026-07-11T11:28:22.2462584Z"
   },
   "Dependencies": [
     {

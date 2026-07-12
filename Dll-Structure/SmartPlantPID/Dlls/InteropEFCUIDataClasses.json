@@ -1,5 +1,5 @@
 {
-  "Id": "2b5c7217-ff8f-4abe-b797-cb4306ba3aee",
+  "Id": "4c50fc11-99b3-4d93-a84e-663b46171d25",
   "DllName": "InteropEFCUIDataClasses",
   "Version": "0.0.0.111",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\interopefcuIdataclasses.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v2.0.50727",
-    "ScanDate": "2026-06-28T10:26:43.0337582Z"
+    "ScanDate": "2026-07-11T10:48:24.5113244Z"
   },
   "Dependencies": [
     {

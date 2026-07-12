@@ -1,5 +1,5 @@
 {
-  "Id": "9f723d5f-6152-4c01-8477-119182fb0c17",
+  "Id": "115c190a-db65-40b9-9cd0-74864b61d320",
   "DllName": "EQKettleExchangerNestedHeads",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\3DRefData\\SharedContent\\Bin\\Equipment\\DotNetSymbols\\Release\\EQKettleExchangerNestedHeads.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T11:55:26.5676744Z"
+    "ScanDate": "2026-07-11T11:28:22.2485861Z"
   },
   "Dependencies": [
     {

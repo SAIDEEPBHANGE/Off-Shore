@@ -1,5 +1,5 @@
 {
-  "Id": "3a5bf5b1-591d-4c98-890f-6561ec63b800",
+  "Id": "8986180d-fa60-4cf1-bbf2-57508051efc6",
   "DllName": "Flange",
   "Version": "1.0.0.1",
   "FilePath": "D:\\Off-Share\\Smart3D\\3DRefData\\SharedContent\\Bin\\Piping\\DotNetSymbols\\Release\\Flange.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T11:55:26.5931968Z"
+    "ScanDate": "2026-07-11T11:28:22.2730497Z"
   },
   "Dependencies": [
     {

@@ -1,5 +1,5 @@
 {
-  "Id": "f23fb3a6-7bb8-43cf-a90b-6ed9803df116",
+  "Id": "37476377-df02-45fe-9eaa-a03d3b3b68bc",
   "DllName": "HeatTraceSSet",
   "Version": "9.0.0.1405",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\heattracesset.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T10:26:43.032759Z"
+    "ScanDate": "2026-07-11T10:48:24.5093279Z"
   },
   "Dependencies": [
     {

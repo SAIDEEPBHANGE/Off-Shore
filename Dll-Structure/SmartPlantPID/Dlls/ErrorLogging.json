@@ -1,5 +1,5 @@
 {
-  "Id": "35c56591-bc50-43e9-8fb3-e9d3adb8d408",
+  "Id": "5f6e1bfd-65b7-4ab5-8ae0-ba6ea2ca8913",
   "DllName": "ErrorLogging",
   "Version": "1.0.6364.28567",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\errorlogging.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T10:26:43.032759Z"
+    "ScanDate": "2026-07-11T10:48:24.5153254Z"
   },
   "Dependencies": [
     {

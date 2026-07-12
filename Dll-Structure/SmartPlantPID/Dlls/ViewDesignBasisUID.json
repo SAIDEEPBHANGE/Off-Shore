@@ -1,5 +1,5 @@
 {
-  "Id": "af7d3fe8-b681-4b47-963f-a849d0e8971a",
+  "Id": "c7085ed0-3f9e-4878-bb51-ef03c1cd5013",
   "DllName": "ViewDesignBasisUID",
   "Version": "9.0.0.1405",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\viewdesignbasisuid.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T10:26:43.0387587Z"
+    "ScanDate": "2026-07-11T10:48:24.5193118Z"
   },
   "Dependencies": [
     {

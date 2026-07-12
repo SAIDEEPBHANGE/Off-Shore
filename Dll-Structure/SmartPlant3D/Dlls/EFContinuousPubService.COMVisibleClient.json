@@ -1,5 +1,5 @@
 {
-  "Id": "a22eb799-4f79-487b-a918-f93ae9f86e2e",
+  "Id": "41faeda3-fe1e-4129-bf70-9f11531ce48d",
   "DllName": "EFContinuousPubService.COMVisibleClient",
   "Version": "12.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\Core\\Client\\Bin\\EFContinuousPubService.COMVisibleClient.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T11:55:26.6601349Z"
+    "ScanDate": "2026-07-11T11:28:22.2690202Z"
   },
   "Dependencies": [
     {

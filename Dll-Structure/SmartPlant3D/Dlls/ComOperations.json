@@ -1,5 +1,5 @@
 {
-  "Id": "03610380-1612-48a8-8670-e6bd4be0bdcd",
+  "Id": "0b667f24-d33b-48e2-8838-a626e857abcc",
   "DllName": "ComOperations",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\CopyByFamily\\Assemblies\\Release\\ComOperations.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T11:55:26.6578656Z"
+    "ScanDate": "2026-07-11T11:28:22.276034Z"
   },
   "Dependencies": [
     {

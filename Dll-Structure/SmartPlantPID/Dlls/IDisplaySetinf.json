@@ -1,5 +1,5 @@
 {
-  "Id": "b8af6af9-fed9-4a20-b6b3-0ec6edc7e55c",
+  "Id": "e9c78447-da3c-41e7-80b2-0f6c84dc4ed3",
   "DllName": "IDisplaySetinf",
   "Version": "9.0.0.1405",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\idisplaysetinf.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T10:26:43.032759Z"
+    "ScanDate": "2026-07-11T10:48:24.5133273Z"
   },
   "Dependencies": [
     {

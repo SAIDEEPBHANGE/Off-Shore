@@ -1,5 +1,5 @@
 {
-  "Id": "3b9249b4-d50a-4f3b-88b4-52106585723a",
+  "Id": "9c33e5bd-b2fd-4768-b715-9cb850866a76",
   "DllName": "CmdOpenForeignFile",
   "Version": "9.0.0.1405",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\cmdopenforeignfile.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T10:26:43.0317595Z"
+    "ScanDate": "2026-07-11T10:48:24.5153254Z"
   },
   "Dependencies": [
     {

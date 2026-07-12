@@ -1,5 +1,5 @@
 {
-  "Id": "0913346f-3cd4-482c-9f20-ae7bfacfaeed",
+  "Id": "436d00cc-d460-4214-85d4-822d5897e0b4",
   "DllName": "CTLeftWye",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\3DRefData\\SharedContent\\Bin\\Electrical\\DotNetSymbols\\Release\\CTLeftWye.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T11:55:26.5617443Z"
+    "ScanDate": "2026-07-11T11:28:22.2670284Z"
   },
   "Dependencies": [
     {

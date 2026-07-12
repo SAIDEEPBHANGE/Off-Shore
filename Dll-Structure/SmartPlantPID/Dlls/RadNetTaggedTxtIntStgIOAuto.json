@@ -1,5 +1,5 @@
 {
-  "Id": "6bebec9d-f6a9-4976-92fc-be5f2da66027",
+  "Id": "a9681df4-5231-4cfc-99a7-d8b859b63b90",
   "DllName": "RadNetTaggedTxtIntStgIOAuto",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\RadNetTaggedTxtIntStgIOAuto.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T10:26:43.0387587Z"
+    "ScanDate": "2026-07-11T10:48:24.5133273Z"
   },
   "Dependencies": [
     {

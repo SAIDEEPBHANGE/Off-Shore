@@ -1,5 +1,5 @@
 {
-  "Id": "a7cef033-496d-4a4d-aa70-edc3375ced69",
+  "Id": "39d04be6-32f8-452d-a272-d57f8dbd50b4",
   "DllName": "Xceed.FileSystem.v6.3",
   "Version": "6.3.17281.13580",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\Xceed.FileSystem.v6.3.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T10:26:43.0387587Z"
+    "ScanDate": "2026-07-11T10:48:24.5113244Z"
   },
   "Dependencies": [
     {

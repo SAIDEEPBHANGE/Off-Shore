@@ -1,5 +1,5 @@
 {
-  "Id": "38fed984-51bc-4f56-ae22-848f295f0021",
+  "Id": "b284584a-d52d-4317-aff1-e24ae375116e",
   "DllName": "ManufacturingRepairClient.resources",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\Core\\Container\\Bin\\Assemblies\\Release\\en-US\\ManufacturingRepairClient.resources.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T11:55:26.7434913Z"
+    "ScanDate": "2026-07-11T11:28:22.2472804Z"
   },
   "Dependencies": [
     {

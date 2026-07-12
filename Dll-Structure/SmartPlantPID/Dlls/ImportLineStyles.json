@@ -1,5 +1,5 @@
 {
-  "Id": "86888409-27af-4cd0-8b2b-4fd7b4c6e6e5",
+  "Id": "7337cbc1-94f8-4e24-9090-b3bc672fa1e1",
   "DllName": "ImportLineStyles",
   "Version": "9.0.0.1405",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\importlinestyles.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T10:26:43.0337582Z"
+    "ScanDate": "2026-07-11T10:48:24.5123232Z"
   },
   "Dependencies": [
     {

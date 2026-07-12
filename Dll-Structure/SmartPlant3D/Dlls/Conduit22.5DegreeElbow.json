@@ -1,5 +1,5 @@
 {
-  "Id": "46ab0338-e030-430a-a4ba-3f1a68afc69a",
+  "Id": "98cb9cee-7b3b-4985-9ce6-2c857eaa7378",
   "DllName": "Conduit22.5DegreeElbow",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\3DRefData\\SharedContent\\Bin\\Electrical\\DotNetSymbols\\Release\\Conduit22.5DegreeElbow.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T11:55:26.5607359Z"
+    "ScanDate": "2026-07-11T11:28:22.2329497Z"
   },
   "Dependencies": [
     {

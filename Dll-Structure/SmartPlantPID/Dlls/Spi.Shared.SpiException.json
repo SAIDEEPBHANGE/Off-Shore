@@ -1,5 +1,5 @@
 {
-  "Id": "0f90a575-fcd5-452b-a793-4344f203c941",
+  "Id": "ed148908-cc27-44c7-88c6-a0d66ed189c1",
   "DllName": "Spi.Shared.SpiException",
   "Version": "13.0.0.28",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\spi.shared.spiexception.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T10:26:43.0387587Z"
+    "ScanDate": "2026-07-11T10:48:24.5183186Z"
   },
   "Dependencies": [
     {

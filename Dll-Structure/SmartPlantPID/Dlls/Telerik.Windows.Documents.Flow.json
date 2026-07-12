@@ -1,5 +1,5 @@
 {
-  "Id": "c9e18adf-3a7b-4f1a-b18d-cff14f2c983b",
+  "Id": "2ba46733-cdb2-4eb3-a2a5-b516a57090b1",
   "DllName": "Telerik.Windows.Documents.Flow",
   "Version": "2018.2.619.40",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\telerik.windows.documents.flow.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T10:26:43.0387587Z"
+    "ScanDate": "2026-07-11T10:48:24.5093279Z"
   },
   "Dependencies": [
     {

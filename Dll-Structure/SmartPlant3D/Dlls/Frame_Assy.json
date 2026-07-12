@@ -1,5 +1,5 @@
 {
-  "Id": "a8c757ea-5057-46df-9323-37a34e44b641",
+  "Id": "35fbfc80-b711-44af-9db9-824c3e50cebf",
   "DllName": "Frame_Assy",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\3DRefData\\SharedContent\\Bin\\HangersAndSupports\\Rules\\Release\\Frame_Assy.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T11:55:26.5802922Z"
+    "ScanDate": "2026-07-11T11:28:22.2730497Z"
   },
   "Dependencies": [
     {

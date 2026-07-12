@@ -1,5 +1,5 @@
 {
-  "Id": "ef81dd80-43e0-481e-8257-7e8deaa29c80",
+  "Id": "697b49b9-a42b-4139-8d62-8c7d060b96a9",
   "DllName": "igrProperty412",
   "Version": "10.0.0.603",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\igrProperty412.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T10:26:43.032759Z"
+    "ScanDate": "2026-07-11T10:48:24.5183186Z"
   },
   "Dependencies": [
     {

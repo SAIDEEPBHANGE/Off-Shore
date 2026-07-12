@@ -1,5 +1,5 @@
 {
-  "Id": "502d9bb0-ab41-48a2-b883-8b182866b38f",
+  "Id": "3bae0755-f509-44d5-9f7f-7d89caa74414",
   "DllName": "ProcessStatsCounters",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\Core\\Container\\Bin\\Assemblies\\Release\\ProcessStatsCounters.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T11:55:26.7176771Z"
+    "ScanDate": "2026-07-11T11:28:22.2700339Z"
   },
   "Dependencies": [
     {

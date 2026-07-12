@@ -1,14 +1,14 @@
 {
-  "Id": "315fd256-40a5-431e-b05f-c09aa5d697df",
+  "Id": "a4ec58c5-809b-4945-84a8-7fda907f8581",
   "DllName": "Interop.TitleBlockInfo",
   "Version": "1.0.0.0",
-  "FilePath": "D:\\Off-Share\\Smart3D\\Common2D\\Rad2D\\bin64\\Interop.TitleBlockInfo.dll",
+  "FilePath": "D:\\Off-Share\\Smart3D\\Common2D\\Rad2D\\bin\\Interop.TitleBlockInfo.dll",
   "Metadata": {
     "AssemblyName": "Interop.TitleBlockInfo",
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T11:55:26.650508Z"
+    "ScanDate": "2026-07-11T11:28:22.2680391Z"
   },
   "Dependencies": [
     {

@@ -1,5 +1,5 @@
 {
-  "Id": "99f26adf-68c5-4895-a63c-d3fc22faa249",
+  "Id": "7d8c41d0-85cf-4352-accd-26f857c6d91f",
   "DllName": "SPPropertyGrid",
   "Version": "9.0.0.1405",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\sppropertygrid.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T10:26:43.0387587Z"
+    "ScanDate": "2026-07-11T10:48:24.5143269Z"
   },
   "Dependencies": [
     {

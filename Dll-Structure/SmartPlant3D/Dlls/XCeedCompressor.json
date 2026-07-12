@@ -1,5 +1,5 @@
 {
-  "Id": "2962dd60-3b6e-4f02-86d6-3cccb1738a75",
+  "Id": "819871a5-aa52-4fa8-8c6c-76756ec4aedc",
   "DllName": "XCeedCompressor",
   "Version": "0.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\Core\\Shared\\Bin64\\XCeedCompressor.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T11:55:26.7906245Z"
+    "ScanDate": "2026-07-11T11:28:22.2577098Z"
   },
   "Dependencies": [
     {

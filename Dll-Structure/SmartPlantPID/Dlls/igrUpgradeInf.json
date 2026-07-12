@@ -1,5 +1,5 @@
 {
-  "Id": "b8e5e370-5b7d-4980-a84c-8d48cf5c8b75",
+  "Id": "d1ece538-f081-4623-93b2-72e818525edf",
   "DllName": "igrUpgradeInf",
   "Version": "10.0.0.603",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\igrUpgradeInf.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T10:26:43.0337582Z"
+    "ScanDate": "2026-07-11T10:48:24.5093279Z"
   },
   "Dependencies": [
     {

@@ -1,5 +1,5 @@
 {
-  "Id": "2738f75f-8637-4e77-b1e8-493e161fa16f",
+  "Id": "fdaa61d7-f2a7-4e0b-af9b-13c0da434a68",
   "DllName": "RelationshipBrowser",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\Core\\Container\\Bin\\Assemblies\\Release\\RelationshipBrowser.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T11:55:26.720167Z"
+    "ScanDate": "2026-07-11T11:28:22.2429482Z"
   },
   "Dependencies": [
     {

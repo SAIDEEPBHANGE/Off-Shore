@@ -1,5 +1,5 @@
 {
-  "Id": "d3f6983f-6e2f-43fd-b25d-7aaf52888a1b",
+  "Id": "bf321496-28e7-45e2-b794-347d04e3ffcf",
   "DllName": "PartMonitorErrors",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\Core\\Container\\Bin\\Assemblies\\Release\\PartMonitorErrors.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T11:55:26.706206Z"
+    "ScanDate": "2026-07-11T11:28:22.2670284Z"
   },
   "Dependencies": [
     {

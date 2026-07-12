@@ -1,5 +1,5 @@
 {
-  "Id": "1b97cb70-3aec-4f65-8fd0-dcb21e473887",
+  "Id": "4912204d-9dc0-4338-8bfe-fc806a7a2e7b",
   "DllName": "SPFTPUtilImpl",
   "Version": "9.0.0.1405",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\spftputilimpl.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T10:26:43.0387587Z"
+    "ScanDate": "2026-07-11T10:48:24.5113244Z"
   },
   "Dependencies": [
     {

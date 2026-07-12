@@ -1,5 +1,5 @@
 {
-  "Id": "be56e7eb-8eae-45d2-a8b9-ad0b990f3005",
+  "Id": "0ffc67d2-b882-4bdf-ab61-fab7a99ff856",
   "DllName": "EQPlateExchangerAsm",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\3DRefData\\SharedContent\\Bin\\Equipment\\DotNetSymbols\\Release\\EQPlateExchangerAsm.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T11:55:26.5676744Z"
+    "ScanDate": "2026-07-11T11:28:22.2472804Z"
   },
   "Dependencies": [
     {

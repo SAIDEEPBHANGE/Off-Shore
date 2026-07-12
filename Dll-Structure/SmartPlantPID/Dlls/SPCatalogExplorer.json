@@ -1,5 +1,5 @@
 {
-  "Id": "138bad24-44b9-4120-b509-71159b0c02d2",
+  "Id": "331c0a65-ac57-4a5b-b1fe-32d36ef2d55d",
   "DllName": "SPCatalogExplorer",
   "Version": "0.0.0.0",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\SPCatalogExplorer.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T10:26:43.0387587Z"
+    "ScanDate": "2026-07-11T10:48:24.5113244Z"
   },
   "Dependencies": [
     {

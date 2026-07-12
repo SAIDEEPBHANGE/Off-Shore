@@ -1,5 +1,5 @@
 {
-  "Id": "a94f0f43-1a21-40aa-8f4c-b43bee097c36",
+  "Id": "925c7b28-780a-4169-990d-cc3a69b78a26",
   "DllName": "Microsoft.SqlServer.Management.RegisteredServers",
   "Version": "14.100.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\Core\\Container\\Bin\\Assemblies\\Release\\SMO\\14.1\\Microsoft.SqlServer.Management.RegisteredServers.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v2.0.50727",
-    "ScanDate": "2026-06-28T11:55:26.7482666Z"
+    "ScanDate": "2026-07-11T11:28:22.2670284Z"
   },
   "Dependencies": [
     {

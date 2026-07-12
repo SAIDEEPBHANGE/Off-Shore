@@ -1,5 +1,5 @@
 {
-  "Id": "45079f24-db3e-4c62-a432-5978227be1c4",
+  "Id": "ce98f65e-54ed-4a6e-a820-c3f268ae368b",
   "DllName": "RADNetStyleBarCtrl",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\RADNetStyleBarCtrl.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T10:26:43.0387587Z"
+    "ScanDate": "2026-07-11T10:48:24.5103255Z"
   },
   "Dependencies": [
     {

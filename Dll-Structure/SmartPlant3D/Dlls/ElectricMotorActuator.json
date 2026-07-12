@@ -1,5 +1,5 @@
 {
-  "Id": "579d6975-7f51-431a-b98a-75bda525f2a8",
+  "Id": "5e40bdfb-05bb-4858-aa23-8cd02751d3c1",
   "DllName": "ElectricMotorActuator",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\3DRefData\\SharedContent\\Bin\\Piping\\DotNetSymbols\\Release\\ElectricMotorActuator.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T11:55:26.5931968Z"
+    "ScanDate": "2026-07-11T11:28:22.2647088Z"
   },
   "Dependencies": [
     {

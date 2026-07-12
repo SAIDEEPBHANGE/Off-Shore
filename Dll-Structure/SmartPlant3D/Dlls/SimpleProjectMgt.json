@@ -1,5 +1,5 @@
 {
-  "Id": "ddb949bb-9945-4992-8f22-ce936dd7716a",
+  "Id": "e7513b1d-d461-413b-85c5-a02c6ca6d5e0",
   "DllName": "SimpleProjectMgt",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\Core\\Container\\Bin\\Assemblies\\Release\\SimpleProjectMgt.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T11:55:26.7252279Z"
+    "ScanDate": "2026-07-11T11:28:22.2439479Z"
   },
   "Dependencies": [
     {

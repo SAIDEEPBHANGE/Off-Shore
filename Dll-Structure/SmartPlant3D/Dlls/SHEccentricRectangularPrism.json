@@ -1,5 +1,5 @@
 {
-  "Id": "706f29fb-f07e-47bc-89cf-d3e8253e4e0b",
+  "Id": "4c1947e9-5a16-40da-a7ce-16840c07c7e1",
   "DllName": "SHEccentricRectangularPrism",
   "Version": "1.0.0.1",
   "FilePath": "D:\\Off-Share\\Smart3D\\3DRefData\\SharedContent\\Bin\\Shapes\\DotNetSymbols\\Release\\SHEccentricRectangularPrism.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T11:55:26.5991233Z"
+    "ScanDate": "2026-07-11T11:28:22.2607088Z"
   },
   "Dependencies": [
     {

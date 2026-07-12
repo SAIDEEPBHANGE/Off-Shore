@@ -1,5 +1,5 @@
 {
-  "Id": "bb9fb79b-bf25-4ac9-8758-f5b5cb1a5081",
+  "Id": "6e3d5fe8-408e-4a4f-81b5-b9ae4bd9a688",
   "DllName": "SPCatalogIndex",
   "Version": "9.0.0.1405",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\spcatalogindex.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T10:26:43.0387587Z"
+    "ScanDate": "2026-07-11T10:48:24.5133273Z"
   },
   "Dependencies": [
     {

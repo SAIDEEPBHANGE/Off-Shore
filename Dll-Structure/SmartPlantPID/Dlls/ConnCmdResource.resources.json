@@ -1,5 +1,5 @@
 {
-  "Id": "3f0b6c24-39b1-4137-bc08-c28fa74258b0",
+  "Id": "326f62da-55fe-4ee8-9dda-1337edcaadd4",
   "DllName": "ConnCmdResource.resources",
   "Version": "9.0.0.1405",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\Languages\\en-US\\conncmdresource.resources.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T10:26:43.0387587Z"
+    "ScanDate": "2026-07-11T10:48:24.5123232Z"
   },
   "Dependencies": [
     {

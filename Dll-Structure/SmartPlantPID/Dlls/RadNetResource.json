@@ -1,5 +1,5 @@
 {
-  "Id": "ca2997d4-0e52-4d4b-9a9d-08e9acf188f1",
+  "Id": "307b9b21-6740-4143-b4d7-6fea7e11d5e7",
   "DllName": "RadNetResource",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\RadNetResource.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T10:26:43.0387587Z"
+    "ScanDate": "2026-07-11T10:48:24.5133273Z"
   },
   "Dependencies": [
     {

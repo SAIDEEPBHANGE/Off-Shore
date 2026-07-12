@@ -1,5 +1,5 @@
 {
-  "Id": "b67290f0-7780-41db-84c5-847122e1959c",
+  "Id": "9e419d48-a4d8-48a6-b16b-35cc6af5ea40",
   "DllName": "TrayShip_Assy",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\3DRefData\\SharedContent\\Bin\\HangersAndSupports\\Rules\\Release\\TrayShip_Assy.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T11:55:26.5832392Z"
+    "ScanDate": "2026-07-11T11:28:22.2399485Z"
   },
   "Dependencies": [
     {

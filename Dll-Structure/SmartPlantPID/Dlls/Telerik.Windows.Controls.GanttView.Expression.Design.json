@@ -1,5 +1,5 @@
 {
-  "Id": "f2765d1b-a131-42b7-aed6-84f0abb8772f",
+  "Id": "8d7f74b0-7965-438e-8161-6df7588605ba",
   "DllName": "Telerik.Windows.Controls.GanttView.Expression.Design",
   "Version": "2018.2.620.45",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\telerik.windows.controls.ganttview.expression.design.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T10:26:43.0387587Z"
+    "ScanDate": "2026-07-11T10:48:24.5193118Z"
   },
   "Dependencies": [
     {

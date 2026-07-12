@@ -1,5 +1,5 @@
 {
-  "Id": "99f66ced-4658-4407-b9e0-39df400c31ba",
+  "Id": "3456969f-7772-45c5-bf86-987ecf26dbc8",
   "DllName": "ISPArchiveComponents",
   "Version": "9.0.0.1405",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\isparchivecomponents.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T10:26:43.0337582Z"
+    "ScanDate": "2026-07-11T10:48:24.5123232Z"
   },
   "Dependencies": [
     {

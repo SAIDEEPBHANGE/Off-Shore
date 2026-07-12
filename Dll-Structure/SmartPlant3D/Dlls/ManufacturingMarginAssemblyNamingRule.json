@@ -1,5 +1,5 @@
 {
-  "Id": "739849a6-e5e5-4e7d-b9e4-720e8cdfead6",
+  "Id": "b4b984f8-4284-4b11-8202-e21d1aab2e2c",
   "DllName": "ManufacturingMarginAssemblyNamingRule",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\3DRefData\\SharedContent\\Bin\\StructManufacturing\\Rules\\Release\\ManufacturingMarginAssemblyNamingRule.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T11:55:26.6089102Z"
+    "ScanDate": "2026-07-11T11:28:22.2627089Z"
   },
   "Dependencies": [
     {

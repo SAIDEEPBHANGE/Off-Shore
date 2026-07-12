@@ -1,5 +1,5 @@
 {
-  "Id": "c91ef510-4adb-46dc-8f45-e1a79c9c3ee4",
+  "Id": "173afc83-ba0e-4523-baab-93f61473953d",
   "DllName": "SPConnectAdapter420",
   "Version": "10.0.0.603",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\spconnectadapter420.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T10:26:43.0387587Z"
+    "ScanDate": "2026-07-11T10:48:24.5193118Z"
   },
   "Dependencies": [
     {

@@ -1,5 +1,5 @@
 {
-  "Id": "7e61beec-acee-4f9f-a1a2-e3ab409259af",
+  "Id": "dc8f34ca-e099-4b8a-80f5-4a3af487b6b2",
   "DllName": "AncillaryGraphicsCtl",
   "Version": "9.0.0.1405",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\ancillarygraphicsctl.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T10:26:43.0317595Z"
+    "ScanDate": "2026-07-11T10:48:24.5123232Z"
   },
   "Dependencies": [
     {

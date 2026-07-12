@@ -1,5 +1,5 @@
 {
-  "Id": "61ed570b-3a0e-475b-a536-991778da6aed",
+  "Id": "917b1326-7816-42e8-bf0d-c63e91da8c41",
   "DllName": "ReportsMiddle.resources",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\Core\\Container\\Bin\\Assemblies\\Release\\en-US\\ReportsMiddle.resources.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T11:55:26.7444785Z"
+    "ScanDate": "2026-07-11T11:28:22.2740348Z"
   },
   "Dependencies": [
     {

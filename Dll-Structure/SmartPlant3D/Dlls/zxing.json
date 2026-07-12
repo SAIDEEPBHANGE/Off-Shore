@@ -1,5 +1,5 @@
 {
-  "Id": "7a52a5ed-fe2f-4a5f-a56d-03169b176ff5",
+  "Id": "340a24f0-e301-485a-b50e-8ce84cd1c623",
   "DllName": "zxing",
   "Version": "0.14.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\DrawingsIsometric\\Alias\\Core Components\\zxing.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T11:55:26.8289956Z"
+    "ScanDate": "2026-07-11T11:28:22.2496605Z"
   },
   "Dependencies": [
     {

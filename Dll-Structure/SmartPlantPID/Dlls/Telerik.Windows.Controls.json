@@ -1,5 +1,5 @@
 {
-  "Id": "551fe5c3-e78e-4059-8098-1f78c1e9bfa0",
+  "Id": "b85784e5-58cc-4ad9-9bc0-7d6e5e996f71",
   "DllName": "Telerik.Windows.Controls",
   "Version": "2016.1.217.40",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\SxS\\Telerik\\Telerik.Windows.Controls.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T10:26:43.0387587Z"
+    "ScanDate": "2026-07-11T10:48:24.5193118Z"
   },
   "Dependencies": [
     {

@@ -1,5 +1,5 @@
 {
-  "Id": "da1da04f-3388-4135-8645-8261768aa8fd",
+  "Id": "addfa710-7f33-4ba3-b570-664185e1a724",
   "DllName": "Telerik.Windows.Controls.RichTextBoxUI.Expression.Design",
   "Version": "2018.2.620.45",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\telerik.windows.controls.richtextboxui.expression.design.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T10:26:43.0387587Z"
+    "ScanDate": "2026-07-11T10:48:24.5143269Z"
   },
   "Dependencies": [
     {

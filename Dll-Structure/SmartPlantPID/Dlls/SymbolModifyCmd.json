@@ -1,5 +1,5 @@
 {
-  "Id": "25cd04bb-9ab8-4198-8b00-ea6e5d6c0cba",
+  "Id": "40179aca-2663-42e7-b5cf-b707f98d2d9a",
   "DllName": "SymbolModifyCmd",
   "Version": "9.0.0.1405",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\symbolmodifycmd.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T10:26:43.0387587Z"
+    "ScanDate": "2026-07-11T10:48:24.5133273Z"
   },
   "Dependencies": [
     {

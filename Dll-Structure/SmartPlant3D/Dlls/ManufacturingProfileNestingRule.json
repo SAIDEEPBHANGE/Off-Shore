@@ -1,5 +1,5 @@
 {
-  "Id": "97c56671-f5c0-414c-8de1-4ba2c224f78a",
+  "Id": "100324f2-d731-44b1-990d-c90e3a318a8b",
   "DllName": "ManufacturingProfileNestingRule",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\3DRefData\\SharedContent\\Bin\\StructManufacturing\\Rules\\Release\\ManufacturingProfileNestingRule.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T11:55:26.611271Z"
+    "ScanDate": "2026-07-11T11:28:22.276034Z"
   },
   "Dependencies": [
     {

@@ -1,5 +1,5 @@
 {
-  "Id": "755e9128-bf80-49ab-baee-aa6edf32747e",
+  "Id": "e06ed02e-0e07-412e-97c0-ad283ceb2e1b",
   "DllName": "RADNetRemoveEmptyLayers",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\RADNetRemoveEmptyLayers.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T10:26:43.0387587Z"
+    "ScanDate": "2026-07-11T10:48:24.5093279Z"
   },
   "Dependencies": [
     {

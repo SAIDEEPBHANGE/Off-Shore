@@ -1,5 +1,5 @@
 {
-  "Id": "d780ac51-ab67-41f0-b043-62f8515d0ccc",
+  "Id": "8d80edb4-c29a-40ef-9721-b1b10e9bbcf8",
   "DllName": "GeneralProfiles",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\3DRefData\\SharedContent\\Bin\\HangersAndSupports\\Symbols\\Release\\GeneralProfiles.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T11:55:26.5847831Z"
+    "ScanDate": "2026-07-11T11:28:22.2700339Z"
   },
   "Dependencies": [
     {

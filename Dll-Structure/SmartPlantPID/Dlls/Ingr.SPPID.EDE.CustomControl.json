@@ -1,5 +1,5 @@
 {
-  "Id": "a2bb7de3-e1e3-499d-aead-5e3c2b74c515",
+  "Id": "576701a2-ecc4-4ef1-9190-504e14b1f98f",
   "DllName": "Ingr.SPPID.EDE.CustomControl",
   "Version": "9.0.0.1405",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\ingr.sppid.ede.customcontrol.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T10:26:43.0337582Z"
+    "ScanDate": "2026-07-11T10:48:24.5113244Z"
   },
   "Dependencies": [
     {

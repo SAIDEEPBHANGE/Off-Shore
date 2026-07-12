@@ -1,5 +1,5 @@
 {
-  "Id": "4a9fd972-4eb9-42d5-a7c3-8432f1fc76d3",
+  "Id": "40bb3da5-bef4-4902-85f0-77843521539a",
   "DllName": "Telerik.Windows.Controls.RibbonView.VisualStudio.Design",
   "Version": "2018.2.620.45",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\telerik.windows.controls.ribbonview.visualstudio.design.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T10:26:43.0387587Z"
+    "ScanDate": "2026-07-11T10:48:24.5113244Z"
   },
   "Dependencies": [
     {

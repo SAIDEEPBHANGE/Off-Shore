@@ -1,5 +1,5 @@
 {
-  "Id": "855722b2-3a48-43b3-84e2-73fc27667559",
+  "Id": "06dc452f-2e5a-48c9-9b64-9ffd6cf9b0bc",
   "DllName": "PlantConfig",
   "Version": "10.0.0.603",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\plantconfig.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T10:26:43.0387587Z"
+    "ScanDate": "2026-07-11T10:48:24.5193118Z"
   },
   "Dependencies": [
     {

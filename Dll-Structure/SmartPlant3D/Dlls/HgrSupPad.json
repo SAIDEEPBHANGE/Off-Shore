@@ -1,5 +1,5 @@
 {
-  "Id": "315d9dae-245c-43de-9fc8-6c661c246132",
+  "Id": "5273e5ff-6b09-45a6-9c10-c7f6d0511acd",
   "DllName": "HgrSupPad",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\3DRefData\\SharedContent\\Bin\\HangersAndSupports\\Symbols\\Release\\HgrSupPad.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T11:55:26.5847831Z"
+    "ScanDate": "2026-07-11T11:28:22.2740348Z"
   },
   "Dependencies": [
     {

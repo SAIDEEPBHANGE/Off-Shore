@@ -1,5 +1,5 @@
 {
-  "Id": "54118823-756d-4c5e-a6b2-9719b2ff2332",
+  "Id": "ea5b125e-9a9d-40d0-a381-8657c32bbaad",
   "DllName": "HandRails",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\3DRefData\\SharedContent\\Bin\\SmartPlantStructure\\Symbols\\Release\\HandRails.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T11:55:26.6008378Z"
+    "ScanDate": "2026-07-11T11:28:22.238948Z"
   },
   "Dependencies": [
     {

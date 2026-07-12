@@ -1,5 +1,5 @@
 {
-  "Id": "dfb5854d-25b7-45ff-a03c-da39917628ac",
+  "Id": "c50f2375-bc7c-44c6-8b96-d64661211ab5",
   "DllName": "Telerik.Windows.Themes.VisualStudio2013",
   "Version": "2018.2.620.45",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\telerik.windows.themes.visualstudio2013.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T10:26:43.0387587Z"
+    "ScanDate": "2026-07-11T10:48:24.5133273Z"
   },
   "Dependencies": [
     {

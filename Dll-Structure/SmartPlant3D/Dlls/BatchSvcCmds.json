@@ -1,5 +1,5 @@
 {
-  "Id": "16d35940-8248-4f45-97c5-bfbacf6a5bd7",
+  "Id": "0dedabfa-9ec9-4ad8-ba59-c1292e88d282",
   "DllName": "BatchSvcCmds",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\Core\\Container\\Bin\\Assemblies\\Release\\BatchSvcCmds.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T11:55:26.6601349Z"
+    "ScanDate": "2026-07-11T11:28:22.2485861Z"
   },
   "Dependencies": [
     {

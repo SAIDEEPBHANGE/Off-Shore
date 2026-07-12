@@ -1,5 +1,5 @@
 {
-  "Id": "b8856c11-cf33-4cc9-bb0f-9bed59f28cc0",
+  "Id": "8da3bec4-46b0-422f-977e-1c0ae280dff2",
   "DllName": "CefSharp.BrowserSubprocess.Core",
   "Version": "53.0.1.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\Documentation\\HelpApp\\CefSharp.BrowserSubprocess.Core.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T11:55:26.7945132Z"
+    "ScanDate": "2026-07-11T11:28:22.2730497Z"
   },
   "Dependencies": [
     {

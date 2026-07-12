@@ -1,5 +1,5 @@
 {
-  "Id": "52231750-07fd-4ec0-adae-2b5b55e002aa",
+  "Id": "336eee19-e8d5-402f-adf9-dc4e6d6f54fc",
   "DllName": "CefSharp",
   "Version": "53.0.1.0",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\cefsharp.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T10:26:43.0317595Z"
+    "ScanDate": "2026-07-11T10:48:24.5113244Z"
   },
   "Dependencies": [
     {

@@ -1,5 +1,5 @@
 {
-  "Id": "896f6445-84a0-4809-b78c-f213396699a7",
+  "Id": "65b0c41e-42ab-4a97-87a7-b4064f5bda93",
   "DllName": "Telerik.Windows.Documents.Spreadsheet.FormatProviders.Pdf",
   "Version": "2018.2.619.40",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\telerik.windows.documents.spreadsheet.formatproviders.pdf.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T10:26:43.0387587Z"
+    "ScanDate": "2026-07-11T10:48:24.5143269Z"
   },
   "Dependencies": [
     {

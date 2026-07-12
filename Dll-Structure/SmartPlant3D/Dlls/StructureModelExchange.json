@@ -1,5 +1,5 @@
 {
-  "Id": "db3af221-2539-4d6b-b2fc-99e1c80d58ca",
+  "Id": "5d5e4e04-9356-4878-88ab-8b8dd1c0efb2",
   "DllName": "StructureModelExchange",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\Core\\Container\\Bin\\Assemblies\\Release\\StructureModelExchange.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T11:55:26.7331132Z"
+    "ScanDate": "2026-07-11T11:28:22.2597092Z"
   },
   "Dependencies": [
     {

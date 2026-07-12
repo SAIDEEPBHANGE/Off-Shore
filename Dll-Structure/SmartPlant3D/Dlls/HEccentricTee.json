@@ -1,5 +1,5 @@
 {
-  "Id": "d5008622-7938-4c88-8735-973912d06956",
+  "Id": "fe8a6007-87a8-43ec-91e7-d076e02e36bf",
   "DllName": "HEccentricTee",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\3DRefData\\SharedContent\\Bin\\Ducting\\DotNetSymbols\\Release\\HEccentricTee.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T11:55:26.5583688Z"
+    "ScanDate": "2026-07-11T11:28:22.238948Z"
   },
   "Dependencies": [
     {

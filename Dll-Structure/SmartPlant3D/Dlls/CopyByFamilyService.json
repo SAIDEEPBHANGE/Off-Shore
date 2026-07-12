@@ -1,5 +1,5 @@
 {
-  "Id": "8b659515-84a4-4f86-ab17-cf5e77e8af7d",
+  "Id": "c46991f2-5025-4c2f-a8c7-54c0c386e6fb",
   "DllName": "CopyByFamilyService",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\CopyByFamily\\Assemblies\\Release\\CopyByFamilyService.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T11:55:26.6578656Z"
+    "ScanDate": "2026-07-11T11:28:22.2419484Z"
   },
   "Dependencies": [
     {

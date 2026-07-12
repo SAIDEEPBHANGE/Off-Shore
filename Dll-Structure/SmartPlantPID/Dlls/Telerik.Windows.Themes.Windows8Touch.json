@@ -1,5 +1,5 @@
 {
-  "Id": "bd51dd86-4b55-46b1-8613-38d51a40e84e",
+  "Id": "d519b522-c4bb-42ca-9bcb-1b90c01812f2",
   "DllName": "Telerik.Windows.Themes.Windows8Touch",
   "Version": "2018.2.620.45",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\telerik.windows.themes.windows8touch.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T10:26:43.0387587Z"
+    "ScanDate": "2026-07-11T10:48:24.5193118Z"
   },
   "Dependencies": [
     {

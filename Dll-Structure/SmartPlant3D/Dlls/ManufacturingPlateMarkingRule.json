@@ -1,5 +1,5 @@
 {
-  "Id": "96d70660-5d75-49e5-b323-1498ebc94a3e",
+  "Id": "d632f990-daba-42dc-baa2-9fb08eabf9ad",
   "DllName": "ManufacturingPlateMarkingRule",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\3DRefData\\SharedContent\\Bin\\StructManufacturing\\Rules\\Release\\ManufacturingPlateMarkingRule.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T11:55:26.610139Z"
+    "ScanDate": "2026-07-11T11:28:22.2409488Z"
   },
   "Dependencies": [
     {

@@ -1,5 +1,5 @@
 {
-  "Id": "1297199a-0388-4b3f-ae26-9b5fe0b3877a",
+  "Id": "4e1e5fa5-a0f8-4a41-bd24-00e4313fa748",
   "DllName": "InteropPropertyTypes",
   "Version": "0.0.0.111",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\interoppropertytypes.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v2.0.50727",
-    "ScanDate": "2026-06-28T10:26:43.0337582Z"
+    "ScanDate": "2026-07-11T10:48:24.5133273Z"
   },
   "Dependencies": [
     {

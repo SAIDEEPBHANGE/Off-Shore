@@ -1,5 +1,5 @@
 {
-  "Id": "91851881-baf5-4403-901d-61d616f63dac",
+  "Id": "443257fc-6ce0-48ca-a762-a254434d2350",
   "DllName": "Telerik.Windows.Controls.GanttView.VisualStudio.Design.4.0",
   "Version": "2018.2.620.45",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\telerik.windows.controls.ganttview.visualstudio.design.4.0.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T10:26:43.0387587Z"
+    "ScanDate": "2026-07-11T10:48:24.5113244Z"
   },
   "Dependencies": [
     {

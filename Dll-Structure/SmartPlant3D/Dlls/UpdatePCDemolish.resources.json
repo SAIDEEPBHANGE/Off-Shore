@@ -1,5 +1,5 @@
 {
-  "Id": "4644c7f3-545d-48d3-8eef-a4ecaa56eaad",
+  "Id": "a6e6691a-c247-4f3b-bad0-0c2f6452bd2c",
   "DllName": "UpdatePCDemolish.resources",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\Core\\Container\\Bin\\Assemblies\\Release\\en-US\\UpdatePCDemolish.resources.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T11:55:26.7444785Z"
+    "ScanDate": "2026-07-11T11:28:22.2369485Z"
   },
   "Dependencies": [
     {

@@ -1,14 +1,14 @@
 {
-  "Id": "c11529da-def0-4dbf-b966-17fb9595f200",
+  "Id": "1c7e302e-71ad-4eb8-bd20-087807f4d0d2",
   "DllName": "Interop.SPTools",
   "Version": "2.0.0.0",
-  "FilePath": "D:\\Off-Share\\Smart3D\\Common2D\\Rad2D\\bin64\\Interop.SPTools.dll",
+  "FilePath": "D:\\Off-Share\\Smart3D\\Common2D\\Rad2D\\bin\\Interop.SPTools.dll",
   "Metadata": {
     "AssemblyName": "Interop.SPTools",
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T11:55:26.650508Z"
+    "ScanDate": "2026-07-11T11:28:22.2750345Z"
   },
   "Dependencies": [
     {

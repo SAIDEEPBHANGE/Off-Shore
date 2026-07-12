@@ -1,5 +1,5 @@
 {
-  "Id": "04a2927c-14ed-4288-a518-cf08b65fcd97",
+  "Id": "784b8542-b05d-4d17-8f74-209594f3c43f",
   "DllName": "Spi.Services",
   "Version": "13.0.0.28",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\spi.services.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T10:26:43.0387587Z"
+    "ScanDate": "2026-07-11T10:48:24.5153254Z"
   },
   "Dependencies": [
     {

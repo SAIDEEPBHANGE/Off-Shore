@@ -1,5 +1,5 @@
 {
-  "Id": "b1e40ec1-d126-48a9-9030-87089124d76d",
+  "Id": "3ce2fe4e-194c-40f9-ae8a-31b6ba8cb62c",
   "DllName": "ShipStructureDotNetTestCommands",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\Core\\Container\\Bin\\Assemblies\\Release\\ShipStructureDotNetTestCommands.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T11:55:26.7252279Z"
+    "ScanDate": "2026-07-11T11:28:22.2720279Z"
   },
   "Dependencies": [
     {

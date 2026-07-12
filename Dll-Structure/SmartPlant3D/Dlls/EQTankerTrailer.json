@@ -1,5 +1,5 @@
 {
-  "Id": "3dc0b227-a83a-4b90-91a0-c257379dd9e3",
+  "Id": "55fc697b-76ca-4c66-ad6c-7fab3e8b578a",
   "DllName": "EQTankerTrailer",
   "Version": "1.0.0.0",
   "FilePath": "D:\\Off-Share\\Smart3D\\3DRefData\\SharedContent\\Bin\\Equipment\\DotNetSymbols\\Release\\EQTankerTrailer.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T11:55:26.5676744Z"
+    "ScanDate": "2026-07-11T11:28:22.2587099Z"
   },
   "Dependencies": [
     {

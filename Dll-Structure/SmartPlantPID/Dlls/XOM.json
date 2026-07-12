@@ -1,5 +1,5 @@
 {
-  "Id": "1bc81f0b-1ff8-4f12-9e56-2cd83a9376a7",
+  "Id": "910da959-14a4-4699-92ed-19fb66ef65be",
   "DllName": "XOM",
   "Version": "9.0.0.1405",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\xom.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T10:26:43.0387587Z"
+    "ScanDate": "2026-07-11T10:48:24.5133273Z"
   },
   "Dependencies": [
     {

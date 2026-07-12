@@ -1,5 +1,5 @@
 {
-  "Id": "ce96c320-d256-4f3f-989a-527a91ca9372",
+  "Id": "85d22c61-c8ba-4555-b8d0-fedb852053b7",
   "DllName": "igrOfficeProperties",
   "Version": "10.0.0.603",
   "FilePath": "D:\\Off-Share\\P\u0026ID Workstation\\bin\\igrofficeproperties.dll",
@@ -8,7 +8,7 @@
     "Culture": null,
     "PublicKeyToken": null,
     "RuntimeVersion": "v4.0.30319",
-    "ScanDate": "2026-06-28T10:26:43.032759Z"
+    "ScanDate": "2026-07-11T10:48:24.5113244Z"
   },
   "Dependencies": [
     {
