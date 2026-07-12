@@ -113,6 +113,7 @@
     <Compile Include="Services\AssemblyScanner.cs" />
     <Compile Include="Services\AuditWriter.cs" />
     <Compile Include="Services\MemberExtractor.cs" />
+    <Compile Include="Services\NativeDllAnalyzer.cs" />
     <Compile Include="Services\ReferenceBuilder.cs" />
     <Compile Include="Services\TypeExtractor.cs" />
   </ItemGroup>

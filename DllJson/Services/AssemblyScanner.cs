@@ -13,11 +13,13 @@ namespace DllJson.Services
     {
         private readonly TypeExtractor _typeExtractor;
         private readonly ReferenceBuilder _referenceBuilder;
+        private readonly NativeDllAnalyzer _nativeAnalyzer;
 
         public AssemblyScanner()
         {
             _typeExtractor = new TypeExtractor();
             _referenceBuilder = new ReferenceBuilder();
+            _nativeAnalyzer = new NativeDllAnalyzer();
         }
 
         public ScanResult Scan(FolderJson config)
@@ -79,7 +81,8 @@ namespace DllJson.Services
             return new ScanResult
             {
                 Graph = graph,
-                Skipped = loadResult.Skipped
+                Skipped = loadResult.Skipped,
+                NativeDlls = loadResult.NativeDlls
             };
         }
 
@@ -88,6 +91,7 @@ namespace DllJson.Services
         {
             var loaded = new ConcurrentDictionary<string, AssemblyDefinition>(StringComparer.OrdinalIgnoreCase);
             var skipped = new ConcurrentBag<SkippedAssemblyInfo>();
+            var nativeDlls = new ConcurrentBag<NativeDllInfo>();
 
             var dllFiles = Directory.GetFiles(
                 rootFolder,
@@ -104,11 +108,16 @@ namespace DllJson.Services
                 {
                     if (!IsDotNetAssembly(file))
                     {
+                        // Extract native DLL info
+                        var nativeInfo = _nativeAnalyzer.ExtractNativeDllInfo(file);
+                        nativeDlls.Add(nativeInfo);
+
                         skipped.Add(new SkippedAssemblyInfo
                         {
                             FilePath = file,
                             Reason = "Not a .NET assembly",
-                            SkipCategory = "Native"
+                            SkipCategory = "Native",
+                            NativeDllInfo = nativeInfo
                         });
                         return;
                     }
@@ -151,7 +160,8 @@ namespace DllJson.Services
             return new LoadResult
             {
                 Loaded = new Dictionary<string, AssemblyDefinition>(loaded, StringComparer.OrdinalIgnoreCase),
-                Skipped = new List<SkippedAssemblyInfo>(skipped)
+                Skipped = new List<SkippedAssemblyInfo>(skipped),
+                NativeDlls = new List<NativeDllInfo>(nativeDlls)
             };
         }
 
@@ -204,6 +214,7 @@ namespace DllJson.Services
     {
         public Dictionary<string, AssemblyDefinition> Loaded { get; set; } = new Dictionary<string, AssemblyDefinition>(StringComparer.OrdinalIgnoreCase);
         public List<SkippedAssemblyInfo> Skipped { get; set; } = new List<SkippedAssemblyInfo>();
+        public List<NativeDllInfo> NativeDlls { get; set; } = new List<NativeDllInfo>();
     }
 
     public class SkippedAssemblyInfo
@@ -212,11 +223,13 @@ namespace DllJson.Services
         public string Reason { get; set; }
         public string SkipCategory { get; set; }
         public DllJson.Models.ExceptionInfo Exception { get; set; }
+        public NativeDllInfo NativeDllInfo { get; set; }
     }
 
     public class ScanResult
     {
         public AssemblyGraph Graph { get; set; }
         public List<SkippedAssemblyInfo> Skipped { get; set; } = new List<SkippedAssemblyInfo>();
+        public List<NativeDllInfo> NativeDlls { get; set; } = new List<NativeDllInfo>();
     }
 }

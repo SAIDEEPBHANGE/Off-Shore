@@ -33,6 +33,7 @@ namespace DllJson.Models
         public int PartiallyProcessed { get; set; }
         public int Failed { get; set; }
         public int Skipped { get; set; }
+        public int NativeFound { get; set; }
         public List<string> Warnings { get; set; } = new List<string>();
     }
 
@@ -46,6 +47,7 @@ namespace DllJson.Models
         public DateTime? EndedAt { get; set; }
         public long DurationMs { get; set; }
         public List<DllAudit> Dlls { get; set; } = new List<DllAudit>();
+        public List<NativeDllAudit> NativeDlls { get; set; } = new List<NativeDllAudit>();
         public List<string> Warnings { get; set; } = new List<string>();
     }
 
@@ -55,6 +57,7 @@ namespace DllJson.Models
         public int PartiallyProcessed { get; set; }
         public int Failed { get; set; }
         public int Skipped { get; set; }
+        public int Native { get; set; }
     }
 
     public class DllAudit
@@ -73,6 +76,25 @@ namespace DllJson.Models
         public string FileHash { get; set; }
         public List<StepAudit> Steps { get; set; } = new List<StepAudit>();
         public List<string> Warnings { get; set; } = new List<string>();
+    }
+
+    public class NativeDllAudit
+    {
+        public string DllName { get; set; }
+        public string DllPath { get; set; }
+        public long? FileSizeBytes { get; set; }
+        public DateTime? CreatedDate { get; set; }
+        public DateTime? ModifiedDate { get; set; }
+        public string FileVersion { get; set; }
+        public string ProductVersion { get; set; }
+        public string ProductName { get; set; }
+        public string CompanyName { get; set; }
+        public string FileDescription { get; set; }
+        public string Architecture { get; set; }
+        public DateTime? TimeDateStamp { get; set; }
+        public string Subsystem { get; set; }
+        public string OperatingSystemVersion { get; set; }
+        public string ExtractionError { get; set; }
     }
 
     public class StepAudit

@@ -31,7 +31,7 @@ namespace DllJson
                 Config = new AuditConfig
                 {
                     SolutionPath = Directory.GetCurrentDirectory(),
-                    AuditFolder = "D:\\Github Repository\\Off-Shore\\Backend-Audits",
+                    AuditFolder = "D:\\Github Repository\\Off-Shore\\Backend-Audits\\data",
                     IncludePatterns = new List<string> { "*.dll" }
                 }
             };
@@ -59,8 +59,8 @@ namespace DllJson
 
                     var graph = scanResult.Graph;
 
-                    // Update counts - include only processed, not skipped/native
-                    folderAudit.DllCount = graph.Dlls.Count + (scanResult.Skipped?.Count ?? 0);
+                    // Update counts
+                    folderAudit.DllCount = graph.Dlls.Count + (scanResult.Skipped?.Count ?? 0) + (scanResult.NativeDlls?.Count ?? 0);
 
                     //
                     // Create Dlls folder
@@ -138,12 +138,41 @@ namespace DllJson
                         folderAudit.Dlls.Add(dllAudit);
                     }
 
-                    // record skipped/failed assemblies from scanner
+                    // record native DLLs with extracted metadata
+                    if (scanResult.NativeDlls != null && scanResult.NativeDlls.Count > 0)
+                    {
+                        foreach (var nativeInfo in scanResult.NativeDlls)
+                        {
+                            var nativeAudit = new NativeDllAudit
+                            {
+                                DllName = nativeInfo.FileName,
+                                DllPath = nativeInfo.FilePath,
+                                FileSizeBytes = nativeInfo.FileSizeBytes,
+                                CreatedDate = nativeInfo.CreatedDate,
+                                ModifiedDate = nativeInfo.ModifiedDate,
+                                FileVersion = nativeInfo.FileVersion,
+                                ProductVersion = nativeInfo.ProductVersion,
+                                ProductName = nativeInfo.ProductName,
+                                CompanyName = nativeInfo.CompanyName,
+                                FileDescription = nativeInfo.FileDescription,
+                                Architecture = nativeInfo.Architecture,
+                                TimeDateStamp = nativeInfo.TimeDateStamp,
+                                Subsystem = nativeInfo.Subsystem,
+                                OperatingSystemVersion = nativeInfo.OperatingSystemVersion,
+                                ExtractionError = nativeInfo.ExtractionError
+                            };
+
+                            folderAudit.NativeDlls.Add(nativeAudit);
+                            folderAudit.Counts.Native++;
+                        }
+                    }
+
+                    // record other skipped/failed assemblies from scanner (non-native)
                     if (scanResult.Skipped != null && scanResult.Skipped.Count > 0)
                     {
                         foreach (var skip in scanResult.Skipped)
                         {
-                            // Skip native DLLs from audit - only record other failures
+                            // Skip native DLLs - already handled above
                             if (skip.SkipCategory == "Native")
                                 continue;
 
@@ -244,6 +273,7 @@ namespace DllJson
             run.Summary.Failed = run.Folders.Sum(f => f.Counts.Failed);
             run.Summary.PartiallyProcessed = run.Folders.Sum(f => f.Counts.PartiallyProcessed);
             run.Summary.Skipped = run.Folders.Sum(f => f.Counts.Skipped);
+            run.Summary.NativeFound = run.Folders.Sum(f => f.Counts.Native);
 
             var auditFolder = run.Config.AuditFolder;
             var writer = new AuditWriter(run, auditFolder);
