@@ -85,6 +85,8 @@ function setupStaticData(data) {
   document.getElementById("stat-processed").textContent =
     data.Summary.Processed;
   document.getElementById("stat-failed").textContent = data.Summary.Failed;
+  document.getElementById("stat-native").textContent =
+    data.Summary.NativeFound || 0;
   document.getElementById("stat-duration").textContent =
     `${data.TotalDurationMs} ms`;
 
@@ -94,6 +96,20 @@ function setupStaticData(data) {
   solEl.setAttribute("title", data.Config.SolutionPath);
   audEl.textContent = data.Config.AuditFolder;
   audEl.setAttribute("title", data.Config.AuditFolder);
+}
+
+function normalizeDllEntries(folder) {
+  const managedDlls = Array.isArray(folder?.Dlls) ? folder.Dlls : [];
+  const nativeDlls = Array.isArray(folder?.NativeDlls) ? folder.NativeDlls : [];
+
+  return [
+    ...managedDlls.map((dll) => ({ ...dll, SourceType: "Managed" })),
+    ...nativeDlls.map((dll) => ({
+      ...dll,
+      SourceType: "Native",
+      Status: dll.Status || "Processed",
+    })),
+  ];
 }
 
 function processAndRenderUI() {
@@ -112,19 +128,35 @@ function processAndRenderUI() {
       folder.FolderName.toLowerCase().includes(searchQuery) ||
       folder.FolderPath.toLowerCase().includes(searchQuery);
 
+    const combinedDlls = normalizeDllEntries(folder);
+
     // Deep Filter assemblies list nested within folder structure
-    const matchingDlls = folder.Dlls.filter((dll) => {
+    const matchingDlls = combinedDlls.filter((dll) => {
+      const statusValue = (dll.Status || "Processed").toLowerCase();
+      const sourceType = (dll.SourceType || "Managed").toLowerCase();
+
       // 1. Evaluate Status Dropdown criteria matches first
-      if (statusFilter === "success" && dll.Status === "Failed") return false;
-      if (statusFilter === "failed" && dll.Status !== "Failed") return false;
+      if (statusFilter === "success" && statusValue === "failed") return false;
+      if (statusFilter === "failed" && statusValue !== "failed") return false;
 
       // 2. Evaluate Search input patterns
       if (searchQuery !== "") {
-        const nameMatch = dll.DllName.toLowerCase().includes(searchQuery);
-        const pathMatch = dll.DllPath.toLowerCase().includes(searchQuery);
+        const nameMatch = (dll.DllName || "")
+          .toLowerCase()
+          .includes(searchQuery);
+        const pathMatch = (dll.DllPath || "")
+          .toLowerCase()
+          .includes(searchQuery);
         const diagnosticMatch =
           dll.Reason && dll.Reason.toLowerCase().includes(searchQuery);
-        return nameMatch || pathMatch || diagnosticMatch || folderMatchesSearch;
+        const typeMatch = sourceType.includes(searchQuery);
+        return (
+          nameMatch ||
+          pathMatch ||
+          diagnosticMatch ||
+          typeMatch ||
+          folderMatchesSearch
+        );
       }
       return true;
     });
@@ -132,7 +164,7 @@ function processAndRenderUI() {
     // Capture valid elements
     if (
       matchingDlls.length > 0 ||
-      (searchQuery === "" && statusFilter === "all")
+      (searchQuery === "" && statusFilter === "all" && combinedDlls.length > 0)
     ) {
       filteredFolders.push({
         ...folder,
@@ -231,15 +263,22 @@ function renderFolderDetails(folder) {
   tableBody.innerHTML = "";
 
   if (folder.Dlls.length === 0) {
-    tableBody.innerHTML = `<tr><td colspan="4" class="text-center py-12 text-slate-500 text-xs">No assembly records matched criteria filters for this folder path.</td></tr>`;
+    tableBody.innerHTML = `<tr><td colspan="5" class="text-center py-12 text-slate-500 text-xs">No assembly records matched criteria filters for this folder path.</td></tr>`;
     return;
   }
 
   folder.Dlls.forEach((dll) => {
+    const statusValue = dll.Status || "Processed";
     const statusStyle =
-      dll.Status === "Failed"
+      statusValue === "Failed"
         ? "bg-rose-500/10 text-rose-400 border-rose-500/20"
-        : "bg-emerald-500/10 text-emerald-400 border-emerald-500/20";
+        : dll.SourceType === "Native"
+          ? "bg-amber-500/10 text-amber-300 border-amber-500/20"
+          : "bg-emerald-500/10 text-emerald-400 border-emerald-500/20";
+    const typeStyle =
+      dll.SourceType === "Native"
+        ? "bg-amber-500/10 text-amber-300 border-amber-500/20"
+        : "bg-slate-700/60 text-slate-300 border-slate-600/40";
 
     const tr = document.createElement("tr");
     tr.className =
@@ -247,21 +286,26 @@ function renderFolderDetails(folder) {
     tr.innerHTML = `
       <td class="px-4 py-2.5 font-medium text-slate-200">
         <div class="flex items-center gap-1.5">
-          <i data-lucide="file-code" class="w-3.5 h-3.5 text-slate-500 flex-none"></i>
-          <span class="truncate max-w-xs block" title="${dll.DllName}">${dll.DllName}</span>
+          <i data-lucide="${dll.SourceType === "Native" ? "cpu" : "file-code"}" class="w-3.5 h-3.5 ${dll.SourceType === "Native" ? "text-amber-400" : "text-slate-500"} flex-none"></i>
+          <span class="truncate max-w-xs block" title="${dll.DllName || "Unnamed DLL"}">${dll.DllName || "Unnamed DLL"}</span>
         </div>
-        <div class="text-[10px] text-slate-500 font-mono mt-0.5 break-all max-w-md">${dll.DllPath}</div>
+        <div class="text-[10px] text-slate-500 font-mono mt-0.5 break-all max-w-md">${dll.DllPath || dll.Path || "—"}</div>
       </td>
       <td class="px-4 py-2.5 text-center">
         <span class="inline-block px-2 py-0.5 rounded text-[10px] font-semibold border ${statusStyle}">
-          ${dll.Status}
+          ${statusValue}
+        </span>
+      </td>
+      <td class="px-4 py-2.5 text-center">
+        <span class="inline-block px-2 py-0.5 rounded text-[10px] font-semibold border ${typeStyle}">
+          ${dll.SourceType || "Managed"}
         </span>
       </td>
       <td class="px-4 py-2.5 text-slate-300 text-xs max-w-xs break-words">
         ${dll.Reason || '<span class="text-slate-600">—</span>'}
       </td>
       <td class="px-4 py-2.5 text-right font-mono text-[11px] text-slate-400">
-        ${dll.DurationMs} ms
+        ${dll.DurationMs || 0} ms
       </td>
     `;
     tableBody.appendChild(tr);
@@ -278,7 +322,7 @@ function renderEmptyState() {
   document.getElementById("selected-folder-meta").innerHTML = "";
   document.getElementById("dlls-table-body").innerHTML = `
     <tr>
-      <td colspan="4" class="text-center py-16 text-slate-500">
+      <td colspan="5" class="text-center py-16 text-slate-500">
         <i data-lucide="search-code" class="w-8 h-8 mx-auto mb-2 text-slate-600"></i>
         <p class="text-sm">No folders or assemblies match your current filter parameters.</p>
       </td>

@@ -80,7 +80,7 @@
       <!-- Top Row: Compact Config & Summary Elements Combined -->
       <section class="grid grid-cols-1 lg:grid-cols-3 gap-4 flex-none">
         <!-- Summary Cards Grid (Takes 2 Columns) -->
-        <div class="grid grid-cols-2 md:grid-cols-5 gap-2 lg:col-span-2">
+        <div class="grid grid-cols-2 md:grid-cols-6 gap-2 lg:col-span-2">
           <div
             class="bg-slate-800/30 border border-slate-800/80 rounded-xl p-2.5"
           >
@@ -119,6 +119,17 @@
               <i data-lucide="x-circle" class="w-3.5 h-3.5"></i> Failed
             </div>
             <div class="text-lg font-bold mt-1 text-rose-400" id="stat-failed">
+              0
+            </div>
+          </div>
+          <div
+            class="bg-slate-800/30 border border-slate-800/80 rounded-xl p-2.5"
+          >
+            <div class="text-amber-400 text-xs flex items-center gap-1.5">
+              <i data-lucide="cpu" class="w-3.5 h-3.5"></i>
+              Native
+            </div>
+            <div class="text-lg font-bold mt-1 text-amber-300" id="stat-native">
               0
             </div>
           </div>
@@ -270,6 +281,7 @@
                 <tr>
                   <th class="px-4 py-2">Assembly Name</th>
                   <th class="px-4 py-2 text-center w-24">Status</th>
+                  <th class="px-4 py-2 text-center w-24">Type</th>
                   <th class="px-4 py-2">Failure Diagnosis</th>
                   <th class="px-4 py-2 text-right w-20">Delta</th>
                 </tr>
@@ -279,7 +291,7 @@
                 class="divide-y divide-slate-850 text-xs"
               >
                 <tr>
-                  <td colspan="4" class="text-center py-12 text-slate-500">
+                  <td colspan="5" class="text-center py-12 text-slate-500">
                     Please choose a parsed directory from the navigation panel
                     to view assemblies.
                   </td>
