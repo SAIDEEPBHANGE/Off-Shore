@@ -1,0 +1,14 @@
+[
+  {
+    "id": "smartplant3d",
+    "folderName": "SmartPlant3D",
+    "graphPath": "Dll-Structure/SmartPlant3D/SmartPlant3D.json",
+    "detailsBasePath": "Dll-Structure/SmartPlant3D/Dlls"
+  },
+  {
+    "id": "smartplantpid",
+    "folderName": "SmartPlantPID",
+    "graphPath": "Dll-Structure/SmartPlantPID/SmartPlantPID.json",
+    "detailsBasePath": "Dll-Structure/SmartPlantPID/Dlls"
+  }
+]
